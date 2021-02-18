@@ -295,10 +295,10 @@ http://lista.lorddark.club:80/5247/5247/48621
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/Cinemax_LA.png", CINEMAX HD
 http://lista.lorddark.club:80/5247/5247/19175
 
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/Comedy_Central_2018.svg" group-title="Entreterimento", COMEDY CENTRAL FHD H265
+#EXTINF: -1 tvg-logo="https://img2.gratispng.com/20180616/yv/kisspng-comedy-central-logo-tv-television-comedy-comedy-central-poland-5b25087dbbf1b4.0643248415291536617698.jpg", COMEDY CENTRAL FHD H265
 http://lista.lorddark.club:80/5247/5247/48539
 
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/Comedy_Central_2018.svg" group-title="Entreterimento", COMEDY CENTRAL HD
+#EXTINF: -1 tvg-logo="https://img2.gratispng.com/20180616/yv/kisspng-comedy-central-logo-tv-television-comedy-comedy-central-poland-5b25087dbbf1b4.0643248415291536617698.jpg", COMEDY CENTRAL HD
 http://lista.lorddark.club:80/5247/5247/19179
 
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/FOX-Channel-Germany.svg/1200px-FOX-Channel-Germany.svg.png", FOX FHD H265
@@ -370,7 +370,7 @@ http://lista.lorddark.club:80/5247/5247/48476
 #EXTINF: -1 tvg-logo="https://w7.pngwing.com/pngs/183/651/png-transparent-universal-channel-television-channel-studio-universal-pay-television-space-television-text-trademark.png", STUDIO UNIVERSAL HD
 http://lista.lorddark.club/5247/5247/19329
 
-#EXTINF: -1 "https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png", SONY CHANNEL HD (leg)
+#EXTINF: -1 "https://florestaprod.com.br/wp-content/uploads/2018/06/Sonychannel2019.jpg", SONY CHANNEL HD (leg)
 http://lista.lorddark.club/5247/5247/19545
 
 #EXTINF: -1 tvg-logo="https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F6%2F2017%2F05%2Fdefault-2000.jpg", SYFY FHD H265
@@ -796,5 +796,5 @@ http://lista.lorddark.club/5247/5247/19573
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/5/5d/Logo_CNT.png", CNT SP
 http://lista.lorddark.club/5247/5247/1093
 
-#EXTINF: -1 tvg-logo="https://logodownload.org/wp-content/uploads/2019/07/cnn-brasil-logo.png", CANAL DO BOI
+#EXTINF: -1 tvg-logo="https://seeklogo.com/images/C/canal-do-boi-logo-3819ABC39D-seeklogo.com.png", CANAL DO BOI
 http://lista.lorddark.club/5247/5247/19398
