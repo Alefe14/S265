@@ -370,7 +370,7 @@ http://lista.lorddark.club:80/5247/5247/48476
 #EXTINF: -1 tvg-logo="https://w7.pngwing.com/pngs/183/651/png-transparent-universal-channel-television-channel-studio-universal-pay-television-space-television-text-trademark.png", STUDIO UNIVERSAL HD
 http://lista.lorddark.club/5247/5247/19329
 
-#EXTINF: -1 "https://florestaprod.com.br/wp-content/uploads/2018/06/Sonychannel2019.jpg", SONY CHANNEL HD (leg)
+#EXTINF: -1 tvg-logo="https://florestaprod.com.br/wp-content/uploads/2018/06/Sonychannel2019.jpg", SONY CHANNEL HD (leg)
 http://lista.lorddark.club/5247/5247/19545
 
 #EXTINF: -1 tvg-logo="https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F6%2F2017%2F05%2Fdefault-2000.jpg", SYFY FHD H265
