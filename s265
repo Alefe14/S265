@@ -591,3 +591,6 @@ http://lista.lorddark.club/5247/5247/1093
 
 #EXTINF: -1 tvg-logo="https://seeklogo.com/images/C/canal-do-boi-logo-3819ABC39D-seeklogo.com.png", CANAL DO BOI
 http://lista.lorddark.club/5247/5247/19398
+
+#EXTINF: -1 tvg-logo = "https://i.imgur.com/OiAwKd5.png" group-title = "CANAIS| ABERTOS", GLOBO RJ HD
+https://newedge.eu-central-1.edge.mycdn.live/live/vintequatrohrs1/vintequatrohrs1_2000/index.m3u8
