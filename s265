@@ -42,6 +42,9 @@ http://lista.lorddark.club:80/5247/5247/732
 #EXTINF: -1 tvg-logo="https://logodownload.org/wp-content/uploads/2014/02/band-logo-tv-3.png", BAND RJ HD
 http://lista.lorddark.club/5247/5247/729
 
+#EXTINF: -1 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/record-tv-logo.png", RECORD TV 
+http://lista.lorddark.club/5247/5247/758
+
 #EXTINF: -1 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/record-tv-logo.png", RECORD TV FHD 
 http://lista.lorddark.club/5247/5247/186032
 
@@ -50,6 +53,9 @@ http://lista.lorddark.club:80/5247/5247/1135
 
 #EXTINF: -1 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/record-tv-logo.png", RECORD RJ HD
 http://lista.lorddark.club/5247/5247/19381
+
+#EXTINF: -1 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/record-tv-logo.png", RECORD MG
+http://lista.lorddark.club/5247/5247/767
 
 #EXTINF: -1 tvg-logo="http://i.imgur.com/jJBUZ6O.png", REDE TV HD
 http://lista.lorddark.club:80/5247/5247/1034 
