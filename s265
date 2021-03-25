@@ -81,6 +81,9 @@ http://lista.lorddark.club:80/5247/5247/1137
 #EXTINF: -1 tvg-logo="https://pbs.twimg.com/media/EfLdWApXYAEKfkw.png", SBT RJ HD
 http://lista.lorddark.club/5247/5247/760
 
+#EXTINF: -1 tvg-logo="https://pbs.twimg.com/media/EfLdWApXYAEKfkw.png", SBT ND HD
+http://85.203.33.88:80/Q9Yw2xCE0b496/8okHMU800/17753
+
 #EXTINF: -1 tvg-logo="https://i.imgur.com/MAMGt7I.png", TV GAZETA FHD
 http://lista.lorddark.club:80/5247/5247/19090
 
@@ -266,6 +269,9 @@ http://lista.lorddark.club/5247/5247/201449
 
 #EXTINF: -1 tvg-logo="https://logodownload.org/wp-content/uploads/2019/12/conmebol-logo-1.png", CONMEMBOL TV 4 HD
 http://lista.lorddark.club/5247/5247/201440
+
+#EXTINF: -1 tvg-logo="https://play-lh.googleusercontent.com/IgElK0GUnr0rSc8g_udxDAC0EY9r5rEOExc2x92Qp-Imw00oGGGcVWw8yxCacbtjBx43", Univision TUDN MX
+http://85.203.33.88:80/Q9Yw2xCE0b496/8okHMU800/18167
 
 #EXTINF: -1 tvg-logo="https://2.bp.blogspot.com/-4Sk1VCnVers/WUH370bSreI/AAAAAAAA7bY/EeILN_PIifEmRjcRNOJxOKmnOYg_6bc1QCLcBGAs/s640/fishtv1.png", FISH TV FHD
 http://lista.lorddark.club/5247/5247/992
@@ -611,6 +617,9 @@ http://lista.lorddark.club/5247/5247/19275
 
 #EXTINF: -1 tvg-logo="https://i.pinimg.com/originals/6c/9e/c0/6c9ec01d4a9a69672540d0dc29551f22.jpg", NATGEO WILD HD
 http://lista.lorddark.club/5247/5247/19278
+
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/2012_CARACOL_TV_Internacional_logo.svg/480px-2012_CARACOL_TV_Internacional_logo.svg.png", Caracol TV CO
+http://85.203.33.88:80/Q9Yw2xCE0b496/8okHMU800/19634
 
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Arte_1_logo.svg/1200px-Arte_1_logo.svg.png", ARTE 1 HD
 http://lista.lorddark.club/5247/5247/19153
