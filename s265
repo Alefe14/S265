@@ -207,8 +207,11 @@ http://lista.lorddark.club:80/5247/5247/19326
 #EXTINF: -1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/301f06c166156f3e5234ee0b6231b9a0.png", RED BULL TV 
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
 
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/f/f9/Carioca2017.png", Camp. Carioca 2021
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/f/f9/Carioca2017.png", CAMP. CARIOCA 1
 http://pdsrv.io:80/live/jnxoeqqn/1761BxzuOz/76664.ts
+
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/f/f9/Carioca2017.png", CAMP. CARIOCA 2
+http://lista.lorddark.club/live/5247/5247/203962.m3u8
 
 #EXTINF: -1 tvg-logo="https://www.netflu.com.br/wp-content/uploads/2020/06/premiere.png", PREMIERE CLUBES FHD
 http://lista.lorddark.club:80/5247/5247/19112
@@ -273,16 +276,19 @@ http://familytv.net:80/live/Carla0121/JONES701/132521.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SPORT TV 5" tvg-logo="https://i.imgyukle.com/2019/05/26/kT26nA.png" group-title="CANAIS: ESPORTES INTERNACIONAIS",SPORT TV 5
 http://familytv.net:80/live/Carla0121/JONES701/132522.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="SPORT TV 1" tvg-logo="https://www.thesportsdb.com/images/media/logo/qpyqws1470407526.png" group-title="CANAIS: ESPORTES INTERNACIONAIS", SPORT TV ALT
+http://lista.lorddark.club/live/5247/5247/737.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="SPORT TV NBA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/1200px-NBA_TV.svg.png" group-title="CANAIS: ESPORTES INTERNACIONAIS",SPORT TV NBA
 http://familytv.net:80/live/Carla0121/JONES701/132523.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="SPORTING TV" tvg-logo="https://m-tv.imgix.net/51f45b65f3f48c6e9795da6a346f2b02dcedd69d45d43ae135ced4cb029bda1d.png" group-title="CANAIS: ESPORTES INTERNACIONAIS",SPORTING TV
 http://familytv.net:80/live/Carla0121/JONES701/132524.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="BTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/BTV_Red.svg/1200px-BTV_Red.svg.png" group-title="CANAIS: ESPORTES INTERNACIONAIS",BTV
+#EXTINF:-1 tvg-id="" tvg-name="BTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/BTV_Red.svg/1200px-BTV_Red.svg.png" group-title="CANAIS: ESPORTES INTERNACIONAIS", BTV
 http://familytv.net:80/live/Carla0121/JONES701/132525.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="GOLF CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/23/Golf_Channel_Logo_2018.png" group-title="CANAIS: ESPORTES INTERNACIONAIS",GOLF CHANNEL
+#EXTINF:-1 tvg-id="" tvg-name="GOLF CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/23/Golf_Channel_Logo_2018.png" group-title="CANAIS: ESPORTES INTERNACIONAIS", GOLF CHANNEL
 http://familytv.net:80/live/Carla0121/JONES701/132526.m3u8
 
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/DAZN_LogoInBox_black.svg/1200px-DAZN_LogoInBox_black.svg.png", DAZN HD
