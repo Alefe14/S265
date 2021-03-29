@@ -1,7 +1,7 @@
 # EXTM3U
 
-#EXTINF:-1 tvg-logo="" group-title="Canais | Filmes e Séries",TCM HD plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER
-http://b5.vc:80/live/7885037935/fireurl.co/72377.ts
+#EXTINF:-1 tvg-logo="" group-title="Canais | Filmes e Séries",TCM HD 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER http://b5.vc:80/live/7885037935/fireurl.co/72377.ts
 
 #EXTINF: -1 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/rede-globo-logo-0.png", GLOBO RJ  FHD
 http://lista.lorddark.club/5247/5247/19425
