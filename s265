@@ -1088,3 +1088,55 @@ http://lista.lorddark.club/5247/5247/201341
 
 #EXTINF: -1 tvg-logo="https://globo-sala-de-imprensa.s3.amazonaws.com/CACHE/images/imagens/logotipos/programas/logo_BBB_20_fundo_branco_Hu3yGEd/ce4441dff9955ee4a39941bc3e2457d5.jpg", BBB CAM| ACADEMIA
 
+#EXTINF:-1 tvg-id="" tvg-name="ABU DHABI SPORTS 01" tvg-logo="https://abudhabi3x3.files.wordpress.com/2015/10/adsports.png" group-title="CANAIS: ESPORTES INTERNACIONAIS",ABU DHABI SPORTS 01
+http://familytv.net:80/live/Carla0121/JONES701/132500.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ABU DHABI SPORTS 02" tvg-logo="https://abudhabi3x3.files.wordpress.com/2015/10/adsports.png" group-title="CANAIS: ESPORTES INTERNACIONAIS",ABU DHABI SPORTS 02
+http://familytv.net:80/live/Carla0121/JONES701/132501.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ABU DHABI SPORTS 03" tvg-logo="https://abudhabi3x3.files.wordpress.com/2015/10/adsports.png" group-title="CANAIS: ESPORTES INTERNACIONAIS",ABU DHABI SPORTS 03
+http://familytv.net:80/live/Carla0121/JONES701/132502.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ABU DHABI SPORTS 04" tvg-logo="https://abudhabi3x3.files.wordpress.com/2015/10/adsports.png" group-title="CANAIS: ESPORTES INTERNACIONAIS",ABU DHABI SPORTS 04
+http://familytv.net:80/live/Carla0121/JONES701/132503.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL KASS SPORTS 01" tvg-logo="http://www.alandulus.com/wp-content/uploads/2018/03/Al_Kass_Sport_Channel_4a16d_450x450.png" group-title="CANAIS: ESPORTES INTERNACIONAIS",AL KASS SPORTS 01
+http://familytv.net:80/live/Carla0121/JONES701/132504.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL KASS SPORTS 02" tvg-logo="http://www.alandulus.com/wp-content/uploads/2018/03/Al_Kass_Sport_Channel_4a16d_450x450.png" group-title="CANAIS: ESPORTES INTERNACIONAIS",AL KASS SPORTS 02
+http://familytv.net:80/live/Carla0121/JONES701/132505.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL KASS SPORTS 03" tvg-logo="http://www.alandulus.com/wp-content/uploads/2018/03/Al_Kass_Sport_Channel_4a16d_450x450.png" group-title="CANAIS: ESPORTES INTERNACIONAIS",AL KASS SPORTS 03
+http://familytv.net:80/live/Carla0121/JONES701/132506.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL KASS SPORTS 04" tvg-logo="http://www.alandulus.com/wp-content/uploads/2018/03/Al_Kass_Sport_Channel_4a16d_450x450.png" group-title="CANAIS: ESPORTES INTERNACIONAIS",AL KASS SPORTS 04
+http://familytv.net:80/live/Carla0121/JONES701/132507.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL KASS SPORTS 05" tvg-logo="http://www.alandulus.com/wp-content/uploads/2018/03/Al_Kass_Sport_Channel_4a16d_450x450.png" group-title="CANAIS: ESPORTES INTERNACIONAIS",AL KASS SPORTS 05
+http://familytv.net:80/live/Carla0121/JONES701/132508.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MLB NETWORK" tvg-logo="https://purepng.com/public/uploads/large/mlb-network-logo-aba.png" group-title="CANAIS: ESPORTES INTERNACIONAIS",MLB NETWORK
+http://familytv.net:80/live/Carla0121/JONES701/132509.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NFL NETWORK HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/NFL_Network_logo.svg/1200px-NFL_Network_logo.svg.png" group-title="CANAIS: ESPORTES INTERNACIONAIS",NFL NETWORK HD
+http://familytv.net:80/live/Carla0121/JONES701/132510.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ELEVEN SPORTS 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/Eleven_Sports.png" group-title="CANAIS: ESPORTES INTERNACIONAIS",ELEVEN SPORTS 1
+http://familytv.net:80/live/Carla0121/JONES701/132512.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ELEVEN SPORTS 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/Eleven_Sports.png" group-title="CANAIS: ESPORTES INTERNACIONAIS",ELEVEN SPORTS 2
+http://familytv.net:80/live/Carla0121/JONES701/132513.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ELEVEN SPORTS 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/Eleven_Sports.png" group-title="CANAIS: ESPORTES INTERNACIONAIS",ELEVEN SPORTS 3
+http://familytv.net:80/live/Carla0121/JONES701/132514.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RED BULL TV" tvg-logo="http://blog.roku.com/wp-content/uploads/2015/03/Red-Bull-TV-logo.png" group-title="CANAIS: ESPORTES INTERNACIONAIS",RED BULL TV
+http://familytv.net:80/live/Carla0121/JONES701/132515.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NBA TV" tvg-logo="https://seeklogo.com/images/N/nba-tv-ii-logo-FD87903C1E-seeklogo.com.png" group-title="CANAIS: ESPORTES INTERNACIONAIS",NBA TV
+http://familytv.net:80/live/Carla0121/JONES701/132516.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SPORT TV +" tvg-logo="https://makeawish.pt/wp-content/uploads/2019/08/34.-Sport-Tv-e1566482596930.png" group-title="CANAIS: ESPORTES INTERNACIONAIS",SPORT TV +
+http://familytv.net:80/live/Carla0121/JONES701/132517.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SPORT TV 1" tvg-logo="https://www.thesportsdb.com/images/media/logo/qpyqws1470407526.png" group-title="CANAIS: ESPORTES INTERNACIONAIS",SPORT TV 1
+http://familytv.net:80/live/Carla0121/JONES701/132518.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SPORT TV 2" tvg-logo="https://www.thesportsdb.com/images/media/logo/vpwuyu1470409212.png" group-title="CANAIS: ESPORTES INTERNACIONAIS",SPORT TV 2
+http://familytv.net:80/live/Carla0121/JONES701/132519.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SPORT TV 3" tvg-logo="https://www.thesportsdb.com/images/media/logo/wwsuqv1470409839.png" group-title="CANAIS: ESPORTES INTERNACIONAIS",SPORT TV 3
+http://familytv.net:80/live/Carla0121/JONES701/132520.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SPORT TV 4" tvg-logo="https://www.thesportsdb.com/images/media/logo/vuytwx1470409983.png" group-title="CANAIS: ESPORTES INTERNACIONAIS",SPORT TV 4
+http://familytv.net:80/live/Carla0121/JONES701/132521.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SPORT TV 5" tvg-logo="https://i.imgyukle.com/2019/05/26/kT26nA.png" group-title="CANAIS: ESPORTES INTERNACIONAIS",SPORT TV 5
+http://familytv.net:80/live/Carla0121/JONES701/132522.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SPORT TV NBA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/1200px-NBA_TV.svg.png" group-title="CANAIS: ESPORTES INTERNACIONAIS",SPORT TV NBA
+http://familytv.net:80/live/Carla0121/JONES701/132523.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SPORTING TV" tvg-logo="https://m-tv.imgix.net/51f45b65f3f48c6e9795da6a346f2b02dcedd69d45d43ae135ced4cb029bda1d.png" group-title="CANAIS: ESPORTES INTERNACIONAIS",SPORTING TV
+http://familytv.net:80/live/Carla0121/JONES701/132524.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/BTV_Red.svg/1200px-BTV_Red.svg.png" group-title="CANAIS: ESPORTES INTERNACIONAIS",BTV
+http://familytv.net:80/live/Carla0121/JONES701/132525.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GOLF CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/23/Golf_Channel_Logo_2018.png" group-title="CANAIS: ESPORTES INTERNACIONAIS",GOLF CHANNEL
+http://familytv.net:80/live/Carla0121/JONES701/132526.m3u8
