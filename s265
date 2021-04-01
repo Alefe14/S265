@@ -207,6 +207,9 @@ http://lista.lorddark.club:80/5247/5247/19326
 #EXTINF: -1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/301f06c166156f3e5234ee0b6231b9a0.png", RED BULL TV 
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
 
+#EXTINF: -1 tvg-logo="https://www.kindpng.com/picc/m/19-197423_transparent-inscreva-se-png-fla-tv-png-png.png", FLA TV
+http://pfsv.io/live/23136533/3672/33404.m3u8
+
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/f/f9/Carioca2017.png", CAMP. CARIOCA 1
 http://topuhd.live:8080/live/Rodrigo/102030/73581.m3u8
 
