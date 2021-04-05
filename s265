@@ -243,6 +243,9 @@ http://lista.lorddark.club:80/5247/5247/19110
 #EXTINF: -1 tvg-logo="https://www.netflu.com.br/wp-content/uploads/2020/06/premiere.png", PREMIERE 7 HD
 http://lista.lorddark.club:80/5247/5247/19300
 
+#EXTINF: -1 tvg-logo="https://www.netflu.com.br/wp-content/uploads/2020/06/premiere.png", MOSAICO PREMIERE HD 
+http://vipeiptv.com:25461/live/8494793812/8494793812/856974.m3u8
+
 #EXTINF:-1 tvg-logo="https://purepng.com/public/uploads/large/mlb-network-logo-aba.png", MLB NETWORK
 http://familytv.net:80/live/Carla0121/JONES701/132509.m3u8
 
