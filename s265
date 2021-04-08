@@ -121,10 +121,7 @@ http://lista.lorddark.club:80/5247/5247/794
 https://nxplay-srv1.nxplay.com.br/BAND_SPORTS/tracks-v1a1/mono.m3u8?sd=10&rebase=on
 
 #EXTINF: -1 tvg-logo="https://seeklogo.com/images/C/canal-combate-logo-010EBF56D8-seeklogo.com.png", COMBATE FHD
-http://lista.lorddark.club:80/5247/5247/19094
-
-#EXTINF: -1 tvg-logo="https://seeklogo.com/images/C/canal-combate-logo-010EBF56D8-seeklogo.com.png", COMBATE HD
-http://lista.lorddark.club:80/5247/5247/19177 
+http://top.hatv.me:2095/dtv_785118/wu3qo7bc/14178
 
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/1000px-TNT_Logo_2016.svg.png", TNT HD
 http://lista.lorddark.club/5247/5247/19349
