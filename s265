@@ -1,7 +1,7 @@
 # EXTM3U
 
 #EXTINF: -1 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/rede-globo-logo-0.png", GLOBO RJ  FHD
-http://top.samotv.xyz:2095/live/dtv_728006/1qyG1ZAA/44228.m3u8
+http://192.99.34.80:80/live/duda2020/duda2020/184964.m3u8
 
 #EXTINF: -1 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/rede-globo-logo-0.png", GLOBO RJ HD
 http://lista.lorddark.club:80/5247/5247/19424
@@ -10,7 +10,7 @@ http://lista.lorddark.club:80/5247/5247/19424
 http://lista.lorddark.club/5247/5247/19430
 
 #EXTINF: -1 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/rede-globo-logo-0.png", GLOBO SP HD
-http://lista.lorddark.club:80/5247/5247/19429
+http://192.99.34.80:80/live/duda2020/duda2020/184969.m3u8
 
 #EXTINF: -1 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/rede-globo-logo-0.png", GLOBO PB FHD
 http://lista.lorddark.club/5247/5247/19087
@@ -19,19 +19,19 @@ http://lista.lorddark.club/5247/5247/19087
 http://lista.lorddark.club/5247/5247/186091
 
 #EXTINF: -1 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/rede-globo-logo-0.png", GLOBO BSB FHD
-http://lista.lorddark.club/5247/5247/19063
+http://192.99.34.80:80/live/duda2020/duda2020/184943.m3u8
 
 #EXTINF: -1 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/rede-globo-logo-0.png", GLOBO MG FHD
 http://lista.lorddark.club/5247/5247/19065
 
 #EXTINF: -1 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/rede-globo-logo-0.png", GLOBO MG HD
-http://lista.lorddark.club/5247/5247/19415
+http://192.99.34.80:80/live/duda2020/duda2020/184956.m3u8
 
 #EXTINF: -1 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/rede-globo-logo-0.png", GLOBO NORDESTE FHD
 http://lista.lorddark.club/5247/5247/19066
 
 #EXTINF: -1 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/rede-globo-logo-0.png", GLOBO NORDESTE HD
-http://lista.lorddark.club/5247/5247/19417
+http://192.99.34.80:80/live/duda2020/duda2020/184958.m3u8
 
 #EXTINF: -1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f0/Band_logo_2018.png/revision/latest/scale-to-width-down/340?cb=20200604155355", BAND FHD 
 http://evpp.mm.uol.com.br:1935/geob_band/app/playlist.m3u8
@@ -127,7 +127,7 @@ http://lista.lorddark.club/5247/5247/975
 http://lista.lorddark.club/5247/5247/799
 
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/1000px-TNT_Logo_2016.svg.png", TNT FHD
-http://lista.lorddark.club/5247/5247/1049
+http://192.99.34.80:80/live/duda2020/duda2020/195357.m3u8
 
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/1000px-TNT_Logo_2016.svg.png", TNT SPORTS 1 HD
 http://lista.lorddark.club/5247/5247/1067
@@ -1100,4 +1100,49 @@ http://lista.lorddark.club/5247/5247/201342
 
 #EXTINF: -1 tvg-logo="https://globo-sala-de-imprensa.s3.amazonaws.com/CACHE/images/imagens/logotipos/programas/logo_BBB_20_fundo_branco_Hu3yGEd/ce4441dff9955ee4a39941bc3e2457d5.jpg", BBB CAM| JARDIM
 http://lista.lorddark.club/5247/5247/201341
+
+#EXTINF:-1 tvg-id="" tvg-name="BBB  MOSAICO ²" tvg-logo="http://script.clearnight.xyz/logos/Variedades/big.png" group-title="CANAIS BR REALYT SHOW",BBB  MOSAICO ²
+http://192.99.34.80:80/live/duda2020/duda2020/195588.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="BBB (CAM 1)²" tvg-logo="http://script.clearnight.xyz/logos/Variedades/big.png" group-title="CANAIS BR REALYT SHOW",BBB (CAM 1)²
+http://192.99.34.80:80/live/duda2020/duda2020/195589.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="BBB ¹" tvg-logo="http://script.clearnight.xyz/logos/Variedades/big.png" group-title="CANAIS BR REALYT SHOW",BBB ¹
+http://192.99.34.80:80/live/duda2020/duda2020/195590.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="BBB 2021 CAMERA 1" tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/bbb-logo-big-brother-brasil-logo-12.png" group-title="CANAIS BR REALYT SHOW",BBB 2021 CAMERA 1
+http://192.99.34.80:80/live/duda2020/duda2020/184830.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="BBB 2021 CAMERA 2" tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/bbb-logo-big-brother-brasil-logo-12.png" group-title="CANAIS BR REALYT SHOW",BBB 2021 CAMERA 2
+http://192.99.34.80:80/live/duda2020/duda2020/184831.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="BBB 2021 CAMERA 4" tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/bbb-logo-big-brother-brasil-logo-12.png" group-title="CANAIS BR REALYT SHOW",BBB 2021 CAMERA 4
+http://192.99.34.80:80/live/duda2020/duda2020/184833.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="BBB 2021 CAMERA 6" tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/bbb-logo-big-brother-brasil-logo-12.png" group-title="CANAIS BR REALYT SHOW",BBB 2021 CAMERA 6
+http://192.99.34.80:80/live/duda2020/duda2020/184835.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="BBB 2021 CAMERA 7" tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/bbb-logo-big-brother-brasil-logo-12.png" group-title="CANAIS BR REALYT SHOW",BBB 2021 CAMERA 7
+http://192.99.34.80:80/live/duda2020/duda2020/184836.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="BBB 2021 ACOMPANHE A CASA." tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/bbb-logo-big-brother-brasil-logo-12.png" group-title="CANAIS BR REALYT SHOW",BBB 2021 ACOMPANHE A CASA.
+http://192.99.34.80:80/live/duda2020/duda2020/184839.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="BBB 2021 ACOMPANHE A CASA EXTRA." tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/bbb-logo-big-brother-brasil-logo-12.png" group-title="CANAIS BR REALYT SHOW",BBB 2021 ACOMPANHE A CASA EXTRA.
+http://192.99.34.80:80/live/duda2020/duda2020/184840.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="BBB 2021 CAMERA PRINCIPAL." tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/bbb-logo-big-brother-brasil-logo-12.png" group-title="CANAIS BR REALYT SHOW",BBB 2021 CAMERA PRINCIPAL.
+http://192.99.34.80:80/live/duda2020/duda2020/184841.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="BBB 21 COZINHA XEPA." tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/bbb-logo-big-brother-brasil-logo-12.png" group-title="CANAIS BR REALYT SHOW",BBB 21 COZINHA XEPA.
+http://192.99.34.80:80/live/duda2020/duda2020/184843.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="BBB 21 JARDIN" tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/bbb-logo-big-brother-brasil-logo-12.png" group-title="CANAIS BR REALYT SHOW",BBB 21 JARDIN
+http://192.99.34.80:80/live/duda2020/duda2020/184844.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="BBB 21 QUARTO COLORIDO." tvg-logo="http://painelx.cnlook.uno/resize.php?max=32&url=https://logodownload.org/wp-content/uploads/2018/04/bbb-logo-big-brother-brasil-logo-12.png" group-title="CANAIS BR REALYT SHOW",BBB 21 QUARTO COLORIDO.
+http://192.99.34.80:80/live/duda2020/duda2020/184847.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="BBB 21 QUARTO CORDEL." tvg-logo="http://painelx.cnlook.uno/resize.php?max=32&url=https://logodownload.org/wp-content/uploads/2018/04/bbb-logo-big-brother-brasil-logo-12.png" group-title="CANAIS BR REALYT SHOW",BBB 21 QUARTO CORDEL.
+http://192.99.34.80:80/live/duda2020/duda2020/184848.m3u8
 
