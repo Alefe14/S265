@@ -10,19 +10,16 @@ http://live.video.globo.com/h/1402196682759012345678915746027599876543210hM4EA1n
 http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/44228.m3u8
 
 #EXTINF: -1 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/rede-globo-logo-0.png", GLOBO SP FHD
-http://lista.lorddark.club/5247/5247/19430
+http://main.chopp.me/live/joaozinho/102030/61870.m3u8
 
 #EXTINF: -1 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/rede-globo-logo-0.png", GLOBO SP HD
-http://top.samotv.xyz:2095/live/dtv_728006/1qyG1ZAA/44227.m3u8
+http://main.chopp.me:80/live/joaozinho/102030/61664.m3u8
 
 #EXTINF: -1 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/rede-globo-logo-0.png", GLOBO PB FHD
-http://lista.lorddark.club/5247/5247/186092
+http://main.chopp.me:80/live/joaozinho/102030/87638.m3u8
 
-#EXTINF: -1 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/rede-globo-logo-0.png", GLOBO PB HD
-http://lista.lorddark.club/5247/5247/186091
-
-#EXTINF: -1 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/rede-globo-logo-0.png", GLOBO BSB FHD
-http://lista.lorddark.club/5247/5247/19063
+#EXTINF: -1 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/rede-globo-logo-0.png", GLOBO BSB HD
+http://main.chopp.me:80/live/joaozinho/102030/61671.m3u8
 
 #EXTINF: -1 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/rede-globo-logo-0.png", GLOBO MG FHD
 http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/44229.m3u8
@@ -31,10 +28,10 @@ http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/44229.m3u8
 http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/13909.m3u8
 
 #EXTINF: -1 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/rede-globo-logo-0.png", GLOBO NORDESTE FHD
-http://lista.lorddark.club/5247/5247/19066
+http://main.chopp.me:80/live/joaozinho/102030/67477.m3u8
 
 #EXTINF: -1 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/rede-globo-logo-0.png", GLOBO NORDESTE HD
-http://lista.lorddark.club/5247/5247/19417
+http://main.chopp.me:80/live/joaozinho/102030/61667.m3u8
 
 #EXTINF: -1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f0/Band_logo_2018.png/revision/latest/scale-to-width-down/340?cb=20200604155355", BAND FHD 
 http://evpp.mm.uol.com.br:1935/geob_band/app/playlist.m3u8
@@ -45,17 +42,14 @@ http://evpp.mm.uol.com.br:1935/geob_band/app/media_w1448545220_7379.ts
 #EXTINF: -1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f0/Band_logo_2018.png/revision/latest/scale-to-width-down/340?cb=20200604155355", BAND SP HD
 http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/14179.m3u8
 
-#EXTINF: -1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f0/Band_logo_2018.png/revision/latest/scale-to-width-down/340?cb=20200604155355", BAND RJ HD
-http://lista.lorddark.club/5247/5247/729
-
 #EXTINF: -1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f0/Band_logo_2018.png/revision/latest/scale-to-width-down/340?cb=20200604155355", BAND MINAS HD
 http://top.samotv.xyz:2095/live/dtv_247646/vshptqpi/13668.m3u8
 
 #EXTINF: -1 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/record-tv-logo.png", RECORD TV FHD
-http://lista.lorddark.club/5247/5247/19091
+http://main.chopp.me:80/live/joaozinho/102030/61840.m3u8
 
 #EXTINF: -1 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/record-tv-logo.png", RECORD TV HD
-http://lista.lorddark.club:80/5247/5247/1135
+http://main.chopp.me:80/live/joaozinho/102030/61622.m3u8
 
 #EXTINF: -1 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/record-tv-logo.png", RECORD TV 2 HD
 http://lista.lorddark.club/5247/5247/19381
