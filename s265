@@ -1,17 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="" tvg-name="COPA NORDESTE 2" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/19/CopaNordeste2017.png" group-title="COPA NORDESTE 2020",COPA NORDESTE 2
-http://ev7cm.com:25461/live/Henrique/123456/32643.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24H* Desenhos Antigos" tvg-logo="https://i.dlpng.com/static/png/5402116-index-of-static-images-stickers-misc-oops-png-316_258_preview.png" group-title="CANAIS 24 HORAS TOP +",24H* Desenhos Antigos
-http://ev7cm.com:25461/live/Henrique/123456/100525.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24H* Filmes Gospel" tvg-logo="http://ev7cm.com:25461/images/c0381ffb482aa4bfd20791c95e4f0cf5.png" group-title="CANAIS 24 HORAS TOP +",24H* Filmes Gospel
-http://ev7cm.com:25461/live/Henrique/123456/100536.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24H* Musicas Radio m2o" tvg-logo="http://ev7cm.com:25461/images/c0381ffb482aa4bfd20791c95e4f0cf5.png" group-title="CANAIS 24 HORAS TOP +",24H* Musicas Radio m2o
-http://ev7cm.com:25461/live/Henrique/123456/100533.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24H- Gospel Music " tvg-logo="http://ev7cm.com:25461/images/c0381ffb482aa4bfd20791c95e4f0cf5.png" group-title="CANAIS 24 HORAS TOP +",24H- Gospel Music 
-http://ev7cm.com:25461/live/Henrique/123456/100535.m3u8
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="A&E FHD" tvg-logo="https://img.apksum.com/65/com.aetn.aetv.watch/3.3.2/icon.png" group-title="CANAIS FILMES E SERIES",A&E FHD
-http://ev7cm.com:25461/live/Henrique/123456/222.m3u8
 #EXTINF:-1 tvg-id="a.e.br" tvg-name="A&E HD" tvg-logo="https://img.apksum.com/65/com.aetn.aetv.watch/3.3.2/icon.png" group-title="CANAIS FILMES E SERIES",A&E HD
 http://ev7cm.com:25461/live/Henrique/123456/227.m3u8
 #EXTINF:-1 tvg-id="a.e.br" tvg-name="A&E HD 2" tvg-logo="https://img.apksum.com/65/com.aetn.aetv.watch/3.3.2/icon.png" group-title="CANAIS FILMES E SERIES",A&E HD 2
