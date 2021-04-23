@@ -457,6 +457,12 @@ http://canaishd.servidor.tv:8080/Jorge001/jorge001/1515
 #EXTINF:-1 tvg-logo="" group-title="",GNT
 http://canaishd.servidor.tv:8080/Jorge001/jorge001/235
 
+#EXTINF:-1,Viva HD
+http://canaishd.servidor.tv:8080/Jorge001/jorge001/2680
+
+#EXTINF:-1,Viva HD+
+http://canaishd.servidor.tv:8080/Jorge001/jorge001/10
+
 #EXTINF:-1 tvg-logo="" group-title="",H2
 http://canaishd.servidor.tv:8080/Jorge001/jorge001/1465
 
