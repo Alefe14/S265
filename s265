@@ -1,2225 +1,306 @@
 #EXTM3U
-#EXTINF:-1,Globo SP HD 
-http://lista.lorddark.club:80/denio/123456/19429
-#EXTINF:-1,Globo SP FHD 
-http://lista.lorddark.club:80/denio/123456/19430
-#EXTINF:-1,Globo RJ HD 
-http://lista.lorddark.club:80/denio/123456/19424
-#EXTINF:-1,Globo RJ FHD 
-http://lista.lorddark.club:80/denio/123456/19425
-#EXTINF:-1,Globo Brasilia HD
-http://lista.lorddark.club:80/denio/123456/19406
-#EXTINF:-1,Globo Brasilia FHD 
-http://lista.lorddark.club:80/denio/123456/19063
-#EXTINF:-1,Globo Minas HD
-http://lista.lorddark.club:80/denio/123456/19415
-#EXTINF:-1,Globo Minas FHD 
-http://lista.lorddark.club:80/denio/123456/19065
-#EXTINF:-1,Globo Nordeste HD 
-http://lista.lorddark.club:80/denio/123456/19417
-#EXTINF:-1,Globo Nordeste FHD
-http://lista.lorddark.club:80/denio/123456/19066
-#EXTINF:-1,Globo MA HD
-http://lista.lorddark.club:80/denio/123456/785
-#EXTINF:-1,Globo PE HD
-http://lista.lorddark.club:80/denio/123456/744
-#EXTINF:-1,Globo ES FHD
-http://lista.lorddark.club:80/denio/123456/1058
-#EXTINF:-1,Globo EPTV Campinas HD 
-http://lista.lorddark.club:80/denio/123456/19409
-#EXTINF:-1,Globo EPTV Campinas FHD 
-http://lista.lorddark.club:80/denio/123456/19064
-#EXTINF:-1,Globo TV Cabo Branco HD 
-http://lista.lorddark.club:80/denio/123456/19476
-#EXTINF:-1,Globo Tv Cabo Branco FHD 
-http://lista.lorddark.club:80/denio/123456/19087
-#EXTINF:-1,Globo TV Clube Teresina HD 
-http://lista.lorddark.club:80/denio/123456/19450
-#EXTINF:-1,Globo TV Clube Teresina FHD 
-http://lista.lorddark.club:80/denio/123456/19060
-#EXTINF:-1,Globo TV Diario Fortaleza FHD 
-http://lista.lorddark.club:80/denio/123456/19053
-#EXTINF:-1,Globo TV Diario Fortaleza HD 
-http://lista.lorddark.club:80/denio/123456/19394
-#EXTINF:-1,Record Closed Caption FHD
-http://lista.lorddark.club:80/denio/123456/186032
-#EXTINF:-1,Record TV HD³
-http://lista.lorddark.club:80/denio/123456/1135
-#EXTINF:-1,Record TV SP 
-http://lista.lorddark.club:80/denio/123456/19309
-#EXTINF:-1,Record TV SP HD [1]
-http://lista.lorddark.club:80/denio/123456/19310
-#EXTINF:-1,Record TV SP HD
-http://lista.lorddark.club:80/denio/123456/754
-#EXTINF:-1,Record TV SP FHD [1]
-http://lista.lorddark.club:80/denio/123456/19091
-#EXTINF:-1,Record TV SP FHD
-http://lista.lorddark.club:80/denio/123456/1063
-#EXTINF:-1,Record TV RJ HD [1]
-http://lista.lorddark.club:80/denio/123456/19381
-#EXTINF:-1,Record TV RJ HD
-http://lista.lorddark.club:80/denio/123456/758
-#EXTINF:-1,Record TV RJ HD³
-http://lista.lorddark.club:80/denio/123456/1133
-#EXTINF:-1,Record TV MG
-http://lista.lorddark.club:80/denio/123456/767
-#EXTINF:-1,Record TV MG HD [1]
-http://lista.lorddark.club:80/denio/123456/19383
-#EXTINF:-1,Record TV MG HD
-http://lista.lorddark.club:80/denio/123456/757
-#EXTINF:-1,Record TV MG HD³
-http://lista.lorddark.club:80/denio/123456/1131
-#EXTINF:-1,Record TV DF HD [1]
-http://lista.lorddark.club:80/denio/123456/19390
-#EXTINF:-1,Record TV DF HD³
-http://lista.lorddark.club:80/denio/123456/1129
-#EXTINF:-1,Record TV BA HD [1]
-http://lista.lorddark.club:80/denio/123456/19388
-#EXTINF:-1,Record TV BA HD
-http://lista.lorddark.club:80/denio/123456/765
-#EXTINF:-1,Record TV Campinas HD
-http://lista.lorddark.club:80/denio/123456/774
-#EXTINF:-1,Record TV Campinas FHD
-http://lista.lorddark.club:80/denio/123456/1062
-#EXTINF:-1,Record TV Belem HD [1]
-http://lista.lorddark.club:80/denio/123456/19143
-#EXTINF:-1,Record TV GO HD [1]
-http://lista.lorddark.club:80/denio/123456/19145
-#EXTINF:-1,Record TV GO HD
-http://lista.lorddark.club:80/denio/123456/857
-#EXTINF:-1,Record TV GO FHD
-http://lista.lorddark.club:80/denio/123456/1033
-#EXTINF:-1,Record TV HD [2]
-http://lista.lorddark.club:80/denio/123456/19306
-#EXTINF:-1,Record TV Itapoan HD³
-http://lista.lorddark.club:80/denio/123456/1130
-#EXTINF:-1,Record TV Litoral HD
-http://lista.lorddark.club:80/denio/123456/756
-#EXTINF:-1,Record TV PA HD
-http://lista.lorddark.club:80/denio/123456/755
-#EXTINF:-1,Record TV PR HD
-http://lista.lorddark.club:80/denio/123456/784
-#EXTINF:-1,Record TV RBS HD
-http://lista.lorddark.club:80/denio/123456/748
-#EXTINF:-1,Record TV RS HD [1]
-http://lista.lorddark.club:80/denio/123456/19392
-#EXTINF:-1,Record TV RS HD
-http://lista.lorddark.club:80/denio/123456/747
-#EXTINF:-1,Record TV RS HD³
-http://lista.lorddark.club:80/denio/123456/1134
-#EXTINF:-1,Record TV RS HD ²
-http://lista.lorddark.club:80/denio/123456/751
-#EXTINF:-1,Record TV SC HD
-http://lista.lorddark.club:80/denio/123456/776
-#EXTINF:-1,Record TV Sergipe HD
-http://lista.lorddark.club:80/denio/123456/753
-#EXTINF:-1,Record TV SJRP HD
-http://lista.lorddark.club:80/denio/123456/752
-#EXTINF:-1,SBT HD [1]
-http://lista.lorddark.club:80/denio/123456/19316
-#EXTINF:-1,SBT HD³
-http://lista.lorddark.club:80/denio/123456/1137
-#EXTINF:-1,SBT FHD 
-http://lista.lorddark.club:80/denio/123456/19113
-#EXTINF:-1,SBT SP HD
-http://lista.lorddark.club:80/denio/123456/763
-#EXTINF:-1,SBT RJ HD
-http://lista.lorddark.club:80/denio/123456/760
-#EXTINF:-1,SBT BA HD
-http://lista.lorddark.club:80/denio/123456/764
-#EXTINF:-1,SBT BSB HD
-http://lista.lorddark.club:80/denio/123456/759
-#EXTINF:-1,SBT TV SERRA DOURADA HD³
-http://lista.lorddark.club:80/denio/123456/1138
-#EXTINF:-1,SBT MG HD
-http://lista.lorddark.club:80/denio/123456/780
-#EXTINF:-1,SBT TV JORNAL PE HD
-http://lista.lorddark.club:80/denio/123456/762
-#EXTINF:-1,SBT TV JORNAL PE HD³
-http://lista.lorddark.club:80/denio/123456/1139
-#EXTINF:-1,SBT PR HD
-http://lista.lorddark.club:80/denio/123456/783
-#EXTINF:-1,SBT RS HD
-http://lista.lorddark.club:80/denio/123456/761
-#EXTINF:-1,SBT SC HD
-http://lista.lorddark.club:80/denio/123456/777
-#EXTINF:-1,BAND BSB HD
-http://lista.lorddark.club:80/denio/123456/727
-#EXTINF:-1,BAND Campinas HD
-http://lista.lorddark.club:80/denio/123456/728
-#EXTINF:-1,BAND GO FHD
-http://lista.lorddark.club:80/denio/123456/1052
-#EXTINF:-1,BAND GO HD
-http://lista.lorddark.club:80/denio/123456/876
-#EXTINF:-1,BAND PR HD
-http://lista.lorddark.club:80/denio/123456/782
-#EXTINF:-1,BAND RJ HD
-http://lista.lorddark.club:80/denio/123456/729
-#EXTINF:-1,BAND RS HD
-http://lista.lorddark.club:80/denio/123456/730
-#EXTINF:-1,BAND Sergipe HD
-http://lista.lorddark.club:80/denio/123456/731
-#EXTINF:-1,BAND SP HD
-http://lista.lorddark.club:80/denio/123456/732
-#EXTINF:-1,BAND SP HD³
-http://lista.lorddark.club:80/denio/123456/1089
-#EXTINF:-1,BAND SP HD [1]
-http://lista.lorddark.club:80/denio/123456/19158
-#EXTINF:-1,BAND SP FHD [1]
-http://lista.lorddark.club:80/denio/123456/19092
-#EXTINF:-1,RedeTV! HD [1]
-http://lista.lorddark.club:80/denio/123456/19313
-#EXTINF:-1,RedeTV! HD
-http://lista.lorddark.club:80/denio/123456/858
-#EXTINF:-1,RedeTV! FHD [1]
-http://lista.lorddark.club:80/denio/123456/19050
-#EXTINF:-1,RedeTV! FHD
-http://lista.lorddark.club:80/denio/123456/1034
-#EXTINF:-1,TV Cultura HD [1]
-http://lista.lorddark.club:80/denio/123456/19379
-#EXTINF:-1,TV Cultura FHD [1]
-http://lista.lorddark.club:80/denio/123456/19049
-#EXTINF:-1,TV Gazeta SP HD [1]
-http://lista.lorddark.club:80/denio/123456/19359
-#EXTINF:-1,TV Gazeta SP HD
-http://lista.lorddark.club:80/denio/123456/738
-#EXTINF:-1,TV Gazeta SP HD³
-http://lista.lorddark.club:80/denio/123456/1150
-#EXTINF:-1,TV Gazeta SP FHD [1]
-http://lista.lorddark.club:80/denio/123456/19090
-#EXTINF:-1,Canal Rural [1]
-http://lista.lorddark.club:80/denio/123456/19573
-#EXTINF:-1,CNT SP HD³
-http://lista.lorddark.club:80/denio/123456/1093
-#EXTINF:-1,Futura HD [1]
-http://lista.lorddark.club:80/denio/123456/19229
-#EXTINF:-1,Futura HD³
-http://lista.lorddark.club:80/denio/123456/1107
-#EXTINF:-1,Futura FHD [1]
-http://lista.lorddark.club:80/denio/123456/19003
-#EXTINF:-1,Polishop TV
-http://lista.lorddark.club:80/denio/123456/19401
-#EXTINF:-1,Polishop TV
-http://lista.lorddark.club:80/denio/123456/558
-#EXTINF:-1,RBTV ES FHD
-http://lista.lorddark.club:80/denio/123456/1059
-#EXTINF:-1,Rede Brasil SD [1]
-http://lista.lorddark.club:80/denio/123456/19311
-#EXTINF:-1,Rede Brasil SD
-http://lista.lorddark.club:80/denio/123456/573
-#EXTINF:-1,Terra Viva
-http://lista.lorddark.club:80/denio/123456/19345
-#EXTINF:-1,Terra Viva SD
-http://lista.lorddark.club:80/denio/123456/592
-#EXTINF:-1,Terra Viva HD³
-http://lista.lorddark.club:80/denio/123456/1143
-#EXTINF:-1,TV Brasil HD 
-http://lista.lorddark.club:80/denio/123456/19356
-#EXTINF:-1,TV Camara SD [1]
-http://lista.lorddark.club:80/denio/123456/19357
-#EXTINF:-1,TV Camara SD
-http://lista.lorddark.club:80/denio/123456/602
-#EXTINF:-1,TV Escola
-http://lista.lorddark.club:80/denio/123456/19358
-#EXTINF:-1,TV Guarulhos HD³
-http://lista.lorddark.club:80/denio/123456/1151
-#EXTINF:-1,TV justica SD [1]
-http://lista.lorddark.club:80/denio/123456/19354
-#EXTINF:-1,TV Justica SD
-http://lista.lorddark.club:80/denio/123456/605
-#EXTINF:-1,TV Senado SD
-http://lista.lorddark.club:80/denio/123456/608
-#EXTINF:-1,TV Serra Dourada HD
-http://lista.lorddark.club:80/denio/123456/878
-#EXTINF:-1,TV Serra Dourada FHD
-http://lista.lorddark.club:80/denio/123456/1053
-#EXTINF:-1,TV Vitoria ES SD
-http://lista.lorddark.club:80/denio/123456/772
-#EXTINF:-1,TV Vitoria ES HD
-http://lista.lorddark.club:80/denio/123456/773
-#EXTINF:-1,TV Vitoria ES FHD
-http://lista.lorddark.club:80/denio/123456/1061
-#EXTINF:-1,LOADING
-http://lista.lorddark.club:80/denio/123456/203967
-#EXTINF:-1,ESPN HD¹
-http://lista.lorddark.club:80/denio/123456/19211
-#EXTINF:-1,ESPN HD
-http://lista.lorddark.club:80/denio/123456/814
-#EXTINF:-1,ESPN FHD¹
-http://lista.lorddark.club:80/denio/123456/19098
-#EXTINF:-1,ESPN FHD
-http://lista.lorddark.club:80/denio/123456/989
-#EXTINF:-1,ESPN 2 HD¹
-http://lista.lorddark.club:80/denio/123456/19206
-#EXTINF:-1,ESPN 2 HD
-http://lista.lorddark.club:80/denio/123456/812
-#EXTINF:-1,ESPN 2 FHD¹
-http://lista.lorddark.club:80/denio/123456/18996
-#EXTINF:-1,ESPN 2 FHD
-http://lista.lorddark.club:80/denio/123456/990
-#EXTINF:-1,ESPN Brasil HD¹
-http://lista.lorddark.club:80/denio/123456/19208
-#EXTINF:-1,ESPN Brasil HD
-http://lista.lorddark.club:80/denio/123456/813
-#EXTINF:-1,ESPN Brasil HD³
-http://lista.lorddark.club:80/denio/123456/1103
-#EXTINF:-1,ESPN Brasil FHD¹
-http://lista.lorddark.club:80/denio/123456/19097
-#EXTINF:-1,ESPN Brasil FHD
-http://lista.lorddark.club:80/denio/123456/991
-#EXTINF:-1,ESPN Extra HD [1]
-http://lista.lorddark.club:80/denio/123456/19210
-#EXTINF:-1,ESPN Extra HD
-http://lista.lorddark.club:80/denio/123456/815
-#EXTINF:-1,ESPN Extra HD³
-http://lista.lorddark.club:80/denio/123456/1104
-#EXTINF:-1,ESPN Extra FHD [1]
-http://lista.lorddark.club:80/denio/123456/18997
-#EXTINF:-1,ESPN Extra FHD
-http://lista.lorddark.club:80/denio/123456/988
-#EXTINF:-1,BandSports HD
-http://lista.lorddark.club:80/denio/123456/794
-#EXTINF:-1,BandSports HD¹
-http://lista.lorddark.club:80/denio/123456/19162
-#EXTINF:-1,BandSports HD³
-http://lista.lorddark.club:80/denio/123456/201434
-#EXTINF:-1,BandSports FHD
-http://lista.lorddark.club:80/denio/123456/968
-#EXTINF:-1,BandSports FHD¹
-http://lista.lorddark.club:80/denio/123456/18981
-#EXTINF:-1,BandSports FHD²
-http://lista.lorddark.club:80/denio/123456/201435
-#EXTINF:-1,FOX Sports HD
-http://lista.lorddark.club:80/denio/123456/822
-#EXTINF:-1,FOX Sports HD¹
-http://lista.lorddark.club:80/denio/123456/19225
-#EXTINF:-1,FOX Sports HD²
-http://lista.lorddark.club:80/denio/123456/201421
-#EXTINF:-1,FOX Sports HD³
-http://lista.lorddark.club:80/denio/123456/201422
-#EXTINF:-1,FOX Sports FHD
-http://lista.lorddark.club:80/denio/123456/997
-#EXTINF:-1,FOX Sports FHD¹
-http://lista.lorddark.club:80/denio/123456/19101
-#EXTINF:-1,FOX Sports FHD²
-http://lista.lorddark.club:80/denio/123456/201423
-#EXTINF:-1,FOX Sports FHD³
-http://lista.lorddark.club:80/denio/123456/201424
-#EXTINF:-1,FOX Sports 2 HD
-http://lista.lorddark.club:80/denio/123456/821
-#EXTINF:-1,FOX Sports 2 HD¹
-http://lista.lorddark.club:80/denio/123456/19227
-#EXTINF:-1,FOX Sports 2 HD²
-http://lista.lorddark.club:80/denio/123456/201426
-#EXTINF:-1,FOX Sports 2 HD³
-http://lista.lorddark.club:80/denio/123456/201427
-#EXTINF:-1,FOX Sports 2 FHD
-http://lista.lorddark.club:80/denio/123456/998
-#EXTINF:-1,FOX Sports 2 FHD¹
-http://lista.lorddark.club:80/denio/123456/19100
-#EXTINF:-1,FOX Sports 2 FHD²
-http://lista.lorddark.club:80/denio/123456/201428
-#EXTINF:-1,FOX Sports 2 FHD³
-http://lista.lorddark.club:80/denio/123456/201429
-#EXTINF:-1,SporTV HD
-http://lista.lorddark.club:80/denio/123456/201416
-#EXTINF:-1,SporTV HD¹
-http://lista.lorddark.club:80/denio/123456/19327
-#EXTINF:-1,SporTV HD²
-http://lista.lorddark.club:80/denio/123456/201415
-#EXTINF:-1,SporTV HD³
-http://lista.lorddark.club:80/denio/123456/1140
-#EXTINF:-1,SporTV FHD
-http://lista.lorddark.club:80/denio/123456/1038
-#EXTINF:-1,SporTV FHD¹
-http://lista.lorddark.club:80/denio/123456/19116
-#EXTINF:-1,SporTV FHD²
-http://lista.lorddark.club:80/denio/123456/201417
-#EXTINF:-1,SporTV FHD³
-http://lista.lorddark.club:80/denio/123456/201418
-#EXTINF:-1,SporTV 2 HD
-http://lista.lorddark.club:80/denio/123456/860
-#EXTINF:-1,SporTV 2 HD¹
-http://lista.lorddark.club:80/denio/123456/19324
-#EXTINF:-1,SporTV 2 HD²
-http://lista.lorddark.club:80/denio/123456/201409
-#EXTINF:-1,SporTV 2 HD³
-http://lista.lorddark.club:80/denio/123456/1141
-#EXTINF:-1,SporTV 2 FHD
-http://lista.lorddark.club:80/denio/123456/1036
-#EXTINF:-1,SporTV 2 FHD¹
-http://lista.lorddark.club:80/denio/123456/19114
-#EXTINF:-1,SporTV 2 FHD²
-http://lista.lorddark.club:80/denio/123456/201410
-#EXTINF:-1,SporTV 2 FHD³
-http://lista.lorddark.club:80/denio/123456/201411
-#EXTINF:-1,SporTV 3 HD
-http://lista.lorddark.club:80/denio/123456/861
-#EXTINF:-1,SporTV 3 HD¹
-http://lista.lorddark.club:80/denio/123456/19326
-#EXTINF:-1,SporTV 3 HD²
-http://lista.lorddark.club:80/denio/123456/201405
-#EXTINF:-1,SporTV 3 HD³
-http://lista.lorddark.club:80/denio/123456/1142
-#EXTINF:-1,SporTV 3 FHD
-http://lista.lorddark.club:80/denio/123456/1037
-#EXTINF:-1,SporTV 3 FHD¹
-http://lista.lorddark.club:80/denio/123456/19115
-#EXTINF:-1,SporTV 3 FHD³
-http://lista.lorddark.club:80/denio/123456/201406
-#EXTINF:-1,Combate HD
-http://lista.lorddark.club:80/denio/123456/799
-#EXTINF:-1,Combate HD¹
-http://lista.lorddark.club:80/denio/123456/19177
-#EXTINF:-1,Combate HD²
-http://lista.lorddark.club:80/denio/123456/201400
-#EXTINF:-1,Combate HD³
-http://lista.lorddark.club:80/denio/123456/1094
-#EXTINF:-1,Combate FHD
-http://lista.lorddark.club:80/denio/123456/975
-#EXTINF:-1,Combate FHD¹
-http://lista.lorddark.club:80/denio/123456/19094
-#EXTINF:-1,Combate FHD²
-http://lista.lorddark.club:80/denio/123456/201401
-#EXTINF:-1,Combate FHD³
-http://lista.lorddark.club:80/denio/123456/201402
-#EXTINF:-1,Fish TV HD¹
-http://lista.lorddark.club:80/denio/123456/19213
-#EXTINF:-1,Fish TV HD³
-http://lista.lorddark.club:80/denio/123456/201395
-#EXTINF:-1,Fish TV FHD
-http://lista.lorddark.club:80/denio/123456/992
-#EXTINF:-1,Fish TV FHD¹
-http://lista.lorddark.club:80/denio/123456/18998
-#EXTINF:-1,Fish TV FHD²
-http://lista.lorddark.club:80/denio/123456/201396
-#EXTINF:-1,Catarinense 02 [1]
-http://lista.lorddark.club:80/denio/123456/204108
-#EXTINF:-1,CARIOCA 1
-http://lista.lorddark.club:80/denio/123456/203962
-#EXTINF:-1,CARIOCA 1²
-http://lista.lorddark.club:80/denio/123456/204107
-#EXTINF:-1,CARIOCA 2
-http://lista.lorddark.club:80/denio/123456/203963
-#EXTINF:-1,CARIOCA 2²
-http://lista.lorddark.club:80/denio/123456/204106
-#EXTINF:-1,CARIOCA 3
-http://lista.lorddark.club:80/denio/123456/203964
-#EXTINF:-1,CARIOCA 3²
-http://lista.lorddark.club:80/denio/123456/204105
-#EXTINF:-1,DAZN 1 [1]
-http://lista.lorddark.club:80/denio/123456/19558
-#EXTINF:-1,DAZN 1 HD³
-http://lista.lorddark.club:80/denio/123456/733
-#EXTINF:-1,DAZN 2 [1]
-http://lista.lorddark.club:80/denio/123456/19559
-#EXTINF:-1,DAZN 2 HD
-http://lista.lorddark.club:80/denio/123456/734
-#EXTINF:-1,DAZN 3 [1]
-http://lista.lorddark.club:80/denio/123456/19577
-#EXTINF:-1,DAZN 3 HD
-http://lista.lorddark.club:80/denio/123456/735
-#EXTINF:-1,DAZN 4 [1]
-http://lista.lorddark.club:80/denio/123456/19578
-#EXTINF:-1,DAZN Brasil HD³
-http://lista.lorddark.club:80/denio/123456/736
-#EXTINF:-1,CONMEBOL TV 1 HD
-http://lista.lorddark.club:80/denio/123456/201454
-#EXTINF:-1,CONMEBOL TV 1 HD¹
-http://lista.lorddark.club:80/denio/123456/201437
-#EXTINF:-1,CONMEBOL TV 1 HD²
-http://lista.lorddark.club:80/denio/123456/201442
-#EXTINF:-1,CONMEBOL TV 2 HD
-http://lista.lorddark.club:80/denio/123456/201455
-#EXTINF:-1,CONMEBOL TV 2 HD¹
-http://lista.lorddark.club:80/denio/123456/201438
-#EXTINF:-1,CONMEBOL TV 2 HD²
-http://lista.lorddark.club:80/denio/123456/201443
-#EXTINF:-1,CONMEBOL TV 3 HD¹
-http://lista.lorddark.club:80/denio/123456/201439
-#EXTINF:-1,CONMEBOL TV 3 HD²
-http://lista.lorddark.club:80/denio/123456/201444
-#EXTINF:-1,CONMEBOL TV 4 HD¹
-http://lista.lorddark.club:80/denio/123456/201440
-#EXTINF:-1,CONMEBOL TV 4 HD²
-http://lista.lorddark.club:80/denio/123456/201445
-#EXTINF:-1,CONMEBOL TV 1 FHD
-http://lista.lorddark.club:80/denio/123456/201456
-#EXTINF:-1,CONMEBOL TV 1 FHD²
-http://lista.lorddark.club:80/denio/123456/201446
-#EXTINF:-1,CONMEBOL TV 1 FHD³
-http://lista.lorddark.club:80/denio/123456/201462
-#EXTINF:-1,CONMEBOL TV 2 FHD
-http://lista.lorddark.club:80/denio/123456/201457
-#EXTINF:-1,CONMEBOL TV 2 FHD²
-http://lista.lorddark.club:80/denio/123456/201447
-#EXTINF:-1,CONMEBOL TV 2 FHD³
-http://lista.lorddark.club:80/denio/123456/201463
-#EXTINF:-1,CONMEBOL TV 3 FHD²
-http://lista.lorddark.club:80/denio/123456/201448
-#EXTINF:-1,CONMEBOL TV 3 FHD³
-http://lista.lorddark.club:80/denio/123456/201464
-#EXTINF:-1,CONMEBOL TV 4 FHD²
-http://lista.lorddark.club:80/denio/123456/201449
-#EXTINF:-1,CONMEBOL TV 4 FHD³
-http://lista.lorddark.club:80/denio/123456/201465
-#EXTINF:-1,WATCH ESPN APP [1]
-http://lista.lorddark.club:80/denio/123456/19579
-#EXTINF:-1,FLA TV / MyCujoo [1]
-http://lista.lorddark.club:80/denio/123456/19580
-#EXTINF:-1,Ei Plus HD [1]
-http://lista.lorddark.club:80/denio/123456/19487
-#EXTINF:-1,FUTEBOL INTERNACIONAL
-http://lista.lorddark.club:80/denio/123456/737
-#EXTINF:-1,TNT SPORTS 01 [1]
-http://lista.lorddark.club:80/denio/123456/19565
-#EXTINF:-1,TNT SPORTS 1
-http://lista.lorddark.club:80/denio/123456/1067
-#EXTINF:-1,TNT SPORTS 02 [1]
-http://lista.lorddark.club:80/denio/123456/19566
-#EXTINF:-1,TNT SPORTS 2
-http://lista.lorddark.club:80/denio/123456/1068
-#EXTINF:-1,TNT SPORTS 03 [1]
-http://lista.lorddark.club:80/denio/123456/19567
-#EXTINF:-1,TNT SPORTS 3
-http://lista.lorddark.club:80/denio/123456/1069
-#EXTINF:-1,TNT SPORTS 04 [1]
-http://lista.lorddark.club:80/denio/123456/19568
-#EXTINF:-1,TNT SPORTS 4
-http://lista.lorddark.club:80/denio/123456/1070
-#EXTINF:-1,TNT SPORTS 05 [1]
-http://lista.lorddark.club:80/denio/123456/19569
-#EXTINF:-1,TNT SPORTS 06 [1]
-http://lista.lorddark.club:80/denio/123456/19570
-#EXTINF:-1,Catarinense 01 [1]
-http://lista.lorddark.club:80/denio/123456/19574
-#EXTINF:-1,Fox App [1]
-http://lista.lorddark.club:80/denio/123456/19575
-#EXTINF:-1,Copa do Nordeste 1 [1]
-http://lista.lorddark.club:80/denio/123456/19562
-#EXTINF:-1,Copa do Nordeste 1
-http://lista.lorddark.club:80/denio/123456/204083
-#EXTINF:-1,Copa do Nordeste 1²
-http://lista.lorddark.club:80/denio/123456/204087
-#EXTINF:-1,Copa do Nordeste 1³
-http://lista.lorddark.club:80/denio/123456/204089
-#EXTINF:-1,Copa do Nordeste 2 [1]
-http://lista.lorddark.club:80/denio/123456/19563
-#EXTINF:-1,Copa do Nordeste 2
-http://lista.lorddark.club:80/denio/123456/204084
-#EXTINF:-1,Copa do Nordeste 2²
-http://lista.lorddark.club:80/denio/123456/204088
-#EXTINF:-1,Copa do Nordeste 2³
-http://lista.lorddark.club:80/denio/123456/204091
-#EXTINF:-1,Copa do Nordeste 2 HD³
-http://lista.lorddark.club:80/denio/123456/204092
-#EXTINF:-1,Copa do Nordeste 3 [1]
-http://lista.lorddark.club:80/denio/123456/19564
-#EXTINF:-1,Copa do Nordeste 3
-http://lista.lorddark.club:80/denio/123456/204085
-#EXTINF:-1,Copa do Nordeste 3³
-http://lista.lorddark.club:80/denio/123456/204093
-#EXTINF:-1,Copa do Nordeste 3 HD³
-http://lista.lorddark.club:80/denio/123456/204094
-#EXTINF:-1,Copa do Nordeste HD³
-http://lista.lorddark.club:80/denio/123456/204090
-#EXTINF:-1,Copa do Nordeste 4
-http://lista.lorddark.club:80/denio/123456/204086
-#EXTINF:-1,Copa Libertadores HD [1]
-http://lista.lorddark.club:80/denio/123456/19557
-#EXTINF:-1,SERGIPANO 1
-http://lista.lorddark.club:80/denio/123456/203965
-#EXTINF:-1,SERGIPANO 2
-http://lista.lorddark.club:80/denio/123456/203966
-#EXTINF:-1,Esporte Interativo HD³
-http://lista.lorddark.club:80/denio/123456/1102
-#EXTINF:-1,Premiere Clubes HD [1]
-http://lista.lorddark.club:80/denio/123456/19302
-#EXTINF:-1,Premiere Clubes HD
-http://lista.lorddark.club:80/denio/123456/856
-#EXTINF:-1,Premiere Clubes HD³
-http://lista.lorddark.club:80/denio/123456/1128
-#EXTINF:-1,Premiere Clubes FHD [1]
-http://lista.lorddark.club:80/denio/123456/19112
-#EXTINF:-1,Premiere Clubes FHD
-http://lista.lorddark.club:80/denio/123456/1026
-#EXTINF:-1,Premiere Clubes FHD³
-http://lista.lorddark.club:80/denio/123456/186051
-#EXTINF:-1,Premiere 2 HD [1]
-http://lista.lorddark.club:80/denio/123456/19290
-#EXTINF:-1,Premiere 2 HD
-http://lista.lorddark.club:80/denio/123456/850
-#EXTINF:-1,Premiere 2 FHD [1]
-http://lista.lorddark.club:80/denio/123456/19106
-#EXTINF:-1,Premiere 2 FHD
-http://lista.lorddark.club:80/denio/123456/1027
-#EXTINF:-1,Premiere 3 FHD
-http://lista.lorddark.club:80/denio/123456/1028
-#EXTINF:-1,Premiere 3 HD [1]
-http://lista.lorddark.club:80/denio/123456/19292
-#EXTINF:-1,Premiere 3 HD
-http://lista.lorddark.club:80/denio/123456/851
-#EXTINF:-1,Premiere 3 FHD [1]
-http://lista.lorddark.club:80/denio/123456/19107
-#EXTINF:-1,Premiere 4 HD [1]
-http://lista.lorddark.club:80/denio/123456/19294
-#EXTINF:-1,Premiere 4 HD
-http://lista.lorddark.club:80/denio/123456/852
-#EXTINF:-1,Premiere 4 HD³
-http://lista.lorddark.club:80/denio/123456/1127
-#EXTINF:-1,Premiere 4 FHD [1]
-http://lista.lorddark.club:80/denio/123456/19108
-#EXTINF:-1,Premiere 4 FHD
-http://lista.lorddark.club:80/denio/123456/1029
-#EXTINF:-1,Premiere 5 HD [1]
-http://lista.lorddark.club:80/denio/123456/19296
-#EXTINF:-1,Premiere 5 HD
-http://lista.lorddark.club:80/denio/123456/853
-#EXTINF:-1,Premiere 5 FHD [1]
-http://lista.lorddark.club:80/denio/123456/19109
-#EXTINF:-1,Premiere 5 FHD
-http://lista.lorddark.club:80/denio/123456/1030
-#EXTINF:-1,Premiere 6 HD [1]
-http://lista.lorddark.club:80/denio/123456/19298
-#EXTINF:-1,Premiere 6 HD
-http://lista.lorddark.club:80/denio/123456/854
-#EXTINF:-1,Premiere 6 FHD [1]
-http://lista.lorddark.club:80/denio/123456/19110
-#EXTINF:-1,Premiere 6 FHD
-http://lista.lorddark.club:80/denio/123456/1031
-#EXTINF:-1,Premiere 7 HD [1]
-http://lista.lorddark.club:80/denio/123456/19300
-#EXTINF:-1,Premiere 7 HD
-http://lista.lorddark.club:80/denio/123456/855
-#EXTINF:-1,Premiere 7 FHD [1]
-http://lista.lorddark.club:80/denio/123456/19111
-#EXTINF:-1,Premiere 7 FHD
-http://lista.lorddark.club:80/denio/123456/1032
-#EXTINF:-1,AeE HD [1]
-http://lista.lorddark.club:80/denio/123456/19147
-#EXTINF:-1,AeE HD
-http://lista.lorddark.club:80/denio/123456/790
-#EXTINF:-1,AeE FHD [1]
-http://lista.lorddark.club:80/denio/123456/18975
-#EXTINF:-1,AeE FHD
-http://lista.lorddark.club:80/denio/123456/963
-#EXTINF:-1,AMC SD [1]
-http://lista.lorddark.club:80/denio/123456/19148
-#EXTINF:-1,AMC SD
-http://lista.lorddark.club:80/denio/123456/480
-#EXTINF:-1,AMC HD [1]
-http://lista.lorddark.club:80/denio/123456/19149
-#EXTINF:-1,AMC HD
-http://lista.lorddark.club:80/denio/123456/791
-#EXTINF:-1,AMC FHD [1]
-http://lista.lorddark.club:80/denio/123456/18976
-#EXTINF:-1,AMC FHD
-http://lista.lorddark.club:80/denio/123456/964
-#EXTINF:-1,AXN SD [1]
-http://lista.lorddark.club:80/denio/123456/19154
-#EXTINF:-1,AXN SD
-http://lista.lorddark.club:80/denio/123456/482
-#EXTINF:-1,AXN HD [1]
-http://lista.lorddark.club:80/denio/123456/19155
-#EXTINF:-1,AXN HD
-http://lista.lorddark.club:80/denio/123456/793
-#EXTINF:-1,AXN FHD [1]
-http://lista.lorddark.club:80/denio/123456/18979
-#EXTINF:-1,AXN FHD
-http://lista.lorddark.club:80/denio/123456/966
-#EXTINF:-1,Canal Sony SD [1]
-http://lista.lorddark.club:80/denio/123456/19169
-#EXTINF:-1,Canal Sony SD
-http://lista.lorddark.club:80/denio/123456/492
-#EXTINF:-1,Canal Sony HD [1]
-http://lista.lorddark.club:80/denio/123456/19170
-#EXTINF:-1,Canal Sony HD
-http://lista.lorddark.club:80/denio/123456/796
-#EXTINF:-1,Canal Sony FHD [1]
-http://lista.lorddark.club:80/denio/123456/18983
-#EXTINF:-1,Canal Sony FHD
-http://lista.lorddark.club:80/denio/123456/972
-#EXTINF:-1,Cinemax SD [1]
-http://lista.lorddark.club:80/denio/123456/19174
-#EXTINF:-1,Cinemax SD
-http://lista.lorddark.club:80/denio/123456/495
-#EXTINF:-1,Cinemax HD [1]
-http://lista.lorddark.club:80/denio/123456/19175
-#EXTINF:-1,Cinemax HD
-http://lista.lorddark.club:80/denio/123456/798
-#EXTINF:-1,Cinemax FHD [1]
-http://lista.lorddark.club:80/denio/123456/18985
-#EXTINF:-1,Cinemax FHD
-http://lista.lorddark.club:80/denio/123456/974
-#EXTINF:-1,Comedy Central SD [1]
-http://lista.lorddark.club:80/denio/123456/19178
-#EXTINF:-1,Comedy Central SD
-http://lista.lorddark.club:80/denio/123456/497
-#EXTINF:-1,Comedy Central HD [1]
-http://lista.lorddark.club:80/denio/123456/19179
-#EXTINF:-1,Comedy Central HD
-http://lista.lorddark.club:80/denio/123456/800
-#EXTINF:-1,Comedy Central FHD [1]
-http://lista.lorddark.club:80/denio/123456/18986
-#EXTINF:-1,Comedy Central FHD
-http://lista.lorddark.club:80/denio/123456/976
-#EXTINF:-1,Film e Arts SD [1]
-http://lista.lorddark.club:80/denio/123456/19387
-#EXTINF:-1,Film e Arts
-http://lista.lorddark.club:80/denio/123456/513
-#EXTINF:-1,FOX SD [1]
-http://lista.lorddark.club:80/denio/123456/19216
-#EXTINF:-1,FOX SD
-http://lista.lorddark.club:80/denio/123456/516
-#EXTINF:-1,FOX HD [1]
-http://lista.lorddark.club:80/denio/123456/19217
-#EXTINF:-1,FOX HD
-http://lista.lorddark.club:80/denio/123456/817
-#EXTINF:-1,FOX FHD [1]
-http://lista.lorddark.club:80/denio/123456/19099
-#EXTINF:-1,FOX FHD
-http://lista.lorddark.club:80/denio/123456/994
-#EXTINF:-1,FOX Life SD [1]
-http://lista.lorddark.club:80/denio/123456/19218
-#EXTINF:-1,FOX Life SD
-http://lista.lorddark.club:80/denio/123456/517
-#EXTINF:-1,FOX Life HD [1]
-http://lista.lorddark.club:80/denio/123456/19219
-#EXTINF:-1,FOX Life HD
-http://lista.lorddark.club:80/denio/123456/818
-#EXTINF:-1,FOX Life FHD [1]
-http://lista.lorddark.club:80/denio/123456/19000
-#EXTINF:-1,FOX Premium 1 SD [1]
-http://lista.lorddark.club:80/denio/123456/19220
-#EXTINF:-1,FOX Premium 1 HD [1]
-http://lista.lorddark.club:80/denio/123456/19221
-#EXTINF:-1,FOX Premium 1 HD
-http://lista.lorddark.club:80/denio/123456/819
-#EXTINF:-1,FOX Premium 1 HD³
-http://lista.lorddark.club:80/denio/123456/1105
-#EXTINF:-1,FOX Premium 1 FHD [1]
-http://lista.lorddark.club:80/denio/123456/19001
-#EXTINF:-1,FOX Premium 1 FHD
-http://lista.lorddark.club:80/denio/123456/995
-#EXTINF:-1,FOX Premium 2 SD [1]
-http://lista.lorddark.club:80/denio/123456/19222
-#EXTINF:-1,FOX Premium 2 HD [1]
-http://lista.lorddark.club:80/denio/123456/19223
-#EXTINF:-1,FOX Premium 2 HD
-http://lista.lorddark.club:80/denio/123456/820
-#EXTINF:-1,FOX Premium 2 HD³
-http://lista.lorddark.club:80/denio/123456/1106
-#EXTINF:-1,FOX Premium 2 FHD [1]
-http://lista.lorddark.club:80/denio/123456/19002
-#EXTINF:-1,FOX Premium 2 FHD
-http://lista.lorddark.club:80/denio/123456/996
-#EXTINF:-1,FX SD [1]
-http://lista.lorddark.club:80/denio/123456/19230
-#EXTINF:-1,FX SD
-http://lista.lorddark.club:80/denio/123456/521
-#EXTINF:-1,FX HD [1]
-http://lista.lorddark.club:80/denio/123456/19231
-#EXTINF:-1,FX HD
-http://lista.lorddark.club:80/denio/123456/823
-#EXTINF:-1,FX FHD [1]
-http://lista.lorddark.club:80/denio/123456/19004
-#EXTINF:-1,FX FHD
-http://lista.lorddark.club:80/denio/123456/999
-#EXTINF:-1,Megapix SD [1]
-http://lista.lorddark.club:80/denio/123456/19266
-#EXTINF:-1,Megapix SD
-http://lista.lorddark.club:80/denio/123456/543
-#EXTINF:-1,Megapix HD [1]
-http://lista.lorddark.club:80/denio/123456/19267
-#EXTINF:-1,Megapix HD
-http://lista.lorddark.club:80/denio/123456/840
-#EXTINF:-1,Megapix FHD [1]
-http://lista.lorddark.club:80/denio/123456/19017
-#EXTINF:-1,Megapix FHD
-http://lista.lorddark.club:80/denio/123456/1016
-#EXTINF:-1,Paramount SD [1]
-http://lista.lorddark.club:80/denio/123456/19287
-#EXTINF:-1,Paramount SD
-http://lista.lorddark.club:80/denio/123456/555
-#EXTINF:-1,Paramount HD [1]
-http://lista.lorddark.club:80/denio/123456/19288
-#EXTINF:-1,Paramount HD
-http://lista.lorddark.club:80/denio/123456/849
-#EXTINF:-1,Paramount FHD [1]
-http://lista.lorddark.club:80/denio/123456/19028
-#EXTINF:-1,Paramount FHD
-http://lista.lorddark.club:80/denio/123456/1025
-#EXTINF:-1,Space SD [1]
-http://lista.lorddark.club:80/denio/123456/19320
-#EXTINF:-1,Space SD
-http://lista.lorddark.club:80/denio/123456/578
-#EXTINF:-1,Space HD [1]
-http://lista.lorddark.club:80/denio/123456/19321
-#EXTINF:-1,Space HD
-http://lista.lorddark.club:80/denio/123456/859
-#EXTINF:-1,Space FHD [1]
-http://lista.lorddark.club:80/denio/123456/19031
-#EXTINF:-1,Space FHD
-http://lista.lorddark.club:80/denio/123456/1035
-#EXTINF:-1,Studio Universal SD [1]
-http://lista.lorddark.club:80/denio/123456/19328
-#EXTINF:-1,Studio Universal SD
-http://lista.lorddark.club:80/denio/123456/582
-#EXTINF:-1,Studio Universal HD [1]
-http://lista.lorddark.club:80/denio/123456/19329
-#EXTINF:-1,Studio Universal HD
-http://lista.lorddark.club:80/denio/123456/863
-#EXTINF:-1,Studio Universal FHD [1]
-http://lista.lorddark.club:80/denio/123456/19032
-#EXTINF:-1,Studio Universal FHD
-http://lista.lorddark.club:80/denio/123456/1039
-#EXTINF:-1,SyFy SD [1]
-http://lista.lorddark.club:80/denio/123456/19318
-#EXTINF:-1,SyFy SD
-http://lista.lorddark.club:80/denio/123456/583
-#EXTINF:-1,SyFy HD [1]
-http://lista.lorddark.club:80/denio/123456/19319
-#EXTINF:-1,SyFy HD
-http://lista.lorddark.club:80/denio/123456/864
-#EXTINF:-1,SyFy FHD [1]
-http://lista.lorddark.club:80/denio/123456/19033
-#EXTINF:-1,SyFy FHD
-http://lista.lorddark.club:80/denio/123456/1040
-#EXTINF:-1,TBS SD [1]
-http://lista.lorddark.club:80/denio/123456/19330
-#EXTINF:-1,TBS SD
-http://lista.lorddark.club:80/denio/123456/584
-#EXTINF:-1,TBS HD [1]
-http://lista.lorddark.club:80/denio/123456/19331
-#EXTINF:-1,TBS HD
-http://lista.lorddark.club:80/denio/123456/865
-#EXTINF:-1,TBS FHD [1]
-http://lista.lorddark.club:80/denio/123456/19034
-#EXTINF:-1,TBS FHD
-http://lista.lorddark.club:80/denio/123456/1041
-#EXTINF:-1,TCM SD [1]
-http://lista.lorddark.club:80/denio/123456/19332
-#EXTINF:-1,TCM
-http://lista.lorddark.club:80/denio/123456/585
-#EXTINF:-1,TNT SD [1]
-http://lista.lorddark.club:80/denio/123456/19348
-#EXTINF:-1,TNT SD
-http://lista.lorddark.club:80/denio/123456/594
-#EXTINF:-1,TNT HD [1]
-http://lista.lorddark.club:80/denio/123456/19349
-#EXTINF:-1,TNT HD
-http://lista.lorddark.club:80/denio/123456/873
-#EXTINF:-1,TNT FHD [1]
-http://lista.lorddark.club:80/denio/123456/19037
-#EXTINF:-1,TNT FHD
-http://lista.lorddark.club:80/denio/123456/1049
-#EXTINF:-1,TNT Series SD [1]
-http://lista.lorddark.club:80/denio/123456/19350
-#EXTINF:-1,TNT Series SD
-http://lista.lorddark.club:80/denio/123456/595
-#EXTINF:-1,TNT Series HD [1]
-http://lista.lorddark.club:80/denio/123456/19351
-#EXTINF:-1,TNT Series HD
-http://lista.lorddark.club:80/denio/123456/874
-#EXTINF:-1,TNT Series FHD [1]
-http://lista.lorddark.club:80/denio/123456/19038
-#EXTINF:-1,TNT Series FHD
-http://lista.lorddark.club:80/denio/123456/1050
-#EXTINF:-1,Universal TV SD [1]
-http://lista.lorddark.club:80/denio/123456/19364
-#EXTINF:-1,Universal TV
-http://lista.lorddark.club:80/denio/123456/621
-#EXTINF:-1,Universal TV HD [1]
-http://lista.lorddark.club:80/denio/123456/19365
-#EXTINF:-1,Universal TV HD
-http://lista.lorddark.club:80/denio/123456/879
-#EXTINF:-1,Universal TV FHD [1]
-http://lista.lorddark.club:80/denio/123456/19041
-#EXTINF:-1,Universal TV FHD
-http://lista.lorddark.club:80/denio/123456/1054
-#EXTINF:-1,Warner SD [1]
-http://lista.lorddark.club:80/denio/123456/19371
-#EXTINF:-1,Warner SD
-http://lista.lorddark.club:80/denio/123456/617
-#EXTINF:-1,Warner HD [1]
-http://lista.lorddark.club:80/denio/123456/19372
-#EXTINF:-1,Warner HD
-http://lista.lorddark.club:80/denio/123456/882
-#EXTINF:-1,Warner FHD [1]
-http://lista.lorddark.club:80/denio/123456/19043
-#EXTINF:-1,Warner FHD
-http://lista.lorddark.club:80/denio/123456/1056
-#EXTINF:-1,Telecine Action SD
-http://lista.lorddark.club:80/denio/123456/586
-#EXTINF:-1,Telecine Action SD¹
-http://lista.lorddark.club:80/denio/123456/19333
-#EXTINF:-1,Telecine Action SD²
-http://lista.lorddark.club:80/denio/123456/201389
-#EXTINF:-1,Telecine Action SD³
-http://lista.lorddark.club:80/denio/123456/201388
-#EXTINF:-1,Telecine Action HD
-http://lista.lorddark.club:80/denio/123456/866
-#EXTINF:-1,Telecine Action HD¹
-http://lista.lorddark.club:80/denio/123456/19334
-#EXTINF:-1,Telecine Action HD²
-http://lista.lorddark.club:80/denio/123456/201390
-#EXTINF:-1,Telecine Action HD³
-http://lista.lorddark.club:80/denio/123456/1144
-#EXTINF:-1,Telecine Action FHD
-http://lista.lorddark.club:80/denio/123456/1042
-#EXTINF:-1,Telecine Action FHD¹
-http://lista.lorddark.club:80/denio/123456/19117
-#EXTINF:-1,Telecine Action FHD²
-http://lista.lorddark.club:80/denio/123456/201391
-#EXTINF:-1,Telecine Action FHD³
-http://lista.lorddark.club:80/denio/123456/201392
-#EXTINF:-1,Telecine Cult SD
-http://lista.lorddark.club:80/denio/123456/587
-#EXTINF:-1,Telecine Cult SD¹
-http://lista.lorddark.club:80/denio/123456/19335
-#EXTINF:-1,Telecine Fun SD¹
-http://lista.lorddark.club:80/denio/123456/19337
-#EXTINF:-1,Telecine Cult SD²
-http://lista.lorddark.club:80/denio/123456/201382
-#EXTINF:-1,Telecine Cult SD³
-http://lista.lorddark.club:80/denio/123456/201383
-#EXTINF:-1,Telecine Cult HD
-http://lista.lorddark.club:80/denio/123456/867
-#EXTINF:-1,Telecine Cult HD¹
-http://lista.lorddark.club:80/denio/123456/19336
-#EXTINF:-1,Telecine Cult HD²
-http://lista.lorddark.club:80/denio/123456/201384
-#EXTINF:-1,Telecine Cult  HD³
-http://lista.lorddark.club:80/denio/123456/1145
-#EXTINF:-1,Telecine Cult HD³
-http://lista.lorddark.club:80/denio/123456/201385
-#EXTINF:-1,Telecine Cult FHD
-http://lista.lorddark.club:80/denio/123456/1043
-#EXTINF:-1,Telecine Cult FHD¹
-http://lista.lorddark.club:80/denio/123456/19035
-#EXTINF:-1,Telecine Cult FHD²
-http://lista.lorddark.club:80/denio/123456/201386
-#EXTINF:-1,Telecine Cult FHD³
-http://lista.lorddark.club:80/denio/123456/201387
-#EXTINF:-1,Telecine Fun SD
-http://lista.lorddark.club:80/denio/123456/588
-#EXTINF:-1,Telecine Fun SD²
-http://lista.lorddark.club:80/denio/123456/201377
-#EXTINF:-1,Telecine Fun SD³
-http://lista.lorddark.club:80/denio/123456/201378
-#EXTINF:-1,Telecine Fun HD
-http://lista.lorddark.club:80/denio/123456/868
-#EXTINF:-1,Telecine Fun HD¹
-http://lista.lorddark.club:80/denio/123456/19338
-#EXTINF:-1,Telecine Fun HD²
-http://lista.lorddark.club:80/denio/123456/201379
-#EXTINF:-1,Telecine Fun HD³
-http://lista.lorddark.club:80/denio/123456/1146
-#EXTINF:-1,Telecine Fun FHD
-http://lista.lorddark.club:80/denio/123456/1044
-#EXTINF:-1,Telecine Fun FHD¹
-http://lista.lorddark.club:80/denio/123456/19118
-#EXTINF:-1,Telecine Fun FHD²
-http://lista.lorddark.club:80/denio/123456/201380
-#EXTINF:-1,Telecine Fun FHD³
-http://lista.lorddark.club:80/denio/123456/201381
-#EXTINF:-1,Telecine Pipoca SD
-http://lista.lorddark.club:80/denio/123456/589
-#EXTINF:-1,Telecine Pipoca SD¹
-http://lista.lorddark.club:80/denio/123456/19339
-#EXTINF:-1,Telecine Pipoca SD²
-http://lista.lorddark.club:80/denio/123456/201352
-#EXTINF:-1,Telecine Pipoca SD³
-http://lista.lorddark.club:80/denio/123456/201353
-#EXTINF:-1,Telecine Pipoca HD
-http://lista.lorddark.club:80/denio/123456/869
-#EXTINF:-1,Telecine Pipoca HD¹
-http://lista.lorddark.club:80/denio/123456/19340
-#EXTINF:-1,Telecine Pipoca HD²
-http://lista.lorddark.club:80/denio/123456/201350
-#EXTINF:-1,Telecine Pipoca HD³
-http://lista.lorddark.club:80/denio/123456/1147
-#EXTINF:-1,Telecine Pipoca FHD
-http://lista.lorddark.club:80/denio/123456/1045
-#EXTINF:-1,Telecine Pipoca FHD¹
-http://lista.lorddark.club:80/denio/123456/19119
-#EXTINF:-1,Telecine Pipoca FHD²
-http://lista.lorddark.club:80/denio/123456/201351
-#EXTINF:-1,Telecine Pipoca FHD³
-http://lista.lorddark.club:80/denio/123456/201354
-#EXTINF:-1,Telecine Premium SD
-http://lista.lorddark.club:80/denio/123456/590
-#EXTINF:-1,Telecine Premium SD¹
-http://lista.lorddark.club:80/denio/123456/19341
-#EXTINF:-1,Telecine Premium SD²
-http://lista.lorddark.club:80/denio/123456/201355
-#EXTINF:-1,Telecine Premium SD³
-http://lista.lorddark.club:80/denio/123456/201356
-#EXTINF:-1,Telecine Premium HD
-http://lista.lorddark.club:80/denio/123456/870
-#EXTINF:-1,Telecine Premium HD¹
-http://lista.lorddark.club:80/denio/123456/19342
-#EXTINF:-1,Telecine Premium HD²
-http://lista.lorddark.club:80/denio/123456/201370
-#EXTINF:-1,Telecine Premium HD³
-http://lista.lorddark.club:80/denio/123456/1148
-#EXTINF:-1,Telecine Premium FHD
-http://lista.lorddark.club:80/denio/123456/1046
-#EXTINF:-1,Telecine Premium FHD¹
-http://lista.lorddark.club:80/denio/123456/19120
-#EXTINF:-1,Telecine Premium FHD²
-http://lista.lorddark.club:80/denio/123456/201371
-#EXTINF:-1,Telecine Premium FHD³
-http://lista.lorddark.club:80/denio/123456/201372
-#EXTINF:-1,Telecine Touch SD¹
-http://lista.lorddark.club:80/denio/123456/19343
-#EXTINF:-1,Telecine Touch SD²
-http://lista.lorddark.club:80/denio/123456/591
-#EXTINF:-1,Telecine Touch SD³
-http://lista.lorddark.club:80/denio/123456/201373
-#EXTINF:-1,Telecine Touch HD
-http://lista.lorddark.club:80/denio/123456/871
-#EXTINF:-1,Telecine Touch HD¹
-http://lista.lorddark.club:80/denio/123456/19344
-#EXTINF:-1,Telecine Touch HD²
-http://lista.lorddark.club:80/denio/123456/201374
-#EXTINF:-1,Telecine Touch HD³
-http://lista.lorddark.club:80/denio/123456/1149
-#EXTINF:-1,Telecine Touch FHD
-http://lista.lorddark.club:80/denio/123456/1047
-#EXTINF:-1,Telecine Touch FHD¹
-http://lista.lorddark.club:80/denio/123456/19121
-#EXTINF:-1,Telecine Touch FHD²
-http://lista.lorddark.club:80/denio/123456/201375
-#EXTINF:-1,Telecine Touch FHD³
-http://lista.lorddark.club:80/denio/123456/201376
-#EXTINF:-1,HBO SD¹
-http://lista.lorddark.club:80/denio/123456/19242
-#EXTINF:-1,HBO SD
-http://lista.lorddark.club:80/denio/123456/530
-#EXTINF:-1,HBO HD¹
-http://lista.lorddark.club:80/denio/123456/19247
-#EXTINF:-1,HBO HD
-http://lista.lorddark.club:80/denio/123456/830
-#EXTINF:-1,HBO FHD
-http://lista.lorddark.club:80/denio/123456/1004
-#EXTINF:-1,HBO HD³
-http://lista.lorddark.club:80/denio/123456/1119
-#EXTINF:-1,HBO FHD¹
-http://lista.lorddark.club:80/denio/123456/19105
-#EXTINF:-1,HBO 2 SD¹
-http://lista.lorddark.club:80/denio/123456/19243
-#EXTINF:-1,HBO 2 SD
-http://lista.lorddark.club:80/denio/123456/534
-#EXTINF:-1,HBO 2 HD¹
-http://lista.lorddark.club:80/denio/123456/19244
-#EXTINF:-1,HBO 2 HD
-http://lista.lorddark.club:80/denio/123456/828
-#EXTINF:-1,HBO 2 HD³
-http://lista.lorddark.club:80/denio/123456/1120
-#EXTINF:-1,HBO 2 FHD¹
-http://lista.lorddark.club:80/denio/123456/19104
-#EXTINF:-1,HBO 2 FHD
-http://lista.lorddark.club:80/denio/123456/1007
-#EXTINF:-1,HBO Plus SD [1]
-http://lista.lorddark.club:80/denio/123456/19248
-#EXTINF:-1,HBO Plus SD
-http://lista.lorddark.club:80/denio/123456/532
-#EXTINF:-1,HBO Plus HD [1]
-http://lista.lorddark.club:80/denio/123456/19249
-#EXTINF:-1,HBO Plus HD
-http://lista.lorddark.club:80/denio/123456/831
-#EXTINF:-1,HBO Plus HD³
-http://lista.lorddark.club:80/denio/123456/1122
-#EXTINF:-1,HBO Plus FHD [1]
-http://lista.lorddark.club:80/denio/123456/19009
-#EXTINF:-1,HBO Plus FHD
-http://lista.lorddark.club:80/denio/123456/1005
-#EXTINF:-1,HBO Family SD [1]
-http://lista.lorddark.club:80/denio/123456/19245
-#EXTINF:-1,HBO Family SD
-http://lista.lorddark.club:80/denio/123456/531
-#EXTINF:-1,HBO Family HD [1]
-http://lista.lorddark.club:80/denio/123456/19246
-#EXTINF:-1,HBO Family HD
-http://lista.lorddark.club:80/denio/123456/829
-#EXTINF:-1,HBO Family HD³
-http://lista.lorddark.club:80/denio/123456/1121
-#EXTINF:-1,HBO Family FHD [1]
-http://lista.lorddark.club:80/denio/123456/19008
-#EXTINF:-1,HBO Familly FHD
-http://lista.lorddark.club:80/denio/123456/1003
-#EXTINF:-1,HBO Signature SD [1]
-http://lista.lorddark.club:80/denio/123456/19250
-#EXTINF:-1,HBO Signature SD
-http://lista.lorddark.club:80/denio/123456/533
-#EXTINF:-1,HBO Signature HD [1]
-http://lista.lorddark.club:80/denio/123456/19251
-#EXTINF:-1,HBO Signature HD
-http://lista.lorddark.club:80/denio/123456/832
-#EXTINF:-1,HBO Signature HD³
-http://lista.lorddark.club:80/denio/123456/1123
-#EXTINF:-1,HBO Signature FHD [1]
-http://lista.lorddark.club:80/denio/123456/19010
-#EXTINF:-1,HBO Signature FHD
-http://lista.lorddark.club:80/denio/123456/1006
-#EXTINF:-1,HBO Mundi SD [1]
-http://lista.lorddark.club:80/denio/123456/19260
-#EXTINF:-1,HBO Mundi SD
-http://lista.lorddark.club:80/denio/123456/540
-#EXTINF:-1,HBO Mundi HD [1]
-http://lista.lorddark.club:80/denio/123456/19261
-#EXTINF:-1,HBO Mundi HD
-http://lista.lorddark.club:80/denio/123456/837
-#EXTINF:-1,HBO Mundi FHD [1]
-http://lista.lorddark.club:80/denio/123456/19014
-#EXTINF:-1,HBO Mundi FHD
-http://lista.lorddark.club:80/denio/123456/1013
-#EXTINF:-1,HBO Pop SD [1]
-http://lista.lorddark.club:80/denio/123456/19264
-#EXTINF:-1,HBO Pop SD
-http://lista.lorddark.club:80/denio/123456/542
-#EXTINF:-1,HBO Pop HD [1]
-http://lista.lorddark.club:80/denio/123456/19265
-#EXTINF:-1,HBO Pop HD
-http://lista.lorddark.club:80/denio/123456/839
-#EXTINF:-1,HBO Pop FHD [1]
-http://lista.lorddark.club:80/denio/123456/19016
-#EXTINF:-1,HBO Pop FHD
-http://lista.lorddark.club:80/denio/123456/1015
-#EXTINF:-1,HBO Xtreme SD [1]
-http://lista.lorddark.club:80/denio/123456/19262
-#EXTINF:-1,HBO Xtreme SD
-http://lista.lorddark.club:80/denio/123456/541
-#EXTINF:-1,HBO Xtreme HD [1]
-http://lista.lorddark.club:80/denio/123456/19263
-#EXTINF:-1,HBO Xtreme HD
-http://lista.lorddark.club:80/denio/123456/838
-#EXTINF:-1,HBO Xtreme FHD [1]
-http://lista.lorddark.club:80/denio/123456/19015
-#EXTINF:-1,HBO Xtreme FHD
-http://lista.lorddark.club:80/denio/123456/1014
-#EXTINF:-1,AXN SD LEG [1]
-http://lista.lorddark.club:80/denio/123456/19512
-#EXTINF:-1,AXN HD LEG [1]
-http://lista.lorddark.club:80/denio/123456/19511
-#EXTINF:-1,Canal Sony SD LEG [1]
-http://lista.lorddark.club:80/denio/123456/19546
-#EXTINF:-1,Canal Sony HD LEG [1]
-http://lista.lorddark.club:80/denio/123456/19545
-#EXTINF:-1,FX SD LEG [1]
-http://lista.lorddark.club:80/denio/123456/19534
-#EXTINF:-1,FX HD LEG [1]
-http://lista.lorddark.club:80/denio/123456/19533
-#EXTINF:-1,STAR CHANNEL SD LEG [1]
-http://lista.lorddark.club:80/denio/123456/19514
-#EXTINF:-1,STAR CHANNEL HD LEG [1]
-http://lista.lorddark.club:80/denio/123456/19513
-#EXTINF:-1,HBO SD LEG [1]
-http://lista.lorddark.club:80/denio/123456/19516
-#EXTINF:-1,HBO HD LEG [1]
-http://lista.lorddark.club:80/denio/123456/19515
-#EXTINF:-1,HBO Mundi SD LEG [1]
-http://lista.lorddark.club:80/denio/123456/19520
-#EXTINF:-1,HBO Plus SD LEG [1]
-http://lista.lorddark.club:80/denio/123456/19518
-#EXTINF:-1,HBO Plus HD LEG [1]
-http://lista.lorddark.club:80/denio/123456/19517
-#EXTINF:-1,HBO Pop SD LEG [1]
-http://lista.lorddark.club:80/denio/123456/19536
-#EXTINF:-1,HBO Pop HD LEG [1]
-http://lista.lorddark.club:80/denio/123456/19535
-#EXTINF:-1,HBO Xtreme SD LEG [1]
-http://lista.lorddark.club:80/denio/123456/19519
-#EXTINF:-1,Megapix SD LEG [1]
-http://lista.lorddark.club:80/denio/123456/19538
-#EXTINF:-1,Megapix HD LEG [1]
-http://lista.lorddark.club:80/denio/123456/19537
-#EXTINF:-1,Space SD LEG [1]
-http://lista.lorddark.club:80/denio/123456/19540
-#EXTINF:-1,Space HD LEG [1]
-http://lista.lorddark.club:80/denio/123456/19539
-#EXTINF:-1,Telecine Action SD¹ LEG
-http://lista.lorddark.club:80/denio/123456/19522
-#EXTINF:-1,Telecine Action HD¹ LEG
-http://lista.lorddark.club:80/denio/123456/19521
-#EXTINF:-1,Telecine Fun SD¹ LEG
-http://lista.lorddark.club:80/denio/123456/19524
-#EXTINF:-1,Telecine Fun HD¹ LEG
-http://lista.lorddark.club:80/denio/123456/19523
-#EXTINF:-1,Telecine Pipoca SD LEG¹
-http://lista.lorddark.club:80/denio/123456/19526
-#EXTINF:-1,Telecine Pipoca HD LEG¹
-http://lista.lorddark.club:80/denio/123456/19525
-#EXTINF:-1,Telecine Premium HD LEG²
-http://lista.lorddark.club:80/denio/123456/19528
-#EXTINF:-1,Telecine Premium HD LEG¹
-http://lista.lorddark.club:80/denio/123456/19527
-#EXTINF:-1,Telecine Touch SD LEG¹
-http://lista.lorddark.club:80/denio/123456/19530
-#EXTINF:-1,Telecine Touch HD LEG¹
-http://lista.lorddark.club:80/denio/123456/19529
-#EXTINF:-1,TNT SD LEG [1]
-http://lista.lorddark.club:80/denio/123456/19532
-#EXTINF:-1,TNT HD LEG [1]
-http://lista.lorddark.club:80/denio/123456/19531
-#EXTINF:-1,TNT Series SD LEG [1]
-http://lista.lorddark.club:80/denio/123456/19542
-#EXTINF:-1,TNT Series HD LEG [1]
-http://lista.lorddark.club:80/denio/123456/19541
-#EXTINF:-1,Warner SD LEG [1]
-http://lista.lorddark.club:80/denio/123456/19544
-#EXTINF:-1,Warner HD LEG [1]
-http://lista.lorddark.club:80/denio/123456/19543
-#EXTINF:-1,Cine Sky 1
-http://lista.lorddark.club:80/denio/123456/44914
-#EXTINF:-1,Cine Sky 1 ²
-http://lista.lorddark.club:80/denio/123456/44748
-#EXTINF:-1,Cine Sky 2
-http://lista.lorddark.club:80/denio/123456/44915
-#EXTINF:-1,Cine Sky 2 ²
-http://lista.lorddark.club:80/denio/123456/44749
-#EXTINF:-1,Cine Sky 3
-http://lista.lorddark.club:80/denio/123456/44916
-#EXTINF:-1,Cine Sky 4
-http://lista.lorddark.club:80/denio/123456/44917
-#EXTINF:-1,Cine Sky 5
-http://lista.lorddark.club:80/denio/123456/44918
-#EXTINF:-1,Cine Sky 5 ²
-http://lista.lorddark.club:80/denio/123456/44750
-#EXTINF:-1,Cine Sky 6
-http://lista.lorddark.club:80/denio/123456/44919
-#EXTINF:-1,Cine Sky 7
-http://lista.lorddark.club:80/denio/123456/44920
-#EXTINF:-1,Cine Sky 8
-http://lista.lorddark.club:80/denio/123456/44921
-#EXTINF:-1,Cine Sky 9
-http://lista.lorddark.club:80/denio/123456/44922
-#EXTINF:-1,Cine Sky 10
-http://lista.lorddark.club:80/denio/123456/44923
-#EXTINF:-1,Baby TV SD [1]
-http://lista.lorddark.club:80/denio/123456/19156
-#EXTINF:-1,Baby TV SD
-http://lista.lorddark.club:80/denio/123456/483
-#EXTINF:-1,Boomerang SD [1]
-http://lista.lorddark.club:80/denio/123456/19165
-#EXTINF:-1,Boomerang HD [1]
-http://lista.lorddark.club:80/denio/123456/19166
-#EXTINF:-1,Boomerang  FHD [1]
-http://lista.lorddark.club:80/denio/123456/18982
-#EXTINF:-1,Boomerang FHD
-http://lista.lorddark.club:80/denio/123456/970
-#EXTINF:-1,Cartoon Network SD [1]
-http://lista.lorddark.club:80/denio/123456/19172
-#EXTINF:-1,Cartoon Network SD
-http://lista.lorddark.club:80/denio/123456/494
-#EXTINF:-1,Cartoon Network HD [1]
-http://lista.lorddark.club:80/denio/123456/19173
-#EXTINF:-1,Cartoon Network HD
-http://lista.lorddark.club:80/denio/123456/797
-#EXTINF:-1,Cartoon Network FHD [1]
-http://lista.lorddark.club:80/denio/123456/18984
-#EXTINF:-1,Cartoon Network FHD
-http://lista.lorddark.club:80/denio/123456/973
-#EXTINF:-1,Discovery Kids SD [1]
-http://lista.lorddark.club:80/denio/123456/19188
-#EXTINF:-1,Discovery Kids SD
-http://lista.lorddark.club:80/denio/123456/501
-#EXTINF:-1,Discovery Kids HD [1]
-http://lista.lorddark.club:80/denio/123456/19189
-#EXTINF:-1,Discovery Kids HD
-http://lista.lorddark.club:80/denio/123456/804
-#EXTINF:-1,Discovery Kids FHD [1]
-http://lista.lorddark.club:80/denio/123456/18990
-#EXTINF:-1,Discovery Kids FHD
-http://lista.lorddark.club:80/denio/123456/980
-#EXTINF:-1,Disney Channel SD [1]
-http://lista.lorddark.club:80/denio/123456/19198
-#EXTINF:-1,Disney Channel SD
-http://lista.lorddark.club:80/denio/123456/503
-#EXTINF:-1,Disney Channel HD [1]
-http://lista.lorddark.club:80/denio/123456/19199
-#EXTINF:-1,Disney Channel HD
-http://lista.lorddark.club:80/denio/123456/809
-#EXTINF:-1,Disney Channel HD³
-http://lista.lorddark.club:80/denio/123456/1095
-#EXTINF:-1,Disney Channel FHD [1]
-http://lista.lorddark.club:80/denio/123456/19096
-#EXTINF:-1,Disney Channel FHD
-http://lista.lorddark.club:80/denio/123456/985
-#EXTINF:-1,Disney Jr SD [1]
-http://lista.lorddark.club:80/denio/123456/19200
-#EXTINF:-1,Disney Jr SD
-http://lista.lorddark.club:80/denio/123456/504
-#EXTINF:-1,Disney Jr HD [1]
-http://lista.lorddark.club:80/denio/123456/19375
-#EXTINF:-1,Disney Jr HD
-http://lista.lorddark.club:80/denio/123456/810
-#EXTINF:-1,Disney Jr HD³
-http://lista.lorddark.club:80/denio/123456/1097
-#EXTINF:-1,Disney Jr FHD [1]
-http://lista.lorddark.club:80/denio/123456/19045
-#EXTINF:-1,Disney Jr FHD
-http://lista.lorddark.club:80/denio/123456/986
-#EXTINF:-1,Disney XD SD [1]
-http://lista.lorddark.club:80/denio/123456/19201
-#EXTINF:-1,Disney XD SD
-http://lista.lorddark.club:80/denio/123456/505
-#EXTINF:-1,Disney XD HD³
-http://lista.lorddark.club:80/denio/123456/1099
-#EXTINF:-1,Gloob SD [1]
-http://lista.lorddark.club:80/denio/123456/19234
-#EXTINF:-1,Gloob SD
-http://lista.lorddark.club:80/denio/123456/528
-#EXTINF:-1,Gloob HD [1]
-http://lista.lorddark.club:80/denio/123456/19235
-#EXTINF:-1,Gloob HD
-http://lista.lorddark.club:80/denio/123456/826
-#EXTINF:-1,Gloob HD³
-http://lista.lorddark.club:80/denio/123456/1116
-#EXTINF:-1,Gloob FHD [1]
-http://lista.lorddark.club:80/denio/123456/19103
-#EXTINF:-1,Gloob FHD
-http://lista.lorddark.club:80/denio/123456/1001
-#EXTINF:-1,Gloobinho SD [1]
-http://lista.lorddark.club:80/denio/123456/19237
-#EXTINF:-1,Gloobinho HD [1]
-http://lista.lorddark.club:80/denio/123456/19236
-#EXTINF:-1,Gloobinho HD³
-http://lista.lorddark.club:80/denio/123456/1117
-#EXTINF:-1,Gloobinho FHD [1]
-http://lista.lorddark.club:80/denio/123456/19005
-#EXTINF:-1,NatGeo Kids SD [1]
-http://lista.lorddark.club:80/denio/123456/19276
-#EXTINF:-1,NatGeo Kids SD
-http://lista.lorddark.club:80/denio/123456/548
-#EXTINF:-1,NatGeo Kids HD [1]
-http://lista.lorddark.club:80/denio/123456/19277
-#EXTINF:-1,NatGeo Kids HD
-http://lista.lorddark.club:80/denio/123456/844
-#EXTINF:-1,NatGeo Kids FHD [1]
-http://lista.lorddark.club:80/denio/123456/19023
-#EXTINF:-1,NatGeo Kids FHD
-http://lista.lorddark.club:80/denio/123456/1021
-#EXTINF:-1,Nick SD [1]
-http://lista.lorddark.club:80/denio/123456/19283
-#EXTINF:-1,Nick SD
-http://lista.lorddark.club:80/denio/123456/553
-#EXTINF:-1,Nick HD [1]
-http://lista.lorddark.club:80/denio/123456/19284
-#EXTINF:-1,Nick HD
-http://lista.lorddark.club:80/denio/123456/846
-#EXTINF:-1,Nick FHD [1]
-http://lista.lorddark.club:80/denio/123456/19026
-#EXTINF:-1,Nick FHD
-http://lista.lorddark.club:80/denio/123456/1022
-#EXTINF:-1,Nick Jr SD [1]
-http://lista.lorddark.club:80/denio/123456/19281
-#EXTINF:-1,Nick Jr SD
-http://lista.lorddark.club:80/denio/123456/552
-#EXTINF:-1,Nick Jr HD [1]
-http://lista.lorddark.club:80/denio/123456/19282
-#EXTINF:-1,Nick Jr HD
-http://lista.lorddark.club:80/denio/123456/847
-#EXTINF:-1,Nick Jr FHD [1]
-http://lista.lorddark.club:80/denio/123456/19025
-#EXTINF:-1,Nick Jr FHD
-http://lista.lorddark.club:80/denio/123456/1023
-#EXTINF:-1,Playkids SD [1]
-http://lista.lorddark.club:80/denio/123456/19386
-#EXTINF:-1,Playkids SD
-http://lista.lorddark.club:80/denio/123456/746
-#EXTINF:-1,Playkids HD [1]
-http://lista.lorddark.club:80/denio/123456/19385
-#EXTINF:-1,Playkids FHD [1]
-http://lista.lorddark.club:80/denio/123456/19052
-#EXTINF:-1,Tooncast SD [1]
-http://lista.lorddark.club:80/denio/123456/19352
-#EXTINF:-1,Tooncast SD
-http://lista.lorddark.club:80/denio/123456/596
-#EXTINF:-1,TV Globinho SD
-http://lista.lorddark.club:80/denio/123456/623
-#EXTINF:-1,TV RA-TIM-BUM SD [1]
-http://lista.lorddark.club:80/denio/123456/19360
-#EXTINF:-1,TV RA-TIM-BUM SD
-http://lista.lorddark.club:80/denio/123456/607
-#EXTINF:-1,TV RA-TIM-BUM HD [1]
-http://lista.lorddark.club:80/denio/123456/19361
-#EXTINF:-1,TV RA-TIM-BUM HD
-http://lista.lorddark.club:80/denio/123456/877
-#EXTINF:-1,TV RA-TIM-BUM FHD [1]
-http://lista.lorddark.club:80/denio/123456/19040
-#EXTINF:-1,Zoomoo [1]
-http://lista.lorddark.club:80/denio/123456/19400
-#EXTINF:-1,Zoomoo SD
-http://lista.lorddark.club:80/denio/123456/619
-#EXTINF:-1,Animal Planet SD [1]
-http://lista.lorddark.club:80/denio/123456/19150
-#EXTINF:-1,Animal Planet SD
-http://lista.lorddark.club:80/denio/123456/481
-#EXTINF:-1,Animal Planet HD [1]
-http://lista.lorddark.club:80/denio/123456/19151
-#EXTINF:-1,Animal Planet HD
-http://lista.lorddark.club:80/denio/123456/792
-#EXTINF:-1,Animal Planet FHD [1]
-http://lista.lorddark.club:80/denio/123456/18977
-#EXTINF:-1,Animal Planet FHD
-http://lista.lorddark.club:80/denio/123456/965
-#EXTINF:-1,Discovery Channel SD [1]
-http://lista.lorddark.club:80/denio/123456/19182
-#EXTINF:-1,Discovery Channel SD
-http://lista.lorddark.club:80/denio/123456/499
-#EXTINF:-1,Discovery Channel HD [1]
-http://lista.lorddark.club:80/denio/123456/19183
-#EXTINF:-1,Discovery Channel HD
-http://lista.lorddark.club:80/denio/123456/801
-#EXTINF:-1,Discovery Channel FHD [1]
-http://lista.lorddark.club:80/denio/123456/19095
-#EXTINF:-1,Discovery Channel FHD
-http://lista.lorddark.club:80/denio/123456/977
-#EXTINF:-1,Discovery Science SD [1]
-http://lista.lorddark.club:80/denio/123456/19190
-#EXTINF:-1,Discovery Science HD [1]
-http://lista.lorddark.club:80/denio/123456/19191
-#EXTINF:-1,Discovery Science HD
-http://lista.lorddark.club:80/denio/123456/805
-#EXTINF:-1,Discovery Science FHD [1]
-http://lista.lorddark.club:80/denio/123456/18991
-#EXTINF:-1,Discovery Science FHD
-http://lista.lorddark.club:80/denio/123456/981
-#EXTINF:-1,Discovery Theater SD [1]
-http://lista.lorddark.club:80/denio/123456/19192
-#EXTINF:-1,Discovery Theater HD [1]
-http://lista.lorddark.club:80/denio/123456/19193
-#EXTINF:-1,Discovery Theater HD
-http://lista.lorddark.club:80/denio/123456/806
-#EXTINF:-1,Discovery Theater FHD [1]
-http://lista.lorddark.club:80/denio/123456/18992
-#EXTINF:-1,Discovery Theater FHD
-http://lista.lorddark.club:80/denio/123456/982
-#EXTINF:-1,Discovery Turbo SD [1]
-http://lista.lorddark.club:80/denio/123456/19194
-#EXTINF:-1,Discovery Turbo SD
-http://lista.lorddark.club:80/denio/123456/502
-#EXTINF:-1,Discovery Turbo HD [1]
-http://lista.lorddark.club:80/denio/123456/19195
-#EXTINF:-1,Discovery Turbo HD
-http://lista.lorddark.club:80/denio/123456/807
-#EXTINF:-1,Discovery Turbo FHD [1]
-http://lista.lorddark.club:80/denio/123456/18993
-#EXTINF:-1,Discovery Turbo FHD
-http://lista.lorddark.club:80/denio/123456/983
-#EXTINF:-1,Discovery World SD [1]
-http://lista.lorddark.club:80/denio/123456/19196
-#EXTINF:-1,Discovery World HD [1]
-http://lista.lorddark.club:80/denio/123456/19197
-#EXTINF:-1,Discovery World HD
-http://lista.lorddark.club:80/denio/123456/808
-#EXTINF:-1,Discovery World FHD [1]
-http://lista.lorddark.club:80/denio/123456/18994
-#EXTINF:-1,Discovery World FHD
-http://lista.lorddark.club:80/denio/123456/984
-#EXTINF:-1,H2 SD [1]
-http://lista.lorddark.club:80/denio/123456/19240
-#EXTINF:-1,H2 SD
-http://lista.lorddark.club:80/denio/123456/535
-#EXTINF:-1,H2 HD [1]
-http://lista.lorddark.club:80/denio/123456/19241
-#EXTINF:-1,H2 HD
-http://lista.lorddark.club:80/denio/123456/833
-#EXTINF:-1,H2 FHD [1]
-http://lista.lorddark.club:80/denio/123456/19007
-#EXTINF:-1,H2 FHD
-http://lista.lorddark.club:80/denio/123456/1009
-#EXTINF:-1,History SD [1]
-http://lista.lorddark.club:80/denio/123456/19252
-#EXTINF:-1,History SD
-http://lista.lorddark.club:80/denio/123456/620
-#EXTINF:-1,History HD [1]
-http://lista.lorddark.club:80/denio/123456/19253
-#EXTINF:-1,History HD
-http://lista.lorddark.club:80/denio/123456/834
-#EXTINF:-1,History FHD [1]
-http://lista.lorddark.club:80/denio/123456/19011
-#EXTINF:-1,History FHD
-http://lista.lorddark.club:80/denio/123456/1008
-#EXTINF:-1,ID - Investigation Discovery SD [1]
-http://lista.lorddark.club:80/denio/123456/19254
-#EXTINF:-1,ID - Investigacao Discovery SD
-http://lista.lorddark.club:80/denio/123456/536
-#EXTINF:-1,ID - Investigation Discovery HD [1]
-http://lista.lorddark.club:80/denio/123456/19255
-#EXTINF:-1,ID - Investigation Discovery HD
-http://lista.lorddark.club:80/denio/123456/835
-#EXTINF:-1,ID - Investigation Discovery FHD [1]
-http://lista.lorddark.club:80/denio/123456/19012
-#EXTINF:-1,ID - Investigation Discovery FHD
-http://lista.lorddark.club:80/denio/123456/1010
-#EXTINF:-1,Love Nature FHD
-http://lista.lorddark.club:80/denio/123456/44913
-#EXTINF:-1,NatGeo SD [1]
-http://lista.lorddark.club:80/denio/123456/19274
-#EXTINF:-1,NatGeo SD
-http://lista.lorddark.club:80/denio/123456/550
-#EXTINF:-1,NatGeo HD [1]
-http://lista.lorddark.club:80/denio/123456/19275
-#EXTINF:-1,NatGeo HD
-http://lista.lorddark.club:80/denio/123456/843
-#EXTINF:-1,NatGeo FHD [1]
-http://lista.lorddark.club:80/denio/123456/19022
-#EXTINF:-1,NatGeo FHD
-http://lista.lorddark.club:80/denio/123456/1019
-#EXTINF:-1,NatGeo Wild SD [1]
-http://lista.lorddark.club:80/denio/123456/19279
-#EXTINF:-1,NatGeo Wild SD
-http://lista.lorddark.club:80/denio/123456/549
-#EXTINF:-1,NatGeo Wild HD [1]
-http://lista.lorddark.club:80/denio/123456/19278
-#EXTINF:-1,NatGeo Wild HD
-http://lista.lorddark.club:80/denio/123456/845
-#EXTINF:-1,NatGeo Wild FHD [1]
-http://lista.lorddark.club:80/denio/123456/19024
-#EXTINF:-1,NatGeo Wild FHD
-http://lista.lorddark.club:80/denio/123456/1020
-#EXTINF:-1,Smithsonian SD [1]
-http://lista.lorddark.club:80/denio/123456/19397
-#EXTINF:-1,Smithsonian HD [1]
-http://lista.lorddark.club:80/denio/123456/19396
-#EXTINF:-1,Smithsonian FHD [1]
-http://lista.lorddark.club:80/denio/123456/19054
-#EXTINF:-1,Arte 1 SD [1]
-http://lista.lorddark.club:80/denio/123456/19152
-#EXTINF:-1,Arte 1 HD [1]
-http://lista.lorddark.club:80/denio/123456/19153
-#EXTINF:-1,Arte 1 FHD [1]
-http://lista.lorddark.club:80/denio/123456/18978
-#EXTINF:-1,Canal Brasil SD [1]
-http://lista.lorddark.club:80/denio/123456/19167
-#EXTINF:-1,Canal Brasil SD
-http://lista.lorddark.club:80/denio/123456/490
-#EXTINF:-1,Canal Brasil HD [1]
-http://lista.lorddark.club:80/denio/123456/19168
-#EXTINF:-1,Canal Brasil HD³
-http://lista.lorddark.club:80/denio/123456/1092
-#EXTINF:-1,Canal Brasil FHD [1]
-http://lista.lorddark.club:80/denio/123456/19048
-#EXTINF:-1,Canal Brasil FHD
-http://lista.lorddark.club:80/denio/123456/971
-#EXTINF:-1,Curta! SD [1]
-http://lista.lorddark.club:80/denio/123456/19180
-#EXTINF:-1,Curta! SD
-http://lista.lorddark.club:80/denio/123456/498
-#EXTINF:-1,Curta! HD [1]
-http://lista.lorddark.club:80/denio/123456/19181
-#EXTINF:-1,Curta! FHD [1]
-http://lista.lorddark.club:80/denio/123456/18987
-#EXTINF:-1,Discovery Home & Health SD [1]
-http://lista.lorddark.club:80/denio/123456/19186
-#EXTINF:-1,Discovery Home & Health SD
-http://lista.lorddark.club:80/denio/123456/500
-#EXTINF:-1,Discovery Home & Health HD [1]
-http://lista.lorddark.club:80/denio/123456/19187
-#EXTINF:-1,Discovery Home & Health HD
-http://lista.lorddark.club:80/denio/123456/803
-#EXTINF:-1,Discovery Home & Health FHD [1]
-http://lista.lorddark.club:80/denio/123456/18989
-#EXTINF:-1,Discovery Home & Health FHD
-http://lista.lorddark.club:80/denio/123456/979
-#EXTINF:-1,DOG TV HD³
-http://lista.lorddark.club:80/denio/123456/48556
-#EXTINF:-1,DOG TV FHD³
-http://lista.lorddark.club:80/denio/123456/48557
-#EXTINF:-1,E! SD [1]
-http://lista.lorddark.club:80/denio/123456/19202
-#EXTINF:-1,E! SD
-http://lista.lorddark.club:80/denio/123456/506
-#EXTINF:-1,E! HD [1]
-http://lista.lorddark.club:80/denio/123456/19203
-#EXTINF:-1,E! HD
-http://lista.lorddark.club:80/denio/123456/811
-#EXTINF:-1,E! HD³
-http://lista.lorddark.club:80/denio/123456/1101
-#EXTINF:-1,E! FHD [1]
-http://lista.lorddark.club:80/denio/123456/18995
-#EXTINF:-1,E! FHD
-http://lista.lorddark.club:80/denio/123456/987
-#EXTINF:-1,Food Network SD [1]
-http://lista.lorddark.club:80/denio/123456/19214
-#EXTINF:-1,Food Network SD
-http://lista.lorddark.club:80/denio/123456/515
-#EXTINF:-1,Food Network HD [1]
-http://lista.lorddark.club:80/denio/123456/19215
-#EXTINF:-1,Food Network HD
-http://lista.lorddark.club:80/denio/123456/816
-#EXTINF:-1,Food Network FHD [1]
-http://lista.lorddark.club:80/denio/123456/18999
-#EXTINF:-1,Food Network FHD
-http://lista.lorddark.club:80/denio/123456/993
-#EXTINF:-1,GNT SD [1]
-http://lista.lorddark.club:80/denio/123456/19238
-#EXTINF:-1,GNT SD
-http://lista.lorddark.club:80/denio/123456/529
-#EXTINF:-1,GNT HD [1]
-http://lista.lorddark.club:80/denio/123456/19239
-#EXTINF:-1,GNT HD
-http://lista.lorddark.club:80/denio/123456/827
-#EXTINF:-1,GNT HD³
-http://lista.lorddark.club:80/denio/123456/1118
-#EXTINF:-1,GNT FHD [1]
-http://lista.lorddark.club:80/denio/123456/19006
-#EXTINF:-1,GNT FHD³
-http://lista.lorddark.club:80/denio/123456/1002
-#EXTINF:-1,HGTV SD [1]
-http://lista.lorddark.club:80/denio/123456/19184
-#EXTINF:-1,HGTV HD [1]
-http://lista.lorddark.club:80/denio/123456/19185
-#EXTINF:-1,HGTV HD
-http://lista.lorddark.club:80/denio/123456/802
-#EXTINF:-1,HGTV FHD [1]
-http://lista.lorddark.club:80/denio/123456/18988
-#EXTINF:-1,HGTV FHD
-http://lista.lorddark.club:80/denio/123456/978
-#EXTINF:-1,Lifetime SD [1]
-http://lista.lorddark.club:80/denio/123456/19256
-#EXTINF:-1,Lifetime SD
-http://lista.lorddark.club:80/denio/123456/538
-#EXTINF:-1,Lifetime HD [1]
-http://lista.lorddark.club:80/denio/123456/19257
-#EXTINF:-1,Lifetime HD
-http://lista.lorddark.club:80/denio/123456/836
-#EXTINF:-1,Lifetime FHD [1]
-http://lista.lorddark.club:80/denio/123456/19013
-#EXTINF:-1,Lifetime FHD
-http://lista.lorddark.club:80/denio/123456/1011
-#EXTINF:-1,Mais Globosat SD [1]
-http://lista.lorddark.club:80/denio/123456/19258
-#EXTINF:-1,Mais Globosat SD
-http://lista.lorddark.club:80/denio/123456/539
-#EXTINF:-1,Mais Globosat HD [1]
-http://lista.lorddark.club:80/denio/123456/19259
-#EXTINF:-1,Mais Globosat HD
-http://lista.lorddark.club:80/denio/123456/825
-#EXTINF:-1,Mais Globosat HD³
-http://lista.lorddark.club:80/denio/123456/1124
-#EXTINF:-1,Mais Globosat FHD [1]
-http://lista.lorddark.club:80/denio/123456/19047
-#EXTINF:-1,Mais Globosat FHD
-http://lista.lorddark.club:80/denio/123456/1012
-#EXTINF:-1,NHK SD
-http://lista.lorddark.club:80/denio/123456/551
-#EXTINF:-1,NHK SD ²
-http://lista.lorddark.club:80/denio/123456/44909
-#EXTINF:-1,NHK World SD
-http://lista.lorddark.club:80/denio/123456/44910
-#EXTINF:-1,NHK World SD ²
-http://lista.lorddark.club:80/denio/123456/44912
-#EXTINF:-1,NHK World HD
-http://lista.lorddark.club:80/denio/123456/44911
-#EXTINF:-1,OFF SD [1]
-http://lista.lorddark.club:80/denio/123456/19285
-#EXTINF:-1,OFF SD
-http://lista.lorddark.club:80/denio/123456/554
-#EXTINF:-1,OFF HD [1]
-http://lista.lorddark.club:80/denio/123456/19286
-#EXTINF:-1,OFF HD
-http://lista.lorddark.club:80/denio/123456/848
-#EXTINF:-1,OFF HD³
-http://lista.lorddark.club:80/denio/123456/1126
-#EXTINF:-1,OFF FHD [1]
-http://lista.lorddark.club:80/denio/123456/19027
-#EXTINF:-1,OFF FHD
-http://lista.lorddark.club:80/denio/123456/1024
-#EXTINF:-1,TLC SD [1]
-http://lista.lorddark.club:80/denio/123456/19346
-#EXTINF:-1,TLC SD
-http://lista.lorddark.club:80/denio/123456/593
-#EXTINF:-1,TLC HD [1]
-http://lista.lorddark.club:80/denio/123456/19347
-#EXTINF:-1,TLC HD
-http://lista.lorddark.club:80/denio/123456/872
-#EXTINF:-1,TLC FHD [1]
-http://lista.lorddark.club:80/denio/123456/19036
-#EXTINF:-1,TLC FHD
-http://lista.lorddark.club:80/denio/123456/1048
-#EXTINF:-1,TruTV SD [1]
-http://lista.lorddark.club:80/denio/123456/19362
-#EXTINF:-1,TruTV SD
-http://lista.lorddark.club:80/denio/123456/598
-#EXTINF:-1,TruTV SD
-http://lista.lorddark.club:80/denio/123456/597
-#EXTINF:-1,TruTV HD [1]
-http://lista.lorddark.club:80/denio/123456/19363
-#EXTINF:-1,TruTV HD³
-http://lista.lorddark.club:80/denio/123456/1152
-#EXTINF:-1,TruTV FHD [1]
-http://lista.lorddark.club:80/denio/123456/19039
-#EXTINF:-1,VIVA SD [1]
-http://lista.lorddark.club:80/denio/123456/19369
-#EXTINF:-1,VIVA SD
-http://lista.lorddark.club:80/denio/123456/616
-#EXTINF:-1,VIVA HD [1]
-http://lista.lorddark.club:80/denio/123456/19370
-#EXTINF:-1,VIVA HD
-http://lista.lorddark.club:80/denio/123456/881
-#EXTINF:-1,VIVA HD³
-http://lista.lorddark.club:80/denio/123456/1153
-#EXTINF:-1,VIVA FHD [1]
-http://lista.lorddark.club:80/denio/123456/19122
-#EXTINF:-1,Woohoo SD [1]
-http://lista.lorddark.club:80/denio/123456/19373
-#EXTINF:-1,Woohoo SD
-http://lista.lorddark.club:80/denio/123456/618
-#EXTINF:-1,Woohoo HD [1]
-http://lista.lorddark.club:80/denio/123456/19374
-#EXTINF:-1,Woohoo FHD [1]
-http://lista.lorddark.club:80/denio/123456/19044
-#EXTINF:-1,Woohoo FHD
-http://lista.lorddark.club:80/denio/123456/1057
-#EXTINF:-1,BIS SD [1]
-http://lista.lorddark.club:80/denio/123456/19163
-#EXTINF:-1,BIS SD
-http://lista.lorddark.club:80/denio/123456/488
-#EXTINF:-1,BIS HD [1]
-http://lista.lorddark.club:80/denio/123456/19164
-#EXTINF:-1,BIS HD
-http://lista.lorddark.club:80/denio/123456/795
-#EXTINF:-1,BIS HD³
-http://lista.lorddark.club:80/denio/123456/1091
-#EXTINF:-1,BIS FHD [1]
-http://lista.lorddark.club:80/denio/123456/19093
-#EXTINF:-1,BIS FHD
-http://lista.lorddark.club:80/denio/123456/969
-#EXTINF:-1,MTV SD [1]
-http://lista.lorddark.club:80/denio/123456/19268
-#EXTINF:-1,MTV SD
-http://lista.lorddark.club:80/denio/123456/544
-#EXTINF:-1,MTV HD [1]
-http://lista.lorddark.club:80/denio/123456/19269
-#EXTINF:-1,MTV HD
-http://lista.lorddark.club:80/denio/123456/841
-#EXTINF:-1,MTV FHD [1]
-http://lista.lorddark.club:80/denio/123456/19018
-#EXTINF:-1,MTV FHD
-http://lista.lorddark.club:80/denio/123456/1017
-#EXTINF:-1,MTV LIVE SD [1]
-http://lista.lorddark.club:80/denio/123456/19376
-#EXTINF:-1,MTV LIVE HD [1]
-http://lista.lorddark.club:80/denio/123456/19377
-#EXTINF:-1,MTV Live FHD [1]
-http://lista.lorddark.club:80/denio/123456/19019
-#EXTINF:-1,Multishow SD [1]
-http://lista.lorddark.club:80/denio/123456/19270
-#EXTINF:-1,Multishow SD
-http://lista.lorddark.club:80/denio/123456/545
-#EXTINF:-1,Multishow HD [1]
-http://lista.lorddark.club:80/denio/123456/19271
-#EXTINF:-1,Multishow HD
-http://lista.lorddark.club:80/denio/123456/842
-#EXTINF:-1,Multishow HD³
-http://lista.lorddark.club:80/denio/123456/1125
-#EXTINF:-1,Multishow FHD [1]
-http://lista.lorddark.club:80/denio/123456/19020
-#EXTINF:-1,Multishow FHD
-http://lista.lorddark.club:80/denio/123456/1018
-#EXTINF:-1,Music Box Brasil SD [1]
-http://lista.lorddark.club:80/denio/123456/19272
-#EXTINF:-1,Music Box Brazil SD
-http://lista.lorddark.club:80/denio/123456/546
-#EXTINF:-1,Music Box Brazil SD ²
-http://lista.lorddark.club:80/denio/123456/547
-#EXTINF:-1,Music Box Brasil HD [1]
-http://lista.lorddark.club:80/denio/123456/19273
-#EXTINF:-1,Music Box Brasil FHD [1]
-http://lista.lorddark.club:80/denio/123456/19021
-#EXTINF:-1,Play TV SD
-http://lista.lorddark.club:80/denio/123456/557
-#EXTINF:-1,Prime Box Brasil SD [1]
-http://lista.lorddark.club:80/denio/123456/19303
-#EXTINF:-1,Prime Box Brazil SD
-http://lista.lorddark.club:80/denio/123456/568
-#EXTINF:-1,Prime Box Brasil HD [1]
-http://lista.lorddark.club:80/denio/123456/19304
-#EXTINF:-1,Prime Box Brasil FHD [1]
-http://lista.lorddark.club:80/denio/123456/19029
-#EXTINF:-1,VH1 SD [1]
-http://lista.lorddark.club:80/denio/123456/19366
-#EXTINF:-1,VH1 HD [1]
-http://lista.lorddark.club:80/denio/123456/19367
-#EXTINF:-1,VH1 HD
-http://lista.lorddark.club:80/denio/123456/880
-#EXTINF:-1,VH1 FHD [1]
-http://lista.lorddark.club:80/denio/123456/19042
-#EXTINF:-1,VH1 FHD
-http://lista.lorddark.club:80/denio/123456/1055
-#EXTINF:-1,VH1 MegaHits SD [1]
-http://lista.lorddark.club:80/denio/123456/19368
-#EXTINF:-1,VH1 MegaHits SD
-http://lista.lorddark.club:80/denio/123456/615
-#EXTINF:-1,BAND News SD¹
-http://lista.lorddark.club:80/denio/123456/19159
-#EXTINF:-1,BAND News SD²
-http://lista.lorddark.club:80/denio/123456/486
-#EXTINF:-1,BAND News SD³
-http://lista.lorddark.club:80/denio/123456/201361
-#EXTINF:-1,BAND News HD
-http://lista.lorddark.club:80/denio/123456/201347
-#EXTINF:-1,BAND News HD¹
-http://lista.lorddark.club:80/denio/123456/19160
-#EXTINF:-1,BAND News HD²
-http://lista.lorddark.club:80/denio/123456/201346
-#EXTINF:-1,BAND News FHD
-http://lista.lorddark.club:80/denio/123456/967
-#EXTINF:-1,BAND News FHD¹
-http://lista.lorddark.club:80/denio/123456/18980
-#EXTINF:-1,BAND News FHD²
-http://lista.lorddark.club:80/denio/123456/201362
-#EXTINF:-1,CNN Brasil SD
-http://lista.lorddark.club:80/denio/123456/201348
-#EXTINF:-1,CNN Brasil SD²
-http://lista.lorddark.club:80/denio/123456/201349
-#EXTINF:-1,CNN Brasil SD³
-http://lista.lorddark.club:80/denio/123456/201357
-#EXTINF:-1,CNN Brasil HD
-http://lista.lorddark.club:80/denio/123456/27001
-#EXTINF:-1,CNN Brasil HD¹
-http://lista.lorddark.club:80/denio/123456/27003
-#EXTINF:-1,CNN Brasil HD²
-http://lista.lorddark.club:80/denio/123456/201358
-#EXTINF:-1,CNN Brasil FHD
-http://lista.lorddark.club:80/denio/123456/27002
-#EXTINF:-1,CNN Brasil FHD¹
-http://lista.lorddark.club:80/denio/123456/27004
-#EXTINF:-1,CNN Brasil FHD²
-http://lista.lorddark.club:80/denio/123456/201359
-#EXTINF:-1,CNN Brasil FHD³
-http://lista.lorddark.club:80/denio/123456/201360
-#EXTINF:-1,Globo News SD
-http://lista.lorddark.club:80/denio/123456/524
-#EXTINF:-1,Globo News SD¹
-http://lista.lorddark.club:80/denio/123456/19232
-#EXTINF:-1,Globo News SD²
-http://lista.lorddark.club:80/denio/123456/201364
-#EXTINF:-1,Globo News SD³
-http://lista.lorddark.club:80/denio/123456/201365
-#EXTINF:-1,Globo News HD
-http://lista.lorddark.club:80/denio/123456/824
-#EXTINF:-1,Globo News HD¹
-http://lista.lorddark.club:80/denio/123456/19233
-#EXTINF:-1,Globo News HD²
-http://lista.lorddark.club:80/denio/123456/201366
-#EXTINF:-1,Globo News HD³
-http://lista.lorddark.club:80/denio/123456/1112
-#EXTINF:-1,Globo News FHD
-http://lista.lorddark.club:80/denio/123456/1000
-#EXTINF:-1,Globo News FHD¹
-http://lista.lorddark.club:80/denio/123456/19102
-#EXTINF:-1,Globo News FHD²
-http://lista.lorddark.club:80/denio/123456/48570
-#EXTINF:-1,Record News SD
-http://lista.lorddark.club:80/denio/123456/570
-#EXTINF:-1,Record News SD¹
-http://lista.lorddark.club:80/denio/123456/19307
-#EXTINF:-1,Record News SD³
-http://lista.lorddark.club:80/denio/123456/201368
-#EXTINF:-1,Record News SD²
-http://lista.lorddark.club:80/denio/123456/201367
-#EXTINF:-1,Record News HD¹
-http://lista.lorddark.club:80/denio/123456/19308
-#EXTINF:-1,Record News HD³
-http://lista.lorddark.club:80/denio/123456/1132
-#EXTINF:-1,Record News FHD¹
-http://lista.lorddark.club:80/denio/123456/19030
-#EXTINF:-1,Record News FHD²
-http://lista.lorddark.club:80/denio/123456/201369
-#EXTINF:-1,Boa Vontade TV FHD [1]
-http://lista.lorddark.club:80/denio/123456/19055
-#EXTINF:-1,Cancao Nova SD
-http://lista.lorddark.club:80/denio/123456/493
-#EXTINF:-1,Cancao Nova
-http://lista.lorddark.club:80/denio/123456/19171
-#EXTINF:-1,Novo Tempo SD
-http://lista.lorddark.club:80/denio/123456/622
-#EXTINF:-1,Rede Vida SD [1]
-http://lista.lorddark.club:80/denio/123456/19314
-#EXTINF:-1,Rede Vida SD
-http://lista.lorddark.club:80/denio/123456/575
-#EXTINF:-1,Rede Vida HD [1]
-http://lista.lorddark.club:80/denio/123456/19380
-#EXTINF:-1,Rede Vida HD³
-http://lista.lorddark.club:80/denio/123456/1136
-#EXTINF:-1,Rede Vida FHD [1]
-http://lista.lorddark.club:80/denio/123456/19051
-#EXTINF:-1,TV Aparecida SD
-http://lista.lorddark.club:80/denio/123456/600
-#EXTINF:-1,TV Evangelizar
-http://lista.lorddark.club:80/denio/123456/771
-#EXTINF:-1,AeE FHD H265
-http://lista.lorddark.club:80/denio/123456/48552
-#EXTINF:-1,AeE FHD H265³
-http://lista.lorddark.club:80/denio/123456/48574
-#EXTINF:-1,AeE FHD H265³¹
-http://lista.lorddark.club:80/denio/123456/48559
-#EXTINF:-1,AeE FHD H265 ***
-http://lista.lorddark.club:80/denio/123456/48558
-#EXTINF:-1,AMC FHD H265 *
-http://lista.lorddark.club:80/denio/123456/48564
-#EXTINF:-1,Animal Planet FHD H265
-http://lista.lorddark.club:80/denio/123456/48550
-#EXTINF:-1,Animal Planet 4K³
-http://lista.lorddark.club:80/denio/123456/48617
-#EXTINF:-1,Discovery Channel 4K³
-http://lista.lorddark.club:80/denio/123456/48620
-#EXTINF:-1,AMC FHD H265
-http://lista.lorddark.club:80/denio/123456/48551
-#EXTINF:-1,AXN FHD H265
-http://lista.lorddark.club:80/denio/123456/48549
-#EXTINF:-1,Band 4K³
-http://lista.lorddark.club:80/denio/123456/48625
-#EXTINF:-1,Band TV Goiania FHD H265
-http://lista.lorddark.club:80/denio/123456/48463
-#EXTINF:-1,Band News H.265
-http://lista.lorddark.club:80/denio/123456/48548
-#EXTINF:-1,Band News H.265³
-http://lista.lorddark.club:80/denio/123456/201363
-#EXTINF:-1,BandSports H.265
-http://lista.lorddark.club:80/denio/123456/48547
-#EXTINF:-1,BIS FHD H265
-http://lista.lorddark.club:80/denio/123456/48546
-#EXTINF:-1,Boomerang FHD H265
-http://lista.lorddark.club:80/denio/123456/48545
-#EXTINF:-1,Canal Brasil FHD H265
-http://lista.lorddark.club:80/denio/123456/48544
-#EXTINF:-1,Canal Sony FHD H265
-http://lista.lorddark.club:80/denio/123456/48543
-#EXTINF:-1,Canal Sony FHD H265 *
-http://lista.lorddark.club:80/denio/123456/48595
-#EXTINF:-1,Cartoon Network FHD H265
-http://lista.lorddark.club:80/denio/123456/48542
-#EXTINF:-1,Cartoon Network 4K *
-http://lista.lorddark.club:80/denio/123456/48614
-#EXTINF:-1,Cinemax FHD H265
-http://lista.lorddark.club:80/denio/123456/48541
-#EXTINF:-1,Combate  H.265
-http://lista.lorddark.club:80/denio/123456/48540
-#EXTINF:-1,Combate  H.265²
-http://lista.lorddark.club:80/denio/123456/48576
-#EXTINF:-1,Combate 4K²
-http://lista.lorddark.club:80/denio/123456/48624
-#EXTINF:-1,Comedy Central FHD H265
-http://lista.lorddark.club:80/denio/123456/48539
-#EXTINF:-1,Comedy Central FHD H265³
-http://lista.lorddark.club:80/denio/123456/48563
-#EXTINF:-1,Discovery Channel FHD H265
-http://lista.lorddark.club:80/denio/123456/48538
-#EXTINF:-1,Discovery Channel FHD H265³
-http://lista.lorddark.club:80/denio/123456/48561
-#EXTINF:-1,Discovery Home e Health FHD H265
-http://lista.lorddark.club:80/denio/123456/48536
-#EXTINF:-1,Discovery Kids FHD H265
-http://lista.lorddark.club:80/denio/123456/48535
-#EXTINF:-1,Discovery Science FHD H265
-http://lista.lorddark.club:80/denio/123456/48534
-#EXTINF:-1,Discovery Theater FHD H265
-http://lista.lorddark.club:80/denio/123456/48533
-#EXTINF:-1,Discovery Turbo FHD H265
-http://lista.lorddark.club:80/denio/123456/48532
-#EXTINF:-1,Discovery World FHD H265
-http://lista.lorddark.club:80/denio/123456/48531
-#EXTINF:-1,Disney Channel FHD H265
-http://lista.lorddark.club:80/denio/123456/48530
-#EXTINF:-1,Disney Junior FHD H265
-http://lista.lorddark.club:80/denio/123456/48529
-#EXTINF:-1,E! FHD H265
-http://lista.lorddark.club:80/denio/123456/48528
-#EXTINF:-1,E! FHD H265 *
-http://lista.lorddark.club:80/denio/123456/48562
-#EXTINF:-1,ESPN H.265
-http://lista.lorddark.club:80/denio/123456/48526
-#EXTINF:-1,ESPN 4K²
-http://lista.lorddark.club:80/denio/123456/48610
-#EXTINF:-1,ESPN Extra FHD H265
-http://lista.lorddark.club:80/denio/123456/48527
-#EXTINF:-1,ESPN 2 H.265
-http://lista.lorddark.club:80/denio/123456/48525
-#EXTINF:-1,ESPN Brasil H.265
-http://lista.lorddark.club:80/denio/123456/48524
-#EXTINF:-1,FishTV FHD H265
-http://lista.lorddark.club:80/denio/123456/48523
-#EXTINF:-1,Fish TV H.265³
-http://lista.lorddark.club:80/denio/123456/201397
-#EXTINF:-1,Food Network FHD H265
-http://lista.lorddark.club:80/denio/123456/48522
-#EXTINF:-1,Food Network FHD H265 *
-http://lista.lorddark.club:80/denio/123456/48580
-#EXTINF:-1,Fox FHD H265
-http://lista.lorddark.club:80/denio/123456/48521
-#EXTINF:-1,Fox 4K *
-http://lista.lorddark.club:80/denio/123456/48598
-#EXTINF:-1,Fox Premium 1 FHD H265
-http://lista.lorddark.club:80/denio/123456/48520
-#EXTINF:-1,Fox Premium 1 FHD H265 *
-http://lista.lorddark.club:80/denio/123456/48578
-#EXTINF:-1,Fox Premium 2 FHD H265
-http://lista.lorddark.club:80/denio/123456/48519
-#EXTINF:-1,Fox Premium 2 FHD H265³
-http://lista.lorddark.club:80/denio/123456/48577
-#EXTINF:-1,Fox Sports H.265
-http://lista.lorddark.club:80/denio/123456/48518
-#EXTINF:-1,Fox Sports H.265²
-http://lista.lorddark.club:80/denio/123456/48560
-#EXTINF:-1,Fox Sports 2 H.265
-http://lista.lorddark.club:80/denio/123456/48517
-#EXTINF:-1,Fox Sports 2 H.265³
-http://lista.lorddark.club:80/denio/123456/201430
-#EXTINF:-1,Fox Sports 2 4K²
-http://lista.lorddark.club:80/denio/123456/48612
-#EXTINF:-1,Fox Sports 4K²
-http://lista.lorddark.club:80/denio/123456/201431
-#EXTINF:-1,FX FHD H265
-http://lista.lorddark.club:80/denio/123456/48516
-#EXTINF:-1,FX FHD H265 *
-http://lista.lorddark.club:80/denio/123456/48594
-#EXTINF:-1,Gazeta 4K *
-http://lista.lorddark.club:80/denio/123456/48604
-#EXTINF:-1,Globo SP FHD H265³
-http://lista.lorddark.club:80/denio/123456/48575
-#EXTINF:-1,Globo 4K³
-http://lista.lorddark.club:80/denio/123456/48623
-#EXTINF:-1,Globo News H.265³
-http://lista.lorddark.club:80/denio/123456/48515
-#EXTINF:-1,Gloob FHD H265
-http://lista.lorddark.club:80/denio/123456/48514
-#EXTINF:-1,GNT FHD H265
-http://lista.lorddark.club:80/denio/123456/48513
-#EXTINF:-1,H2 FHD H265
-http://lista.lorddark.club:80/denio/123456/48506
-#EXTINF:-1,HBO H.265
-http://lista.lorddark.club:80/denio/123456/48511
-#EXTINF:-1,HBO H.265³
-http://lista.lorddark.club:80/denio/123456/48596
-#EXTINF:-1,HBO 4K *
-http://lista.lorddark.club:80/denio/123456/48606
-#EXTINF:-1,HBO 2 H.265
-http://lista.lorddark.club:80/denio/123456/48508
-#EXTINF:-1,HBO Xtreme FHD H265
-http://lista.lorddark.club:80/denio/123456/48501
-#EXTINF:-1,HBO Xtreme 4K³
-http://lista.lorddark.club:80/denio/123456/48600
-#EXTINF:-1,HBO Familly FHD H265
-http://lista.lorddark.club:80/denio/123456/48512
-#EXTINF:-1,HBO Mundi FHD H265
-http://lista.lorddark.club:80/denio/123456/48502
-#EXTINF:-1,HBO Mundi FHD H265³
-http://lista.lorddark.club:80/denio/123456/48589
-#EXTINF:-1,HBO Plus FHD H265
-http://lista.lorddark.club:80/denio/123456/48510
-#EXTINF:-1,HBO Pop FHD H265
-http://lista.lorddark.club:80/denio/123456/48500
-#EXTINF:-1,HBO Pop FHD H265 *
-http://lista.lorddark.club:80/denio/123456/48592
-#EXTINF:-1,HBO Signature FHD H265
-http://lista.lorddark.club:80/denio/123456/48509
-#EXTINF:-1,HBO Xtreme FHD H265 *
-http://lista.lorddark.club:80/denio/123456/48590
-#EXTINF:-1,History FHD H265
-http://lista.lorddark.club:80/denio/123456/48507
-#EXTINF:-1,History FHD H265 *
-http://lista.lorddark.club:80/denio/123456/48569
-#EXTINF:-1,HGTV FHD H265
-http://lista.lorddark.club:80/denio/123456/48537
-#EXTINF:-1,HGTV FHD H265 *
-http://lista.lorddark.club:80/denio/123456/48581
-#EXTINF:-1,ID - Investigation Discovery FHD H265
-http://lista.lorddark.club:80/denio/123456/48505
-#EXTINF:-1,ID - Investigation Discovery FHD H265 *
-http://lista.lorddark.club:80/denio/123456/48568
-#EXTINF:-1,Lifetime FHD H265
-http://lista.lorddark.club:80/denio/123456/48504
-#EXTINF:-1,Mais Globosat FHD H265
-http://lista.lorddark.club:80/denio/123456/48503
-#EXTINF:-1,Megapix FHD H265
-http://lista.lorddark.club:80/denio/123456/48499
-#EXTINF:-1,Megapix FHD H265 *
-http://lista.lorddark.club:80/denio/123456/48591
-#EXTINF:-1,Megapix 4K *
-http://lista.lorddark.club:80/denio/123456/48613
-#EXTINF:-1,MTV FHD H265
-http://lista.lorddark.club:80/denio/123456/48498
-#EXTINF:-1,Multishow FHD H265
-http://lista.lorddark.club:80/denio/123456/48497
-#EXTINF:-1,Multishow 4K *
-http://lista.lorddark.club:80/denio/123456/48615
-#EXTINF:-1,NatGeo FHD H265
-http://lista.lorddark.club:80/denio/123456/48496
-#EXTINF:-1,NatGeo 4K³
-http://lista.lorddark.club:80/denio/123456/48611
-#EXTINF:-1,NatGeo Wild FHD H265
-http://lista.lorddark.club:80/denio/123456/48495
-#EXTINF:-1,NatGeo Kids FHD H265
-http://lista.lorddark.club:80/denio/123456/48494
-#EXTINF:-1,Nick FHD H265
-http://lista.lorddark.club:80/denio/123456/48493
-#EXTINF:-1,Nick Jr FHD H265
-http://lista.lorddark.club:80/denio/123456/48492
-#EXTINF:-1,OFF FHD H265
-http://lista.lorddark.club:80/denio/123456/48491
-#EXTINF:-1,OFF FHD H265 *
-http://lista.lorddark.club:80/denio/123456/48579
-#EXTINF:-1,Paramount FHD H265
-http://lista.lorddark.club:80/denio/123456/48490
-#EXTINF:-1,Premiere Clubes FHD H265
-http://lista.lorddark.club:80/denio/123456/48489
-#EXTINF:-1,Premiere Clubes FHD H265 *
-http://lista.lorddark.club:80/denio/123456/48572
-#EXTINF:-1,Premiere Clubes 4K³
-http://lista.lorddark.club:80/denio/123456/48621
-#EXTINF:-1,Premiere 2 FHD H265
-http://lista.lorddark.club:80/denio/123456/48488
-#EXTINF:-1,Premiere 3 FHD H265
-http://lista.lorddark.club:80/denio/123456/48487
-#EXTINF:-1,Premiere 4 FHD H265
-http://lista.lorddark.club:80/denio/123456/48486
-#EXTINF:-1,Premiere 5 FHD H265
-http://lista.lorddark.club:80/denio/123456/48485
-#EXTINF:-1,Premiere 6 FHD H265
-http://lista.lorddark.club:80/denio/123456/48484
-#EXTINF:-1,Premiere 7 FHD H265
-http://lista.lorddark.club:80/denio/123456/48483
-#EXTINF:-1,Record 4K³
-http://lista.lorddark.club:80/denio/123456/48622
-#EXTINF:-1,Record TV Goiania FHD H265
-http://lista.lorddark.club:80/denio/123456/48482
-#EXTINF:-1,RedeTV! FHD H265
-http://lista.lorddark.club:80/denio/123456/48481
-#EXTINF:-1,RedeTV! 4K *
-http://lista.lorddark.club:80/denio/123456/48607
-#EXTINF:-1,RedeTV! 4K **
-http://lista.lorddark.club:80/denio/123456/48605
-#EXTINF:-1,SBT 4K *
-http://lista.lorddark.club:80/denio/123456/48618
-#EXTINF:-1,SBT TV Serra Dourada FHD H265
-http://lista.lorddark.club:80/denio/123456/48462
-#EXTINF:-1,Space FHD H265
-http://lista.lorddark.club:80/denio/123456/48480
-#EXTINF:-1,Space FHD H265 *
-http://lista.lorddark.club:80/denio/123456/48588
-#EXTINF:-1,Space 4K³
-http://lista.lorddark.club:80/denio/123456/48609
-#EXTINF:-1,SporTV H.265
-http://lista.lorddark.club:80/denio/123456/48477
-#EXTINF:-1,SporTV H.265²
-http://lista.lorddark.club:80/denio/123456/48567
-#EXTINF:-1,SporTV 4K²
-http://lista.lorddark.club:80/denio/123456/48616
-#EXTINF:-1,SporTV 2 H265
-http://lista.lorddark.club:80/denio/123456/48479
-#EXTINF:-1,SporTV 2 H265³
-http://lista.lorddark.club:80/denio/123456/201412
-#EXTINF:-1,SporTV 3 H.265
-http://lista.lorddark.club:80/denio/123456/48478
-#EXTINF:-1,SporTV 3 H.265²
-http://lista.lorddark.club:80/denio/123456/48566
-#EXTINF:-1,Studio Universal FHD H265
-http://lista.lorddark.club:80/denio/123456/48476
-#EXTINF:-1,SYFY FHD H265
-http://lista.lorddark.club:80/denio/123456/48475
-#EXTINF:-1,TBS FHD H265
-http://lista.lorddark.club:80/denio/123456/48474
-#EXTINF:-1,Telecine Action H.265
-http://lista.lorddark.club:80/denio/123456/48473
-#EXTINF:-1,Telecine Action  H.265³
-http://lista.lorddark.club:80/denio/123456/48555
-#EXTINF:-1,Telecine Cult H.265
-http://lista.lorddark.club:80/denio/123456/48472
-#EXTINF:-1,Telecine Fun H.265
-http://lista.lorddark.club:80/denio/123456/48471
-#EXTINF:-1,Telecine Fun H.265²
-http://lista.lorddark.club:80/denio/123456/48573
-#EXTINF:-1,Telecine Pipoca H.265
-http://lista.lorddark.club:80/denio/123456/48470
-#EXTINF:-1,Telecine Pipoca H.265²
-http://lista.lorddark.club:80/denio/123456/48586
-#EXTINF:-1,Telecine Pipoca 4K²
-http://lista.lorddark.club:80/denio/123456/48599
-#EXTINF:-1,Telecine Premium H.265
-http://lista.lorddark.club:80/denio/123456/48469
-#EXTINF:-1,Telecine Premium  H.265²
-http://lista.lorddark.club:80/denio/123456/48584
-#EXTINF:-1,Telecine Premium 4K²
-http://lista.lorddark.club:80/denio/123456/48608
-#EXTINF:-1,Telecine Touch  H.265
-http://lista.lorddark.club:80/denio/123456/48468
-#EXTINF:-1,TLC FHD H265
-http://lista.lorddark.club:80/denio/123456/48467
-#EXTINF:-1,TNT FHD H265
-http://lista.lorddark.club:80/denio/123456/48466
-#EXTINF:-1,TNT 4K *
-http://lista.lorddark.club:80/denio/123456/48602
-#EXTINF:-1,TNT Series FHD H265
-http://lista.lorddark.club:80/denio/123456/48465
-#EXTINF:-1,TNT Series FHD H265 *
-http://lista.lorddark.club:80/denio/123456/48587
-#EXTINF:-1,TNT Series 4K *
-http://lista.lorddark.club:80/denio/123456/48601
-#EXTINF:-1,Tv Anhaguera FHD H265
-http://lista.lorddark.club:80/denio/123456/48464
-#EXTINF:-1,Universal Tv FHD H265
-http://lista.lorddark.club:80/denio/123456/48461
-#EXTINF:-1,Universal TV FHD H265 *
-http://lista.lorddark.club:80/denio/123456/48565
-#EXTINF:-1,VH1 FHD H265
-http://lista.lorddark.club:80/denio/123456/48460
-#EXTINF:-1,Warner FHD H265
-http://lista.lorddark.club:80/denio/123456/48459
-#EXTINF:-1,Warner FHD H265 *
-http://lista.lorddark.club:80/denio/123456/48585
-#EXTINF:-1,Woohoo FHD H265
-http://lista.lorddark.club:80/denio/123456/48458
-#EXTINF:-1, BREJO TV HD
-http://192.168.2.167:8080/livestream/stream.m3u8
-#EXTINF:-1,BBB  MOSAICO ²
-http://lista.lorddark.club:80/denio/123456/204104
-#EXTINF:-1,BBB (CAM 1)²
-http://lista.lorddark.club:80/denio/123456/204103
-#EXTINF:-1,BBB (CAM 2)²
-http://lista.lorddark.club:80/denio/123456/204102
-#EXTINF:-1,BBB (CAM 3)²
-http://lista.lorddark.club:80/denio/123456/204101
-#EXTINF:-1,BBB (CAM 4)²
-http://lista.lorddark.club:80/denio/123456/204100
-#EXTINF:-1,BBB (CAM 5)²
-http://lista.lorddark.club:80/denio/123456/204099
-#EXTINF:-1,BBB (CAM 6)²
-http://lista.lorddark.club:80/denio/123456/204098
-#EXTINF:-1,BBB (CAM 7)²
-http://lista.lorddark.club:80/denio/123456/204097
-#EXTINF:-1,BBB (CAM 8)²
-http://lista.lorddark.club:80/denio/123456/204096
-#EXTINF:-1,BBB (CAM 9)²
-http://lista.lorddark.club:80/denio/123456/204095
-#EXTINF:-1,BBB MOSAICO ¹
-http://lista.lorddark.club:80/denio/123456/203818
-#EXTINF:-1,BBB MOSAICO
-http://lista.lorddark.club:80/denio/123456/203817
-#EXTINF:-1,BBB ¹
-http://lista.lorddark.club:80/denio/123456/203816
-#EXTINF:-1,BBB (CAM 2)
-http://lista.lorddark.club:80/denio/123456/203815
-#EXTINF:-1, BBB (CAM 3)
-http://lista.lorddark.club:80/denio/123456/203814
-#EXTINF:-1,BBB (CAM 4)
-http://lista.lorddark.club:80/denio/123456/203813
-#EXTINF:-1,BBB (CAM 5)
-http://lista.lorddark.club:80/denio/123456/203812
-#EXTINF:-1,BBB (CAM 6)
-http://lista.lorddark.club:80/denio/123456/203811
-#EXTINF:-1,BBB (CAM 7)
-http://lista.lorddark.club:80/denio/123456/201343
-#EXTINF:-1,BBB (CAM 8)
-http://lista.lorddark.club:80/denio/123456/201344
-#EXTINF:-1,BBB (CAM 9)
-http://lista.lorddark.club:80/denio/123456/201342
-#EXTINF:-1,BBB (CAM 10)
-http://lista.lorddark.club:80/denio/123456/201341
-#EXTINF:-1, BBB (CAM 11)
-http://lista.lorddark.club:80/denio/123456/201345
+
+#EXTINF:-1 tvg-name="BAND RJ HD" tvg-logo="https://conteudo.imguol.com.br/c/entretenimento/c1/2018/04/03/logo-da-band-1522794110655_v2_450x450.png" group-title="CANAIS BR BAND",BAND RJ HD
+http://e.advd.cyou:80/gustavo/gustavo/184898
+
+#EXTINF:-1 tvg-name="BAND RJ SD" tvg-logo="https://conteudo.imguol.com.br/c/entretenimento/c1/2018/04/03/logo-da-band-1522794110655_v2_450x450.png" group-title="CANAIS BR BAND",BAND RJ SD
+http://e.advd.cyou:80/gustavo/gustavo/184899
+
+#EXTINF:-1 tvg-name="BAND SPORTS SD." tvg-logo="https://i.imgur.com/4qhayiv.png" group-title="CANAIS BR BAND",BAND SPORTS SD.
+http://e.advd.cyou:80/gustavo/gustavo/185186
+
+#EXTINF:-1 tvg-name="BR: BAND SP HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Rede_Bandeirantes_logo_2011.svg/1200px-Rede_Bandeirantes_logo_2011.svg.png" group-title="CANAIS BR BAND",BR: BAND SP HD
+http://e.advd.cyou:80/gustavo/gustavo/195288
+
+#EXTINF:-1 tvg-name="BR: BAND SP SD" tvg-logo="https://i.pinimg.com/originals/74/ae/d8/74aed8843f43a46b63737f4451e337f0.png" group-title="CANAIS BR BAND",BR: BAND SP SD
+http://e.advd.cyou:80/gustavo/gustavo/195289
+
+#EXTINF:-1 tvg-name="Band Campinas SD." tvg-logo="https://i.imgur.com/EFikBBd.png" group-title="CANAIS BR BAND",Band Campinas SD.
+http://e.advd.cyou:80/gustavo/gustavo/184896
+
+#EXTINF:-1 tvg-name="Band Nordeste SD." tvg-logo="https://i.imgur.com/EFikBBd.png" group-title="CANAIS BR BAND",Band Nordeste SD.
+http://e.advd.cyou:80/gustavo/gustavo/184897
+
+#EXTINF:-1 tvg-name="Band Sports HD." tvg-logo="https://i.imgur.com/4qhayiv.png" group-title="CANAIS BR BAND",Band Sports HD.
+http://e.advd.cyou:80/gustavo/gustavo/185185
+#EXTINF:-1 tvg-name="Animal Planet HD" tvg-logo="https://i.imgur.com/FSpBdys.png" group-title="CANAIS BR DOCUMENTARIO",Animal Planet HD
+http://e.advd.cyou:80/gustavo/gustavo/184987
+
+#EXTINF:-1 tvg-name="Animal Planet SD." tvg-logo="https://i.imgur.com/FSpBdys.png" group-title="CANAIS BR DOCUMENTARIO",Animal Planet SD.
+http://e.advd.cyou:80/gustavo/gustavo/184988
+
+#EXTINF:-1 tvg-name="BR: DISCOVERY SCIENCE HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/a/a8/LOGO_DISCOVERY_SCIENCE.png" group-title="CANAIS BR DOCUMENTARIO",BR: DISCOVERY SCIENCE HD
+http://e.advd.cyou:80/gustavo/gustavo/195292
+
+#EXTINF:-1 tvg-name="BR: FOOD NETWORK SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f4/Food_Network_-_Logo_2016.png" group-title="CANAIS BR DOCUMENTARIO",BR: FOOD NETWORK SD
+http://e.advd.cyou:80/gustavo/gustavo/195295
+
+#EXTINF:-1 tvg-name="BR:Discovery Channel FHD" tvg-logo="https://brandslogo.net/wp-content/uploads/2013/01/discovery-channel-.eps-logo-vector.png" group-title="CANAIS BR DOCUMENTARIO",BR:Discovery Channel FHD
+http://e.advd.cyou:80/gustavo/gustavo/195323
+
+#EXTINF:-1 tvg-name="BR:Discovery Home e Health FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/Discovery_H%26H.png" group-title="CANAIS BR DOCUMENTARIO",BR:Discovery Home e Health FHD
+http://e.advd.cyou:80/gustavo/gustavo/195324
+
+#EXTINF:-1 tvg-name="Discovery Channel HD" tvg-logo="https://i.imgur.com/hIiJnWz.png" group-title="CANAIS BR DOCUMENTARIO",Discovery Channel HD
+http://e.advd.cyou:80/gustavo/gustavo/184989
+
+#EXTINF:-1 tvg-name="Discovery Channel SD" tvg-logo="https://i.imgur.com/hIiJnWz.png" group-title="CANAIS BR DOCUMENTARIO",Discovery Channel SD
+http://e.advd.cyou:80/gustavo/gustavo/184990
+
+#EXTINF:-1 tvg-name="Discovery Home e Health HD." tvg-logo="https://i.imgur.com/JF2Y1ln.png" group-title="CANAIS BR DOCUMENTARIO",Discovery Home e Health HD.
+http://e.advd.cyou:80/gustavo/gustavo/184991
+
+#EXTINF:-1 tvg-name="Discovery Home e Health SD." tvg-logo="https://i.imgur.com/JF2Y1ln.png" group-title="CANAIS BR DOCUMENTARIO",Discovery Home e Health SD.
+http://e.advd.cyou:80/gustavo/gustavo/184992
+
+#EXTINF:-1 tvg-name="Discovery ID HD." tvg-logo="https://i.imgur.com/yBM4voC.png" group-title="CANAIS BR DOCUMENTARIO",Discovery ID HD.
+http://e.advd.cyou:80/gustavo/gustavo/184993
+
+#EXTINF:-1 tvg-name="Discovery ID SD." tvg-logo="https://i.imgur.com/yBM4voC.png" group-title="CANAIS BR DOCUMENTARIO",Discovery ID SD.
+http://e.advd.cyou:80/gustavo/gustavo/184994
+
+#EXTINF:-1 tvg-name="Discovery Science HD" tvg-logo="https://i.imgur.com/JdmLUwg.png" group-title="CANAIS BR DOCUMENTARIO",Discovery Science HD
+http://e.advd.cyou:80/gustavo/gustavo/184996
+
+#EXTINF:-1 tvg-name="Discovery Science SD" tvg-logo="https://i.imgur.com/JdmLUwg.png" group-title="CANAIS BR DOCUMENTARIO",Discovery Science SD
+http://e.advd.cyou:80/gustavo/gustavo/184997
+
+#EXTINF:-1 tvg-name="Discovery Theater HD" tvg-logo="https://i.imgur.com/mEVTqVO.png" group-title="CANAIS BR DOCUMENTARIO",Discovery Theater HD
+http://e.advd.cyou:80/gustavo/gustavo/184998
+
+#EXTINF:-1 tvg-name="Discovery Theater SD." tvg-logo="https://i.imgur.com/mEVTqVO.png" group-title="CANAIS BR DOCUMENTARIO",Discovery Theater SD.
+http://e.advd.cyou:80/gustavo/gustavo/184999
+
+#EXTINF:-1 tvg-name="Discovery Turbo HD." tvg-logo="https://i.imgur.com/J67CNHZ.png" group-title="CANAIS BR DOCUMENTARIO",Discovery Turbo HD.
+http://e.advd.cyou:80/gustavo/gustavo/185000
+
+#EXTINF:-1 tvg-name="Discovery Turbo SD." tvg-logo="https://i.imgur.com/J67CNHZ.png" group-title="CANAIS BR DOCUMENTARIO",Discovery Turbo SD.
+http://e.advd.cyou:80/gustavo/gustavo/185001
+
+#EXTINF:-1 tvg-name="Discovery World HD" tvg-logo="https://i.imgur.com/dKdL84k.png" group-title="CANAIS BR DOCUMENTARIO",Discovery World HD
+http://e.advd.cyou:80/gustavo/gustavo/185002
+
+#EXTINF:-1 tvg-name="Discovery World SD" tvg-logo="https://i.imgur.com/dKdL84k.png" group-title="CANAIS BR DOCUMENTARIO",Discovery World SD
+http://e.advd.cyou:80/gustavo/gustavo/185003
+
+#EXTINF:-1 tvg-name="FISH TV HD" tvg-logo="https://i.imgur.com/qS8OedV.png" group-title="CANAIS BR DOCUMENTARIO",FISH TV HD
+http://e.advd.cyou:80/gustavo/gustavo/185207
+
+#EXTINF:-1 tvg-name="FISH TV SD" tvg-logo="https://i.imgur.com/qS8OedV.png" group-title="CANAIS BR DOCUMENTARIO",FISH TV SD
+http://e.advd.cyou:80/gustavo/gustavo/185208
+
+#EXTINF:-1 tvg-name="Food Network  SD" tvg-logo="https://i.imgur.com/mmYRl9S.png" group-title="CANAIS BR DOCUMENTARIO",Food Network  SD
+http://e.advd.cyou:80/gustavo/gustavo/185031
+
+#EXTINF:-1 tvg-name="Food Network HD" tvg-logo="https://i.imgur.com/mmYRl9S.png" group-title="CANAIS BR DOCUMENTARIO",Food Network HD
+http://e.advd.cyou:80/gustavo/gustavo/185032
+
+#EXTINF:-1 tvg-name="H2 HD." tvg-logo="https://i.imgur.com/b5E2WSk.png" group-title="CANAIS BR DOCUMENTARIO",H2 HD.
+http://e.advd.cyou:80/gustavo/gustavo/185004
+
+#EXTINF:-1 tvg-name="H2 SD." tvg-logo="https://i.imgur.com/b5E2WSk.png" group-title="CANAIS BR DOCUMENTARIO",H2 SD.
+http://e.advd.cyou:80/gustavo/gustavo/185005
+
+#EXTINF:-1 tvg-name="HGTV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/HGTV_US_Logo_2015.svg/1200px-HGTV_US_Logo_2015.svg.png" group-title="CANAIS BR DOCUMENTARIO",HGTV HD
+http://e.advd.cyou:80/gustavo/gustavo/185006
+
+#EXTINF:-1 tvg-name="HGTV SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/HGTV_US_Logo_2015.svg/1200px-HGTV_US_Logo_2015.svg.png" group-title="CANAIS BR DOCUMENTARIO",HGTV SD
+http://e.advd.cyou:80/gustavo/gustavo/185007
+
+#EXTINF:-1 tvg-name="History Channel HD." tvg-logo="https://i.imgur.com/JaaXRWZ.png" group-title="CANAIS BR DOCUMENTARIO",History Channel HD.
+http://e.advd.cyou:80/gustavo/gustavo/185008
+
+#EXTINF:-1 tvg-name="History channel SD." tvg-logo="https://i.imgur.com/JaaXRWZ.png" group-title="CANAIS BR DOCUMENTARIO",History channel SD.
+http://e.advd.cyou:80/gustavo/gustavo/185009
+
+#EXTINF:-1 tvg-name="Lifetime HD" tvg-logo="https://i.imgur.com/iTya3Vq.png" group-title="CANAIS BR DOCUMENTARIO",Lifetime HD
+http://e.advd.cyou:80/gustavo/gustavo/185036
+
+#EXTINF:-1 tvg-name="Lifetime SD" tvg-logo="https://i.imgur.com/iTya3Vq.png" group-title="CANAIS BR DOCUMENTARIO",Lifetime SD
+http://e.advd.cyou:80/gustavo/gustavo/185037
+
+#EXTINF:-1 tvg-name="Mais Globosat HD" tvg-logo="https://i.imgur.com/f4Inuw2.png" group-title="CANAIS BR DOCUMENTARIO",Mais Globosat HD
+http://e.advd.cyou:80/gustavo/gustavo/185038
+
+#EXTINF:-1 tvg-name="Mais Globosat SD" tvg-logo="https://i.imgur.com/f4Inuw2.png" group-title="CANAIS BR DOCUMENTARIO",Mais Globosat SD
+http://e.advd.cyou:80/gustavo/gustavo/185039
+
+#EXTINF:-1 tvg-name="Nat Geo WILD SD." tvg-logo="https://i.imgur.com/VqaCFR4.png" group-title="CANAIS BR DOCUMENTARIO",Nat Geo WILD SD.
+http://e.advd.cyou:80/gustavo/gustavo/185011
+
+#EXTINF:-1 tvg-name="NatGeo HD." tvg-logo="https://i.imgur.com/vy9doOf.png" group-title="CANAIS BR DOCUMENTARIO",NatGeo HD.
+http://e.advd.cyou:80/gustavo/gustavo/185012
+
+#EXTINF:-1 tvg-name="NatGeo SD." tvg-logo="https://i.imgur.com/vy9doOf.png" group-title="CANAIS BR DOCUMENTARIO",NatGeo SD.
+http://e.advd.cyou:80/gustavo/gustavo/185013
+
+#EXTINF:-1 tvg-name="NatGeo Wild HD" tvg-logo="https://i.imgur.com/VqaCFR4.png" group-title="CANAIS BR DOCUMENTARIO",NatGeo Wild HD
+http://e.advd.cyou:80/gustavo/gustavo/185014
+
+#EXTINF:-1 tvg-name="BR COPA LIBERTADORES 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/9/95/Conmebol_Libertadores_logo.svg/768px-Conmebol_Libertadores_logo.svg.png" group-title="CANAIS BR ESPORTES ESPECIAIS",BR COPA LIBERTADORES 2 HD
+http://e.advd.cyou:80/gustavo/gustavo/195291
+
+#EXTINF:-1 tvg-name="BR: CAMPEONATO BAIANO 2021" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/2f/Baiano2020.png" group-title="CANAIS BR ESPORTES ESPECIAIS",BR: CAMPEONATO BAIANO 2021
+http://e.advd.cyou:80/gustavo/gustavo/191221
+
+#EXTINF:-1 tvg-name="BR: CAMPEONATO BAIANO 2021 2" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/2f/Baiano2020.png" group-title="CANAIS BR ESPORTES ESPECIAIS",BR: CAMPEONATO BAIANO 2021 2
+http://e.advd.cyou:80/gustavo/gustavo/191222
+
+#EXTINF:-1 tvg-name="BR: CAMPEONATO SERGIPANO HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/f/f2/Sergipano2020.png" group-title="CANAIS BR ESPORTES ESPECIAIS",BR: CAMPEONATO SERGIPANO HD
+http://e.advd.cyou:80/gustavo/gustavo/191223
+
+#EXTINF:-1 tvg-name="BR: COPA DO NORDESTE 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/05/Copa_do_Nordeste.png/185px-Copa_do_Nordeste.png" group-title="CANAIS BR ESPORTES ESPECIAIS",BR: COPA DO NORDESTE 1 HD
+http://e.advd.cyou:80/gustavo/gustavo/191219
+
+#EXTINF:-1 tvg-name="BR: COPA DO NORDESTE 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/05/Copa_do_Nordeste.png/185px-Copa_do_Nordeste.png" group-title="CANAIS BR ESPORTES ESPECIAIS",BR: COPA DO NORDESTE 2 HD
+http://e.advd.cyou:80/gustavo/gustavo/191220
+
+#EXTINF:-1 tvg-name="BR: COPA LIBERTADORES 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/9/95/Conmebol_Libertadores_logo.svg/768px-Conmebol_Libertadores_logo.svg.png" group-title="CANAIS BR ESPORTES ESPECIAIS",BR: COPA LIBERTADORES 1 HD
+http://e.advd.cyou:80/gustavo/gustavo/195290
+
+#EXTINF:-1 tvg-name="BR: EI PLUS 3 HD" tvg-logo="https://1.bp.blogspot.com/-MLu8xDPo3GM/XYlDp_EpZVI/AAAAAAABaUU/vdgebefcxCMy8zvZGa_D99g8EWU9lOgggCLcBGAsYHQ/w1200-h630-p-k-no-nu/logo_500x500_eiplus.png" group-title="CANAIS BR ESPORTES ESPECIAIS",BR: EI PLUS 3 HD
+http://e.advd.cyou:80/gustavo/gustavo/195293
+
+#EXTINF:-1 tvg-name="BR: EI PLUS 4 HD" tvg-logo="https://1.bp.blogspot.com/-MLu8xDPo3GM/XYlDp_EpZVI/AAAAAAABaUU/vdgebefcxCMy8zvZGa_D99g8EWU9lOgggCLcBGAsYHQ/w1200-h630-p-k-no-nu/logo_500x500_eiplus.png" group-title="CANAIS BR ESPORTES ESPECIAIS",BR: EI PLUS 4 HD
+http://e.advd.cyou:80/gustavo/gustavo/195294
+
+#EXTINF:-1 tvg-name="BR: FLA TV 2 HD" tvg-logo="https://flatvmais.com.br/wp-content/uploads/sites/5/2021/02/cropped-flatv_horizontal-1.png" group-title="CANAIS BR ESPORTES ESPECIAIS",BR: FLA TV 2 HD
+http://e.advd.cyou:80/gustavo/gustavo/191893
+
+#EXTINF:-1 tvg-name="BR: FLA TV HD" tvg-logo="https://flatvmais.com.br/wp-content/uploads/sites/5/2021/02/cropped-flatv_horizontal-1.png" group-title="CANAIS BR ESPORTES ESPECIAIS",BR: FLA TV HD
+http://e.advd.cyou:80/gustavo/gustavo/191892
+
+#EXTINF:-1 tvg-name="BR: TNT ESTADIO 1 HD" tvg-logo="https://theme.zdassets.com/theme_assets/467451/9efd79eb4b10091194d13fd3214144ec401d6049.png" group-title="CANAIS BR ESPORTES ESPECIAIS",BR: TNT ESTADIO 1 HD
+http://e.advd.cyou:80/gustavo/gustavo/196636
+
+#EXTINF:-1 tvg-name="BR: TNT ESTADIO 2 HD" tvg-logo="https://theme.zdassets.com/theme_assets/467451/9efd79eb4b10091194d13fd3214144ec401d6049.png" group-title="CANAIS BR ESPORTES ESPECIAIS",BR: TNT ESTADIO 2 HD
+http://e.advd.cyou:80/gustavo/gustavo/196637
+
+#EXTINF:-1 tvg-name="BR: VASCO TV HD" tvg-logo="https://pbs.twimg.com/profile_images/667399932387659776/nveDQSjM_400x400.jpg" group-title="CANAIS BR ESPORTES ESPECIAIS",BR: VASCO TV HD
+http://e.advd.cyou:80/gustavo/gustavo/191894
+
+#EXTINF:-1 tvg-name="CAMPEONATO CARIOCA Opçao 1" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/f/f9/Carioca2017.png/200px-Carioca2017.png" group-title="CANAIS BR ESPORTES ESPECIAIS",CAMPEONATO CARIOCA Opçao 1
+http://e.advd.cyou:80/gustavo/gustavo/191899
+
+#EXTINF:-1 tvg-name="CAMPEONATO CARIOCA Opçao 2" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/f/f9/Carioca2017.png/200px-Carioca2017.png" group-title="CANAIS BR ESPORTES ESPECIAIS",CAMPEONATO CARIOCA Opçao 2
+http://e.advd.cyou:80/gustavo/gustavo/191900
+
+#EXTINF:-1 tvg-name="CONMEBOL TV 1 SD" tvg-logo="http://script.clearnight.xyz/logos/Esportes-Especiais/conmebol.png" group-title="CANAIS BR ESPORTES ESPECIAIS",CONMEBOL TV 1 SD
+http://e.advd.cyou:80/gustavo/gustavo/196626
+
+#EXTINF:-1 tvg-name="CONMEBOL TV 1 SD³" tvg-logo="http://script.clearnight.xyz/logos/Esportes-Especiais/conmebol.png" group-title="CANAIS BR ESPORTES ESPECIAIS",CONMEBOL TV 1 SD³
+http://e.advd.cyou:80/gustavo/gustavo/196627
+
+#EXTINF:-1 tvg-name="CONMEBOL TV 2 SD" tvg-logo="http://script.clearnight.xyz/logos/Esportes-Especiais/conmebol.png" group-title="CANAIS BR ESPORTES ESPECIAIS",CONMEBOL TV 2 SD
+http://e.advd.cyou:80/gustavo/gustavo/196628
+
+#EXTINF:-1 tvg-name="CONMEBOL TV 2 SD³" tvg-logo="http://script.clearnight.xyz/logos/Esportes-Especiais/conmebol.png" group-title="CANAIS BR ESPORTES ESPECIAIS",CONMEBOL TV 2 SD³
+http://e.advd.cyou:80/gustavo/gustavo/196629
+
+#EXTINF:-1 tvg-name="CONMEBOL TV 3 SD" tvg-logo="http://script.clearnight.xyz/logos/Esportes-Especiais/conmebol.png" group-title="CANAIS BR ESPORTES ESPECIAIS",CONMEBOL TV 3 SD
+http://e.advd.cyou:80/gustavo/gustavo/196630
+
+#EXTINF:-1 tvg-name="CONMEBOL TV 3 SD³" tvg-logo="http://script.clearnight.xyz/logos/Esportes-Especiais/conmebol.png" group-title="CANAIS BR ESPORTES ESPECIAIS",CONMEBOL TV 3 SD³
+http://e.advd.cyou:80/gustavo/gustavo/196631
+
+#EXTINF:-1 tvg-name="CONMEBOL TV 4 SD" tvg-logo="http://script.clearnight.xyz/logos/Esportes-Especiais/conmebol.png" group-title="CANAIS BR ESPORTES ESPECIAIS",CONMEBOL TV 4 SD
+http://e.advd.cyou:80/gustavo/gustavo/196632
+
+#EXTINF:-1 tvg-name="COPA DO NORDESTE 2020 JOGO-1" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/1/19/CopaNordeste2017.png/150px-CopaNordeste2017.png" group-title="CANAIS BR ESPORTES ESPECIAIS",COPA DO NORDESTE 2020 JOGO-1
+http://e.advd.cyou:80/gustavo/gustavo/191895
+
+#EXTINF:-1 tvg-name="COPA DO NORDESTE 2020 JOGO-2" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/1/19/CopaNordeste2017.png/150px-CopaNordeste2017.png" group-title="CANAIS BR ESPORTES ESPECIAIS",COPA DO NORDESTE 2020 JOGO-2
+http://e.advd.cyou:80/gustavo/gustavo/191896
+
+#EXTINF:-1 tvg-name="DAZN 1" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71njwkZLLfL.png" group-title="CANAIS BR ESPORTES ESPECIAIS",DAZN 1
+http://e.advd.cyou:80/gustavo/gustavo/185193
+
+#EXTINF:-1 tvg-name="DAZN 2" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71njwkZLLfL.png" group-title="CANAIS BR ESPORTES ESPECIAIS",DAZN 2
+http://e.advd.cyou:80/gustavo/gustavo/185194
+
+#EXTINF:-1 tvg-name="DAZN 3 HD" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71njwkZLLfL.png" group-title="CANAIS BR ESPORTES ESPECIAIS",DAZN 3 HD
+http://e.advd.cyou:80/gustavo/gustavo/185195
+
+#EXTINF:-1 tvg-name="E HD." tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/95/E%21_Logo.png" group-title="CANAIS BR ESPORTES ESPECIAIS",E HD.
+http://e.advd.cyou:80/gustavo/gustavo/185028
+
+#EXTINF:-1 tvg-name="E SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/95/E%21_Logo.png" group-title="CANAIS BR ESPORTES ESPECIAIS",E SD
+http://e.advd.cyou:80/gustavo/gustavo/185029
+
+#EXTINF:-1 tvg-name="EI Plus  01" tvg-logo="https://s3.amazonaws.com/static.prod.eiplus.com.br/media/canal/thumb_logo_nov.png" group-title="CANAIS BR ESPORTES ESPECIAIS",EI Plus  01
+http://e.advd.cyou:80/gustavo/gustavo/185197
+
+#EXTINF:-1 tvg-name="EI Plus 02" tvg-logo="https://s3.amazonaws.com/static.prod.eiplus.com.br/media/canal/thumb_logo_nov.png" group-title="CANAIS BR ESPORTES ESPECIAIS",EI Plus 02
+http://e.advd.cyou:80/gustavo/gustavo/185198
+
+#EXTINF:-1 tvg-name="Live: Libertadores 01 Sport.TV" tvg-logo="https://www.atelevisao.com/wp-content/uploads/2016/08/sportv.png" group-title="CANAIS BR ESPORTES ESPECIAIS",Live: Libertadores 01 Sport.TV
+http://e.advd.cyou:80/gustavo/gustavo/185213
+
+#EXTINF:-1 tvg-name="Live: Libertadores 02 Sport.TV" tvg-logo="https://www.atelevisao.com/wp-content/uploads/2016/08/sportv.png" group-title="CANAIS BR ESPORTES ESPECIAIS",Live: Libertadores 02 Sport.TV
+http://e.advd.cyou:80/gustavo/gustavo/185214
+
+#EXTINF:-1 tvg-name="SERGIPANO 2" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/f/f2/Sergipano2020.png" group-title="CANAIS BR ESPORTES ESPECIAIS",SERGIPANO 2
+http://e.advd.cyou:80/gustavo/gustavo/191230
+
+#EXTINF:-1 tvg-name="TNT SPORTS." tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/1000px-TNT_Logo_2016.svg.png" group-title="CANAIS BR ESPORTES ESPECIAIS",TNT SPORTS.
+http://e.advd.cyou:80/gustavo/gustavo/191177
+
+#EXTINF:-1 tvg-name="BR:Combate FHD" tvg-logo="https://pngimage.net/wp-content/uploads/2018/05/combate-png-6.png" group-title="CANAIS BR ESPORTES",BR:Combate FHD
+http://e.advd.cyou:80/gustavo/gustavo/195317
+
+#EXTINF:-1 tvg-name="Combate HD." tvg-logo="https://i.imgur.com/WPmcn2I.png" group-title="CANAIS BR ESPORTES",Combate HD.
+http://e.advd.cyou:80/gustavo/gustavo/185187
+
+#EXTINF:-1 tvg-name="Combate SD." tvg-logo="https://i.imgur.com/WPmcn2I.png" group-title="CANAIS BR ESPORTES",Combate SD.
+http://e.advd.cyou:80/gustavo/gustavo/185188
+
+#EXTINF:-1 tvg-name="ESPN HD" tvg-logo="https://i.imgur.com/UdsKz3M.png" group-title="CANAIS BR ESPORTES",ESPN HD
+http://e.advd.cyou:80/gustavo/gustavo/185205
+
+#EXTINF:-1 tvg-name="ESPN SD" tvg-logo="https://i.imgur.com/UdsKz3M.png" group-title="CANAIS BR ESPORTES",ESPN SD
+http://e.advd.cyou:80/gustavo/gustavo/185206
+
+#EXTINF:-1 tvg-name="Espn 2  HD" tvg-logo="https://i.imgur.com/y5X2QWt.png" group-title="CANAIS BR ESPORTES",Espn 2  HD
+http://e.advd.cyou:80/gustavo/gustavo/185199
+
+#EXTINF:-1 tvg-name="Espn 2  SD" tvg-logo="https://i.imgur.com/y5X2QWt.png" group-title="CANAIS BR ESPORTES",Espn 2  SD
+http://e.advd.cyou:80/gustavo/gustavo/185200
+
+#EXTINF:-1 tvg-name="Espn Brasil HD" tvg-logo="https://i.imgur.com/mNQCw2n.png" group-title="CANAIS BR ESPORTES",Espn Brasil HD
+http://e.advd.cyou:80/gustavo/gustavo/185201
+
+#EXTINF:-1 tvg-name="Espn Brasil SD" tvg-logo="https://i.imgur.com/mNQCw2n.png" group-title="CANAIS BR ESPORTES",Espn Brasil SD
+http://e.advd.cyou:80/gustavo/gustavo/185202
+
+#EXTINF:-1 tvg-name="FOX SPORTS 2 SD" tvg-logo="https://i.imgur.com/CYW9MdS.png" group-title="CANAIS BR ESPORTES",FOX SPORTS 2 SD
+http://e.advd.cyou:80/gustavo/gustavo/185210
+
+#EXTINF:-1 tvg-name="FOX Sports HD" tvg-logo="http://script.clearnight.xyz/logos/Esportes-Especiais/fox-sports.png" group-title="CANAIS BR ESPORTES",FOX Sports HD
+http://e.advd.cyou:80/gustavo/gustavo/191237
+
+#EXTINF:-1 tvg-name="FOX Sports SD" tvg-logo="http://script.clearnight.xyz/logos/Esportes-Especiais/fox-sports.png" group-title="CANAIS BR ESPORTES",FOX Sports SD
+http://e.advd.cyou:80/gustavo/gustavo/191235
+
+#EXTINF:-1 tvg-name="Fox Sports 2 HD" tvg-logo="https://i.imgur.com/CYW9MdS.png" group-title="CANAIS BR ESPORTES",Fox Sports 2 HD
+http://e.advd.cyou:80/gustavo/gustavo/185209
+
+#EXTINF:-1 tvg-name="Fox Sports HD" tvg-logo="https://i.imgur.com/dLWrTma.png" group-title="CANAIS BR ESPORTES",Fox Sports HD
+http://e.advd.cyou:80/gustavo/gustavo/185211
+
+#EXTINF:-1 tvg-name="SPORTV HD" tvg-logo="https://i.imgur.com/jln3dBV.png" group-title="CANAIS BR ESPORTES",SPORTV HD
+http://e.advd.cyou:80/gustavo/gustavo/185240
+
+#EXTINF:-1 tvg-name="SporTV 2 HD." tvg-logo="https://i.imgur.com/jln3dBV.png" group-title="CANAIS BR ESPORTES",SporTV 2 HD.
+http://e.advd.cyou:80/gustavo/gustavo/185236
+
+#EXTINF:-1 tvg-name="SporTV 2 SD." tvg-logo="https://i.imgur.com/jln3dBV.png" group-title="CANAIS BR ESPORTES",SporTV 2 SD.
+http://e.advd.cyou:80/gustavo/gustavo/185237
+
+#EXTINF:-1 tvg-name="SporTV 3 HD." tvg-logo="https://i.imgur.com/jln3dBV.png" group-title="CANAIS BR ESPORTES",SporTV 3 HD.
+http://e.advd.cyou:80/gustavo/gustavo/185238
+
+#EXTINF:-1 tvg-name="SporTV 3 SD." tvg-logo="https://i.imgur.com/jln3dBV.png" group-title="CANAIS BR ESPORTES",SporTV 3 SD.
+http://e.advd.cyou:80/gustavo/gustavo/185239
+
+#EXTINF:-1 tvg-name="SporTV SD" tvg-logo="https://i.imgur.com/jln3dBV.png" group-title="CANAIS BR ESPORTES",SporTV SD
+http://e.advd.cyou:80/gustavo/gustavo/185241
