@@ -1,306 +1,241 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-name="BAND RJ HD" tvg-logo="https://conteudo.imguol.com.br/c/entretenimento/c1/2018/04/03/logo-da-band-1522794110655_v2_450x450.png" group-title="CANAIS BR BAND",BAND RJ HD
-http://e.advd.cyou:80/gustavo/gustavo/184898
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7_preU-irYN4vOqpIyu3l1cOsLbL2Mg--qUWA3BNhskWzibtb4e8OPGE&s=10" group-title="",A&E HD
+http://canaishd.servidor.tv:8080/Jorge001/jorge001/1521
 
-#EXTINF:-1 tvg-name="BAND RJ SD" tvg-logo="https://conteudo.imguol.com.br/c/entretenimento/c1/2018/04/03/logo-da-band-1522794110655_v2_450x450.png" group-title="CANAIS BR BAND",BAND RJ SD
-http://e.advd.cyou:80/gustavo/gustavo/184899
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7_preU-irYN4vOqpIyu3l1cOsLbL2Mg--qUWA3BNhskWzibtb4e8OPGE&s=10" group-title="",A&E HD+
+http://canaishd.servidor.tv:8080/Jorge001/jorge001/375
 
-#EXTINF:-1 tvg-name="BAND SPORTS SD." tvg-logo="https://i.imgur.com/4qhayiv.png" group-title="CANAIS BR BAND",BAND SPORTS SD.
-http://e.advd.cyou:80/gustavo/gustavo/185186
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiKdo2SGMgfvAuwWtwnSxqi4pkGSEd-SzWNg&usqp=CAU" group-title="",ACM HD
+http://canaishd.servidor.tv:8080/Jorge001/jorge001/1498
 
-#EXTINF:-1 tvg-name="BR: BAND SP HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Rede_Bandeirantes_logo_2011.svg/1200px-Rede_Bandeirantes_logo_2011.svg.png" group-title="CANAIS BR BAND",BR: BAND SP HD
-http://e.advd.cyou:80/gustavo/gustavo/195288
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiKdo2SGMgfvAuwWtwnSxqi4pkGSEd-SzWNg&usqp=CAU" group-title="",ACM HD+
+http://canaishd.servidor.tv:8080/Jorge001/jorge001/373
 
-#EXTINF:-1 tvg-name="BR: BAND SP SD" tvg-logo="https://i.pinimg.com/originals/74/ae/d8/74aed8843f43a46b63737f4451e337f0.png" group-title="CANAIS BR BAND",BR: BAND SP SD
-http://e.advd.cyou:80/gustavo/gustavo/195289
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Animal_Planet.png" group-title="",ANIMAL PLANET HD
+http://canaishd.servidor.tv:8080/Jorge001/jorge001/1497
 
-#EXTINF:-1 tvg-name="Band Campinas SD." tvg-logo="https://i.imgur.com/EFikBBd.png" group-title="CANAIS BR BAND",Band Campinas SD.
-http://e.advd.cyou:80/gustavo/gustavo/184896
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Animal_Planet.png" group-title="",ANIMAL PLANET HD+
+http://canaishd.servidor.tv:8080/Jorge001/jorge001/371
 
-#EXTINF:-1 tvg-name="Band Nordeste SD." tvg-logo="https://i.imgur.com/EFikBBd.png" group-title="CANAIS BR BAND",Band Nordeste SD.
-http://e.advd.cyou:80/gustavo/gustavo/184897
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQURPpyokKPaJMrG1U8DnjSDMRM_Y2R11yawwfi95Nl95iqlIQ7HdRr1PdG&s=10" group-title="",ARTE HD+
+http://canaishd.servidor.tv:8080/Jorge001/jorge001/15
 
-#EXTINF:-1 tvg-name="Band Sports HD." tvg-logo="https://i.imgur.com/4qhayiv.png" group-title="CANAIS BR BAND",Band Sports HD.
-http://e.advd.cyou:80/gustavo/gustavo/185185
-#EXTINF:-1 tvg-name="Animal Planet HD" tvg-logo="https://i.imgur.com/FSpBdys.png" group-title="CANAIS BR DOCUMENTARIO",Animal Planet HD
-http://e.advd.cyou:80/gustavo/gustavo/184987
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwDs8orVUO_9YsdPh0IOZHloooAeEkjFpcpwQtlkm3vD4WorW22XitJP3E&s=10" group-title="",AXN HD
+http://canaishd.servidor.tv:8080/Jorge001/jorge001/1496
 
-#EXTINF:-1 tvg-name="Animal Planet SD." tvg-logo="https://i.imgur.com/FSpBdys.png" group-title="CANAIS BR DOCUMENTARIO",Animal Planet SD.
-http://e.advd.cyou:80/gustavo/gustavo/184988
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwDs8orVUO_9YsdPh0IOZHloooAeEkjFpcpwQtlkm3vD4WorW22XitJP3E&s=10" group-title="",AXN HD+
+http://canaishd.servidor.tv:8080/Jorge001/jorge001/369
 
-#EXTINF:-1 tvg-name="BR: DISCOVERY SCIENCE HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/a/a8/LOGO_DISCOVERY_SCIENCE.png" group-title="CANAIS BR DOCUMENTARIO",BR: DISCOVERY SCIENCE HD
-http://e.advd.cyou:80/gustavo/gustavo/195292
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2014/02/band-logo-tv-1.png" group-title="",BAND HD
+http://canaishd.servidor.tv:8080/Jorge001/jorge001/489
 
-#EXTINF:-1 tvg-name="BR: FOOD NETWORK SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f4/Food_Network_-_Logo_2016.png" group-title="CANAIS BR DOCUMENTARIO",BR: FOOD NETWORK SD
-http://e.advd.cyou:80/gustavo/gustavo/195295
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/BandNews_TV_logo_2010.svg/1280px-BandNews_TV_logo_2010.svg.png" group-title="",BAND NEWS HD
+http://canaishd.servidor.tv:8080/Jorge001/jorge001/1494
 
-#EXTINF:-1 tvg-name="BR:Discovery Channel FHD" tvg-logo="https://brandslogo.net/wp-content/uploads/2013/01/discovery-channel-.eps-logo-vector.png" group-title="CANAIS BR DOCUMENTARIO",BR:Discovery Channel FHD
-http://e.advd.cyou:80/gustavo/gustavo/195323
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/11/bandsports-logo-1.png" group-title="",BAND SPORTS HD
+http://canaishd.servidor.tv:8080/Jorge001/jorge001/1495
 
-#EXTINF:-1 tvg-name="BR:Discovery Home e Health FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/Discovery_H%26H.png" group-title="CANAIS BR DOCUMENTARIO",BR:Discovery Home e Health FHD
-http://e.advd.cyou:80/gustavo/gustavo/195324
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEewg8VWaQB5kc3QpwuB6Q7XBNZKKNEsfr_eQD6qnqWvWWABDSZji4Ll0&s=10" group-title="",BIS HD
+http://canaishd.servidor.tv:8080/Jorge001/jorge001/1493
 
-#EXTINF:-1 tvg-name="Discovery Channel HD" tvg-logo="https://i.imgur.com/hIiJnWz.png" group-title="CANAIS BR DOCUMENTARIO",Discovery Channel HD
-http://e.advd.cyou:80/gustavo/gustavo/184989
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Boomerang_tv_logo.png/758px-Boomerang_tv_logo.png" group-title="", BOOMERANG
+http://canaishd.servidor.tv:8080/Jorge001/jorge001/1492
 
-#EXTINF:-1 tvg-name="Discovery Channel SD" tvg-logo="https://i.imgur.com/hIiJnWz.png" group-title="CANAIS BR DOCUMENTARIO",Discovery Channel SD
-http://e.advd.cyou:80/gustavo/gustavo/184990
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1jZzjyfkMCy2OxDWXry5mAVFsdp0QAsjgCq2lMfCec1fJubD_b2UDDtQ&s=10" group-title="", CARTOON NETWORK HD
+http://canaishd.servidor.tv:8080/Jorge001/jorge001/1491
 
-#EXTINF:-1 tvg-name="Discovery Home e Health HD." tvg-logo="https://i.imgur.com/JF2Y1ln.png" group-title="CANAIS BR DOCUMENTARIO",Discovery Home e Health HD.
-http://e.advd.cyou:80/gustavo/gustavo/184991
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSczk9efbBXnmlTIw2pABAQdsqsr4FhSaJrqzdDV9dCOP6kB8S0TmYTf-iy&s=10" group-title="",CINE SKY 01
+http://canaishd.servidor.tv:8080/Jorge001/jorge001/33230
 
-#EXTINF:-1 tvg-name="Discovery Home e Health SD." tvg-logo="https://i.imgur.com/JF2Y1ln.png" group-title="CANAIS BR DOCUMENTARIO",Discovery Home e Health SD.
-http://e.advd.cyou:80/gustavo/gustavo/184992
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSczk9efbBXnmlTIw2pABAQdsqsr4FhSaJrqzdDV9dCOP6kB8S0TmYTf-iy&s=10" group-title="",CINE SKY 02
+http://canaishd.servidor.tv:8080/Jorge001/jorge001/33231
 
-#EXTINF:-1 tvg-name="Discovery ID HD." tvg-logo="https://i.imgur.com/yBM4voC.png" group-title="CANAIS BR DOCUMENTARIO",Discovery ID HD.
-http://e.advd.cyou:80/gustavo/gustavo/184993
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSczk9efbBXnmlTIw2pABAQdsqsr4FhSaJrqzdDV9dCOP6kB8S0TmYTf-iy&s=10" group-title="",CINE SKY 03
+http://canaishd.servidor.tv:8080/Jorge001/jorge001/33232
 
-#EXTINF:-1 tvg-name="Discovery ID SD." tvg-logo="https://i.imgur.com/yBM4voC.png" group-title="CANAIS BR DOCUMENTARIO",Discovery ID SD.
-http://e.advd.cyou:80/gustavo/gustavo/184994
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSczk9efbBXnmlTIw2pABAQdsqsr4FhSaJrqzdDV9dCOP6kB8S0TmYTf-iy&s=10" group-title="",CINE SKY 04
+http://canaishd.servidor.tv:8080/Jorge001/jorge001/33233
 
-#EXTINF:-1 tvg-name="Discovery Science HD" tvg-logo="https://i.imgur.com/JdmLUwg.png" group-title="CANAIS BR DOCUMENTARIO",Discovery Science HD
-http://e.advd.cyou:80/gustavo/gustavo/184996
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSczk9efbBXnmlTIw2pABAQdsqsr4FhSaJrqzdDV9dCOP6kB8S0TmYTf-iy&s=10" group-title="",CINE SKY 05
+http://canaishd.servidor.tv:8080/Jorge001/jorge001/33234
 
-#EXTINF:-1 tvg-name="Discovery Science SD" tvg-logo="https://i.imgur.com/JdmLUwg.png" group-title="CANAIS BR DOCUMENTARIO",Discovery Science SD
-http://e.advd.cyou:80/gustavo/gustavo/184997
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSczk9efbBXnmlTIw2pABAQdsqsr4FhSaJrqzdDV9dCOP6kB8S0TmYTf-iy&s=10" group-title="",CINE SKY 06
+http://canaishd.servidor.tv:8080/Jorge001/jorge001/33235
 
-#EXTINF:-1 tvg-name="Discovery Theater HD" tvg-logo="https://i.imgur.com/mEVTqVO.png" group-title="CANAIS BR DOCUMENTARIO",Discovery Theater HD
-http://e.advd.cyou:80/gustavo/gustavo/184998
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSczk9efbBXnmlTIw2pABAQdsqsr4FhSaJrqzdDV9dCOP6kB8S0TmYTf-iy&s=10" group-title="",CINE SKY 07
+http://canaishd.servidor.tv:8080/Jorge001/jorge001/33236
 
-#EXTINF:-1 tvg-name="Discovery Theater SD." tvg-logo="https://i.imgur.com/mEVTqVO.png" group-title="CANAIS BR DOCUMENTARIO",Discovery Theater SD.
-http://e.advd.cyou:80/gustavo/gustavo/184999
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/Cinemax_LA.png" group-title="",CINEMAX
+http://canaishd.servidor.tv:8080/Jorge001/jorge001/1490
 
-#EXTINF:-1 tvg-name="Discovery Turbo HD." tvg-logo="https://i.imgur.com/J67CNHZ.png" group-title="CANAIS BR DOCUMENTARIO",Discovery Turbo HD.
-http://e.advd.cyou:80/gustavo/gustavo/185000
+#EXTINF:-1 tvg-logo="" group-title="",CNN BR
+http://canaishd.servidor.tv:8080/Jorge001/jorge001/21417
 
-#EXTINF:-1 tvg-name="Discovery Turbo SD." tvg-logo="https://i.imgur.com/J67CNHZ.png" group-title="CANAIS BR DOCUMENTARIO",Discovery Turbo SD.
-http://e.advd.cyou:80/gustavo/gustavo/185001
+#EXTINF:-1 tvg-logo="" group-title="",COMBATE
+http://canaishd.servidor.tv:8080/Jorge001/jorge001/1489
 
-#EXTINF:-1 tvg-name="Discovery World HD" tvg-logo="https://i.imgur.com/dKdL84k.png" group-title="CANAIS BR DOCUMENTARIO",Discovery World HD
-http://e.advd.cyou:80/gustavo/gustavo/185002
+#EXTINF:-1 tvg-logo="" group-title="",COMEDY CENTRAL
+http://canaishd.servidor.tv:8080/Jorge001/jorge001/1488
 
-#EXTINF:-1 tvg-name="Discovery World SD" tvg-logo="https://i.imgur.com/dKdL84k.png" group-title="CANAIS BR DOCUMENTARIO",Discovery World SD
-http://e.advd.cyou:80/gustavo/gustavo/185003
+#EXTINF:-1 tvg-logo="" group-title="",CONMEBOL
+http://canaishd.servidor.tv:8080/Jorge001/jorge001/33267
 
-#EXTINF:-1 tvg-name="FISH TV HD" tvg-logo="https://i.imgur.com/qS8OedV.png" group-title="CANAIS BR DOCUMENTARIO",FISH TV HD
-http://e.advd.cyou:80/gustavo/gustavo/185207
+#EXTINF:-1 tvg-logo="" group-title="",COPA DO NORDESTE
+http://canaishd.servidor.tv:8080/Jorge001/jorge001/55196
 
-#EXTINF:-1 tvg-name="FISH TV SD" tvg-logo="https://i.imgur.com/qS8OedV.png" group-title="CANAIS BR DOCUMENTARIO",FISH TV SD
-http://e.advd.cyou:80/gustavo/gustavo/185208
+#EXTINF:-1 tvg-logo="" group-title="", DISCOVERY CHANNEL
+http://canaishd.servidor.tv:8080/Jorge001/jorge001/1487
 
-#EXTINF:-1 tvg-name="Food Network  SD" tvg-logo="https://i.imgur.com/mmYRl9S.png" group-title="CANAIS BR DOCUMENTARIO",Food Network  SD
-http://e.advd.cyou:80/gustavo/gustavo/185031
+#EXTINF:-1 tvg-logo="" group-title="", DISCOVERY KIDS
+http://canaishd.servidor.tv:8080/Jorge001/jorge001/1483
 
-#EXTINF:-1 tvg-name="Food Network HD" tvg-logo="https://i.imgur.com/mmYRl9S.png" group-title="CANAIS BR DOCUMENTARIO",Food Network HD
-http://e.advd.cyou:80/gustavo/gustavo/185032
+#EXTINF:-1 tvg-logo="" group-title="", DISNEY CHANNEL
+http://canaishd.servidor.tv:8080/Jorge001/jorge001/1480
 
-#EXTINF:-1 tvg-name="H2 HD." tvg-logo="https://i.imgur.com/b5E2WSk.png" group-title="CANAIS BR DOCUMENTARIO",H2 HD.
-http://e.advd.cyou:80/gustavo/gustavo/185004
+#EXTINF:-1 tvg-logo="" group-title="", DISNEY JR
+http://canaishd.servidor.tv:8080/Jorge001/jorge001/1478
 
-#EXTINF:-1 tvg-name="H2 SD." tvg-logo="https://i.imgur.com/b5E2WSk.png" group-title="CANAIS BR DOCUMENTARIO",H2 SD.
-http://e.advd.cyou:80/gustavo/gustavo/185005
+#EXTINF:-1 tvg-logo="" group-title="",DISNY XD
+http://canaishd.servidor.tv:8080/Jorge001/jorge001/1517
 
-#EXTINF:-1 tvg-name="HGTV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/HGTV_US_Logo_2015.svg/1200px-HGTV_US_Logo_2015.svg.png" group-title="CANAIS BR DOCUMENTARIO",HGTV HD
-http://e.advd.cyou:80/gustavo/gustavo/185006
+#EXTINF:-1 tvg-logo="" group-title="",ESPN 2
+http://canaishd.servidor.tv:8080/Jorge001/jorge001/1476
 
-#EXTINF:-1 tvg-name="HGTV SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/HGTV_US_Logo_2015.svg/1200px-HGTV_US_Logo_2015.svg.png" group-title="CANAIS BR DOCUMENTARIO",HGTV SD
-http://e.advd.cyou:80/gustavo/gustavo/185007
+#EXTINF:-1 tvg-logo="" group-title="",ESPN BR
+http://canaishd.servidor.tv:8080/Jorge001/jorge001/1475
 
-#EXTINF:-1 tvg-name="History Channel HD." tvg-logo="https://i.imgur.com/JaaXRWZ.png" group-title="CANAIS BR DOCUMENTARIO",History Channel HD.
-http://e.advd.cyou:80/gustavo/gustavo/185008
+#EXTINF:-1 tvg-logo="" group-title="",ESPN EXTRA
+http://canaishd.servidor.tv:8080/Jorge001/jorge001/311
 
-#EXTINF:-1 tvg-name="History channel SD." tvg-logo="https://i.imgur.com/JaaXRWZ.png" group-title="CANAIS BR DOCUMENTARIO",History channel SD.
-http://e.advd.cyou:80/gustavo/gustavo/185009
+#EXTINF:-1 tvg-logo="" group-title="",ESPN
+http://canaishd.servidor.tv:8080/Jorge001/jorge001/1477
 
-#EXTINF:-1 tvg-name="Lifetime HD" tvg-logo="https://i.imgur.com/iTya3Vq.png" group-title="CANAIS BR DOCUMENTARIO",Lifetime HD
-http://e.advd.cyou:80/gustavo/gustavo/185036
+#EXTINF:-1 tvg-logo="" group-title="",STAR CHANNEL
+http://canaishd.servidor.tv:8080/Jorge001/jorge001/1473
 
-#EXTINF:-1 tvg-name="Lifetime SD" tvg-logo="https://i.imgur.com/iTya3Vq.png" group-title="CANAIS BR DOCUMENTARIO",Lifetime SD
-http://e.advd.cyou:80/gustavo/gustavo/185037
+#EXTINF:-1 tvg-logo="" group-title="",STAR LIFE
+http://canaishd.servidor.tv:8080/Jorge001/jorge001/1472
 
-#EXTINF:-1 tvg-name="Mais Globosat HD" tvg-logo="https://i.imgur.com/f4Inuw2.png" group-title="CANAIS BR DOCUMENTARIO",Mais Globosat HD
-http://e.advd.cyou:80/gustavo/gustavo/185038
+#EXTINF:-1 tvg-logo="" group-title="",STAR PREMIUM 1
+http://canaishd.servidor.tv:8080/Jorge001/jorge001/1505
 
-#EXTINF:-1 tvg-name="Mais Globosat SD" tvg-logo="https://i.imgur.com/f4Inuw2.png" group-title="CANAIS BR DOCUMENTARIO",Mais Globosat SD
-http://e.advd.cyou:80/gustavo/gustavo/185039
+#EXTINF:-1 tvg-logo="" group-title="",STAR PREMIUM 2
+http://canaishd.servidor.tv:8080/Jorge001/jorge001/29768
 
-#EXTINF:-1 tvg-name="Nat Geo WILD SD." tvg-logo="https://i.imgur.com/VqaCFR4.png" group-title="CANAIS BR DOCUMENTARIO",Nat Geo WILD SD.
-http://e.advd.cyou:80/gustavo/gustavo/185011
+#EXTINF:-1 tvg-logo="" group-title="",FOX SPORTS 2
+http://canaishd.servidor.tv:8080/Jorge001/jorge001/1501
 
-#EXTINF:-1 tvg-name="NatGeo HD." tvg-logo="https://i.imgur.com/vy9doOf.png" group-title="CANAIS BR DOCUMENTARIO",NatGeo HD.
-http://e.advd.cyou:80/gustavo/gustavo/185012
+#EXTINF:-1 tvg-logo="" group-title="",FOX SPORTS 1
+http://canaishd.servidor.tv:8080/Jorge001/jorge001/1502
 
-#EXTINF:-1 tvg-name="NatGeo SD." tvg-logo="https://i.imgur.com/vy9doOf.png" group-title="CANAIS BR DOCUMENTARIO",NatGeo SD.
-http://e.advd.cyou:80/gustavo/gustavo/185013
 
-#EXTINF:-1 tvg-name="NatGeo Wild HD" tvg-logo="https://i.imgur.com/VqaCFR4.png" group-title="CANAIS BR DOCUMENTARIO",NatGeo Wild HD
-http://e.advd.cyou:80/gustavo/gustavo/185014
+#EXTINF:-1 tvg-logo="" group-title="",FX
+http://canaishd.servidor.tv:8080/Jorge001/jorge001/1469
 
-#EXTINF:-1 tvg-name="BR COPA LIBERTADORES 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/9/95/Conmebol_Libertadores_logo.svg/768px-Conmebol_Libertadores_logo.svg.png" group-title="CANAIS BR ESPORTES ESPECIAIS",BR COPA LIBERTADORES 2 HD
-http://e.advd.cyou:80/gustavo/gustavo/195291
+#EXTINF:-1 tvg-logo="" group-title="",GLOBO BA
+http://canaishd.servidor.tv:8080/Jorge001/jorge001/260
 
-#EXTINF:-1 tvg-name="BR: CAMPEONATO BAIANO 2021" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/2f/Baiano2020.png" group-title="CANAIS BR ESPORTES ESPECIAIS",BR: CAMPEONATO BAIANO 2021
-http://e.advd.cyou:80/gustavo/gustavo/191221
+#EXTINF:-1 tvg-logo="" group-title="",GLOBO NEWS
+http://canaishd.servidor.tv:8080/Jorge001/jorge001/1468
 
-#EXTINF:-1 tvg-name="BR: CAMPEONATO BAIANO 2021 2" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/2f/Baiano2020.png" group-title="CANAIS BR ESPORTES ESPECIAIS",BR: CAMPEONATO BAIANO 2021 2
-http://e.advd.cyou:80/gustavo/gustavo/191222
+#EXTINF:-1 tvg-logo="" group-title="",GLOBO NORDESTE
+http://canaishd.servidor.tv:8080/Jorge001/jorge001/275
 
-#EXTINF:-1 tvg-name="BR: CAMPEONATO SERGIPANO HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/f/f2/Sergipano2020.png" group-title="CANAIS BR ESPORTES ESPECIAIS",BR: CAMPEONATO SERGIPANO HD
-http://e.advd.cyou:80/gustavo/gustavo/191223
+#EXTINF:-1 tvg-logo="" group-title="",GLOBO RJ
+http://canaishd.servidor.tv:8080/Jorge001/jorge001/1504
 
-#EXTINF:-1 tvg-name="BR: COPA DO NORDESTE 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/05/Copa_do_Nordeste.png/185px-Copa_do_Nordeste.png" group-title="CANAIS BR ESPORTES ESPECIAIS",BR: COPA DO NORDESTE 1 HD
-http://e.advd.cyou:80/gustavo/gustavo/191219
+#EXTINF:-1 tvg-logo="" group-title="",GLOBO SP
+http://canaishd.servidor.tv:8080/Jorge001/jorge001/1466
 
-#EXTINF:-1 tvg-name="BR: COPA DO NORDESTE 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/05/Copa_do_Nordeste.png/185px-Copa_do_Nordeste.png" group-title="CANAIS BR ESPORTES ESPECIAIS",BR: COPA DO NORDESTE 2 HD
-http://e.advd.cyou:80/gustavo/gustavo/191220
+#EXTINF:-1 tvg-logo="" group-title="",GLOOB
+http://canaishd.servidor.tv:8080/Jorge001/jorge001/1499
 
-#EXTINF:-1 tvg-name="BR: COPA LIBERTADORES 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/9/95/Conmebol_Libertadores_logo.svg/768px-Conmebol_Libertadores_logo.svg.png" group-title="CANAIS BR ESPORTES ESPECIAIS",BR: COPA LIBERTADORES 1 HD
-http://e.advd.cyou:80/gustavo/gustavo/195290
+#EXTINF:-1 tvg-logo="" group-title="",GLOBINHO
+http://canaishd.servidor.tv:8080/Jorge001/jorge001/1515
 
-#EXTINF:-1 tvg-name="BR: EI PLUS 3 HD" tvg-logo="https://1.bp.blogspot.com/-MLu8xDPo3GM/XYlDp_EpZVI/AAAAAAABaUU/vdgebefcxCMy8zvZGa_D99g8EWU9lOgggCLcBGAsYHQ/w1200-h630-p-k-no-nu/logo_500x500_eiplus.png" group-title="CANAIS BR ESPORTES ESPECIAIS",BR: EI PLUS 3 HD
-http://e.advd.cyou:80/gustavo/gustavo/195293
+#EXTINF:-1 tvg-logo="" group-title="",GNT
+http://canaishd.servidor.tv:8080/Jorge001/jorge001/235
 
-#EXTINF:-1 tvg-name="BR: EI PLUS 4 HD" tvg-logo="https://1.bp.blogspot.com/-MLu8xDPo3GM/XYlDp_EpZVI/AAAAAAABaUU/vdgebefcxCMy8zvZGa_D99g8EWU9lOgggCLcBGAsYHQ/w1200-h630-p-k-no-nu/logo_500x500_eiplus.png" group-title="CANAIS BR ESPORTES ESPECIAIS",BR: EI PLUS 4 HD
-http://e.advd.cyou:80/gustavo/gustavo/195294
+#EXTINF:-1 tvg-logo="" group-title="",H2
+http://canaishd.servidor.tv:8080/Jorge001/jorge001/1465
 
-#EXTINF:-1 tvg-name="BR: FLA TV 2 HD" tvg-logo="https://flatvmais.com.br/wp-content/uploads/sites/5/2021/02/cropped-flatv_horizontal-1.png" group-title="CANAIS BR ESPORTES ESPECIAIS",BR: FLA TV 2 HD
-http://e.advd.cyou:80/gustavo/gustavo/191893
+#EXTINF:-1 tvg-logo="" group-title="",HBO 2
+http://canaishd.servidor.tv:8080/Jorge001/jorge001/1460
 
-#EXTINF:-1 tvg-name="BR: FLA TV HD" tvg-logo="https://flatvmais.com.br/wp-content/uploads/sites/5/2021/02/cropped-flatv_horizontal-1.png" group-title="CANAIS BR ESPORTES ESPECIAIS",BR: FLA TV HD
-http://e.advd.cyou:80/gustavo/gustavo/191892
+#EXTINF:-1 tvg-logo="" group-title="",HBO FAMILY
+http://canaishd.servidor.tv:8080/Jorge001/jorge001/1464
 
-#EXTINF:-1 tvg-name="BR: TNT ESTADIO 1 HD" tvg-logo="https://theme.zdassets.com/theme_assets/467451/9efd79eb4b10091194d13fd3214144ec401d6049.png" group-title="CANAIS BR ESPORTES ESPECIAIS",BR: TNT ESTADIO 1 HD
-http://e.advd.cyou:80/gustavo/gustavo/196636
+#EXTINF:-1 tvg-logo="" group-title="",HBO
+http://canaishd.servidor.tv:8080/Jorge001/jorge001/1463
 
-#EXTINF:-1 tvg-name="BR: TNT ESTADIO 2 HD" tvg-logo="https://theme.zdassets.com/theme_assets/467451/9efd79eb4b10091194d13fd3214144ec401d6049.png" group-title="CANAIS BR ESPORTES ESPECIAIS",BR: TNT ESTADIO 2 HD
-http://e.advd.cyou:80/gustavo/gustavo/196637
+#EXTINF:-1 tvg-logo="" group-title="",HBO MUNDI
+http://canaishd.servidor.tv:8080/Jorge001/jorge001/1457
 
-#EXTINF:-1 tvg-name="BR: VASCO TV HD" tvg-logo="https://pbs.twimg.com/profile_images/667399932387659776/nveDQSjM_400x400.jpg" group-title="CANAIS BR ESPORTES ESPECIAIS",BR: VASCO TV HD
-http://e.advd.cyou:80/gustavo/gustavo/191894
+#EXTINF:-1 tvg-logo="" group-title="",HBO PLUS
+http://canaishd.servidor.tv:8080/Jorge001/jorge001/1462
 
-#EXTINF:-1 tvg-name="CAMPEONATO CARIOCA Opçao 1" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/f/f9/Carioca2017.png/200px-Carioca2017.png" group-title="CANAIS BR ESPORTES ESPECIAIS",CAMPEONATO CARIOCA Opçao 1
-http://e.advd.cyou:80/gustavo/gustavo/191899
+#EXTINF:-1 tvg-logo="" group-title="",HBO POP
+http://canaishd.servidor.tv:8080/Jorge001/jorge001/1455
 
-#EXTINF:-1 tvg-name="CAMPEONATO CARIOCA Opçao 2" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/f/f9/Carioca2017.png/200px-Carioca2017.png" group-title="CANAIS BR ESPORTES ESPECIAIS",CAMPEONATO CARIOCA Opçao 2
-http://e.advd.cyou:80/gustavo/gustavo/191900
+#EXTINF:-1 tvg-logo="" group-title="",HBO SIGNATURE
+http://canaishd.servidor.tv:8080/Jorge001/jorge001/1461
 
-#EXTINF:-1 tvg-name="CONMEBOL TV 1 SD" tvg-logo="http://script.clearnight.xyz/logos/Esportes-Especiais/conmebol.png" group-title="CANAIS BR ESPORTES ESPECIAIS",CONMEBOL TV 1 SD
-http://e.advd.cyou:80/gustavo/gustavo/196626
+#EXTINF:-1 tvg-logo="" group-title="",HBO XTREME
+http://canaishd.servidor.tv:8080/Jorge001/jorge001/1456
 
-#EXTINF:-1 tvg-name="CONMEBOL TV 1 SD³" tvg-logo="http://script.clearnight.xyz/logos/Esportes-Especiais/conmebol.png" group-title="CANAIS BR ESPORTES ESPECIAIS",CONMEBOL TV 1 SD³
-http://e.advd.cyou:80/gustavo/gustavo/196627
+#EXTINF:-1 tvg-logo="" group-title="",HISTORY CHANNEL
+http://canaishd.servidor.tv:8080/Jorge001/jorge001/1459
 
-#EXTINF:-1 tvg-name="CONMEBOL TV 2 SD" tvg-logo="http://script.clearnight.xyz/logos/Esportes-Especiais/conmebol.png" group-title="CANAIS BR ESPORTES ESPECIAIS",CONMEBOL TV 2 SD
-http://e.advd.cyou:80/gustavo/gustavo/196628
+#EXTINF:-1 tvg-logo="" group-title="", DISCOVERY
+http://canaishd.servidor.tv:8080/Jorge001/jorge001/1514
 
-#EXTINF:-1 tvg-name="CONMEBOL TV 2 SD³" tvg-logo="http://script.clearnight.xyz/logos/Esportes-Especiais/conmebol.png" group-title="CANAIS BR ESPORTES ESPECIAIS",CONMEBOL TV 2 SD³
-http://e.advd.cyou:80/gustavo/gustavo/196629
+#EXTINF:-1 tvg-logo="" group-title="",LIFETIME
+http://canaishd.servidor.tv:8080/Jorge001/jorge001/1458
 
-#EXTINF:-1 tvg-name="CONMEBOL TV 3 SD" tvg-logo="http://script.clearnight.xyz/logos/Esportes-Especiais/conmebol.png" group-title="CANAIS BR ESPORTES ESPECIAIS",CONMEBOL TV 3 SD
-http://e.advd.cyou:80/gustavo/gustavo/196630
+#EXTINF:-1 tvg-logo="" group-title="",MEGAPIX
+http://canaishd.servidor.tv:8080/Jorge001/jorge001/1454
 
-#EXTINF:-1 tvg-name="CONMEBOL TV 3 SD³" tvg-logo="http://script.clearnight.xyz/logos/Esportes-Especiais/conmebol.png" group-title="CANAIS BR ESPORTES ESPECIAIS",CONMEBOL TV 3 SD³
-http://e.advd.cyou:80/gustavo/gustavo/196631
+#EXTINF:-1 tvg-logo="" group-title="",MTV
+http://canaishd.servidor.tv:8080/Jorge001/jorge001/1453
 
-#EXTINF:-1 tvg-name="CONMEBOL TV 4 SD" tvg-logo="http://script.clearnight.xyz/logos/Esportes-Especiais/conmebol.png" group-title="CANAIS BR ESPORTES ESPECIAIS",CONMEBOL TV 4 SD
-http://e.advd.cyou:80/gustavo/gustavo/196632
+#EXTINF:-1 tvg-logo="" group-title="",MTV LIVE
+http://canaishd.servidor.tv:8080/Jorge001/jorge001/33259
 
-#EXTINF:-1 tvg-name="COPA DO NORDESTE 2020 JOGO-1" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/1/19/CopaNordeste2017.png/150px-CopaNordeste2017.png" group-title="CANAIS BR ESPORTES ESPECIAIS",COPA DO NORDESTE 2020 JOGO-1
-http://e.advd.cyou:80/gustavo/gustavo/191895
+#EXTINF:-1 tvg-logo="" group-title="",MULTISHOW
+http://canaishd.servidor.tv:8080/Jorge001/jorge001/1452
 
-#EXTINF:-1 tvg-name="COPA DO NORDESTE 2020 JOGO-2" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/1/19/CopaNordeste2017.png/150px-CopaNordeste2017.png" group-title="CANAIS BR ESPORTES ESPECIAIS",COPA DO NORDESTE 2020 JOGO-2
-http://e.advd.cyou:80/gustavo/gustavo/191896
+#EXTINF:-1 tvg-logo="" group-title="",NAT GEO KIDS
+http://canaishd.servidor.tv:8080/Jorge001/jorge001/1451
 
-#EXTINF:-1 tvg-name="DAZN 1" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71njwkZLLfL.png" group-title="CANAIS BR ESPORTES ESPECIAIS",DAZN 1
-http://e.advd.cyou:80/gustavo/gustavo/185193
+#EXTINF:-1 tvg-logo="" group-title="",NAT GEO WILD
+http://canaishd.servidor.tv:8080/Jorge001/jorge001/1450
 
-#EXTINF:-1 tvg-name="DAZN 2" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71njwkZLLfL.png" group-title="CANAIS BR ESPORTES ESPECIAIS",DAZN 2
-http://e.advd.cyou:80/gustavo/gustavo/185194
+#EXTINF:-1 tvg-logo="" group-title="",NICK JR
+http://canaishd.servidor.tv:8080/Jorge001/jorge001/1503
 
-#EXTINF:-1 tvg-name="DAZN 3 HD" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71njwkZLLfL.png" group-title="CANAIS BR ESPORTES ESPECIAIS",DAZN 3 HD
-http://e.advd.cyou:80/gustavo/gustavo/185195
+#EXTINF:-1 tvg-logo="" group-title="", NICKELODEON
+http://canaishd.servidor.tv:8080/Jorge001/jorge001/1449
 
-#EXTINF:-1 tvg-name="E HD." tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/95/E%21_Logo.png" group-title="CANAIS BR ESPORTES ESPECIAIS",E HD.
-http://e.advd.cyou:80/gustavo/gustavo/185028
+#EXTINF:-1 tvg-logo="" group-title="",OFF
+http://canaishd.servidor.tv:8080/Jorge001/jorge001/183
 
-#EXTINF:-1 tvg-name="E SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/95/E%21_Logo.png" group-title="CANAIS BR ESPORTES ESPECIAIS",E SD
-http://e.advd.cyou:80/gustavo/gustavo/185029
+#EXTINF:-1 tvg-logo="" group-title="", PARAMOUNT
+http://canaishd.servidor.tv:8080/Jorge001/jorge001/1448
 
-#EXTINF:-1 tvg-name="EI Plus  01" tvg-logo="https://s3.amazonaws.com/static.prod.eiplus.com.br/media/canal/thumb_logo_nov.png" group-title="CANAIS BR ESPORTES ESPECIAIS",EI Plus  01
-http://e.advd.cyou:80/gustavo/gustavo/185197
+#EXTINF:-1 tvg-logo="" group-title="", PREMIERE
+http://canaishd.servidor.tv:8080/Jorge001/jorge001/1447
 
-#EXTINF:-1 tvg-name="EI Plus 02" tvg-logo="https://s3.amazonaws.com/static.prod.eiplus.com.br/media/canal/thumb_logo_nov.png" group-title="CANAIS BR ESPORTES ESPECIAIS",EI Plus 02
-http://e.advd.cyou:80/gustavo/gustavo/185198
+#EXTINF:-1 tvg-logo="" group-title="",SONY
+http://canaishd.servidor.tv:8080/Jorge001/jorge001/1446
+#EXTINF:-1 tvg-logo="" group-title="", SPACE
+http://canaishd.servidor.tv:8080/Jorge001/jorge001/1445
 
-#EXTINF:-1 tvg-name="Live: Libertadores 01 Sport.TV" tvg-logo="https://www.atelevisao.com/wp-content/uploads/2016/08/sportv.png" group-title="CANAIS BR ESPORTES ESPECIAIS",Live: Libertadores 01 Sport.TV
-http://e.advd.cyou:80/gustavo/gustavo/185213
+#EXTINF:-1 tvg-logo="" group-title="", SPORTV 2
+http://canaishd.servidor.tv:8080/Jorge001/jorge001/1443
 
-#EXTINF:-1 tvg-name="Live: Libertadores 02 Sport.TV" tvg-logo="https://www.atelevisao.com/wp-content/uploads/2016/08/sportv.png" group-title="CANAIS BR ESPORTES ESPECIAIS",Live: Libertadores 02 Sport.TV
-http://e.advd.cyou:80/gustavo/gustavo/185214
+#EXTINF:-1 tvg-logo="" group-title="",SPORTV 3
+http://canaishd.servidor.tv:8080/Jorge001/jorge001/1442
 
-#EXTINF:-1 tvg-name="SERGIPANO 2" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/f/f2/Sergipano2020.png" group-title="CANAIS BR ESPORTES ESPECIAIS",SERGIPANO 2
-http://e.advd.cyou:80/gustavo/gustavo/191230
-
-#EXTINF:-1 tvg-name="TNT SPORTS." tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/1000px-TNT_Logo_2016.svg.png" group-title="CANAIS BR ESPORTES ESPECIAIS",TNT SPORTS.
-http://e.advd.cyou:80/gustavo/gustavo/191177
-
-#EXTINF:-1 tvg-name="BR:Combate FHD" tvg-logo="https://pngimage.net/wp-content/uploads/2018/05/combate-png-6.png" group-title="CANAIS BR ESPORTES",BR:Combate FHD
-http://e.advd.cyou:80/gustavo/gustavo/195317
-
-#EXTINF:-1 tvg-name="Combate HD." tvg-logo="https://i.imgur.com/WPmcn2I.png" group-title="CANAIS BR ESPORTES",Combate HD.
-http://e.advd.cyou:80/gustavo/gustavo/185187
-
-#EXTINF:-1 tvg-name="Combate SD." tvg-logo="https://i.imgur.com/WPmcn2I.png" group-title="CANAIS BR ESPORTES",Combate SD.
-http://e.advd.cyou:80/gustavo/gustavo/185188
-
-#EXTINF:-1 tvg-name="ESPN HD" tvg-logo="https://i.imgur.com/UdsKz3M.png" group-title="CANAIS BR ESPORTES",ESPN HD
-http://e.advd.cyou:80/gustavo/gustavo/185205
-
-#EXTINF:-1 tvg-name="ESPN SD" tvg-logo="https://i.imgur.com/UdsKz3M.png" group-title="CANAIS BR ESPORTES",ESPN SD
-http://e.advd.cyou:80/gustavo/gustavo/185206
-
-#EXTINF:-1 tvg-name="Espn 2  HD" tvg-logo="https://i.imgur.com/y5X2QWt.png" group-title="CANAIS BR ESPORTES",Espn 2  HD
-http://e.advd.cyou:80/gustavo/gustavo/185199
-
-#EXTINF:-1 tvg-name="Espn 2  SD" tvg-logo="https://i.imgur.com/y5X2QWt.png" group-title="CANAIS BR ESPORTES",Espn 2  SD
-http://e.advd.cyou:80/gustavo/gustavo/185200
-
-#EXTINF:-1 tvg-name="Espn Brasil HD" tvg-logo="https://i.imgur.com/mNQCw2n.png" group-title="CANAIS BR ESPORTES",Espn Brasil HD
-http://e.advd.cyou:80/gustavo/gustavo/185201
-
-#EXTINF:-1 tvg-name="Espn Brasil SD" tvg-logo="https://i.imgur.com/mNQCw2n.png" group-title="CANAIS BR ESPORTES",Espn Brasil SD
-http://e.advd.cyou:80/gustavo/gustavo/185202
-
-#EXTINF:-1 tvg-name="FOX SPORTS 2 SD" tvg-logo="https://i.imgur.com/CYW9MdS.png" group-title="CANAIS BR ESPORTES",FOX SPORTS 2 SD
-http://e.advd.cyou:80/gustavo/gustavo/185210
-
-#EXTINF:-1 tvg-name="FOX Sports HD" tvg-logo="http://script.clearnight.xyz/logos/Esportes-Especiais/fox-sports.png" group-title="CANAIS BR ESPORTES",FOX Sports HD
-http://e.advd.cyou:80/gustavo/gustavo/191237
-
-#EXTINF:-1 tvg-name="FOX Sports SD" tvg-logo="http://script.clearnight.xyz/logos/Esportes-Especiais/fox-sports.png" group-title="CANAIS BR ESPORTES",FOX Sports SD
-http://e.advd.cyou:80/gustavo/gustavo/191235
-
-#EXTINF:-1 tvg-name="Fox Sports 2 HD" tvg-logo="https://i.imgur.com/CYW9MdS.png" group-title="CANAIS BR ESPORTES",Fox Sports 2 HD
-http://e.advd.cyou:80/gustavo/gustavo/185209
-
-#EXTINF:-1 tvg-name="Fox Sports HD" tvg-logo="https://i.imgur.com/dLWrTma.png" group-title="CANAIS BR ESPORTES",Fox Sports HD
-http://e.advd.cyou:80/gustavo/gustavo/185211
-
-#EXTINF:-1 tvg-name="SPORTV HD" tvg-logo="https://i.imgur.com/jln3dBV.png" group-title="CANAIS BR ESPORTES",SPORTV HD
-http://e.advd.cyou:80/gustavo/gustavo/185240
-
-#EXTINF:-1 tvg-name="SporTV 2 HD." tvg-logo="https://i.imgur.com/jln3dBV.png" group-title="CANAIS BR ESPORTES",SporTV 2 HD.
-http://e.advd.cyou:80/gustavo/gustavo/185236
-
-#EXTINF:-1 tvg-name="SporTV 2 SD." tvg-logo="https://i.imgur.com/jln3dBV.png" group-title="CANAIS BR ESPORTES",SporTV 2 SD.
-http://e.advd.cyou:80/gustavo/gustavo/185237
-
-#EXTINF:-1 tvg-name="SporTV 3 HD." tvg-logo="https://i.imgur.com/jln3dBV.png" group-title="CANAIS BR ESPORTES",SporTV 3 HD.
-http://e.advd.cyou:80/gustavo/gustavo/185238
-
-#EXTINF:-1 tvg-name="SporTV 3 SD." tvg-logo="https://i.imgur.com/jln3dBV.png" group-title="CANAIS BR ESPORTES",SporTV 3 SD.
-http://e.advd.cyou:80/gustavo/gustavo/185239
-
-#EXTINF:-1 tvg-name="SporTV SD" tvg-logo="https://i.imgur.com/jln3dBV.png" group-title="CANAIS BR ESPORTES",SporTV SD
-http://e.advd.cyou:80/gustavo/gustavo/185241
+#EXTINF:-1 tvg-logo="" group-title="", SPORTV 1
+http://canaishd.servidor.tv:8080/Jorge001/jorge001/1444
