@@ -122,6 +122,9 @@ https://playplusespn-lh.akamaihd.net/i/pp_espnext@374460/index_720_av-b.m3u8?sd=
 #EXTINF:-1 tvg-id="ESPN EXTRA" tvg-logo="http://i.imgur.com/TW6ZY5p.png" group-title="Esportes",ESPN Extra HD
 http://canaishd.servidor.tv:8080/Jorge001/jorge001/311
 
+#EXTINF:-1 tvg-id="ESPN EXTRA" tvg-logo="http://i.imgur.com/TW6ZY5p.png" group-title="Esportes",ESPN DUAL
+http://cmsppv.life:80/Jane123/Jane123/460352
+
 #EXTINF:-1 tvg-id="WOOHOO" tvg-logo="http://i.imgur.com/Dt61U19.png" group-title="Esportes",Woohoo
 http://cdn-1.nxplay.com.br/WOOHOO_NXPLAY/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIAIS
 
