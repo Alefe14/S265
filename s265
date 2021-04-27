@@ -409,6 +409,15 @@ http://canaishd.servidor.tv:8080/Jorge001/jorge001/1488
 #EXTINF:-1 tvg-logo="" group-title="", DISCOVERY CHANNEL
 http://canaishd.servidor.tv:8080/Jorge001/jorge001/1487
 
+#EXTINF:-1 tvg-logo="" group-title="", Discovery Channel UHD
+http://canaishd.servidor.tv:8080/Jorge001/jorge001/56508
+
+#EXTINF:-1 tvg-logo="" group-title="", Discovery Channel HD
+http://canaishd.servidor.tv:8080/Jorge001/jorge001/1487
+
+#EXTINF:-1 tvg-logo="" group-title="", Discovery Channel HD+
+http://canaishd.servidor.tv:8080/Jorge001/jorge001/337
+
 #EXTINF:-1 tvg-logo="" group-title="", DISCOVERY KIDS
 http://canaishd.servidor.tv:8080/Jorge001/jorge001/1483
 
