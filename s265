@@ -141,29 +141,32 @@ http://nxplay-srv1.nxplay.com.br/BAND_SPORTS/tracks-v1a1/mono.m3u8?PEDROJUNIORTU
 #EXTINF: -1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/11/bandsports-logo.png", BAND SPORTS HD 2
 https://nxplay-srv1.nxplay.com.br/BAND_SPORTS/tracks-v1a1/mono.m3u8?sd=10&rebase=on
 
-#EXTINF:-1 tvg-logo="" group-title="LUTA", COMBATE FHD
-http://pdsrv.io:80/lucas123/123lucas/76727
+#EXTINF:-1,Combate HD
+http://canaishd.servidor.tv:8080/dori10/dori10/1489
 
-#EXTINF:-1 tvg-logo="" group-title="LUTA", COMBATE HD
-http://pdsrv.io:80/lucas123/123lucas/76729
+#EXTINF:-1,Combate HD+
+http://canaishd.servidor.tv:8080/dori10/dori10/342
+
+#EXTINF:-1,Conmebol 4 HD
+http://canaishd.servidor.tv:8080/dori10/dori10/33270
+
+#EXTINF:-1,Conmebol 4 HD+
+http://canaishd.servidor.tv:8080/dori10/dori10/33274
+
+#EXTINF:-1,Copa Nordeste 1 HD
+http://canaishd.servidor.tv:8080/dori10/dori10/55196
+
+#EXTINF:-1,Copa Nordeste 2 HD
+http://canaishd.servidor.tv:8080/dori10/dori10/55194
+
+#EXTINF:-1,Copa Nordeste 4 HD
+http://canaishd.servidor.tv:8080/dori10/dori10/55193
+
+#EXTINF:-1,Copa Nordeste 5 HD
+http://canaishd.servidor.tv:8080/dori10/dori10/55192
 
 #EXTINF:-1 tvg-logo="" group-title="LUTA",AYSAR Fight Sports¹ Japan (LUTA)
 http://210.210.155.35/uq2663/h/h05/index.m3u8
-
-#EXTINF:-1,CONMEBOL 1²
-http://pdsrv.io:80/lucas123/123lucas/68350
-
-#EXTINF:-1,CONMEBOL 1¹
-http://pdsrv.io:80/lucas123/123lucas/68348
-
-#EXTINF:-1,CONMEBOL 2²
-http://pdsrv.io:80/lucas123/123lucas/68351
-
-#EXTINF:-1,CONMEBOL 2¹
-http://pdsrv.io:80/lucas123/123lucas/68349
-
-#EXTINF:-1,CONMEBOL 3²
-http://pdsrv.io:80/lucas123/123lucas/68352
 
 #EXTINF:-1 tvg-logo="" group-title="Esporte",COPA DO NORDESTE
 http://canaishd.servidor.tv:8080/Jorge001/jorge001/55196
@@ -360,11 +363,14 @@ http://natv.pw:80/fernando01/01fernando/18214
 #EXTINF:-1,ANIMAL PLANET FHD 1
 http://pdsrv.io:80/lucas123/123lucas/69154
 
-#EXTINF:-1,ANIMAL PLANET FHD 2
-http://pdsrv.io:80/lucas123/123lucas/13205
+#EXTINF:-1,Animal Planet UHD
+http://canaishd.servidor.tv:8080/dori10/dori10/56505
 
-#EXTINF:-1,ANIMAL PLANET HD
-http://pdsrv.io:80/lucas123/123lucas/6142
+#EXTINF:-1,Animal Planet HD
+http://canaishd.servidor.tv:8080/dori10/dori10/1497
+
+#EXTINF:-1,Animal Planet HD+
+http://canaishd.servidor.tv:8080/dori10/dori10/371
 
 #EXTINF:-1,Love Nature HD (Canadá)
 https://origin-02.nxplay.com.br/LOVENATURE_NX/tracks-v1a1a2/mono.m3u8
@@ -405,86 +411,56 @@ http://pdsrv.io:80/lucas123/123lucas/7817
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSczk9efbBXnmlTIw2pABAQdsqsr4FhSaJrqzdDV9dCOP6kB8S0TmYTf-iy&s=10" group-title="",CINE SKY 01
 http://canaishd.servidor.tv:8080/Jorge001/jorge001/33230
 
-#EXTINF:-1,CINE 01²
-http://pdsrv.io:80/lucas123/123lucas/60951
+#EXTINF:-1,Chef TV HD
+http://canaishd.servidor.tv:8080/dori10/dori10/53518
 
-#EXTINF:-1,CINE 02²
-http://pdsrv.io:80/lucas123/123lucas/60952
+#EXTINF:-1,Chef TV HD+
+http://canaishd.servidor.tv:8080/dori10/dori10/53519
 
-#EXTINF:-1,CINE 03²
-http://pdsrv.io:80/lucas123/123lucas/60953
+#EXTINF:-1,CINE SKY 1
+http://canaishd.servidor.tv:8080/dori10/dori10/33230
 
-#EXTINF:-1,CINE 04²
-http://pdsrv.io:80/lucas123/123lucas/60954
+#EXTINF:-1,CINE SKY 2
+http://canaishd.servidor.tv:8080/dori10/dori10/33231
 
-#EXTINF:-1,CINE 06²
-http://pdsrv.io:80/lucas123/123lucas/61025
+#EXTINF:-1,CINE SKY 3
+http://canaishd.servidor.tv:8080/dori10/dori10/33232
 
-#EXTINF:-1,CINE 07²
-http://pdsrv.io:80/lucas123/123lucas/60956
+#EXTINF:-1,CINE SKY 4
+http://canaishd.servidor.tv:8080/dori10/dori10/33233
 
-#EXTINF:-1,CINE 08²
-http://pdsrv.io:80/lucas123/123lucas/60957
+#EXTINF:-1,CINE SKY 5
+http://canaishd.servidor.tv:8080/dori10/dori10/33234
 
-#EXTINF:-1,CINE 09²
-http://pdsrv.io:80/lucas123/123lucas/60958
+#EXTINF:-1,CINE SKY 6
+http://canaishd.servidor.tv:8080/dori10/dori10/33235
 
-#EXTINF:-1,CINE 10²
-http://pdsrv.io:80/lucas123/123lucas/60959
+#EXTINF:-1,CINE SKY 7
+http://canaishd.servidor.tv:8080/dori10/dori10/33236
 
-#EXTINF:-1,CINE DISNEY
-http://pdsrv.io:80/lucas123/123lucas/63309
+#EXTINF:-1,Cinemax HD
+http://canaishd.servidor.tv:8080/dori10/dori10/1490
 
-#EXTINF:-1,CINE MARVEL³
-http://pdsrv.io:80/lucas123/123lucas/60789
+#EXTINF:-1,Cinemax HD+
+http://canaishd.servidor.tv:8080/dori10/dori10/347
 
-#EXTINF:-1,CINE SESSÃO DA TARDE 24HRS³
-http://pdsrv.io:80/lucas123/123lucas/60777
+#EXTINF:-1,Clássicos Walt Disney
+http://canaishd.servidor.tv:8080/dori10/dori10/32624
 
-#EXTINF:-1,CINE SKY 01 (CH281)²
-http://pdsrv.io:80/lucas123/123lucas/60940
+#EXTINF:-1,CNN Brasil HD
+http://canaishd.servidor.tv:8080/dori10/dori10/21417
 
-#EXTINF:-1,CINE SKY 02 (CH282)²
-http://pdsrv.io:80/lucas123/123lucas/60941
+#EXTINF:-1,CNN Brasil HD+
+http://canaishd.servidor.tv:8080/dori10/dori10/21418
 
-#EXTINF:-1,CINE SKY 03 (CH283)²
-http://pdsrv.io:80/lucas123/123lucas/60942
+#EXTINF:-1,CNN Espanhol SD
+http://canaishd.servidor.tv:8080/dori10/dori10/345
 
-#EXTINF:-1,CINE SKY 04 (CH284)²
-http://pdsrv.io:80/lucas123/123lucas/60943
+#EXTINF:-1,CNN Internacional SD
+http://canaishd.servidor.tv:8080/dori10/dori10/344
 
-#EXTINF:-1,CINE SKY 05 (CH285)²
-http://pdsrv.io:80/lucas123/123lucas/60944
-
-#EXTINF:-1,CINE SKY 06 (CH286)²
-http://pdsrv.io:80/lucas123/123lucas/60945
-
-#EXTINF:-1,CINE SKY 07 (CH287)²
-http://pdsrv.io:80/lucas123/123lucas/60946
-
-#EXTINF:-1,CINE SKY 08 (CH288) ²
-http://pdsrv.io:80/lucas123/123lucas/60947
-
-#EXTINF:-1,CINE SKY 09 (CH289)²
-http://pdsrv.io:80/lucas123/123lucas/60949
-
-#EXTINF:-1,CINE SKY 10 (CH290)²
-http://pdsrv.io:80/lucas123/123lucas/60950
-
-#EXTINF:-1,Cine Sky³
-http://pdsrv.io:80/lucas123/123lucas/59967
-
-#EXTINF:-1,Cine Sky³ 
-http://pdsrv.io:80/lucas123/123lucas/59966
-
-#EXTINF:-1,Cine Sky³ 3 HD
-http://pdsrv.io:80/lucas123/123lucas/59968
-
-#EXTINF:-1,Cine Sky³ 4 
-http://pdsrv.io:80/lucas123/123lucas/59969
-
-#EXTINF:-1,Cine Sky³ 5 HD
-http://pdsrv.io:80/lucas123/123lucas/59970
+#EXTINF:-1,CNT HD+
+http://canaishd.servidor.tv:8080/dori10/dori10/53497
 
 #EXTINF:-1,Filmes de TV
 https://srv2.zcast.com.br/cleto2085/cleto2085/playlist-480p.m3u8
@@ -510,41 +486,44 @@ http://pdsrv.io:80/lucas123/123lucas/44724
 #EXTINF:-1 tvg-logo="" group-title="",COMEDY CENTRAL
 http://pdsrv.io:80/lucas123/123lucas/10292
 
-#EXTINF:-1,DISCOVERY CHANNEL 4K
-http://pdsrv.io:80/lucas123/123lucas/33754
+#EXTINF:-1,Discovery Theater HD
+http://canaishd.servidor.tv:8080/dori10/dori10/1486
 
-#EXTINF:-1,DISCOVERY CHANNEL FHD 
-http://pdsrv.io:80/lucas123/123lucas/69150
+#EXTINF:-1,Discovery Theater HD+
+http://canaishd.servidor.tv:8080/dori10/dori10/329
 
-#EXTINF:-1,DISCOVERY CHANNEL HD
-http://pdsrv.io:80/lucas123/123lucas/6132
+#EXTINF:-1,Discovery Turbo HD
+http://canaishd.servidor.tv:8080/dori10/dori10/1481
 
-#EXTINF:-1,DISCOVERY H&H FHD
-http://pdsrv.io:80/lucas123/123lucas/69151
+#EXTINF:-1,Discovery Turbo HD+
+http://canaishd.servidor.tv:8080/dori10/dori10/328
 
-#EXTINF:-1 tvg-logo="" group-title="", DISCOVERY KIDS
-http://pdsrv.io:80/lucas123/123lucas/7538
+#EXTINF:-1,Discovery World HD
+http://canaishd.servidor.tv:8080/dori10/dori10/1485
+
+#EXTINF:-1,Discovery World HD+
+http://canaishd.servidor.tv:8080/dori10/dori10/326
+
+#EXTINF:-1,Disney Channel HD
+http://canaishd.servidor.tv:8080/dori10/dori10/1480
+
+#EXTINF:-1,E! HD
+http://canaishd.servidor.tv:8080/dori10/dori10/318
+
+#EXTINF:-1,Fashion TV HD
+http://canaishd.servidor.tv:8080/dori10/dori10/33241
+
+#EXTINF:-1,AXN HD
+http://canaishd.servidor.tv:8080/dori10/dori10/1496
+
+#EXTINF:-1,AXN HD+
+http://canaishd.servidor.tv:8080/dori10/dori10/369
+
+#EXTINF:-1,Baby TV SD
+http://canaishd.servidor.tv:8080/dori10/dori10/367
 
 #EXTINF:-1,KKIDS
 http://c2.manasat.com:1935/kkids/kkids2/playlist.m3u8
-
-#EXTINF:-1,DISCOVERY SCIENCE HD
-http://pdsrv.io:80/lucas123/123lucas/7861
-
-#EXTINF:-1,DISCOVERY THEATER HD
-http://pdsrv.io:80/lucas123/123lucas/6130
-
-#EXTINF:-1,DISCOVERY TURBO HD
-http://pdsrv.io:80/lucas123/123lucas/6877
-
-#EXTINF:-1,DISCOVERY WORLD HD
-http://pdsrv.io:80/lucas123/123lucas/6128
-
-#EXTINF:-1 tvg-logo="" group-title="", DISNEY CHANNEL
-http://pdsrv.io:80/lucas123/123lucas/7902
-
-#EXTINF:-1 tvg-logo="" group-title="", DISNEY JR HD
-http://pdsrv.io:80/lucas123/123lucas/10286
 
 #EXTINF:-1 tvg-logo="" group-title="", DISNEY JR HD
 https://playplusdisney-lh.akamaihd.net/i/pp_dsneyjr@376337/master.m3u8
@@ -998,3 +977,57 @@ http://evpp.mm.uol.com.br:1935/geob_band/agromais/playlist.m3u8
 
 #EXTINF:-1,CANAL RURAL
 https://5fa18afd2e74c.streamlock.net/live/smil:canalrural.smil/playlist.m3u8
+
+#EXTINF:-1,BBB 21 PRINCIPAL HD
+http://canaishd.servidor.tv:8080/dori10/dori10/53469
+
+#EXTINF:-1,BBB 21 CAM 01 HD
+http://canaishd.servidor.tv:8080/dori10/dori10/54483
+
+#EXTINF:-1,BBB 21 CAM 02 HD
+http://canaishd.servidor.tv:8080/dori10/dori10/54484
+
+#EXTINF:-1,BBB 21 CAM 03 HD
+http://canaishd.servidor.tv:8080/dori10/dori10/54485
+
+#EXTINF:-1,BBB 21 CAM 04 HD
+http://canaishd.servidor.tv:8080/dori10/dori10/54486
+
+#EXTINF:-1,BBB 21 CAM 05 HD
+http://canaishd.servidor.tv:8080/dori10/dori10/54487
+
+#EXTINF:-1,BBB 21 CAM 06 HD
+http://canaishd.servidor.tv:8080/dori10/dori10/54488
+
+#EXTINF:-1,BBB 21 CAM 07 HD
+http://canaishd.servidor.tv:8080/dori10/dori10/54489
+
+#EXTINF:-1,BBB 21 CAM 08 HD
+http://canaishd.servidor.tv:8080/dori10/dori10/54490
+
+#EXTINF:-1,BBB 21 CAM 09 HD
+http://canaishd.servidor.tv:8080/dori10/dori10/54491
+
+#EXTINF:-1,BBB 21 CAM 10 HD
+http://canaishd.servidor.tv:8080/dori10/dori10/54492
+
+#EXTINF:-1,BBB 21 CAM 11 HD
+http://canaishd.servidor.tv:8080/dori10/dori10/54493
+
+#EXTINF:-1,Band UHD
+http://canaishd.servidor.tv:8080/dori10/dori10/56512
+
+#EXTINF:-1,Band HD+
+http://canaishd.servidor.tv:8080/dori10/dori10/484
+
+#EXTINF:-1,Band News HD
+http://canaishd.servidor.tv:8080/dori10/dori10/1494
+
+#EXTINF:-1,Band News HD+
+http://canaishd.servidor.tv:8080/dori10/dori10/363
+
+#EXTINF:-1,Band Sports HD
+http://canaishd.servidor.tv:8080/dori10/dori10/1495
+
+#EXTINF:-1,Band Sports HD+
+http://canaishd.servidor.tv:8080/dori10/dori10/360
