@@ -64,7 +64,7 @@ https://streaming03.zas.media/tvfuturo/tvfuturo/playlist.m3u8
 https://live.comets.com.br/LiveApp/streams/689608265797795173392570.m3u8
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/xmmiHls.png" group-title="Esportes", PREMIERE CLUBES FHD
-http://pdsrv.io:80/lucas123/123lucas/62412
+http://canaishd.servidor.tv:8080/Jorge001/jorge001/1447
 
 #EXTINF:-1 tvg-id="PREMIERE CLUBES" tvg-logo="http://i.imgur.com/xmmiHls.png" group-title="Esportes",PREMIERE CLUBES FHD 2
 http://natv.pw:80/fernando01/01fernando/2196
@@ -92,12 +92,6 @@ http://85.203.33.88:80/pUcmUPE360/rkAQBd5081/24270
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/ka06Cjw.png" group-title="Esportes", Estádio TNT Sports
 http://glxlmn026c.singularcdn.net.br/playout_01/playlist-720p.m3u8?PEDROJUNIORTUTORIAIS
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/ka06Cjw.png" group-title="Esportes",Estádio TNT Sports 2
-http://slvcs87g3x.akamaized.net/live/canal_02/playlist-720p.m3u8?PEDROJUNIORTUTORIAIS
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/ka06Cjw.png" group-title="Esportes",Estádio TNT Sports 3
-http://slvcs87g3x.akamaized.net/live/canal_03/playlist-720p.m3u8?PEDROJUNIORTUTORIAIS
 
 #EXTINF:-1 tvg-id="FISH TV" tvg-logo="http://i.imgur.com/HXQoT1u.png" group-title="Esportes",Fish TV
 http://cdn-1.nxplay.com.br/FISH_TV_NX/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIAIS
