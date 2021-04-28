@@ -1,30 +1,30 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/NSHvLCe.png" group-title="Canais| Globo",GLOBO RJ HD
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",GLOBO RJ HD
 https://live.video.globo.com/h/1402196682759012345678915746027599876543210hM4EA1neMoQoIiUyVn1TNg/k/app/a/A/u/anyone/d/s/hls-globo-rj/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/NSHvLCe.png" group-title="Canais| Globo",GLOBO RJ HD 2
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",GLOBO RJ HD 2
 http://live.video.globo.com/h/1402196682759012345678915746027599876543210hM4EA1neMoQoIiUyVn1TNg/k/app/a/A/u/anyone/d/s/hls-globo-rj/hls-globo-rj_2359/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/NSHvLCe.png" group-title="Canais| Globo",GLOBO NORDESTE HD
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",GLOBO NORDESTE HD
 http://canaishd.servidor.tv:8080/Jorge001/jorge001/275
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/NSHvLCe.png" group-title="Canais| Globo",GLOBO BA
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",GLOBO BA
 http://canaishd.servidor.tv:8080/Jorge001/jorge001/260
 
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2014/02/band-logo-tv-1.png" group-title="",BAND HD
+#EXTINF:-1 tvg-logo="http://a5.vc/3pE" group-title="Canais | Abertos",BAND HD
 http://evpp.mm.uol.com.br:1935/geob_band/app/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2014/02/band-logo-tv-1.png" group-title="",BAND HD 2
+#EXTINF:-1 tvg-logo="http://a5.vc/3pE" group-title="Canais | Abertos",BAND HD 2
 https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="RECORD SP" tvg-logo="http://i.imgur.com/5UeQAk9.png" group-title="TV Aberta",Record RJ HD
+#EXTINF:-1 tvg-logo="http://a5.vc/QOy" group-title="Canais | Abertos",Record RJ HD
 http://playplusrjo-lh.akamaihd.net/i/pp_rj@377859/index_720_av-p.m3u8?PEDROJUNIORTUTORIAIS
 
-#EXTINF:-1 tvg-id="RECORD SP" tvg-logo="http://i.imgur.com/5UeQAk9.png" group-title="TV Aberta",Record SP HD
+#EXTINF:-1 tvg-logo="http://a5.vc/QOy" group-title="Canais | Abertos",Record SP HD
 http://playplusspo-lh.akamaihd.net/i/pp_sp@350176/index_720_av-p.m3u8?PEDROJUNIORTUTORIAIS
 
-#EXTINF:-1 tvg-id="RECORD SP" tvg-logo="http://i.imgur.com/5UeQAk9.png" group-title="TV Aberta", Record HD
+#EXTINF:-1 tvg-logo="http://a5.vc/QOy" group-title="Canais | Abertos", Record HD
 https://playplusspo-lh.akamaihd.net/i/pp_sp@350176/master.m3u8
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/5UeQAk9.png", TV TROPICAL RN
