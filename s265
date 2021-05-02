@@ -58,12 +58,12 @@ http://natv.pw:80/fernando01/01fernando/19131
 http://natv.pw:80/fernando01/01fernando/19130
 #EXTINF:-1, Estádio TNT SPORTS
 http://glxlmn026c.singularcdn.net.br/playout_01/playlist-720p.m3u8?PEDROJUNIORTUTORIAIS
-#EXTINF:-1,ESTADUAL 1
-http://natv.pw:80/fernando01/01fernando/61363
-#EXTINF:-1,ESTADUAL 2
-http://natv.pw:80/fernando01/01fernando/61364
-#EXTINF:-1,ESTADUAL 3
-http://natv.pw:80/fernando01/01fernando/61365
+#EXTINF:-1, CARIOCA HD 1
+http://cmsppv.life/live/336207/336207/532665.m3u8
+#EXTINF:-1,CARIOCA HD 2
+http://cmsppv.life/live/336207/336207/532399.m3u8
+#EXTINF:-1, CARIOCA HD 3
+http://cmsppv.life/live/336207/336207/531266.m3u8
 #EXTINF:-1,ESTADUAL 4
 http://natv.pw:80/fernando01/01fernando/61366
 #EXTINF:-1,CARIOCA 1 HD
@@ -278,6 +278,8 @@ https://nrpus.bozztv.com/36bay2/gusa-darcizzle/index.m3u8
 http://162.250.201.58:6211/pk/ONEGOLF/index.m3u8
 #EXTINF:-1, ANIM NATURE HD
 http://200.194.238.236:5000/play/a006/index.m3u8
+#EXTINF:-1, ANIMAL PLANET FHD
+http://cmsppv.life/live/336207/336207/532510.m3u8
 #EXTINF:-1,Love Nature HD (Canadá)
 https://origin-02.nxplay.com.br/LOVENATURE_NX/tracks-v1a1a2/mono.m3u8
 #EXTINF:-1,NASA TV USA
