@@ -38,26 +38,6 @@ http://85.203.33.88:80/pUcmUPE360/rkAQBd5081/24268
 http://85.203.33.88:80/pUcmUPE360/rkAQBd5081/24270
 #EXTINF:-1, Estádio TNT SPORTS 
 http://glxlmn026c.singularcdn.net.br/playout_01/playlist-720p.m3u8?PEDROJUNIORTUTORIAIS
-#EXTINF:-1,ESPN Brasil 
-https://playplusespn-lh.akamai.net/i/pp_espnbra@374460/index_720_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1,ESPN Brasil 
-https://playplusespn-lh.akamai.net/i/pp_espnbra@374460/master.m3u8
-#EXTINF:-1,ESPN Brasil 
-https://playplusespn-lh.akamai.net/i/pp_espnbra@374460/index_720_av-b.m3u8?sd=10&rebase=on
-#EXTINF:-1,ESPN 
-https://playplusespn-lh.akamai.net/i/pp_espn@374460/master.m3u8
-#EXTINF:-1,ESPN HD
-https://playplusespn-lh.akamai.net/i/pp_espn@374460/index_720_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1,ESPN HD
-https://playplusespn-lh.akamai.net/i/pp_espn@374460/index_720_av-b.m3u8?sd=10&rebase=on
-#EXTINF:-1,ESPN 2 
-https://playplusespn-lh.akamai.net/i/pp_espnmais@374460/index_720_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1,ESPN 2 
-https://playplusespn-lh.akamai.net/i/pp_espnmais@374460/index_720_av-b.m3u8?sd=10&rebase=on
-#EXTINF:-1,ESPN Extra
-https://playplusespn-lh.akamai.net/i/pp_espnext@374460/index_720_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1,ESPN Extra 
-https://playplusespn-lh.akamai.net/i/pp_espnext@374460/master.m3u8
 #EXTINF:-1,Woohoo
 http://210.210.155.35/uq2663/h/h05/index.m3u8
 #EXTINF:-1, RED BULL TV
@@ -70,24 +50,14 @@ http://streaming.astrakhan.ru/astrakhanrusport/tracks-v2a1/index.m3u8
 http://100automoto.tv:1935/bgtv1/autotv/playlist.m3u8
 #EXTINF:-1,Auto Moto TV Bulgária
 http://100automoto.tv:1935/bgtv1/autotv/playlist.m3u8
-#EXTINF:-1,Viasat Sport 
-http://persik.by/stream/2944/263250/10249.m3u8
 #EXTINF:-1,Claro Sports
 http://clarosport-origen.clarovideo.net/Content/hls/Live/Channel(jjoo2016ch01)/index.m3u8
-#EXTINF:-1,Dubai Sports 2 
-http://dmitwlvvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/chunklist.m3u8
-#EXTINF:-1,Dubai Sports 3 
-http://dmitwlvvll.cdn.mangomolo.com/dubaisports5/smil:dubaisports5.smil/chunklist.m3u8
 #EXTINF:-1,Edge Sport
 https://imgedge.akamaized.net/amagi_hls_data_imgAAA2AA-edgesports/CDN/512x288_875600/index.m3u8?DVR
 #EXTINF:-1,EDGE Sport
 https://imgedge.akamaized.net/amagi_hls_data_imgAAA2AA-edgesports/CDN/1920x1080_5640800/index.m3u8
 #EXTINF:-1,Eurosport 1
 https://cdn1.mobiletv.bg/T8/eurosport/es_794613_850k.m3u8
-#EXTINF:-1,EUROSPORT UK
-http://91.126.141.201:1935/live/eurosport1nntv/chunklist_w65928025.m3u8
-#EXTINF:-1,EUROSPORT² UK
-http://91.126.141.201:1935/live/eurosport2nntv/chunklist_w1420994503.m3u8
 #EXTINF:-1,Eurosport¹ TV USA
 http://77.83.117.60:8888/02_EURO1_720p/chunklist.m3u8
 #EXTINF:-1,Fail Army 
@@ -110,20 +80,12 @@ http://200.194.238.236:5000/play/a006/index.m3u8
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
 #EXTINF:-1,NASA TV Media Channel 
 https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master_2000.m3u8
-#EXTINF:-1,Multi Show  
-http://live.video.globo.com/h/1402196702233012345678915746222339876543210pJEKZjeaTYyxXDM3Kaz8QQ/k/app/a/A/u/anyone/d/s/hls-msw24ha/hls-msw24ha_4783/playlist.m3u8
-#EXTINF:-1,Multi Show 
-https://live.video.globo.com/h/1402196702233012345678915746222339876543210pJEKZjeaTYyxXDM3Kaz8QQ/k/app/a/A/u/anyone/d/s/hls-msw24ha/hls-msw24ha_2126/playlist.m3u8
 #EXTINF:-1,Filmes de TV
 https://srv2.zcast.com.br/cleto2085/cleto2085/playlist-480p.m3u8
 #EXTINF:-1,COREAN
 https://srv1.zcast.com.br/kpoptv/kpoptv/playlist.m3u8
 #EXTINF:-1,KKIDS
 http://c2.manasat.com:1935/kkids/kkids2/playlist.m3u8
-#EXTINF:-1, DISNEY JR 
-https://playplusdisney-lh.akamai.net/i/pp_dsneyjr@376337/master.m3u8
-#EXTINF:-1,DISNEY XD
-https://playplusdisney-lh.akamai.net/i/pp_dsneyxd@376337/index_720_av-b.m3u8?sd=10&rebase=on
 #EXTINF:-1,iptv_55
 https://stmv1.samcast.com.br/joaomatheus5156/joaomatheus5156/playlist.m3u8
 #EXTINF:-1,Gospel Cartoon
@@ -132,8 +94,6 @@ http://stmv1.srvstm.com:1935/gospelcartoon2/gospelcartoon2/playlist.m3u8
 https://stmv1.srvif.com/gospelf/gospelf/playlist-480p.m3u8
 #EXTINF:-1,KRONE HIT
 https://bitcdn-kronehit.bitmovin.com/v2/hls/playlist.m3u8
-#EXTINF:-1,ONE  MUSIC
-http://1ru-hls-otcnet.cdnvideo.ru/onemusic/mono.m3u8
 #EXTINF:-1,FUTURA
 http://stmv1.transmissaodigital.com/ronald6259/ronald6259/playlist.m3u8
 #EXTINF:-1,TOP TV
@@ -422,28 +382,6 @@ http://dns.icut.uno:80/95056337/19413587/45815
 http://dns.icut.uno:80/95056337/19413587/45912
 #EXTINF:-1,BandSports (H265)
 http://dns.icut.uno:80/95056337/19413587/13853
-#EXTINF:-1,BBB 1
-http://dns.icut.uno:80/95056337/19413587/8699
-#EXTINF:-1,BBB 2
-http://dns.icut.uno:80/95056337/19413587/8709
-#EXTINF:-1,BBB 3
-http://dns.icut.uno:80/95056337/19413587/8700
-#EXTINF:-1,BBB 4
-http://dns.icut.uno:80/95056337/19413587/8705
-#EXTINF:-1,BBB 5
-http://dns.icut.uno:80/95056337/19413587/8704
-#EXTINF:-1,BBB 6
-http://dns.icut.uno:80/95056337/19413587/8703
-#EXTINF:-1,BBB 7
-http://dns.icut.uno:80/95056337/19413587/8702
-#EXTINF:-1,BBB 8
-http://dns.icut.uno:80/95056337/19413587/8701
-#EXTINF:-1,BBB 9
-http://dns.icut.uno:80/95056337/19413587/6541
-#EXTINF:-1,BBB 10
-http://dns.icut.uno:80/95056337/19413587/3707
-#EXTINF:-1,BBB 11
-http://dns.icut.uno:80/95056337/19413587/3706
 #EXTINF:-1,BBC WORLD
 http://dns.icut.uno:80/95056337/19413587/45879
 #EXTINF:-1,BBC WORLD 
