@@ -78,10 +78,6 @@ http://evpp.mm.uol.com.br:1935/ne10/ne10.smil/chunklist_w1716953599_b176000_slen
 http://origin-02.nxplay.com.br/SBT_HD_1331/tracks-v2a1/mono.m3u8?PEDROJUNIORTUTORIAIS
 #EXTINF:-1,SBT SP HD
 http://origin-02.nxplay.com.br/SBT_HD_1331/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIAIS
-#EXTINF:-1,SBT SP Interior
-http://origin-02.nxplay.com.br/t1113113/tracks-v3a1/mono.m3u8?PEDROJUNIORTUTORIAIS
-#EXTINF:-1,SBT SP Interior HD
-http://origin-02.nxplay.com.br/t1113113/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIAIS
 #EXTINF:-1,SBT MT
 http://wz4.dnip.com.br:1935/bemtv/bemtv.sdp/playlist.m3u8?PEDROJUNIORTUTORIAIS
 #EXTINF:-1,SBT AM
@@ -134,8 +130,6 @@ http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8?PEDROJUNIORTUTORIAI
 http://stream2.ba.gov.br/hls-live/livepkgr/_definst_/irdeb/pgm-1.m3u8?PEDROJUNIORTUTORIAIS
 #EXTINF:-1,TV FUTURO
 https://streaming03.zas.media/tvfuturo/tvfuturo/playlist.m3u8
-#EXTINF:-1,TNT Séries HD
-http://187.120.222.12:8000/play/TNTSeriesLEG/index.m3u8
 #EXTINF:-1,TNT HD 1
 http://origin-02.nxplay.com.br/tnt_2/tracks-v3a1/mono.m3u8?PEDROJUNIORTUTORIAIS
 #EXTINF:-1,TNT HD 2
@@ -148,90 +142,10 @@ http://glxlmn026c.singularcdn.net.br/playout_01/playlist-480p.m3u8?PEDROJUNIORTU
 http://glxlmn026c.singularcdn.net.br/playout_01/playlist-720p.m3u8?PEDROJUNIORTUTORIAIS
 #EXTINF:-1,Fish TV
 http://origin-02.nxplay.com.br/FISH_TV_NX/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIAIS
-#EXTINF:-1,Premiere 2 HD
-http://187.120.222.12:8000/play/PFC2/index.m3u8
-#EXTINF:-1,Premiere 5 HD
-http://187.120.222.12:8000/play/PFC5/index.m3u8
-#EXTINF:-1,Premiere Clubes HD
-http://187.120.222.12:8000/play/PremiereClubes/index.m3u8
-#EXTINF:-1,AXN HD
-http://187.120.222.12:8000/play/AXNLEG/index.m3u8
-#EXTINF:-1,Canal Sony HD
-http://187.120.222.12:8000/play/CanalSonyLEG/index.m3u8
-#EXTINF:-1,Cultura HD
-http://187.120.222.12:8000/play/TVCultura/index.m3u8
-#EXTINF:-1,HBO Family HD
-http://187.120.222.12:8000/play/a00k/index.m3u8
-#EXTINF:-1,HBO HD
-http://187.120.222.12:8000/play/HBOLEG/index.m3u8
-#EXTINF:-1,HBO Signature HD
-http://187.120.222.12:8000/play/a00l/index.m3u8
-#EXTINF:-1,HBO+ HD
-http://187.120.222.12:8000/play/HBOPlusLEG/index.m3u8
-#EXTINF:-1,HBO2 HD
-http://187.120.222.12:8000/play/a00i/index.m3u8
-#EXTINF:-1,MAX UP HD
-http://187.120.222.12:8000/play/MAXUPLEG/index.m3u8
-#EXTINF:-1,Megapix HD
-http://187.120.222.12:8000/play/MegapixLEG/index.m3u8
 #EXTINF:-1,Paramount
 http://origin-02.nxplay.com.br/PCBR_HD_NX_9998_/tracks-v3a1/mono.m3u8?PEDROJUNIORTUTORIAIS
 #EXTINF:-1,Paramount HD
 http://origin-02.nxplay.com.br/PCBR_HD_NX_9998_/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIAIS
-#EXTINF:-1,TV TEM SJRP – Globo HD
-http://187.120.222.12:8000/play/TVTEMSJRP/index.m3u8
-#EXTINF:-1,Telecine Action HD
-http://187.120.222.12:8000/play/TCActionLEG/index.m3u8
-#EXTINF:-1,Telecine Fun HD
-http://187.120.222.12:8000/play/TCFunLEG/index.m3u8
-#EXTINF:-1,Telecine Pipoca HD
-http://187.120.222.12:8000/play/TCPipocaLEG/index.m3u8
-#EXTINF:-1,Telecine Premium HD
-http://187.120.222.12:8000/play/TCPremiumLEG/index.m3u8
-#EXTINF:-1,Telecine Touch HD
-http://187.120.222.12:8000/play/TCTouchLEG/index.m3u8
-#EXTINF:-1,Universal TV HD
-http://187.120.222.12:8000/play/UniversalTV/index.m3u8
-#EXTINF:-1,Warner HD
-http://187.120.222.12:8000/play/WarnerLEG/index.m3u8
-#EXTINF:-1,GloboNews HD
-http://187.120.222.12:8000/play/GloboNews/index.m3u8
-#EXTINF:-1,Like HD
-http://187.120.222.12:8000/play/Like/index.m3u8
-#EXTINF:-1,PlayTV
-http://187.120.222.12:8000/play/PlayTV/index.m3u8
-#EXTINF:-1,Polishop TV
-http://187.120.222.12:8000/play/PolishopTV/index.m3u8
-#EXTINF:-1,TCM
-http://187.120.222.12:8000/play/TCM/index.m3u8
-#EXTINF:-1,TV CanĿªo Nova
-http://187.120.222.12:8000/play/CancaoNova/index.m3u8
-#EXTINF:-1,TV CÐmara
-http://187.120.222.12:8000/play/TVCamara/index.m3u8
-#EXTINF:-1,TV Escola
-http://187.120.222.12:8000/play/TVEscola/index.m3u8
-#EXTINF:-1,TV JustiĿa
-http://187.120.222.12:8000/play/TVJustica/index.m3u8
-#EXTINF:-1,Tooncast
-http://187.120.222.12:8000/play/Tooncast/index.m3u8
-#EXTINF:-1,Baby TV
-http://187.120.222.12:8000/play/BabyTV/index.m3u8
-#EXTINF:-1,Film & Arts
-http://187.120.222.12:8000/play/a040/index.m3u8
-#EXTINF:-1,Pai Eterno
-http://187.120.222.12:8000/play/a03x/index.m3u8
-#EXTINF:-1,Space HD
-http://187.120.222.12:8000/play/SpaceLEG/index.m3u8
-#EXTINF:-1,ZooMoo
-http://187.120.222.12:8000/play/ZooMoo/index.m3u8
-#EXTINF:-1,Telecine Cult HD
-http://187.120.222.12:8000/play/TCCultLEG/index.m3u8
-#EXTINF:-1,FOX HD
-http://187.120.222.12:8000/play/a04n/index.m3u8
-#EXTINF:-1,FOX Life HD
-http://187.120.222.12:8000/play/a04p/index.m3u8
-#EXTINF:-1,FX HD
-http://187.120.222.12:8000/play/a04o/index.m3u8
 #EXTINF:-1,Canal Saúde
 http://arkyvbre1g.zoeweb.tv/fiocruz/fiocruz/playlist.m3u8?PEDROJUNIORTUTORIAIS
 #EXTINF:-1,CNT SP
@@ -362,8 +276,6 @@ http://origin-02.nxplay.com.br/MTV_BR_98588_97731/tracks-v3a1/mono.m3u8?PEDROJUN
 http://origin-02.nxplay.com.br/MTV_BR_98588_97731/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIAIS
 #EXTINF:-1,MTV Live
 http://origin-02.nxplay.com.br/MTVLIVE/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIAIS
-#EXTINF:-1,Play TV
-http://origin-02.nxplay.com.br/PLAY_TV_NXPLAY/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIAIS
 #EXTINF:-1,Music Box Brazil
 http://origin-02.nxplay.com.br/MUSIC_HD/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIAIS
 #EXTINF:-1,Prime Box Brazil
@@ -428,8 +340,6 @@ http://162.250.201.58:6211/pk/ONEGOLF/index.m3u8
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
 #EXTINF:-1,NASA TV Media Channel
 https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master_2000.m3u8
-#EXTINF:-1,Filmes de TV
-https://srv2.zcast.com.br/cleto2085/cleto2085/playlist-480p.m3u8
 #EXTINF:-1,COREAN
 https://srv1.zcast.com.br/kpoptv/kpoptv/playlist.m3u8
 #EXTINF:-1,KKIDS
@@ -478,8 +388,6 @@ https://hls.brasilstream.com.br/live/sitetv/sitetv/mono.m3u8
 https://59f1cbe63db89.streamlock.net:1443/topmixtv/_definst_/topmixtv/chunklist_w1602814806.m3u8
 #EXTINF:-1, GUARANI
 http://01.paineldevideo.com/rtguarany/rtguarany/playlist.m3u8
-#EXTINF:-1, TV GIDEOES
-https://streaming01.zas.media/gideoes/tv.smil/chunklist_w279801288_b1396000_DVR.m3u8
 #EXTINF:-1, REDE GOSPEL
 https://cdn.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/chunklist.m3u8
 #EXTINF:-1, Gospel Cartoon
@@ -594,8 +502,6 @@ https://stmv1.srvstm.com/tvserie/tvserie/chunklist_w902763871.m3u8
 http://195.22.11.11:1935/ktv/ktv2/chunklist_w1387388582.m3u8
 #EXTINF:-1,Rede Gospel² (SP)
 https://cdn.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/playlist.m3u8
-#EXTINF:-1,Boa Vontade TV
-http://187.120.222.12:8000/play/BoaVontade/index.m3u8
 #EXTINF:-1,TERRA VIVA
 http://evpp.mm.uol.com.br:1935/band_live/terraviva/playlist.m3u8
 #EXTINF:-1,CANAL RURAL
