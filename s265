@@ -882,3 +882,57 @@ http://209.145.58.109:25461/omohaktv/App/105
 http://209.145.58.109:25461/omohaktv/App/71
 #EXTINF:-1,Osn Movie
 http://209.145.58.109:25461/omohaktv/App/111
+# EXTM3U
+#EXTINF:0 type="stream" channelId="-1" name="TNT" group="" logo="", TNT
+http://170.82.200.38:8080/tnt/tracks-v1a1/mono.m3u8
+#EXTINF:0 type="stream" channelId="-1" name="ESPN 2" group="ESPORTES" logo="", ESPN 2
+http://170.82.200.38:8080/espn_2/tracks-v1a1/mono.m3u8
+#EXTINF:0 type="stream" channelId="-1" name="STAR CHANNEL" group="" logo="", STAR CHANNEL
+http://170.82.200.38:8080/fox/tracks-v1a1/mono.m3u8
+#EXTINF:0 type="stream" channelId="-1" name="FX" group="" logo="", FX
+http://170.82.200.38:8080/fx/tracks-v1a1/mono.m3u8
+#EXTINF:0 type="stream" channelId="-1" name="SPACE" group="" logo="", SPACE
+http://170.82.200.38:8080/space/tracks-v1a1/mono.m3u8
+#EXTINF:0 type="stream" channelId="-1" name="BAND SPORTS" group="" logo="", BAND SPORTS
+http://170.82.200.38:8080/band_sports/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="TvFornalNordesteFilmes.br" tvg-name="TV JN FILMES" tvg-logo="https://pastebin.com/raw/1W2JxMDZ" group-title="FILMES ANTIGOS",TV JN FILMES
+https://5cf4a2c2512a2.streamlock.net/jornaldonorteste/jornaldonorteste/chunklist_w455959427.m3u8
+#EXTINF:-1 tvg-id="MUSIC BOX BRASIL" tvg-logo="http://i.imgur.com/oRSHAl1.png" group-title="Variedade e Músicas",Music Box Brazil
+http://origin-02.nxplay.com.br/MUSIC_HD/tracks-v1a1/mono.m3u8
+#EXTINF: -1 tvg-id = "Woohoo.br" tvg-logo = "https://i.imgur.com/D6plAdz.png" group-title = "Esportes", WooHoo
+http://177.20.208.58:8000/play/a022/index.m3u8
+#EXTINF:-tvg-id=""tvg-logo= "" group-title="Canais | Esporte",PREMIERE CLUBES
+http://lista.lorddark.club:80/3716528349/viviane2020/856
+
+
+#EXTINF:-tvg-id=""tvg-logo= "" group-title="Canais | Esporte",PREMIERE 2
+http://x00.so:80/pedrocduarte/lcpdf1981/72238
+
+
+#EXTINF:-tvg-id=""tvg-logo= "" group-title="Filmes | Disney",Luca (2021)
+https://861472514.tapecontent.net/radosgw/3OAK72jr1ahdYZq/UMBs-BmlyRAfPY1WEqzhYbquChpCAVXwIWRwesrwnVtIOvkcklng82692JGz8wjQeoZ1rlunWUx6rNAei_GcxFRE5EbT1CJSs1GcDSfXVELF8Y4sCgxl2xXjQ9cZpEu1k6J3IOEtpkDUaC5fG1Q3rzet918_zrNyRNqvwZiHWI1q7IWNau31meIc1XWvfHHvyYmX3cDpmaawA_3XBNnrjgl0bgezpeSXwQmfa1daBZu7wFBa8kqXuTJG3Uz-Uzpg-z4R0JqJzsi1Tto_/LUC4.mp4?stream=1
+
+
+
+#EXTINF:-tvg-id=""tvg-logo= "" group-title="Canais | Esporte",PREMIERE 3
+http://akamaizedx.com:80/davimusse/dmfl21/17344
+
+
+#EXTINF:-tvg-id=""tvg-logo= "" group-title="Canais | Esporte",PREMIERE 4
+http://x00.so:80/pedrocduarte/lcpdf1981/72246
+
+
+#EXTINF:-tvg-id=""tvg-logo= "" group-title="Canais | Esporte",PREMIERE 5
+http://natv.pw:80/Vandojose1/12110000733/19132
+
+
+#EXTINF:-tvg-id=""tvg-logo= "" group-title="Canais | Esporte",PREMIERE 6
+http://akamaizedx.com:80/davimusse/dmfl21/17290
+
+
+#EXTINF:-tvg-id=""tvg-logo= "" group-title="Canais | Esporte",PREMIERE 7
+http://akamaizedx.com:80/davimusse/dmfl21/10054450
+
+
+#EXTINF:-tvg-id=""tvg-logo= "" group-title="Canais | Esporte",PREMIERE 8
+http://b5.vc:80/9JJCdQuZpt/fireurl.co/90358
