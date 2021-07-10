@@ -1,568 +1,97 @@
 #EXTM3U
-
-#EXTINF:-1,GLOBO RJ HD 1
+#EXTINF:-1,GLOBO RJ HD 
 https://live.video.globo.com/h/1402196682759012345678915746027599876543210hM4EA1neMoQoIiUyVn1TNg/k/app/a/A/u/anyone/d/s/hls-globo-rj/playlist.m3u8
-#EXTINF:-1,GLOBO RJ HD 2
+#EXTINF:-1,GLOBO RJ HD
+https://live.video.globo.com/h/1402196682759012345678915746027599876543210hM4EA1neMoQoIiUyVn1TNg/k/app/a/A/u/anyone/d/s/hls-globo-rj/playlist.m3u8
+#EXTINF:-1,GLOBO RJ HD
 http://live.video.globo.com/h/1402196682759012345678915746027599876543210hM4EA1neMoQoIiUyVn1TNg/k/app/a/A/u/anyone/d/s/hls-globo-rj/hls-globo-rj_2359/playlist.m3u8
-#EXTINF:-1,Globo RJ HD 3
-http://live.video.globo.com/h/1402196682759012345678915746027599876543210hM4EA1neMoQoIiUyVn1TNg/k/app/a/A/u/anyone/d/s/hls-globo-rj/hls-globo-rj_1049/playlist.m3u8?PEDROJUNIORTUTORIAIS
-#EXTINF:-1,Globo RJ HD 4
-http://live.video.globo.com/h/1402196682759012345678915746027599876543210hM4EA1neMoQoIiUyVn1TNg/k/app/a/A/u/anyone/d/s/hls-globo-rj/hls-globo-rj_2359/playlist.m3u8?PEDROJUNIORTUTORIAIS
-#EXTINF:-1,Globo SP HD 
-http://origin-02.nxplay.com.br/Glob_13131/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIAIS
-#EXTINF:-1,Globo SP Interior
-http://origin-02.nxplay.com.br/TV_TEM_H138513/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIAIS
-#EXTINF:-1,Globo Nordeste HD+
-http://xcui.vitvabc.xyz:8880/2879940036b3/2879940036b3/16728
-#EXTINF:-1,Globo RJ HD+
-http://xcui.vitvabc.xyz:8880/2879940036b3/2879940036b3/16729
-#EXTINF:-1,Globo SP HD+
-http://xcui.vitvabc.xyz:8880/2879940036b3/2879940036b3/16730
-#EXTINF:-1,Globo TV Bahia HD+
-http://xcui.vitvabc.xyz:8880/2879940036b3/2879940036b3/16731
-#EXTINF:-1,GLOBO TV RIO SUL HD
-http://xcui.vitvabc.xyz:8880/2879940036b3/2879940036b3/32155
-#EXTINF:-1,GLOBO² EPTV CAMPINAS HD
-http://xcui.vitvabc.xyz:8880/2879940036b3/2879940036b3/32161
-#EXTINF:-1,GLOBO² NORDESTE HD
-http://xcui.vitvabc.xyz:8880/2879940036b3/2879940036b3/32165
-#EXTINF:-1,GLOBO² NSC FLORIANOPOLIS HD
-http://xcui.vitvabc.xyz:8880/2879940036b3/2879940036b3/32167
-#EXTINF:-1,GLOBO² RJ HD
-http://xcui.vitvabc.xyz:8880/2879940036b3/2879940036b3/32170
-#EXTINF:-1,GLOBO² RPC TV HD
-http://xcui.vitvabc.xyz:8880/2879940036b3/2879940036b3/32172
-#EXTINF:-1,GLOBO² SP HD
-http://xcui.vitvabc.xyz:8880/2879940036b3/2879940036b3/32174
-#EXTINF:-1,GLOBO² TV Sergipe HD
-http://xcui.vitvabc.xyz:8880/2879940036b3/2879940036b3/32178
-#EXTINF:-1,GLOBO³ BRASILIA FULL HD
-http://xcui.vitvabc.xyz:8880/2879940036b3/2879940036b3/32191
-#EXTINF:-1,GLOBO³ CHAPECO HD
-http://xcui.vitvabc.xyz:8880/2879940036b3/2879940036b3/32194
-#EXTINF:-1,GLOBO³ CURITIBA FULL HD
-http://xcui.vitvabc.xyz:8880/2879940036b3/2879940036b3/32198
-#EXTINF:-1,GLOBO³ EPTV CAMPINAS FULL HD
-http://xcui.vitvabc.xyz:8880/2879940036b3/2879940036b3/32203
-#EXTINF:-1,GLOBO³ FLORIANOPOLIS FULL HD
-http://xcui.vitvabc.xyz:8880/2879940036b3/2879940036b3/32208
-#EXTINF:-1,GLOBO³ FOZ DO IGUAÇU FULL HD
-http://xcui.vitvabc.xyz:8880/2879940036b3/2879940036b3/32215
-#EXTINF:-1,GLOBO³ FULLHD SP H.265
-http://xcui.vitvabc.xyz:8880/2879940036b3/2879940036b3/32216
-#EXTINF:-1,GLOBO³ GAZETA SUL ALEGRE ES FULL HD
-http://xcui.vitvabc.xyz:8880/2879940036b3/2879940036b3/32217
-#EXTINF:-1,GLOBO³ GOIANIA FULL HD
-http://xcui.vitvabc.xyz:8880/2879940036b3/2879940036b3/32221
-#EXTINF:-1,GLOBO³ INTER TV  CABUGI FULLHD
-http://xcui.vitvabc.xyz:8880/2879940036b3/2879940036b3/32226
-#EXTINF:-1,GLOBO³ INTER TV ALTO LITORAL FULL HD
-http://xcui.vitvabc.xyz:8880/2879940036b3/2879940036b3/32227
-#EXTINF:-1,GLOBO³ NORDESTE FULL HD
-http://xcui.vitvabc.xyz:8880/2879940036b3/2879940036b3/32241
-#EXTINF:-1,GLOBO³ NSC CHAPECO FULLHD
-http://xcui.vitvabc.xyz:8880/2879940036b3/2879940036b3/32243
-#EXTINF:-1,GLOBO³ NSC JOINVILLE  FULLHD SC
-http://xcui.vitvabc.xyz:8880/2879940036b3/2879940036b3/32244
-#EXTINF:-1,GLOBO³ PORTO ALEGRE FULL HD
-http://xcui.vitvabc.xyz:8880/2879940036b3/2879940036b3/32247
-#EXTINF:-1,GLOBO³ RBS TV CAXIAS DO SUL FULL HD
-http://xcui.vitvabc.xyz:8880/2879940036b3/2879940036b3/32251
-#EXTINF:-1,GLOBO³ RPC MARINGA FULLHD
-http://xcui.vitvabc.xyz:8880/2879940036b3/2879940036b3/32265
-#EXTINF:-1,GLOBO³ RPC PONTA GROSSA FULLHD
-http://xcui.vitvabc.xyz:8880/2879940036b3/2879940036b3/32266
-#EXTINF:-1,GLOBO³ RPC TV PARANAVAI FULL HD
-http://xcui.vitvabc.xyz:8880/2879940036b3/2879940036b3/32267
-#EXTINF:-1,GLOBO³ SP FULL HD
-http://xcui.vitvabc.xyz:8880/2879940036b3/2879940036b3/32276
-#EXTINF:-1,GLOBO³ TV ASA BRANCA FULL HD
-http://xcui.vitvabc.xyz:8880/2879940036b3/2879940036b3/32279
-#EXTINF:-1,GLOBO³ TV CABO BRANCO FULL HD
-http://xcui.vitvabc.xyz:8880/2879940036b3/2879940036b3/32281
-#EXTINF:-1,GLOBO³ TV CENTRO AMERICA HD
-http://xcui.vitvabc.xyz:8880/2879940036b3/2879940036b3/32284
-#EXTINF:-1,GLOBO³ TV CLUBE PI HD
-http://xcui.vitvabc.xyz:8880/2879940036b3/2879940036b3/32286
-#EXTINF:-1,GLOBO³ TV GAZETA ALAGOAS FULLHD
-http://xcui.vitvabc.xyz:8880/2879940036b3/2879940036b3/32290
-#EXTINF:-1,GLOBO³ TV GAZETA VITORIA FULLHD
-http://xcui.vitvabc.xyz:8880/2879940036b3/2879940036b3/32291
-#EXTINF:-1,GLOBO³ TV INTER CABUGI HD
-http://xcui.vitvabc.xyz:8880/2879940036b3/2879940036b3/32297
-#EXTINF:-1,GLOBO³ TV MIRANTE FULL HD
-http://xcui.vitvabc.xyz:8880/2879940036b3/2879940036b3/32298
-#EXTINF:-1,GLOBO³ TV RIO SUL FULL HD
-http://xcui.vitvabc.xyz:8880/2879940036b3/2879940036b3/32301
-#EXTINF:-1,GLOBO³ TV SANTA CRUZ FULLHD
-http://xcui.vitvabc.xyz:8880/2879940036b3/2879940036b3/32304
-#EXTINF:-1,GLOBO³ TV SERGIPE FULL HD
-http://xcui.vitvabc.xyz:8880/2879940036b3/2879940036b3/32307
-#EXTINF:-1,GLOBO¹ CENTRO AMÉRICA FULLHD
-http://xcui.vitvabc.xyz:8880/2879940036b3/2879940036b3/32319
-#EXTINF:-1,GLOBO¹ EPTV CAMPINAS FULL HD
-http://xcui.vitvabc.xyz:8880/2879940036b3/2879940036b3/32320
-#EXTINF:-1,GLOBO¹ EPTV SUL DE MINAS FULL HD
-http://xcui.vitvabc.xyz:8880/2879940036b3/2879940036b3/32323
-#EXTINF:-1,GLOBO¹ INTER TV ALTO LITORAL FULLHD
-http://xcui.vitvabc.xyz:8880/2879940036b3/2879940036b3/32325
-#EXTINF:-1,GLOBO¹ INTER TV CABUGI FULLHD
-http://xcui.vitvabc.xyz:8880/2879940036b3/2879940036b3/32326
-#EXTINF:-1,GLOBO¹ INTER TV DOS VALES FULLHD
-http://xcui.vitvabc.xyz:8880/2879940036b3/2879940036b3/32327
-#EXTINF:-1,GLOBO¹ INTER TV GRANDE MINAS FULLHD
-http://xcui.vitvabc.xyz:8880/2879940036b3/2879940036b3/32328
-#EXTINF:-1,GLOBO¹ MINAS FULLHD
-http://xcui.vitvabc.xyz:8880/2879940036b3/2879940036b3/32330
-#EXTINF:-1,GLOBO¹ MINAS HD
-http://xcui.vitvabc.xyz:8880/2879940036b3/2879940036b3/32331
-#EXTINF:-1,GLOBO¹ NACIONAL FULLHD
-http://xcui.vitvabc.xyz:8880/2879940036b3/2879940036b3/32333
-#EXTINF:-1,GLOBO¹ NORDESTE FULL HD
-http://xcui.vitvabc.xyz:8880/2879940036b3/2879940036b3/32335
-#EXTINF:-1,GLOBO¹ NSC FLORIANÓPOLIS FULL HD
-http://xcui.vitvabc.xyz:8880/2879940036b3/2879940036b3/32339
-#EXTINF:-1,GLOBO¹ NSC TV BLUMENAU FULLHD
-http://xcui.vitvabc.xyz:8880/2879940036b3/2879940036b3/32340
-#EXTINF:-1,GLOBO¹ NSC TV CRICIÚMA FULLHD
-http://xcui.vitvabc.xyz:8880/2879940036b3/2879940036b3/32341
-#EXTINF:-1,GLOBO¹ PORTUGAL FULLHD
-http://xcui.vitvabc.xyz:8880/2879940036b3/2879940036b3/32342
-#EXTINF:-1,GLOBO¹ RBS CAXIAS DO SUL FULLHD
-http://xcui.vitvabc.xyz:8880/2879940036b3/2879940036b3/32343
-#EXTINF:-1,GLOBO¹ RBS TV POA FULLHD
-http://xcui.vitvabc.xyz:8880/2879940036b3/2879940036b3/32344
-#EXTINF:-1,GLOBO¹ RBS TV POA HD
-http://xcui.vitvabc.xyz:8880/2879940036b3/2879940036b3/32345
-#EXTINF:-1,GLOBO¹ REDE AMAZONICA FULLHD
-http://xcui.vitvabc.xyz:8880/2879940036b3/2879940036b3/32347
-#EXTINF:-1,GLOBO¹ RJ FULL HD
-http://xcui.vitvabc.xyz:8880/2879940036b3/2879940036b3/32348
-#EXTINF:-1,GLOBO¹ RPC CURITIBA FULLHD
-http://xcui.vitvabc.xyz:8880/2879940036b3/2879940036b3/32351
-#EXTINF:-1,GLOBO¹ RPC FOZ DO IGUAÇU FULLHD
-http://xcui.vitvabc.xyz:8880/2879940036b3/2879940036b3/32352
-#EXTINF:-1,GLOBO¹ RPC MARINGÁ FULLHD
-http://xcui.vitvabc.xyz:8880/2879940036b3/2879940036b3/32353
-#EXTINF:-1,GLOBO¹ RPC PARANAENSE FULL HD
-http://xcui.vitvabc.xyz:8880/2879940036b3/2879940036b3/32354
-#EXTINF:-1,GLOBO¹ RPC PONTA GROSSA FULLHD
-http://xcui.vitvabc.xyz:8880/2879940036b3/2879940036b3/32356
-#EXTINF:-1,GLOBO¹ SP FULL HD
-http://xcui.vitvabc.xyz:8880/2879940036b3/2879940036b3/32358
-#EXTINF:-1,GLOBO¹ SP HD¹
-http://xcui.vitvabc.xyz:8880/2879940036b3/2879940036b3/32360
-#EXTINF:-1,GLOBO¹ TV ANHANGUERA FULL HD
-http://xcui.vitvabc.xyz:8880/2879940036b3/2879940036b3/32362
-#EXTINF:-1,GLOBO¹ TV ASA BRANCA FULL HD
-http://xcui.vitvabc.xyz:8880/2879940036b3/2879940036b3/32365
-#EXTINF:-1,GLOBO¹ TV BAHIA FULL HD
-http://xcui.vitvabc.xyz:8880/2879940036b3/2879940036b3/32367
-#EXTINF:-1,GLOBO¹ TV BRASILIA FULLHD
-http://xcui.vitvabc.xyz:8880/2879940036b3/2879940036b3/32370
-#EXTINF:-1,GLOBO¹ TV CABO BRANCO FULLHD
-http://xcui.vitvabc.xyz:8880/2879940036b3/2879940036b3/32371
-#EXTINF:-1,GLOBO¹ TV CLUBE TERESINA FULLHD
-http://xcui.vitvabc.xyz:8880/2879940036b3/2879940036b3/32373
-#EXTINF:-1,GLOBO¹ TV GAZETA DE ALAGOAS FULLHD
-http://xcui.vitvabc.xyz:8880/2879940036b3/2879940036b3/32374
-#EXTINF:-1,GLOBO¹ TV GAZETA ES FULLHD
-http://xcui.vitvabc.xyz:8880/2879940036b3/2879940036b3/32375
-#EXTINF:-1,GLOBO¹ TV INTEGRAÇÃO JUIZ DE FORA FULLHD
-http://xcui.vitvabc.xyz:8880/2879940036b3/2879940036b3/32376
-#EXTINF:-1,GLOBO¹ TV MIRANTE FULL HD
-http://xcui.vitvabc.xyz:8880/2879940036b3/2879940036b3/32380
-#EXTINF:-1,GLOBO¹ TV RECIFE FULLHD
-http://xcui.vitvabc.xyz:8880/2879940036b3/2879940036b3/32386
-#EXTINF:-1,GLOBO¹ TV RIO SUL FULL HD
-http://xcui.vitvabc.xyz:8880/2879940036b3/2879940036b3/32387
-#EXTINF:-1,GLOBO¹ TV SANTA CRUZ FULL HD
-http://xcui.vitvabc.xyz:8880/2879940036b3/2879940036b3/32389
-#EXTINF:-1,GLOBO¹ TV SERGIPE FULLHD
-http://xcui.vitvabc.xyz:8880/2879940036b3/2879940036b3/32391
-#EXTINF:-1,GLOBO¹ TV VERDES MARES FULL HD
-http://xcui.vitvabc.xyz:8880/2879940036b3/2879940036b3/32393
-#EXTINF:-1,BAND HD 1
+#EXTINF:-1,BAND 
 http://evpp.mm.uol.com.br:1935/geob_band/app/playlist.m3u8
-#EXTINF:-1,BAND HD 2
+#EXTINF:-1,BAND 
 https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/playlist.m3u8
-#EXTINF:-1,Band SP
-http://evpp.mm.uol.com.br:1935/geob_band/app/playlist.m3u8?PEDROJUNIORTUTORIAIS
-#EXTINF:-1,Band SP Interior
-http://origin-02.nxplay.com.br/BAND_HD_PFZ_NX1/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIAIS
-#EXTINF:-1,Band PA
-https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/playlist.m3u8?PEDROJUNIORTUTORIAIS
-#EXTINF:-1,BAND RJ HD²
-http://xcui.vitvabc.xyz:8880/2879940036b3/2879940036b3/31053
-#EXTINF:-1,BAND RJ HD³
-http://xcui.vitvabc.xyz:8880/2879940036b3/2879940036b3/31055
-#EXTINF:-1,TV ALTIORA
-http://xcui.vitvabc.xyz:8880/2879940036b3/2879940036b3/31058
-#EXTINF:-1,BAND CAMPINAS ¹
-http://xcui.vitvabc.xyz:8880/2879940036b3/2879940036b3/31059
-#EXTINF:-1,BAND FULLHD
-http://xcui.vitvabc.xyz:8880/2879940036b3/2879940036b3/31060
-#EXTINF:-1,BAND HD
-http://xcui.vitvabc.xyz:8880/2879940036b3/2879940036b3/31061
-#EXTINF:-1,BAND PA (RBATV)
-http://xcui.vitvabc.xyz:8880/2879940036b3/2879940036b3/31062
-#EXTINF:-1,RBTV PA
-http://video01.kshost.com.br:1935/tv31966/tv31966/playlist.m3u8?PEDROJUNIORTUTORIAIS
-#EXTINF:-1,Record HD
-https://playplusspo-lh.akamaihd.net/i/pp_sp@350176/index_720_av-p.m3u8
-#EXTINF:-1,Record RJ
-https://playplusspo-lh.akamaihd.net/i/pp_sp@350176/index_720_av-p.m3u8
-#EXTINF:-1,Record SP
-http://playplusspo-lh.akamaihd.net/i/pp_sp@350176/index_360_av-p.m3u8?PEDROJUNIORTUTORIAIS
-#EXTINF:-1,Record SP HD
-http://playplusspo-lh.akamaihd.net/i/pp_sp@350176/index_720_av-p.m3u8?PEDROJUNIORTUTORIAIS
-#EXTINF:-1,Record RJ
-http://playplusrjo-lh.akamaihd.net/i/pp_rj@377859/index_360_av-p.m3u8?PEDROJUNIORTUTORIAIS
-#EXTINF:-1,Record RJ HD
-http://playplusrjo-lh.akamaihd.net/i/pp_rj@377859/index_720_av-p.m3u8?PEDROJUNIORTUTORIAIS
-#EXTINF:-1,Record BA
-http://playplussdr-lh.akamaihd.net/i/pp_sdr@377858/index_360_av-p.m3u8?PEDROJUNIORTUTORIAIS
-#EXTINF:-1,Record BA HD
-http://playplussdr-lh.akamaihd.net/i/pp_sdr@377858/index_720_av-p.m3u8?PEDROJUNIORTUTORIAIS
-#EXTINF:-1,Record DF
-http://playplusbsa-lh.akamaihd.net/i/pp_bsa@377860/index_360_av-p.m3u8?PEDROJUNIORTUTORIAIS
-#EXTINF:-1,Record DF HD
-http://playplusbsa-lh.akamaihd.net/i/pp_bsa@377860/index_720_av-p.m3u8?PEDROJUNIORTUTORIAIS
-#EXTINF:-1,Record MG
-http://playplusbh-lh.akamaihd.net/i/pp_bh@377862/index_360_av-p.m3u8?PEDROJUNIORTUTORIAIS
-#EXTINF:-1,Record MG HD
-http://playplusbh-lh.akamaihd.net/i/pp_bh@377862/index_720_av-p.m3u8?PEDROJUNIORTUTORIAIS
-#EXTINF:-1,Record PA
-http://playpluspa-lh.akamaihd.net/i/pp_pa@377468/index_360_av-p.m3u8?PEDROJUNIORTUTORIAIS
-#EXTINF:-1,Record PA HD
-http://playpluspa-lh.akamaihd.net/i/pp_pa@377468/index_720_av-p.m3u8?PEDROJUNIORTUTORIAIS
-#EXTINF:-1,Record GO
-http://playplusgoya-lh.akamaihd.net/i/pp_gna@377833/index_360_av-p.m3u8?PEDROJUNIORTUTORIAIS
-#EXTINF:-1,Record GO HD
-http://playplusgoya-lh.akamaihd.net/i/pp_gna@377833/index_720_av-p.m3u8?PEDROJUNIORTUTORIAIS
-#EXTINF:-1,Record RS
-http://playpluspoa-lh.akamaihd.net/i/pp_poa@377864/index_360_av-p.m3u8?PEDROJUNIORTUTORIAIS
-#EXTINF:-1,Record RS HD
-http://playpluspoa-lh.akamaihd.net/i/pp_poa@377864/index_720_av-p.m3u8?PEDROJUNIORTUTORIAIS
-#EXTINF:-1,Record RN
-http://origin-02.nxplay.com.br/TV_TROPICAL/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIAIS
-#EXTINF:-1,BR: RECORD CAMPINAS HD²
-http://xcui.vitvabc.xyz:8880/2879940036b3/2879940036b3/31553
-#EXTINF:-1,BR: RECORD RJ HD²
-http://xcui.vitvabc.xyz:8880/2879940036b3/2879940036b3/31555
-#EXTINF:-1,BR: RECORD SP HD²
-http://xcui.vitvabc.xyz:8880/2879940036b3/2879940036b3/31556
-#EXTINF:-1,RECORD BAHIA HD
-http://xcui.vitvabc.xyz:8880/2879940036b3/2879940036b3/31558
-#EXTINF:-1,RECORD BRASILIA
-http://xcui.vitvabc.xyz:8880/2879940036b3/2879940036b3/31560
-#EXTINF:-1,RECORD BRASILIA HD¹
-http://xcui.vitvabc.xyz:8880/2879940036b3/2879940036b3/31561
-#EXTINF:-1,RECORD FULLHD
-http://xcui.vitvabc.xyz:8880/2879940036b3/2879940036b3/31562
-#EXTINF:-1,RECORD GOIAS
-http://xcui.vitvabc.xyz:8880/2879940036b3/2879940036b3/31563
-#EXTINF:-1,RECORD MINAS HD
-http://xcui.vitvabc.xyz:8880/2879940036b3/2879940036b3/31565
-#EXTINF:-1,RECORD RS HD
-http://xcui.vitvabc.xyz:8880/2879940036b3/2879940036b3/31567
-#EXTINF:-1,RECORD SP HD
-http://xcui.vitvabc.xyz:8880/2879940036b3/2879940036b3/31568
-#EXTINF:-1,RECORD¹
-http://xcui.vitvabc.xyz:8880/2879940036b3/2879940036b3/31569
-#EXTINF:-1, REDE TV
+#EXTINF:-1,Record SP 
+http://lista.lorddark.club:80/5247/5247/1135
+#EXTINF:-1,Record 
+https://playplusspo-lh.akamai.net/i/pp_sp@350176/master.m3u8
+#EXTINF:-1,Record RJ 
+http://playplusrjo-lh.akamai.net/i/pp_rj@377859/index_720_av-p.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1, TV ARAPUAN 
+https://5b7f3c45ab7c2.streamlock.net/tvarapuan/ngrp:tvarapuan/chunklist.m3u8
+#EXTINF:-1, TV ARAPUAN 
+https://5b7f3c45ab7c2.streamlock.net/tvarapuan/ngrp:tvarapuan_all/playlist.m3u8?IMDSFULL
+#EXTINF:-1, REDE TV 
 https://59f1cbe63db89.streamlock.net:1443/redetvro/_definst_/redetvro/playlist.m3u8
-#EXTINF:-1,Rede TV SP
-http://origin-02.nxplay.com.br/REDETV_HD_SIMBA/tracks-v2a1/mono.m3u8?PEDROJUNIORTUTORIAIS
-#EXTINF:-1,Rede TV SP HD
-http://origin-02.nxplay.com.br/REDETV_HD_SIMBA/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIAIS
-#EXTINF:-1,Rede TV ES
-https://hls.brasilstream.com.br/live/redetves/redetves/mono.m3u8?token=6410329353875642000
-#EXTINF:-1,Rede TV RS
-https://59f1cbe63db89.streamlock.net:1443/tvpampa/_definst_/tvpampa/playlist.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1,SBT PI
+http://stmv1.transmissaodigital.com:1935/cidadeverde/cidadeverde/playlist.m3u8?PEDROJUNIORTUTORIAIS
 #EXTINF:-1,SBT PE
 http://evpp.mm.uol.com.br:1935/ne10/ne10.smil/chunklist_w1716953599_b176000_sleng.m3u8
-#EXTINF:-1,SBT SP
-http://origin-02.nxplay.com.br/SBT_HD_1331/tracks-v2a1/mono.m3u8?PEDROJUNIORTUTORIAIS
-#EXTINF:-1,SBT SP HD
-http://origin-02.nxplay.com.br/SBT_HD_1331/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIAIS
-#EXTINF:-1,SBT MT
-http://wz4.dnip.com.br:1935/bemtv/bemtv.sdp/playlist.m3u8?PEDROJUNIORTUTORIAIS
-#EXTINF:-1,SBT AM
-https://livefocamundo.com:8081/tvguajaraonline2/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIAIS
-#EXTINF:-1,SBT GO
-https://5a1c76baf08c0.streamlock.net/tvsd2/smil:tvsd2_20042020.smil/playlist.m3u8?PEDROJUNIORTUTORIAIS
-#EXTINF:-1,SBT PR
-https://cdn-cdn-iguacu.ciclano.io:1443/cdn-iguacu/cdn-iguacu/playlist.m3u8?PEDROJUNIORTUTORIAIS
-#EXTINF:-1,SBT PE
-http://evpp.mm.uol.com.br:1935/ne10/ne10.smil/chunklist_w416898237_b176000_sleng.m3u8
-#EXTINF:-1,SBT PE HD
-http://evpp.mm.uol.com.br:1935/ne10/ne10.smil/chunklist_w416898237_b216000_sleng.m3u8
-#EXTINF:-1,Record News
-http://playplusnews-lh.akamaihd.net/i/pp_nws@377849/index_360_av-p.m3u8?PEDROJUNIORTUTORIAIS
-#EXTINF:-1,Record News HD
-http://playplusnews-lh.akamaihd.net/i/pp_nws@377849/index_720_av-p.m3u8?PEDROJUNIORTUTORIAIS
-#EXTINF:-1,Globo News
-http://live.video.globo.com/h/1402196702324012345678915746223249876543210St7g4OJToXerIDT3UieWkw/k/app/a/A/u/anyone/d/s/hls-gnews24ha/hls-gnews24ha_655/playlist.m3u8?PEDROJUNIORTUTORIAIS
-#EXTINF:-1,Globo News HD
-http://live.video.globo.com/h/1402196702324012345678915746223249876543210St7g4OJToXerIDT3UieWkw/k/app/a/A/u/anyone/d/s/hls-gnews24ha/hls-gnews24ha_2359/playlist.m3u8?PEDROJUNIORTUTORIAIS
-#EXTINF:-1,Band News
-http://origin-02.nxplay.com.br/BAND_NEWS_NXPLAY_1/tracks-v2a1/mono.m3u8?PEDROJUNIORTUTORIAIS
-#EXTINF:-1,Band News HD
-http://origin-02.nxplay.com.br/BAND_NEWS_NXPLAY_1/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIAIS
-#EXTINF:-1,CNN Brasil
-http://origin-02.nxplay.com.br/CNN_BR_OK_1/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIAIS
-#EXTINF:-1,TV Brasil
-http://origin-02.nxplay.com.br/TV_BRASIL_NX/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIAIS
-#EXTINF:-1,TV Brasil 2
-http://origin-02.nxplay.com.br/TV_BRASIL_2/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIAIS
-#EXTINF:-1,TV Cultura SP
-http://origin-02.nxplay.com.br/TV_CULTURA_HD_PFZ1/tracks-v2a1a2a3a4/mono.m3u8?PEDROJUNIORTUTORIAIS
-#EXTINF:-1,TV Cultura SP HD
-http://origin-02.nxplay.com.br/TV_CULTURA_HD_PFZ1/tracks-v1a1a2a3a4/mono.m3u8?PEDROJUNIORTUTORIAIS
-#EXTINF:-1,TV Cultura GO
-http://wz3.dnip.com.br/tvbrasil/tvbrasil.sdp/playlist.m3u8?PEDROJUNIORTUTORIAIS
-#EXTINF:-1,TV Cultura PA
-http://str.portalcultura.com.br:80/funtelpa/tv_funtelpa/playlist.m3u8?PEDROJUNIORTUTORIAIS
-#EXTINF:-1,TV Cultura RN
-https://streaming03.zas.media/tvfuturo/tvfuturo/playlist.m3u8?PEDROJUNIORTUTORIAIS
-#EXTINF:-1,TV Cultura PR
-https://5b33b873179a2.streamlock.net:1443/live/livestream/playlist.m3u8?PEDROJUNIORTUTORIAIS
-#EXTINF:-1,TV Futura
-http://origin-02.nxplay.com.br/FUTURA_NX/tracks-v2a1/mono.m3u8?PEDROJUNIORTUTORIAIS
-#EXTINF:-1,TV Futura HD
-http://origin-02.nxplay.com.br/FUTURA_NX/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIAIS
-#EXTINF:-1,TVE RS
-http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8?PEDROJUNIORTUTORIAIS
-#EXTINF:-1,TVE BA HD
-http://stream2.ba.gov.br/hls-live/livepkgr/_definst_/irdeb/pgm-1.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1,TV GUARÁ
+https://59f2354c05961.streamlock.net:1443/tvguara/_definst_/tvguara/chunklist.m3u8
 #EXTINF:-1,TV FUTURO
 https://streaming03.zas.media/tvfuturo/tvfuturo/playlist.m3u8
-#EXTINF:-1,TNT HD 1
-http://origin-02.nxplay.com.br/tnt_2/tracks-v3a1/mono.m3u8?PEDROJUNIORTUTORIAIS
-#EXTINF:-1,TNT HD 2
-http://origin-02.nxplay.com.br/tnt_2/tracks-v2a1/mono.m3u8?PEDROJUNIORTUTORIAIS
-#EXTINF:-1, Estádio TNT SPORTS
+#EXTINF:-1, RECORD NEWS 
+https://playplusnews-lh.akamai.net/i/pp_nws@377849/master.m3u8
+#EXTINF:-1,PREMIERE CLUBES 
+http://85.203.33.88:80/pUcmUPE360/rkAQBd5081/23164
+#EXTINF:-1,PREMIERE 2
+http://85.203.33.88:80/pUcmUPE360/rkAQBd5081/24268
+#EXTINF:-1,PREMIERE 4 
+http://85.203.33.88:80/pUcmUPE360/rkAQBd5081/24270
+#EXTINF:-1, Estádio TNT SPORTS 
 http://glxlmn026c.singularcdn.net.br/playout_01/playlist-720p.m3u8?PEDROJUNIORTUTORIAIS
-#EXTINF:-1,TNT Sports
-http://glxlmn026c.singularcdn.net.br/playout_01/playlist-480p.m3u8?PEDROJUNIORTUTORIAIS
-#EXTINF:-1,TNT Sports HD
-http://glxlmn026c.singularcdn.net.br/playout_01/playlist-720p.m3u8?PEDROJUNIORTUTORIAIS
-#EXTINF:-1,TNT SPORTS 01²
-http://fenixuhd.xyz:80/Geison1005/ge89305670/56700
-#EXTINF:-1,TNT SPORTS 02²
-http://fenixuhd.xyz:80/Geison1005/ge89305670/56701
-#EXTINF:-1,TNT SPORTS 03²
-http://fenixuhd.xyz:80/Geison1005/ge89305670/56704
-#EXTINF:-1,TNT SPORTS 04²
-http://fenixuhd.xyz:80/Geison1005/ge89305670/56705
-#EXTINF:-1,Fish TV
-http://origin-02.nxplay.com.br/FISH_TV_NX/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIAIS
-#EXTINF:-1,Paramount
-http://origin-02.nxplay.com.br/PCBR_HD_NX_9998_/tracks-v3a1/mono.m3u8?PEDROJUNIORTUTORIAIS
-#EXTINF:-1,Paramount HD
-http://origin-02.nxplay.com.br/PCBR_HD_NX_9998_/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIAIS
-#EXTINF:-1,Canal Saúde
-http://arkyvbre1g.zoeweb.tv/fiocruz/fiocruz/playlist.m3u8?PEDROJUNIORTUTORIAIS
-#EXTINF:-1,CNT SP
-http://dd8umsy8yf96u.cloudfront.net/live/cnt-americana_240p414k/index.m3u8?PEDROJUNIORTUTORIAIS
-#EXTINF:-1,CNT RJ
-http://dd8umsy8yf96u.cloudfront.net/live/cnt-rio_240p414k/index.m3u8?PEDROJUNIORTUTORIAIS
-#EXTINF:-1,CNT RS
-http://d1s664t39qub1o.cloudfront.net/live/cnt-caxias_240p414k/index.m3u8?PEDROJUNIORTUTORIAIS
-#EXTINF:-1,CNT DF
-http://d1s664t39qub1o.cloudfront.net/live/cnt-londrina_240p414k/index.m3u8?PEDROJUNIORTUTORIAIS
-#EXTINF:-1,CNT BA
-http://dd8umsy8yf96u.cloudfront.net/live/cnt-salvador_240p414k/index.m3u8?PEDROJUNIORTUTORIAIS
-#EXTINF:-1,TV Aberta SP
-https://cdn-canalpaulo.ciclano.io:1443/canalpaulo/canalpaulo/playlist.m3u8?PEDROJUNIORTUTORIAIS
-#EXTINF:-1,UFG TV
-http://wowza.softhost.com.br:1935/ufg/smil:tvufgweb/playlist.m3u8?PEDROJUNIORTUTORIAIS
-#EXTINF:-1,TV Faap
-http://midia.faap.br/faaplatamlive-live/stream_480/playlist.m3u8?PEDROJUNIORTUTORIAIS
-#EXTINF:-1,TV Faap HD
-http://midia.faap.br/faaplatamlive-live/stream_720/playlist.m3u8?PEDROJUNIORTUTORIAIS
-#EXTINF:-1,Rede Família
-https://5a1c76baf08c0.streamlock.net/familia/smil:familia.smil/chunklist_b1096000.m3u8
-#EXTINF:-1,Rede Família HD
-https://5a1c76baf08c0.streamlock.net/familia/smil:familia.smil/chunklist_b1628000.m3u8
-#EXTINF:-1,Canal Rural
-https://5fa18afd2e74c.streamlock.net/live/smil:canalrural.smil/playlist.m3u8?PEDROJUNIORTUTORIAIS
-#EXTINF:-1,Canal do Boi
-http://origin-02.nxplay.com.br/CANAL_DO_BOI_NX/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIAIS
-#EXTINF:-1,Agro Brasil
-http://origin-02.nxplay.com.br/AGROBRASIL_TV/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIAIS
-#EXTINF:-1,TV Gazeta SP
-http://origin-02.nxplay.com.br/TV_GAZETA_NX/tracks-v2a1/mono.m3u8?PEDROJUNIORTUTORIAIS
-#EXTINF:-1,TV Gazeta SP HD
-http://origin-02.nxplay.com.br/TV_GAZETA_NX/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIAIS
-#EXTINF:-1,TV Gazeta MA
-http://stmv4.srvstm.com:1935/wagner1168/wagner1168/playlist.m3u8?PEDROJUNIORTUTORIAIS
-#EXTINF:-1,Agro Mais
-http://evpp.mm.uol.com.br:1935/geob_band/agromais/playlist.m3u8?PEDROJUNIORTUTORIAIS
-#EXTINF:-1,Terra Viva
-http://evpp.mm.uol.com.br:1935/band_live/terraviva/playlist.m3u8?PEDROJUNIORTUTORIAIS
-#EXTINF:-1,TV Câmara
-https://stream3.camara.gov.br/tv1/manifest.m3u8?PEDROJUNIORTUTORIAIS
-#EXTINF:-1,Woohoo
-http://origin-02.nxplay.com.br/WOOHOO_NXPLAY/tracks-v2a1/mono.m3u8?PEDROJUNIORTUTORIAIS
-#EXTINF:-1,Woohoo HD
-http://origin-02.nxplay.com.br/WOOHOO_NXPLAY/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIAIS
-#EXTINF:-1,Band Sports
-http://origin-02.nxplay.com.br/band_spor_9913/tracks-v2a1/mono.m3u8?PEDROJUNIORTUTORIAIS
-#EXTINF:-1,Band Sports HD
-http://origin-02.nxplay.com.br/band_spor_9913/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIAIS
-#EXTINF:-1,All Sports
-https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/playlist.m3u8?PEDROJUNIORTUTORIAIS
-#EXTINF:-1,Retrô Cartoon
-http://stmv1.srvstm.com:1935/cartoonr2/cartoonr2/playlist.m3u8?PEDROJUNIORTUTORIAIS
-#EXTINF:-1,Gospel Cartoon
-http://stmv1.srvstm.com:1935/gospelcartoon2/gospelcartoon2/playlist.m3u8?PEDROJUNIORTUTORIAIS
-#EXTINF:-1,Zoomoo
-http://origin-02.nxplay.com.br/ZOOMOO_HD_NX_01/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIAIS
-#EXTINF:-1,Nickelodeon
-http://origin-02.nxplay.com.br/NICK_BR_HD_p983941/tracks-v3a1/mono.m3u8?PEDROJUNIORTUTORIAIS
-#EXTINF:-1,Nickelodeon HD
-http://origin-02.nxplay.com.br/NICK_BR_HD_p983941/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIAIS
-#EXTINF:-1,Nick Jr.
-http://origin-02.nxplay.com.br/NICK_JR_00999_1/tracks-v3a1/mono.m3u8?PEDROJUNIORTUTORIAIS
-#EXTINF:-1,Nick Jr. HD
-http://origin-02.nxplay.com.br/NICK_JR_00999_1/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIAIS
-#EXTINF:-1,A&E
-http://d1wwtskvr1r98k.cloudfront.net/3c9cf3a801dd4728a868f96f1ed032d2/index_2.m3u8?PEDROJUNIORTUTORIAIS
-#EXTINF:-1,A&E HD
-http://d1wwtskvr1r98k.cloudfront.net/3c9cf3a801dd4728a868f96f1ed032d2/index_1.m3u8?PEDROJUNIORTUTORIAIS
-#EXTINF:-1,Film&Arts
-http://origin-02.nxplay.com.br/Film_Arts_Brasil/tracks-v2a1/mono.m3u8?PEDROJUNIORTUTORIAIS
-#EXTINF:-1,Film&Arts HD
-http://origin-02.nxplay.com.br/Film_Arts_Brasil/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIAIS
-#EXTINF:-1,TBS
-http://origin-02.nxplay.com.br/TBS_01/tracks-v2a1/mono.m3u8?PEDROJUNIORTUTORIAIS
-#EXTINF:-1,TBS HD
-http://origin-02.nxplay.com.br/TBS_01/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIAIS
-#EXTINF:-1,Comedy Central
-http://origin-02.nxplay.com.br/comed_central-tk/tracks-v2a1/mono.m3u8?PEDROJUNIORTUTORIAIS
-#EXTINF:-1,Comedy Central HD
-http://origin-02.nxplay.com.br/comed_central-tk/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIAIS
-#EXTINF:-1,Boston 25 News
-http://svc-lvanvato-cxtv-wfxt.cmgvideo.com/wfxt/2564k/index.m3u8?PEDROJUNIORTUTORIAIS
-#EXTINF:-1,Al Jazeera English
-http://live-hls-web-aje.getaj.net/AJE/index.m3u8?PEDROJUNIORTUTORIAIS
-#EXTINF:-1,France 24
-http://static.france24.com/live/F24_ES_LO_HLS/live_web.m3u8?PEDROJUNIORTUTORIAIS
-#EXTINF:-1,Porto Canal
-http://streamer-a03.videos.sapo.pt/live/portocanal/playlist.m3u8?PEDROJUNIORTUTORIAIS
-#EXTINF:-1,RTP1
-http://streaming-live.rtp.pt/liverepeater/smil:rtp1.smil/playlist.m3u8?PEDROJUNIORTUTORIAIS
-#EXTINF:-1,RTP2
-http://streaming-live.rtp.pt/liverepeater/smil:rtp2.smil/playlist.m3u8?PEDROJUNIORTUTORIAIS
-#EXTINF:-1,CBS News
-http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8?PEDROJUNIORTUTORIAIS
-#EXTINF:-1,Sky life TG24
-http://skyianywhere2-i.akamaihd.net/hls/live/200275/tg24/master.m3u8?PEDROJUNIORTUTORIAIS
-#EXTINF:-1,Arte 1
-http://d1wwtskvr1r98k.cloudfront.net/522752a704da4d93b18eeb077042ccff/index_2.m3u8?PEDROJUNIORTUTORIAIS
-#EXTINF:-1,Arte 1 HD
-http://d1wwtskvr1r98k.cloudfront.net/522752a704da4d93b18eeb077042ccff/index_1.m3u8?PEDROJUNIORTUTORIAIS
-#EXTINF:-1,Classic Hits
-http://origin-02.nxplay.com.br/classichit/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIAIS
-#EXTINF:-1,SCH
-http://origin-02.nxplay.com.br/SCH/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIAIS
-#EXTINF:-1,Cult
-http://origin-02.nxplay.com.br/Cult/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIAIS
-#EXTINF:-1,Mega
-http://origin-02.nxplay.com.br/MEGA/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIAIS
-#EXTINF:-1,BRA
-http://origin-02.nxplay.com.br/BRAmusic/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIAIS
-#EXTINF:-1,Hitts
-http://origin-02.nxplay.com.br/HITTS/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIAIS
-#EXTINF:-1,América Latino
-http://origin-02.nxplay.com.br/AMERICOLATINO/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIAIS
-#EXTINF:-1,Smithsonian
-http://origin-02.nxplay.com.br/SMITHSONIAN_HD/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIAIS
-#EXTINF:-1,Yeeah!
-http://srv3.zcast.com.br:1935/yeeaah/yeeaah/playlist.m3u8?PEDROJUNIORTUTORIAIS
-#EXTINF:-1,Top TV BA
-https://cdn.jmvstream.com/w/AVJ-9094/playlist/playlist.m3u8?PEDROJUNIORTUTORIAIS
-#EXTINF:-1,Top TV PA
-http://serv2.videovox.pw:1935/joaorodrigo7309/joaorodrigo7309/playlist.m3u8?PEDROJUNIORTUTORIAIS
-#EXTINF:-1,MTV
-http://origin-02.nxplay.com.br/MTV_BR_98588_97731/tracks-v3a1/mono.m3u8?PEDROJUNIORTUTORIAIS
-#EXTINF:-1,MTV HD
-http://origin-02.nxplay.com.br/MTV_BR_98588_97731/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIAIS
-#EXTINF:-1,MTV Live
-http://origin-02.nxplay.com.br/MTVLIVE/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIAIS
-#EXTINF:-1,Music Box Brazil
-http://origin-02.nxplay.com.br/MUSIC_HD/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIAIS
-#EXTINF:-1,Prime Box Brazil
-http://origin-02.nxplay.com.br/PRIME_HD/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIAIS
-#EXTINF:-1,RBC TV
-http://rbc.directradios.com:1935/rbc/smil:rbc.smil/playlist.m3u8?PEDROJUNIORTUTORIAIS
-#EXTINF:-1,Rede Gospel
-https://cdn.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/playlist.m3u8?PEDROJUNIORTUTORIAIS
-#EXTINF:-1,TV Pai Eterno
-https://59f1cbe63db89.streamlock.net:1443/teste01/_definst_/teste01/playlist.m3u8?PEDROJUNIORTUTORIAIS
-#EXTINF:-1,TV Evangelizar
-https://5f593df7851db.streamlock.net/evangelizar/tv/playlist.m3u8?PEDROJUNIORTUTORIAIS
-#EXTINF:-1,TV Aparecida
-https://cdn.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/playlist.m3u8?PEDROJUNIORTUTORIAIS
-#EXTINF:-1,TV Novo Tempo SP
-http://stream.live.novotempo.com/tv/smil:tvnovotempo.smil/playlist.m3u8?PEDROJUNIORTUTORIAIS
-#EXTINF:-1,TV Novo Tempo RS
-http://stream.novotempo.com:1935/tv/smil:TvNovoTempoCom.smil/playlist.m3u8?PEDROJUNIORTUTORIAIS
-#EXTINF:-1,TV Canção Nova
-http://origin-02.nxplay.com.br/CANCAO_NOVA_01/tracks-v2a1/mono.m3u8?PEDROJUNIORTUTORIAIS
-#EXTINF:-1,TV Canção Nova HD
-http://origin-02.nxplay.com.br/CANCAO_NOVA_01/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIAIS
-#EXTINF:-1,IMPD TV
-https://58a4464faef53.streamlock.net/impd/ngrp:impd_all/playlist.m3u8?PEDROJUNIORTUTORIAIS
-#EXTINF:-1,Plenitude TV
-https://meupainel.top:1936/iaptd/iaptd/playlist.m3u8?PEDROJUNIORTUTORIAIS
-#EXTINF:-1,Gospel Movies Television
-http://stmv1.srvstm.com:1935/gospelf2/gospelf2/playlist.m3u8?PEDROJUNIORTUTORIAIS
-#EXTINF:-1,Gospel Music Television
-http://stmv2.euroti.com.br:1935/gmusic/gmusic/playlist.m3u8?PEDROJUNIORTUTORIAIS
-#EXTINF:-1,TV Verdade
-http://ocatv.mcgi.me:1935/public/247_br/playlist.m3u8?PEDROJUNIORTUTORIAIS
-#EXTINF:-1,TV Terceiro Anjo
-http://streamer1.streamhost.org:1935/salive/GMI3anjoh/playlist.m3u8?PEDROJUNIORTUTORIAIS
 #EXTINF:-1,Woohoo
 http://210.210.155.35/uq2663/h/h05/index.m3u8
 #EXTINF:-1, RED BULL TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
-#EXTINF:-1, RED BULL TV
+#EXTINF:-1, RED BULL TV 
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8?IMDSFULL
-#EXTINF:-1,100 Automoto
+#EXTINF:-1,Sport Russia
+http://streaming.astrakhan.ru/astrakhanrusport/tracks-v2a1/index.m3u8
+#EXTINF:-1,100 Automoto 
 http://100automoto.tv:1935/bgtv1/autotv/playlist.m3u8
 #EXTINF:-1,Auto Moto TV Bulgária
 http://100automoto.tv:1935/bgtv1/autotv/playlist.m3u8
+#EXTINF:-1,Claro Sports
+http://clarosport-origen.clarovideo.net/Content/hls/Live/Channel(jjoo2016ch01)/index.m3u8
 #EXTINF:-1,Edge Sport
 https://imgedge.akamaized.net/amagi_hls_data_imgAAA2AA-edgesports/CDN/512x288_875600/index.m3u8?DVR
 #EXTINF:-1,EDGE Sport
 https://imgedge.akamaized.net/amagi_hls_data_imgAAA2AA-edgesports/CDN/1920x1080_5640800/index.m3u8
 #EXTINF:-1,Eurosport 1
 https://cdn1.mobiletv.bg/T8/eurosport/es_794613_850k.m3u8
-#EXTINF:-1,Fail Army
+#EXTINF:-1,Eurosport¹ TV USA
+http://77.83.117.60:8888/02_EURO1_720p/chunklist.m3u8
+#EXTINF:-1,Fail Army 
 https://dai.google.com/linear/hls/event/7tuuoX1wSsCTaki1HqJFYw/master.m3u8
-#EXTINF:-1,Fight Sports ¹
+#EXTINF:-1,Fight Sports ¹ 
 http://210.210.155.35/session/b09f20ac-0755-11e9-90c8-c81f66f89318/uq2663/h/h05/02.m3u8?IMDSFULL
-#EXTINF:-1,Fight Sports ²
+#EXTINF:-1,Fight Sports ² 
 http://210.210.155.35/uq2663/h/h05/01.m3u8?IMDSFULL
-#EXTINF:-1,Fight Sports ³
+#EXTINF:-1,Fight Sports ³ 
 http://210.210.155.35/uq2663/h/h05/index.m3u8
-#EXTINF:-1,One Golf
+#EXTINF:-1,Fight TV 
+http://188.35.9.11:21151/udp/193i
+#EXTINF:-1,Fishing Offshore 
+https://nrpus.bozztv.com/36bay2/gusa-darcizzle/index.m3u8
+#EXTINF:-1,One Golf  
 http://162.250.201.58:6211/pk/ONEGOLF/index.m3u8
-#EXTINF:-1,NASA TV
+#EXTINF:-1, ANIM NATURE 
+http://200.194.238.236:5000/play/a006/index.m3u8
+#EXTINF:-1,NASA TV 
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
-#EXTINF:-1,NASA TV Media Channel
+#EXTINF:-1,NASA TV Media Channel 
 https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master_2000.m3u8
+#EXTINF:-1,Filmes de TV
+https://srv2.zcast.com.br/cleto2085/cleto2085/playlist-480p.m3u8
 #EXTINF:-1,COREAN
 https://srv1.zcast.com.br/kpoptv/kpoptv/playlist.m3u8
 #EXTINF:-1,KKIDS
 http://c2.manasat.com:1935/kkids/kkids2/playlist.m3u8
+#EXTINF:-1,iptv_55
+https://stmv1.samcast.com.br/joaomatheus5156/joaomatheus5156/playlist.m3u8
 #EXTINF:-1,Gospel Cartoon
 http://stmv1.srvstm.com:1935/gospelcartoon2/gospelcartoon2/playlist.m3u8
-#EXTINF:-1,Gospel Movie Television
+#EXTINF:-1,Gospel Movie Television 
 https://stmv1.srvif.com/gospelf/gospelf/playlist-480p.m3u8
 #EXTINF:-1,KRONE HIT
 https://bitcdn-kronehit.bitmovin.com/v2/hls/playlist.m3u8
@@ -570,13 +99,13 @@ https://bitcdn-kronehit.bitmovin.com/v2/hls/playlist.m3u8
 http://stmv1.transmissaodigital.com/ronald6259/ronald6259/playlist.m3u8
 #EXTINF:-1,TOP TV
 https://serv2.videovox.pw/joaorodrigo7309/joaorodrigo7309/playlist.m3u8
-#EXTINF:-1,GAZETA FM
+#EXTINF:-1,GAZETA FM 
 https://oj7lng29dg82-hls-live.5centscdn.com/lives/f7b44cfafd5c52223d5498196c8a2e7b.sdp/index.m3u8
 #EXTINF:-1,NOVO TEMPO
 https://stream.live.novotempo.com/tv/smil:tvnovotempo.smil/playlist.m3u8
 #EXTINF:-1,IMPD
 https://58a4464faef53.streamlock.net/impd/ngrp:impd_all/playlist.m3u8
-#EXTINF:-1,ADSA
+#EXTINF:-1,ADSA 
 https://cdn.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/chunklist.m3u8
 #EXTINF:-1, VINTAGE TV
 https://stmv1.srvstm.com/rogerio4248/rogerio4248/chunklist_w1263392867.m3u8
@@ -590,7 +119,7 @@ https://stmv1.srvif.com/animetv/animetv/chunklist_w769752009.m3u8
 http://rbc.directradios.com:1935/rbc/smil:rbc.smil/playlist.m3u8?leogondim
 #EXTINF:-1, MASTER TV EDUCAÇÃO
 http://wowza4.catve.com.br:1935/mastertv/livestream/chunklist_w2056435852.m3u8
-#EXTINF:-1,TV CÂMARA
+#EXTINF:-1,TV CÂMARA 
 https://stream3.camara.gov.br/tv1/manifest.m3u8
 #EXTINF:-1,TVE BRASIL
 http://stream2.ba.gov.br/hls-live/livepkgr/_definst_/irdeb/pgm-1.m3u8
@@ -602,9 +131,13 @@ http://flash.softhost.com.br:1935/ufg/tvufgweb/playlist.m3u8
 https://hls.brasilstream.com.br/live/sitetv/sitetv/mono.m3u8
 #EXTINF:-1, TOP MIX TV
 https://59f1cbe63db89.streamlock.net:1443/topmixtv/_definst_/topmixtv/chunklist_w1602814806.m3u8
+#EXTINF:-1, TV União
+http://stmv1.srvif.com:1935/admin/admin/playlist.m3u8
 #EXTINF:-1, GUARANI
 http://01.paineldevideo.com/rtguarany/rtguarany/playlist.m3u8
-#EXTINF:-1, REDE GOSPEL
+#EXTINF:-1, TV GIDEOES
+https://streaming01.zas.media/gideoes/tv.smil/chunklist_w279801288_b1396000_DVR.m3u8
+#EXTINF:-1, REDE GOSPEL 
 https://cdn.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/chunklist.m3u8
 #EXTINF:-1, Gospel Cartoon
 http://stmv1.srvstm.com:1935/gospelcartoon2/gospelcartoon2/playlist.m3u8
@@ -612,12 +145,18 @@ http://stmv1.srvstm.com:1935/gospelcartoon2/gospelcartoon2/playlist.m3u8
 https://stmv1.srvif.com/gospelf/gospelf/chunklist_w1220937626.m3u8
 #EXTINF:-1, TV AD BELEM
 https://cdn.jmvstream.com/w/AVJ-9106/playlist/chunklist.m3u8
+#EXTINF:-1, TV NOVO TEMPO
+https://origin-02.nxplay.com.br/NOVO_TEMPO__PFZ/tracks-v1a1/mono.m3u8
 #EXTINF:-1, Gospel Truth TV
 https://bstna.tulix.tv/live/bs_2m/index.m3u8
 #EXTINF:-1, IMPD TV
 https://58a4464faef53.streamlock.net/impd/ngrp:impd_all/chunklist_w1972382645_b4227072.m3u8
 #EXTINF:-1,Tv Votuline
 https://srv5.zcast.com.br/votuline/votuline/chunklist_w1914702729.m3u8
+#EXTINF:-1, Rede Positiva Gospel
+https://stmv2.voxtv.com.br/8090/8090/chunklist_w118479557.m3u8
+#EXTINF:-1,TV CIDADE
+https://live.cdn.upx.com/kwjqp/smil:cidadeviva.smil/chunklist_b720000.m3u8?f84e589fbf8b8110118c5ae8f1200c8b
 #EXTINF:-1, TV Ouro Negro
 https://stmv1.srvstm.com/diegodemenezes3156/diegodemenezes3156/chunklist_w390441382.m3u8
 #EXTINF:-1, Tv Germana
@@ -638,9 +177,11 @@ https://stmv1.srvstm.com/cartoonr2/cartoonr2/playlist.m3u8
 https://59f1cbe63db89.streamlock.net:1443/summertv/_definst_/summertv/chunklist_w749519263.m3u8
 #EXTINF:-1, TV Nova Onda
 https://5c483b9d1019c.streamlock.net/8078/8078/playlist.m3u8
-#EXTINF:-1, TV MANCHETE
+#EXTINF:-1, TV Via Morena
+https://59f1cbe63db89.streamlock.net:1443/cleuzaviamorena/_definst_/cleuzaviamorena/playlist.m3u8
+#EXTINF:-1, TV MANCHETE 
 https://srv5.zcast.com.br/tvmanchete/tvmanchete/chunklist_w1437067093.m3u8
-#EXTINF:-1, TV MANCHETE
+#EXTINF:-1, TV MANCHETE 
 https://srv5.zcast.com.br/tvmanchete/tvmanchete/playlist.m3u8
 #EXTINF:-1, TV JORNAL DO NORDESTE
 https://5cf4a2c2512a2.streamlock.net/jornaldonorteste/jornaldonorteste/chunklist_w1734828378.m3u8
@@ -648,12 +189,16 @@ https://5cf4a2c2512a2.streamlock.net/jornaldonorteste/jornaldonorteste/chunklist
 https://srv4.zcast.com.br/tvnovaparaiba/tvnovaparaiba/chunklist_w1380017723.m3u8
 #EXTINF:-1, TV DIÁRIO DO SERTÃO
 http://painelvj.com.br/pdsertaotv/pdsertaotv.sdp/chunklist_w1479513716.m3u8
+#EXTINF:-1, TV MASTER
+https://virtues.es:1936/tvmaster/tvmaster/chunklist_w1002587347.m3u8
 #EXTINF:-1,TV METRÓPOLE
 https://cdn-fundacao-2110.ciclano.io:1443/fundacao-2110/fundacao-2110/playlist.m3u8
 #EXTINF:-1,CANAL DA FAMÍLIA
 https://srv4.zcast.com.br/redetvoficial/redetvoficial/playlist.m3u8
 #EXTINF:-1,REDE TV SUL
 https://novo.bitstreaming.info:1936/8032/8032/playlist.m3u8
+#EXTINF:-1,iptv_108
+https://5e36c064a2f6a.streamlock.net:1936/8310/8310/playlist.m3u8
 #EXTINF:-1,TV DIGITAL BIRIGUI
 https://59f2354c05961.streamlock.net:1443/tvdigitalbirigui/_definst_/tvdigitalbirigui/chunklist_w763334596.m3u8
 #EXTINF:-1,SERTÃO TV CAJAZEIRAS
@@ -664,6 +209,8 @@ http://wse01.logicahost.com.br:1935/tvsol/_definst_/tvsol/chunklist_w1146408749.
 http://stmv6.srvstm.com/tvalagoinha/tvalagoinha/chunklist_w865406886.m3u8
 #EXTINF:-1, TV PORTAL MÍDIA GUARABIRA
 https://video01.kshost.com.br/portalmidia/portalmidia/chunklist_w477557526.m3u8
+#EXTINF:-1, TV TSPB
+https://5cf4a2c2512a2.streamlock.net/8028/8028/chunklist.m3u8
 #EXTINF:-1, TV INTERATIVA PB
 http://srv2.zcast.com.br/tvinterativa/tvinterativa/chunklist_w1706651275.m3u8
 #EXTINF:-1, TV Assembléia Paraíba
@@ -674,18 +221,34 @@ https://cdn.jmvstream.com/w/AVJ-9733/playlist/chunklist.m3u8
 http://tvnatal.ddns.net:1935/vmix/myStream/chunklist_w1799893384.m3u8
 #EXTINF:-1, Tv Futuro (Cultura RN)
 https://streaming03.zas.media/tvfuturo/tvfuturo/chunklist_w501270261.m3u8
+#EXTINF:-1, Livre TV
+https://5b01a3d32b65c.streamlock.net:1936/livretv/livretv/chunklist_w190258959.m3u8
+#EXTINF:-1, TV GRANDE NATAL
+https://5b01a3d32b65c.streamlock.net:1936/livretv/livretv/chunklist_w190258959.m3u8
 #EXTINF:-1, TV ASSU
 https://5eaa6849d0971.streamlock.net/8058/8058/chunklist_w1275070719.m3u8
 #EXTINF:-1, Web TV Fronteira
 https://srv2.zcast.com.br/webtvfronteira/webtvfronteira/chunklist_w171458479.m3u8
+#EXTINF:-1, Tv Assembléia RN
+https://59f2354c05961.streamlock.net:1443/fundacao/_definst_/fundacao/chunklist_w435658548.m3u8
 #EXTINF:-1, Rede Família
 https://5a1c76baf08c0.streamlock.net/familia/smil:familia.smil/chunklist_b1628000.m3u8
+#EXTINF:-1, Web Tv Ouro Verde
+https://5d82644094cc0.streamlock.net/ouroverdetv/ouroverdetv/chunklist_w773097086.m3u8
+#EXTINF:-1, Viva Web Tv
+http://video01.kshost.com.br/cypriano46326/cypriano46326/chunklist_w1318298521.m3u8
 #EXTINF:-1, TV Metropole CE
 https://cdn-fundacao-2110.ciclano.io:1443/fundacao-2110/fundacao-2110/chunklist_w1555477821.m3u8
+#EXTINF:-1, Latinasat Web TV
+https://stmv1.samcast.com.br/joaomatheus5156/joaomatheus5156/chunklist_w1666221428.m3u8
 #EXTINF:-1, Tv Padre Cicero
 https://59f1cbe63db89.streamlock.net:1443/tvpadrecicero/_definst_/tvpadrecicero/chunklist_w1338549001.m3u8
 #EXTINF:-1, Tv O Povo
 https://stmv1.transmissaodigital.com/ronald6259/ronald6259/chunklist_w2079578172.m3u8
+#EXTINF:-1, TV VM
+https://5e36c064a2f6a.streamlock.net:1936/8296/8296/chunklist_w811132022.m3u8
+#EXTINF:-1, TV WM GOSPEL
+https://stmv2.voxtv.com.br/tvwm/tvwm/chunklist_w23646151.m3u8
 #EXTINF:-1, Tv Nordeste
 https://stmv1.srvstm.com/leandro9908/leandro9908/chunklist_w1190529454.m3u8
 #EXTINF:-1, Tv Ibiapabana
@@ -722,217 +285,2871 @@ https://cdn.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/playlist.m3u8
 http://evpp.mm.uol.com.br:1935/band_live/terraviva/playlist.m3u8
 #EXTINF:-1,CANAL RURAL
 https://5fa18afd2e74c.streamlock.net/live/smil:canalrural.smil/playlist.m3u8
-#EXTM3U
-#EXTINF:-1,DAZN
-http://tv1.cs10.tv:80/leopoldo/leopoldo/6610
-#EXTINF:-1,DAZNI
-http://tv1.cs10.tv:80/leopoldo/leopoldo/6606
-#EXTINF:-1,CONMEBOL TV 4
-http://tv1.cs10.tv:80/leopoldo/leopoldo/57517
-#EXTINF:-1,FACEBOOK WATCH
-http://tv1.cs10.tv:80/leopoldo/leopoldo/6793
-#EXTINF:-1,ESTADIO TNT SPORTS HD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/37782
-#EXTINF:-1,DAZN1
-http://tv1.cs10.tv:80/leopoldo/leopoldo/12639
-#EXTINF:-1,DAZN1 ALT
-http://tv1.cs10.tv:80/leopoldo/leopoldo/6610
-#EXTINF:-1,SPORTV HD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/115
-#EXTINF:-1,SPORTV HD ALT
-http://tv1.cs10.tv:80/leopoldo/leopoldo/4058
-#EXTINF:-1,SPORTV FHD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/114
-#EXTINF:-1,SPORTV FHD ALT
-http://tv1.cs10.tv:80/leopoldo/leopoldo/5414
-#EXTINF:-1,SPORTV 2 HD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/121
-#EXTINF:-1,SPORTV 2 HD ALT
-http://tv1.cs10.tv:80/leopoldo/leopoldo/4060
-#EXTINF:-1,SPORTV 2 FHD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/120
-#EXTINF:-1,SPORTV 3 HD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/125
-#EXTINF:-1,SPORTV 3 HD ALT
-http://tv1.cs10.tv:80/leopoldo/leopoldo/4062
-#EXTINF:-1,SPORTV 3 FHD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/124
-#EXTINF:-1,FOX SPORTS HD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/130
-#EXTINF:-1,FOX SPORTS HD ALT
-http://tv1.cs10.tv:80/leopoldo/leopoldo/4065
-#EXTINF:-1,FOX SPORTS FHD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/128
-#EXTINF:-1,FOX SPORTS 2 HD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/137
-#EXTINF:-1,FOX SPORTS 2 HD ALT
-http://tv1.cs10.tv:80/leopoldo/leopoldo/4067
-#EXTINF:-1,FOX SPORTS 2 FHD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/4064
-#EXTINF:-1,ESPN BRASIL HD ALT
-http://tv1.cs10.tv:80/leopoldo/leopoldo/4069
-#EXTINF:-1,ESPN BRASIL FHD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/148
+#EXTINF:-1,Power Couple ¹
+http://lista.lorddark.club:80/5247/5247/204102
+#EXTINF:-1,Power Couple
+http://lista.lorddark.club:80/5247/5247/203818
+#EXTINF:-1,Power Couple ²
+http://lista.lorddark.club:80/5247/5247/203816
+#EXTINF:-1,Power Couple ³
+http://lista.lorddark.club:80/5247/5247/203815
+#EXTINF:-1,Globo SP HD [1]
+http://lista.lorddark.club:80/5247/5247/19429
+#EXTINF:-1,Globo SP SD [1]
+http://lista.lorddark.club:80/5247/5247/19428
+#EXTINF:-1,Globo SP SD
+http://lista.lorddark.club:80/5247/5247/527
+#EXTINF:-1,Globo SP HD
+http://lista.lorddark.club:80/5247/5247/745
+#EXTINF:-1,Globo SP HD³
+http://lista.lorddark.club:80/5247/5247/1108
+#EXTINF:-1,Globo SP FHD [1]
+http://lista.lorddark.club:80/5247/5247/19430
+#EXTINF:-1,Globo RJ SD [1]
+http://lista.lorddark.club:80/5247/5247/19423
+#EXTINF:-1,Globo RJ SD
+http://lista.lorddark.club:80/5247/5247/526
+#EXTINF:-1,Globo RJ HD [1]
+http://lista.lorddark.club:80/5247/5247/19424
+#EXTINF:-1,Globo RJ HD
+http://lista.lorddark.club:80/5247/5247/743
+#EXTINF:-1,Globo RJ FHD [1]
+http://lista.lorddark.club:80/5247/5247/19425
+#EXTINF:-1,Globo Brasilia SD [1]
+http://lista.lorddark.club:80/5247/5247/19405
+#EXTINF:-1,Globo Brasilia SD
+http://lista.lorddark.club:80/5247/5247/522
+#EXTINF:-1,Globo Brasilia HD [1]
+http://lista.lorddark.club:80/5247/5247/19406
+#EXTINF:-1,Globo Brasilia HD
+http://lista.lorddark.club:80/5247/5247/739
+#EXTINF:-1,Globo Brasilia HD³
+http://lista.lorddark.club:80/5247/5247/1111
+#EXTINF:-1,Globo Brasilia FHD [1]
+http://lista.lorddark.club:80/5247/5247/19063
+#EXTINF:-1,Globo Minas SD [1]
+http://lista.lorddark.club:80/5247/5247/19414
+#EXTINF:-1,Globo Minas SD
+http://lista.lorddark.club:80/5247/5247/523
+#EXTINF:-1,Globo Minas HD [1]
+http://lista.lorddark.club:80/5247/5247/19415
+#EXTINF:-1,Globo Minas HD³
+http://lista.lorddark.club:80/5247/5247/1110
+#EXTINF:-1,Globo Minas HD
+http://lista.lorddark.club:80/5247/5247/779
+#EXTINF:-1,Globo Minas FHD [1]
+http://lista.lorddark.club:80/5247/5247/19065
+#EXTINF:-1,Globo Minas FHD
+http://lista.lorddark.club:80/5247/5247/1064
+#EXTINF:-1,Globo Nordeste SD [1]
+http://lista.lorddark.club:80/5247/5247/19416
+#EXTINF:-1,Globo Nordeste SD
+http://lista.lorddark.club:80/5247/5247/525
+#EXTINF:-1,Globo Nordeste HD [1]
+http://lista.lorddark.club:80/5247/5247/19417
+#EXTINF:-1,Globo Nordeste HD³
+http://lista.lorddark.club:80/5247/5247/1113
+#EXTINF:-1,Globo Nordeste FHD [1]
+http://lista.lorddark.club:80/5247/5247/19066
+#EXTINF:-1,Globo MA HD
+http://lista.lorddark.club:80/5247/5247/785
+#EXTINF:-1,Globo PE HD
+http://lista.lorddark.club:80/5247/5247/744
+#EXTINF:-1,Globo ES FHD
+http://lista.lorddark.club:80/5247/5247/1058
+#EXTINF:-1,Globo EPTV Araraquara SD [1]
+http://lista.lorddark.club:80/5247/5247/19407
+#EXTINF:-1,Globo EPTV Campinas SD [1]
+http://lista.lorddark.club:80/5247/5247/19408
+#EXTINF:-1,Globo EPTV Campinas SD
+http://lista.lorddark.club:80/5247/5247/508
+#EXTINF:-1,Globo EPTV Campinas HD [1]
+http://lista.lorddark.club:80/5247/5247/19409
+#EXTINF:-1,Globo EPTV Campinas FHD [1]
+http://lista.lorddark.club:80/5247/5247/19064
+#EXTINF:-1,Globo EPTV Ribeirao Preto SD [1]
+http://lista.lorddark.club:80/5247/5247/19411
+#EXTINF:-1,Globo EPTV Ribeirao Preto SD
+http://lista.lorddark.club:80/5247/5247/509
+#EXTINF:-1,Globo EPTV Ribeirao Preto HD [1]
+http://lista.lorddark.club:80/5247/5247/19410
+#EXTINF:-1,Globo EPTV Ribeirao Preto FHD [1]
+http://lista.lorddark.club:80/5247/5247/19078
+#EXTINF:-1,Globo EPTV Sao Carlos SD [1]
+http://lista.lorddark.club:80/5247/5247/19412
+#EXTINF:-1,Globo EPTV Sao Carlos SD
+http://lista.lorddark.club:80/5247/5247/507
+#EXTINF:-1,Globo Inter TV Alto Litoral SD [1]
+http://lista.lorddark.club:80/5247/5247/19461
+#EXTINF:-1,Globo Inter TV Alto Litoral HD [1]
+http://lista.lorddark.club:80/5247/5247/19460
+#EXTINF:-1,Globo Inter TV Alto Litoral FHD [1]
+http://lista.lorddark.club:80/5247/5247/19079
+#EXTINF:-1,Globo Inter TV Cabugi SD
+http://lista.lorddark.club:80/5247/5247/537
+#EXTINF:-1,Globo Inter TV Dos Vales SD [1]
+http://lista.lorddark.club:80/5247/5247/19463
+#EXTINF:-1,Globo Inter TV Dos Vales HD [1]
+http://lista.lorddark.club:80/5247/5247/19462
+#EXTINF:-1,Globo Inter TV Dos Vales FHD [1]
+http://lista.lorddark.club:80/5247/5247/19080
+#EXTINF:-1,Globo Inter TV Grande Minas SD [1]
+http://lista.lorddark.club:80/5247/5247/19465
+#EXTINF:-1,Globo Inter TV Grande Minas HD [1]
+http://lista.lorddark.club:80/5247/5247/19464
+#EXTINF:-1,Globo Inter TV Grande Minas FHD [1]
+http://lista.lorddark.club:80/5247/5247/19081
+#EXTINF:-1,Globo Inter TV Cabugi SD [1]
+http://lista.lorddark.club:80/5247/5247/19413
+#EXTINF:-1,Globo Inter TV Serra Mar SD [1]
+http://lista.lorddark.club:80/5247/5247/19467
+#EXTINF:-1,Globo Inter TV Serra Mar HD [1]
+http://lista.lorddark.club:80/5247/5247/19466
+#EXTINF:-1,Globo Inter TV Serra Mar FHD [1]
+http://lista.lorddark.club:80/5247/5247/19082
+#EXTINF:-1,Globo InterTV Alto Litoral HD
+http://lista.lorddark.club:80/5247/5247/789
+#EXTINF:-1,Globo Internacional
+http://lista.lorddark.club:80/5247/5247/19444
+#EXTINF:-1,Globo Internacional HD
+http://lista.lorddark.club:80/5247/5247/742
+#EXTINF:-1,Globo NSC TV Blumenau SD [1]
+http://lista.lorddark.club:80/5247/5247/19469
+#EXTINF:-1,Globo NSC TV Blumenau HD [1]
+http://lista.lorddark.club:80/5247/5247/19468
+#EXTINF:-1,Globo NSC TV Blumenau FHD [1]
+http://lista.lorddark.club:80/5247/5247/19083
+#EXTINF:-1,Globo NSC TV Chapeco SD [1]
+http://lista.lorddark.club:80/5247/5247/19446
+#EXTINF:-1,Globo NSC TV Chapeco FHD [1]
+http://lista.lorddark.club:80/5247/5247/19058
+#EXTINF:-1,Globo NSC TV Florianopolis SD [1]
+http://lista.lorddark.club:80/5247/5247/19418
+#EXTINF:-1,Globo NSC TV Florianopolis HD [1]
+http://lista.lorddark.club:80/5247/5247/19419
+#EXTINF:-1,Globo NSC TV Florianopolis HD
+http://lista.lorddark.club:80/5247/5247/788
+#EXTINF:-1,Globo NSC TV Florianopolis FHD [1]
+http://lista.lorddark.club:80/5247/5247/19067
+#EXTINF:-1,Globo NSC TV Joinville SD [1]
+http://lista.lorddark.club:80/5247/5247/19473
+#EXTINF:-1,Globo NSC TV Joinville HD [1]
+http://lista.lorddark.club:80/5247/5247/19472
+#EXTINF:-1,Globo NSC TV Joinville FHD [1]
+http://lista.lorddark.club:80/5247/5247/19085
+#EXTINF:-1,Globo NSC TV Santa Catarina HD
+http://lista.lorddark.club:80/5247/5247/775
+#EXTINF:-1,Globo RBS TV Caxias do Sul SD [1]
+http://lista.lorddark.club:80/5247/5247/19471
+#EXTINF:-1,Globo RBS TV Caxias do Sul HD [1]
+http://lista.lorddark.club:80/5247/5247/19470
+#EXTINF:-1,Globo RBS TV Caxias Do Sul FHD [1]
+http://lista.lorddark.club:80/5247/5247/19084
+#EXTINF:-1,Globo RBS TV Pelotas SD [1]
+http://lista.lorddark.club:80/5247/5247/19475
+#EXTINF:-1,Globo RBS TV Pelotas HD [1]
+http://lista.lorddark.club:80/5247/5247/19474
+#EXTINF:-1,Globo RBS TV Pelotas FHD [1]
+http://lista.lorddark.club:80/5247/5247/19086
+#EXTINF:-1,Globo RBS TV Porto Alegre SD [1]
+http://lista.lorddark.club:80/5247/5247/19420
+#EXTINF:-1,Globo RBS TV Porto Alegre HD [1]
+http://lista.lorddark.club:80/5247/5247/19421
+#EXTINF:-1,Globo RBS TV Porto Alegre FHD [1]
+http://lista.lorddark.club:80/5247/5247/19068
+#EXTINF:-1,Globo Rede Amazonica SD [1]
+http://lista.lorddark.club:80/5247/5247/19422
+#EXTINF:-1,Globo Porto Velho HD
+http://lista.lorddark.club:80/5247/5247/572
+#EXTINF:-1,Globo RPC Curitiba SD [1]
+http://lista.lorddark.club:80/5247/5247/19426
+#EXTINF:-1,Globo RPC Curitiba SD
+http://lista.lorddark.club:80/5247/5247/576
+#EXTINF:-1,Globo RPC Curitiba HD [1]
+http://lista.lorddark.club:80/5247/5247/19427
+#EXTINF:-1,Globo RPC Curitiba FHD [1]
+http://lista.lorddark.club:80/5247/5247/19057
+#EXTINF:-1,Globo RPC Foz do Iguacu SD [1]
+http://lista.lorddark.club:80/5247/5247/19447
+#EXTINF:-1,Globo RPC Foz do Iguacu HD [1]
+http://lista.lorddark.club:80/5247/5247/19448
+#EXTINF:-1,Globo RPC Foz Do Iguacu FHD [1]
+http://lista.lorddark.club:80/5247/5247/19059
+#EXTINF:-1,Globo RPC Maringa SD [1]
+http://lista.lorddark.club:80/5247/5247/19404
+#EXTINF:-1,Globo RPC Maringa HD [1]
+http://lista.lorddark.club:80/5247/5247/19403
+#EXTINF:-1,Globo RPC Maringa FHD [1]
+http://lista.lorddark.club:80/5247/5247/19056
+#EXTINF:-1,Globo RPC Parana HD
+http://lista.lorddark.club:80/5247/5247/781
+#EXTINF:-1,Globo TV Anhanguera SD [1]
+http://lista.lorddark.club:80/5247/5247/19431
+#EXTINF:-1,Globo TV Anhanguera SD
+http://lista.lorddark.club:80/5247/5247/599
+#EXTINF:-1,Globo TV Anhanguera HD [1]
+http://lista.lorddark.club:80/5247/5247/19432
+#EXTINF:-1,Globo TV Anhanguera HD
+http://lista.lorddark.club:80/5247/5247/875
+#EXTINF:-1,Globo TV Anhanguera FHD [1]
+http://lista.lorddark.club:80/5247/5247/19069
+#EXTINF:-1,Globo TV Anhanguera FHD
+http://lista.lorddark.club:80/5247/5247/1051
+#EXTINF:-1,Globo TV Bahia SD [1]
+http://lista.lorddark.club:80/5247/5247/19433
+#EXTINF:-1,Globo TV Bahia SD
+http://lista.lorddark.club:80/5247/5247/601
+#EXTINF:-1,Globo TV Bahia HD [1]
+http://lista.lorddark.club:80/5247/5247/19434
+#EXTINF:-1,Globo TV Bahia HD ²
+http://lista.lorddark.club:80/5247/5247/768
+#EXTINF:-1,Globo TV Bahia FHD [1]
+http://lista.lorddark.club:80/5247/5247/19070
+#EXTINF:-1,Globo TV C. America Cuiaba SD [1]
+http://lista.lorddark.club:80/5247/5247/19435
+#EXTINF:-1,Globo TV C. America Cuiaba SD
+http://lista.lorddark.club:80/5247/5247/603
+#EXTINF:-1,Globo TV Cabo Branco SD [1]
+http://lista.lorddark.club:80/5247/5247/19477
+#EXTINF:-1,Globo TV Cabo Branco HD [1]
+http://lista.lorddark.club:80/5247/5247/19476
+#EXTINF:-1,Globo Tv Cabo Branco FHD [1]
+http://lista.lorddark.club:80/5247/5247/19087
+#EXTINF:-1,Globo TV Clube Teresina SD [1]
+http://lista.lorddark.club:80/5247/5247/19449
+#EXTINF:-1,Globo TV Clube Teresina HD [1]
+http://lista.lorddark.club:80/5247/5247/19450
+#EXTINF:-1,Globo TV Clube Teresina FHD [1]
+http://lista.lorddark.club:80/5247/5247/19060
+#EXTINF:-1,Globo TV Diario Fortaleza FHD [1]
+http://lista.lorddark.club:80/5247/5247/19053
+#EXTINF:-1,Globo TV Diario Fortaleza SD [1]
+http://lista.lorddark.club:80/5247/5247/19395
+#EXTINF:-1,Globo TV Diario Fortaleza HD [1]
+http://lista.lorddark.club:80/5247/5247/19394
+#EXTINF:-1,Globo TV Gazeta Alagoas SD [1]
+http://lista.lorddark.club:80/5247/5247/19457
+#EXTINF:-1,Globo TV Gazeta Alagoas HD [1]
+http://lista.lorddark.club:80/5247/5247/19458
+#EXTINF:-1,Globo TV Gazeta Alagoas FHD [1]
+http://lista.lorddark.club:80/5247/5247/19076
+#EXTINF:-1,Globo TV Gazeta Sul ES HD [1]
+http://lista.lorddark.club:80/5247/5247/19459
+#EXTINF:-1,Globo TV Gazeta Sul ES FHD [1]
+http://lista.lorddark.club:80/5247/5247/19077
+#EXTINF:-1,Globo TV Gazeta Vitoria SD [1]
+http://lista.lorddark.club:80/5247/5247/19451
+#EXTINF:-1,Globo TV Gazeta Vitoria HD [1]
+http://lista.lorddark.club:80/5247/5247/19452
+#EXTINF:-1,Globo TV Gazeta Vitoria FHD [1]
+http://lista.lorddark.club:80/5247/5247/19061
+#EXTINF:-1,Globo TV Liberal Belem SD [1]
+http://lista.lorddark.club:80/5247/5247/19436
+#EXTINF:-1,Globo TV Liberal Belem SD
+http://lista.lorddark.club:80/5247/5247/606
+#EXTINF:-1,Globo TV Mirante Sao Luis HD
+http://lista.lorddark.club:80/5247/5247/786
+#EXTINF:-1,Globo TV Mirante Sao Luis FHD [1]
+http://lista.lorddark.club:80/5247/5247/19071
+#EXTINF:-1,Globo TV Morena Campo Grande SD [1]
+http://lista.lorddark.club:80/5247/5247/19456
+#EXTINF:-1,Globo TV Morena Campo Grande HD [1]
+http://lista.lorddark.club:80/5247/5247/19455
+#EXTINF:-1,Globo TV Morena Campo Grande FHD [1]
+http://lista.lorddark.club:80/5247/5247/19074
+#EXTINF:-1,Globo TV Morena Ponta Pora HD
+http://lista.lorddark.club:80/5247/5247/766
+#EXTINF:-1,Globo TV Rio Sul SD [1]
+http://lista.lorddark.club:80/5247/5247/19479
+#EXTINF:-1,Globo TV Rio Sul HD [1]
+http://lista.lorddark.club:80/5247/5247/19478
+#EXTINF:-1,Globo TV Rio Sul HD
+http://lista.lorddark.club:80/5247/5247/787
+#EXTINF:-1,Globo TV Rio Sul FHD [1]
+http://lista.lorddark.club:80/5247/5247/19088
+#EXTINF:-1,Globo TV Santa Cruz SD [1]
+http://lista.lorddark.club:80/5247/5247/19481
+#EXTINF:-1,Globo TV Santa Cruz HD [1]
+http://lista.lorddark.club:80/5247/5247/19480
+#EXTINF:-1,Globo TV Santa Cruz FHD [1]
+http://lista.lorddark.club:80/5247/5247/19089
+#EXTINF:-1,Globo TV Sergipe SD [1]
+http://lista.lorddark.club:80/5247/5247/19453
+#EXTINF:-1,Globo TV Sergipe HD [1]
+http://lista.lorddark.club:80/5247/5247/19454
+#EXTINF:-1,Globo TV Sergipe FHD [1]
+http://lista.lorddark.club:80/5247/5247/19062
+#EXTINF:-1,Globo TV Subae Bahia HD
+http://lista.lorddark.club:80/5247/5247/769
+#EXTINF:-1,Globo TV Tem Bauru SD [1]
+http://lista.lorddark.club:80/5247/5247/19437
+#EXTINF:-1,Globo TV Tem Bauru SD
+http://lista.lorddark.club:80/5247/5247/609
+#EXTINF:-1,Globo TV Tem S. J. Rio Preto SD [1]
+http://lista.lorddark.club:80/5247/5247/19440
+#EXTINF:-1,Globo TV Tem S. J. Rio Preto SD
+http://lista.lorddark.club:80/5247/5247/610
+#EXTINF:-1,Globo TV Tem S. J. Rio Preto HD [1]
+http://lista.lorddark.club:80/5247/5247/19439
+#EXTINF:-1,Globo TV Tem S. J. Rio Preto FHD [1]
+http://lista.lorddark.club:80/5247/5247/19075
+#EXTINF:-1,Globo TV Tem Sorocaba SD [1]
+http://lista.lorddark.club:80/5247/5247/19438
+#EXTINF:-1,Globo TV Tem Sorocaba SD
+http://lista.lorddark.club:80/5247/5247/611
+#EXTINF:-1,Globo TV Tribuna Santos SD [1]
+http://lista.lorddark.club:80/5247/5247/19441
+#EXTINF:-1,Globo TV Tribuna Santos SD
+http://lista.lorddark.club:80/5247/5247/612
+#EXTINF:-1,Globo TV Vanguarda S. J. dos Campos SD [1]
+http://lista.lorddark.club:80/5247/5247/19442
+#EXTINF:-1,Globo TV Vanguarda S. J. dos Campos SD
+http://lista.lorddark.club:80/5247/5247/613
+#EXTINF:-1,Globo TV Verdes Mares Fortaleza SD [1]
+http://lista.lorddark.club:80/5247/5247/19443
+#EXTINF:-1,Globo TV Verdes Mares Fortaleza SD
+http://lista.lorddark.club:80/5247/5247/614
+#EXTINF:-1,Globo NSC TV Joinville HD
+http://lista.lorddark.club:80/5247/5247/185986
+#EXTINF:-1,Globo TV Clube SD
+http://lista.lorddark.club:80/5247/5247/185987
+#EXTINF:-1,Globo TV Clube HD
+http://lista.lorddark.club:80/5247/5247/185988
+#EXTINF:-1,Globo TV Clube FHD
+http://lista.lorddark.club:80/5247/5247/185989
+#EXTINF:-1,Globo TV Gazeta Sul ES 
+http://lista.lorddark.club:80/5247/5247/185990
+#EXTINF:-1,Globo TV Gazeta Sul HD
+http://lista.lorddark.club:80/5247/5247/185991
+#EXTINF:-1,Globo TV Bahia HD
+http://lista.lorddark.club:80/5247/5247/185992
+#EXTINF:-1,Globo TV Minas SD
+http://lista.lorddark.club:80/5247/5247/185993
+#EXTINF:-1,Globo TV Minas HD
+http://lista.lorddark.club:80/5247/5247/185994
+#EXTINF:-1,TV Anhanguera HD
+http://lista.lorddark.club:80/5247/5247/185995
+#EXTINF:-1,Globo TV Diario Fortaleza FHD
+http://lista.lorddark.club:80/5247/5247/185996
+#EXTINF:-1,Globo SP
+http://lista.lorddark.club:80/5247/5247/185997
+#EXTINF:-1,RPC Curitiba HD
+http://lista.lorddark.club:80/5247/5247/185998
+#EXTINF:-1,Globo RJ FHD
+http://lista.lorddark.club:80/5247/5247/186000
+#EXTINF:-1,TV Mirante HD
+http://lista.lorddark.club:80/5247/5247/186001
+#EXTINF:-1,Globo TV Morena Campo Grande
+http://lista.lorddark.club:80/5247/5247/186002
+#EXTINF:-1,Globo RBS TV Porto Alegre HD
+http://lista.lorddark.club:80/5247/5247/186003
+#EXTINF:-1,Globo MG FHD
+http://lista.lorddark.club:80/5247/5247/186004
+#EXTINF:-1,Globo NSC TV Florianopolis
+http://lista.lorddark.club:80/5247/5247/186005
+#EXTINF:-1,Globo Rio HD
+http://lista.lorddark.club:80/5247/5247/186006
+#EXTINF:-1,Globo TV Anhanguera
+http://lista.lorddark.club:80/5247/5247/186007
+#EXTINF:-1,Globo DF HD
+http://lista.lorddark.club:80/5247/5247/186008
+#EXTINF:-1,Globo Fortaleza SD
+http://lista.lorddark.club:80/5247/5247/186009
+#EXTINF:-1,Globo TV Tribuna Santos
+http://lista.lorddark.club:80/5247/5247/186010
+#EXTINF:-1,Globo TV Vanguarda S. J. dos Campos
+http://lista.lorddark.club:80/5247/5247/186011
+#EXTINF:-1,Globo TV C. America Cuiaba
+http://lista.lorddark.club:80/5247/5247/186012
+#EXTINF:-1,Globo TV Bahia
+http://lista.lorddark.club:80/5247/5247/186013
+#EXTINF:-1,Globo RPC Curitiba HD
+http://lista.lorddark.club:80/5247/5247/186014
+#EXTINF:-1,Globo Nordeste
+http://lista.lorddark.club:80/5247/5247/186015
+#EXTINF:-1,Globo EPTV Sao Carlos
+http://lista.lorddark.club:80/5247/5247/186016
+#EXTINF:-1,Globo Brasilia 
+http://lista.lorddark.club:80/5247/5247/186017
+#EXTINF:-1,Globo EPTV Ribeirao Preto 
+http://lista.lorddark.club:80/5247/5247/186018
+#EXTINF:-1,Globo EPTV Campinas
+http://lista.lorddark.club:80/5247/5247/186019
+#EXTINF:-1,Globo TV Tem Sorocaba 
+http://lista.lorddark.club:80/5247/5247/186020
+#EXTINF:-1,Globo TV Tem Bauru
+http://lista.lorddark.club:80/5247/5247/186021
+#EXTINF:-1,Globo TV Anhanguera Goiania HD
+http://lista.lorddark.club:80/5247/5247/186022
+#EXTINF:-1,Globo TV RJ SD
+http://lista.lorddark.club:80/5247/5247/186023
+#EXTINF:-1,Globo Nordeste FHD
+http://lista.lorddark.club:80/5247/5247/186024
+#EXTINF:-1,Globo Verdes Mares HD
+http://lista.lorddark.club:80/5247/5247/186026
+#EXTINF:-1,Globo SP HD³¹
+http://lista.lorddark.club:80/5247/5247/186027
+#EXTINF:-1,TV Liberal Belém HD
+http://lista.lorddark.club:80/5247/5247/186028
+#EXTINF:-1,TV Liberal Belém FHD
+http://lista.lorddark.club:80/5247/5247/186029
+#EXTINF:-1,TV Liberal Belém SD
+http://lista.lorddark.club:80/5247/5247/186030
+#EXTINF:-1,Globo Rede Amazonica SD
+http://lista.lorddark.club:80/5247/5247/186033
+#EXTINF:-1,Globo Rede Amazonica HD
+http://lista.lorddark.club:80/5247/5247/186034
+#EXTINF:-1,Globo Rede Amazonica FHD
+http://lista.lorddark.club:80/5247/5247/186035
+#EXTINF:-1,Globo Inter TV Cabugi HD
+http://lista.lorddark.club:80/5247/5247/186036
+#EXTINF:-1,Globo Inter TV Cabugi FHD
+http://lista.lorddark.club:80/5247/5247/186037
+#EXTINF:-1,Globo Inter TV Serra Mar SD
+http://lista.lorddark.club:80/5247/5247/186038
+#EXTINF:-1,Globo Inter TV Serra Mar HD
+http://lista.lorddark.club:80/5247/5247/186039
+#EXTINF:-1,Globo Inter TV Serra Mar FHD
+http://lista.lorddark.club:80/5247/5247/186040
+#EXTINF:-1,Globo RBS TV Pelotas HD
+http://lista.lorddark.club:80/5247/5247/186041
+#EXTINF:-1,Globo RBS TV Pelotas FHD
+http://lista.lorddark.club:80/5247/5247/186042
+#EXTINF:-1,Globo RBS TV Santa Maria SD
+http://lista.lorddark.club:80/5247/5247/186043
+#EXTINF:-1,Globo RBS TV Santa Maria HD
+http://lista.lorddark.club:80/5247/5247/186044
+#EXTINF:-1,Globo RBS TV Santa Maria FHD
+http://lista.lorddark.club:80/5247/5247/186045
+#EXTINF:-1,Globo NSC TV Blumenau HD
+http://lista.lorddark.club:80/5247/5247/186046
+#EXTINF:-1,Globo NSC TV Blumenau FHD
+http://lista.lorddark.club:80/5247/5247/186047
+#EXTINF:-1,Globo TV Asa Branca HD
+http://lista.lorddark.club:80/5247/5247/186048
+#EXTINF:-1,Globo TV Asa Branca FHD
+http://lista.lorddark.club:80/5247/5247/186049
+#EXTINF:-1,Globo TV Verdes Mares Fortaleza FHD
+http://lista.lorddark.club:80/5247/5247/186050
+#EXTINF:-1,Globo NSC TV Joinville FHD
+http://lista.lorddark.club:80/5247/5247/186052
+#EXTINF:-1,Globo RPC Curitiba FHD
+http://lista.lorddark.club:80/5247/5247/186053
+#EXTINF:-1,Globo TV Mirante Sao Luis FHD
+http://lista.lorddark.club:80/5247/5247/186054
+#EXTINF:-1,Globo NSC TV Florianopolis FHD
+http://lista.lorddark.club:80/5247/5247/186055
+#EXTINF:-1,Globo Anhanguera FHD
+http://lista.lorddark.club:80/5247/5247/186056
+#EXTINF:-1,Globo SP FHD
+http://lista.lorddark.club:80/5247/5247/186057
+#EXTINF:-1,Globo TV Gazeta Sul ES FHD 
+http://lista.lorddark.club:80/5247/5247/186058
+#EXTINF:-1,Globo TV Bahia FHD
+http://lista.lorddark.club:80/5247/5247/186059
+#EXTINF:-1,Globo TV Morena Campo Grande FHD
+http://lista.lorddark.club:80/5247/5247/186060
+#EXTINF:-1,Globo RBS TV Porto Alegre FHD
+http://lista.lorddark.club:80/5247/5247/186061
+#EXTINF:-1,Globo TV C. America Cuiaba HD
+http://lista.lorddark.club:80/5247/5247/186065
+#EXTINF:-1,Globo TV C. America Cuiaba FHD
+http://lista.lorddark.club:80/5247/5247/186066
+#EXTINF:-1,Globo Brasilia FHD
+http://lista.lorddark.club:80/5247/5247/186067
+#EXTINF:-1,Globo TV Santa Cruz SD 
+http://lista.lorddark.club:80/5247/5247/186068
+#EXTINF:-1,Globo TV Santa Cruz HD
+http://lista.lorddark.club:80/5247/5247/186069
+#EXTINF:-1,Globo TV Santa Cruz FHD
+http://lista.lorddark.club:80/5247/5247/186070
+#EXTINF:-1,Globo TV Sergipe SD
+http://lista.lorddark.club:80/5247/5247/186071
+#EXTINF:-1,Globo TV Sergipe HD
+http://lista.lorddark.club:80/5247/5247/186072
+#EXTINF:-1,Globo TV Sergipe FHD
+http://lista.lorddark.club:80/5247/5247/186073
+#EXTINF:-1,Globo TV Mirante SD
+http://lista.lorddark.club:80/5247/5247/186074
+#EXTINF:-1,Globo TV Mirante FHD 
+http://lista.lorddark.club:80/5247/5247/186075
+#EXTINF:-1,Globo TV Mirante HD
+http://lista.lorddark.club:80/5247/5247/186077
+#EXTINF:-1,Globo RBS TV Caxias do Sul SD
+http://lista.lorddark.club:80/5247/5247/186078
+#EXTINF:-1,Globo RBS TV Caxias do Sul HD
+http://lista.lorddark.club:80/5247/5247/186079
+#EXTINF:-1,Globo RBS TV Caxias Do Sul FHD
+http://lista.lorddark.club:80/5247/5247/186080
+#EXTINF:-1,Globo RPC Foz Do Iguacu SD
+http://lista.lorddark.club:80/5247/5247/186081
+#EXTINF:-1,Globo RPC Foz do Iguacu HD
+http://lista.lorddark.club:80/5247/5247/186082
+#EXTINF:-1,Globo RPC Foz Do Iguacu FHD
+http://lista.lorddark.club:80/5247/5247/186083
+#EXTINF:-1,Globo TV Integracao Araxa SD
+http://lista.lorddark.club:80/5247/5247/186084
+#EXTINF:-1,Globo TV Integracao Araxa HD
+http://lista.lorddark.club:80/5247/5247/186085
+#EXTINF:-1,Globo TV Integracao Araxa FHD
+http://lista.lorddark.club:80/5247/5247/186086
+#EXTINF:-1,Globo Closed Caption SD
+http://lista.lorddark.club:80/5247/5247/186087
+#EXTINF:-1,Globo Closed Caption HD
+http://lista.lorddark.club:80/5247/5247/186088
+#EXTINF:-1,Globo Closed Caption FHD
+http://lista.lorddark.club:80/5247/5247/186089
+#EXTINF:-1,Globo TV Cabo Branco SD
+http://lista.lorddark.club:80/5247/5247/186090
+#EXTINF:-1,Globo TV Cabo Branco HD
+http://lista.lorddark.club:80/5247/5247/186091
+#EXTINF:-1,Globo Tv Cabo Branco FHD
+http://lista.lorddark.club:80/5247/5247/186092
+#EXTINF:-1,Globo TV Integracao JF SD
+http://lista.lorddark.club:80/5247/5247/186093
+#EXTINF:-1,Globo TV Integracao JF HD
+http://lista.lorddark.club:80/5247/5247/186094
+#EXTINF:-1,Globo TV Integracao JF FHD
+http://lista.lorddark.club:80/5247/5247/186095
+#EXTINF:-1,Globo TV Gazeta Vitoria SD
+http://lista.lorddark.club:80/5247/5247/186096
+#EXTINF:-1,Globo TV Gazeta Vitoria HD
+http://lista.lorddark.club:80/5247/5247/186097
+#EXTINF:-1,Globo TV Gazeta Vitoria FHD
+http://lista.lorddark.club:80/5247/5247/186098
+#EXTINF:-1,Globo TV Rio Sul SD 
+http://lista.lorddark.club:80/5247/5247/186099
+#EXTINF:-1,Globo TV Rio Sul HD*
+http://lista.lorddark.club:80/5247/5247/186100
+#EXTINF:-1,Globo TV Rio Sul FHD
+http://lista.lorddark.club:80/5247/5247/186101
+#EXTINF:-1,Globo Inter TV Alto Litoral SD
+http://lista.lorddark.club:80/5247/5247/186102
+#EXTINF:-1,Globo Inter TV Alto Litoral HD³
+http://lista.lorddark.club:80/5247/5247/186103
+#EXTINF:-1,Globo Inter TV Alto Litoral FHD
+http://lista.lorddark.club:80/5247/5247/186104
+#EXTINF:-1,Globo RPC TV Paranavai SD
+http://lista.lorddark.club:80/5247/5247/186105
+#EXTINF:-1,Globo RPC TV Paranavai HD
+http://lista.lorddark.club:80/5247/5247/186106
+#EXTINF:-1,Globo RPC TV Paranavai FHD
+http://lista.lorddark.club:80/5247/5247/186107
+#EXTINF:-1,Globo RBS TV Criciuma SD
+http://lista.lorddark.club:80/5247/5247/186108
+#EXTINF:-1,Globo RBS TV Criciuma HD
+http://lista.lorddark.club:80/5247/5247/186109
+#EXTINF:-1,Globo RBS TV Criciuma FHD
+http://lista.lorddark.club:80/5247/5247/186110
+#EXTINF:-1,Record Closed Caption FHD
+http://lista.lorddark.club:80/5247/5247/186032
+#EXTINF:-1,Record TV SD
+http://lista.lorddark.club:80/5247/5247/571
+#EXTINF:-1,Record TV HD³
+http://lista.lorddark.club:80/5247/5247/1135
+#EXTINF:-1,Record TV SD [1]
+http://lista.lorddark.club:80/5247/5247/19391
+#EXTINF:-1,Record TV SP [1]
+http://lista.lorddark.club:80/5247/5247/19309
+#EXTINF:-1,Record TV SP SD [1]
+http://lista.lorddark.club:80/5247/5247/19305
+#EXTINF:-1,Record TV SP HD [1]
+http://lista.lorddark.club:80/5247/5247/19310
+#EXTINF:-1,Record TV SP HD
+http://lista.lorddark.club:80/5247/5247/754
+#EXTINF:-1,Record TV SP FHD [1]
+http://lista.lorddark.club:80/5247/5247/19091
+#EXTINF:-1,Record TV SP FHD
+http://lista.lorddark.club:80/5247/5247/1063
+#EXTINF:-1,Record TV RJ SD [1]
+http://lista.lorddark.club:80/5247/5247/19382
+#EXTINF:-1,Record TV RJ HD [1]
+http://lista.lorddark.club:80/5247/5247/19381
+#EXTINF:-1,Record TV RJ HD
+http://lista.lorddark.club:80/5247/5247/758
+#EXTINF:-1,Record TV RJ HD³
+http://lista.lorddark.club:80/5247/5247/1133
+#EXTINF:-1,Record TV MG
+http://lista.lorddark.club:80/5247/5247/767
+#EXTINF:-1,Record TV MG SD [1]
+http://lista.lorddark.club:80/5247/5247/19384
+#EXTINF:-1,Record TV MG HD [1]
+http://lista.lorddark.club:80/5247/5247/19383
+#EXTINF:-1,Record TV MG HD
+http://lista.lorddark.club:80/5247/5247/757
+#EXTINF:-1,Record TV MG HD³
+http://lista.lorddark.club:80/5247/5247/1131
+#EXTINF:-1,Record TV DF HD [1]
+http://lista.lorddark.club:80/5247/5247/19390
+#EXTINF:-1,Record TV DF HD³
+http://lista.lorddark.club:80/5247/5247/1129
+#EXTINF:-1,Record TV BA SD [1]
+http://lista.lorddark.club:80/5247/5247/19389
+#EXTINF:-1,Record TV BA HD [1]
+http://lista.lorddark.club:80/5247/5247/19388
+#EXTINF:-1,Record TV BA HD
+http://lista.lorddark.club:80/5247/5247/765
+#EXTINF:-1,Record TV Campinas HD
+http://lista.lorddark.club:80/5247/5247/774
+#EXTINF:-1,Record TV Campinas FHD
+http://lista.lorddark.club:80/5247/5247/1062
+#EXTINF:-1,Record TV Belem SD [1]
+http://lista.lorddark.club:80/5247/5247/19142
+#EXTINF:-1,Record TV Belem HD [1]
+http://lista.lorddark.club:80/5247/5247/19143
+#EXTINF:-1,Record TV GO SD [1]
+http://lista.lorddark.club:80/5247/5247/19144
+#EXTINF:-1,Record TV GO HD [1]
+http://lista.lorddark.club:80/5247/5247/19145
+#EXTINF:-1,Record TV GO HD
+http://lista.lorddark.club:80/5247/5247/857
+#EXTINF:-1,Record TV GO FHD
+http://lista.lorddark.club:80/5247/5247/1033
+#EXTINF:-1,Record TV HD [2]
+http://lista.lorddark.club:80/5247/5247/19306
+#EXTINF:-1,Record TV Itapoan HD³
+http://lista.lorddark.club:80/5247/5247/1130
+#EXTINF:-1,Record TV Litoral HD
+http://lista.lorddark.club:80/5247/5247/756
+#EXTINF:-1,Record TV PA HD
+http://lista.lorddark.club:80/5247/5247/755
+#EXTINF:-1,Record TV PR HD
+http://lista.lorddark.club:80/5247/5247/784
+#EXTINF:-1,Record TV RBS HD
+http://lista.lorddark.club:80/5247/5247/748
+#EXTINF:-1,Record TV RS SD [1]
+http://lista.lorddark.club:80/5247/5247/210756
+#EXTINF:-1,Record TV RS SD
+http://lista.lorddark.club:80/5247/5247/569
+#EXTINF:-1,Record TV RS HD [1]
+http://lista.lorddark.club:80/5247/5247/19392
+#EXTINF:-1,Record TV RS HD
+http://lista.lorddark.club:80/5247/5247/747
+#EXTINF:-1,Record TV RS HD³
+http://lista.lorddark.club:80/5247/5247/1134
+#EXTINF:-1,Record TV RS HD ²
+http://lista.lorddark.club:80/5247/5247/751
+#EXTINF:-1,Record TV SC HD
+http://lista.lorddark.club:80/5247/5247/776
+#EXTINF:-1,Record TV Sergipe HD
+http://lista.lorddark.club:80/5247/5247/753
+#EXTINF:-1,Record TV SJRP HD
+http://lista.lorddark.club:80/5247/5247/752
+#EXTINF:-1,Record TV Clube PE 
+http://lista.lorddark.club:80/5247/5247/211359
+#EXTINF:-1,SBT SD [1]
+http://lista.lorddark.club:80/5247/5247/19315
+#EXTINF:-1,SBT SD
+http://lista.lorddark.club:80/5247/5247/577
+#EXTINF:-1,SBT HD [1]
+http://lista.lorddark.club:80/5247/5247/19316
+#EXTINF:-1,SBT HD³
+http://lista.lorddark.club:80/5247/5247/1137
+#EXTINF:-1,SBT FHD [1]
+http://lista.lorddark.club:80/5247/5247/19113
+#EXTINF:-1,SBT SP HD
+http://lista.lorddark.club:80/5247/5247/763
+#EXTINF:-1,SBT RJ HD
+http://lista.lorddark.club:80/5247/5247/760
+#EXTINF:-1,SBT BA HD
+http://lista.lorddark.club:80/5247/5247/764
+#EXTINF:-1,SBT BSB HD
+http://lista.lorddark.club:80/5247/5247/759
+#EXTINF:-1,SBT TV SERRA DOURADA HD³
+http://lista.lorddark.club:80/5247/5247/1138
+#EXTINF:-1,SBT MG HD
+http://lista.lorddark.club:80/5247/5247/780
+#EXTINF:-1,SBT TV JORNAL PE HD³
+http://lista.lorddark.club:80/5247/5247/762
+#EXTINF:-1,SBT TV JORNAL PE HD³¹
+http://lista.lorddark.club:80/5247/5247/1139
+#EXTINF:-1,SBT PR HD
+http://lista.lorddark.club:80/5247/5247/783
+#EXTINF:-1,SBT RS HD
+http://lista.lorddark.club:80/5247/5247/761
+#EXTINF:-1,SBT SC HD
+http://lista.lorddark.club:80/5247/5247/777
+#EXTINF:-1,BAND BSB HD
+http://lista.lorddark.club:80/5247/5247/727
+#EXTINF:-1,BAND Campinas HD
+http://lista.lorddark.club:80/5247/5247/728
+#EXTINF:-1,BAND GO FHD
+http://lista.lorddark.club:80/5247/5247/1052
+#EXTINF:-1,BAND GO HD
+http://lista.lorddark.club:80/5247/5247/876
+#EXTINF:-1,BAND PR HD
+http://lista.lorddark.club:80/5247/5247/782
+#EXTINF:-1,BAND RJ HD
+http://lista.lorddark.club:80/5247/5247/729
+#EXTINF:-1,BAND RS HD
+http://lista.lorddark.club:80/5247/5247/730
+#EXTINF:-1,BAND SD
+http://lista.lorddark.club:80/5247/5247/485
+#EXTINF:-1,BAND Sergipe HD
+http://lista.lorddark.club:80/5247/5247/731
+#EXTINF:-1,BAND SP SD [1]
+http://lista.lorddark.club:80/5247/5247/19157
+#EXTINF:-1,BAND SP HD
+http://lista.lorddark.club:80/5247/5247/732
+#EXTINF:-1,BAND SP HD³
+http://lista.lorddark.club:80/5247/5247/1089
+#EXTINF:-1,BAND SP HD [1]
+http://lista.lorddark.club:80/5247/5247/19158
+#EXTINF:-1,BAND SP FHD [1]
+http://lista.lorddark.club:80/5247/5247/19092
+#EXTINF:-1, BAND PE TV TRIBUNA
+http://lista.lorddark.club:80/5247/5247/210608
+#EXTINF:-1,RedeTV! SD [1]
+http://lista.lorddark.club:80/5247/5247/19312
+#EXTINF:-1,RedeTV! SD
+http://lista.lorddark.club:80/5247/5247/574
+#EXTINF:-1,RedeTV! HD [1]
+http://lista.lorddark.club:80/5247/5247/19313
+#EXTINF:-1,RedeTV! HD
+http://lista.lorddark.club:80/5247/5247/858
+#EXTINF:-1,RedeTV! FHD [1]
+http://lista.lorddark.club:80/5247/5247/19050
+#EXTINF:-1,RedeTV! FHD
+http://lista.lorddark.club:80/5247/5247/1034
+#EXTINF:-1,TV Cultura SD [1]
+http://lista.lorddark.club:80/5247/5247/19378
+#EXTINF:-1,TV Cultura SD
+http://lista.lorddark.club:80/5247/5247/604
+#EXTINF:-1,TV Cultura HD [1]
+http://lista.lorddark.club:80/5247/5247/19379
+#EXTINF:-1,TV Cultura FHD [1]
+http://lista.lorddark.club:80/5247/5247/19049
+#EXTINF:-1,TV Gazeta SP HD [1]
+http://lista.lorddark.club:80/5247/5247/19359
+#EXTINF:-1,TV Gazeta SP HD
+http://lista.lorddark.club:80/5247/5247/738
+#EXTINF:-1,TV Gazeta SP HD³
+http://lista.lorddark.club:80/5247/5247/1150
+#EXTINF:-1,TV Gazeta SP FHD [1]
+http://lista.lorddark.club:80/5247/5247/19090
+#EXTINF:-1,Canal do Boi SD [1]
+http://lista.lorddark.club:80/5247/5247/19398
+#EXTINF:-1,Canal do Boi SD
+http://lista.lorddark.club:80/5247/5247/491
+#EXTINF:-1,Canal Rural [1]
+http://lista.lorddark.club:80/5247/5247/19573
+#EXTINF:-1,CNT SP HD³
+http://lista.lorddark.club:80/5247/5247/1093
+#EXTINF:-1,Futura SD [1]
+http://lista.lorddark.club:80/5247/5247/19228
+#EXTINF:-1,Futura SD
+http://lista.lorddark.club:80/5247/5247/520
+#EXTINF:-1,Futura HD [1]
+http://lista.lorddark.club:80/5247/5247/19229
+#EXTINF:-1,Futura HD³
+http://lista.lorddark.club:80/5247/5247/1107
+#EXTINF:-1,Futura FHD [1]
+http://lista.lorddark.club:80/5247/5247/19003
+#EXTINF:-1,Polishop TV
+http://lista.lorddark.club:80/5247/5247/19401
+#EXTINF:-1,Polishop TV
+http://lista.lorddark.club:80/5247/5247/558
+#EXTINF:-1,RBTV ES FHD
+http://lista.lorddark.club:80/5247/5247/1059
+#EXTINF:-1,Rede Brasil SD [1]
+http://lista.lorddark.club:80/5247/5247/19311
+#EXTINF:-1,Rede Brasil SD
+http://lista.lorddark.club:80/5247/5247/573
+#EXTINF:-1,Terra Viva
+http://lista.lorddark.club:80/5247/5247/19345
+#EXTINF:-1,Terra Viva SD
+http://lista.lorddark.club:80/5247/5247/592
+#EXTINF:-1,Terra Viva HD³
+http://lista.lorddark.club:80/5247/5247/1143
+#EXTINF:-1,TV Brasil HD 
+http://lista.lorddark.club:80/5247/5247/19356
+#EXTINF:-1,TV Camara SD [1]
+http://lista.lorddark.club:80/5247/5247/19357
+#EXTINF:-1,TV Camara SD
+http://lista.lorddark.club:80/5247/5247/602
+#EXTINF:-1,TV Escola
+http://lista.lorddark.club:80/5247/5247/19358
+#EXTINF:-1,TV Guarulhos HD³
+http://lista.lorddark.club:80/5247/5247/1151
+#EXTINF:-1,TV justica SD [1]
+http://lista.lorddark.club:80/5247/5247/19354
+#EXTINF:-1,TV Justica SD
+http://lista.lorddark.club:80/5247/5247/605
+#EXTINF:-1,TV Senado SD
+http://lista.lorddark.club:80/5247/5247/608
+#EXTINF:-1,TV Serra Dourada HD
+http://lista.lorddark.club:80/5247/5247/878
+#EXTINF:-1,TV Serra Dourada FHD
+http://lista.lorddark.club:80/5247/5247/1053
+#EXTINF:-1,TV Vitoria ES SD
+http://lista.lorddark.club:80/5247/5247/772
+#EXTINF:-1,TV Vitoria ES HD
+http://lista.lorddark.club:80/5247/5247/773
+#EXTINF:-1,TV Vitoria ES FHD
+http://lista.lorddark.club:80/5247/5247/1061
+#EXTINF:-1,LOADING
+http://lista.lorddark.club:80/5247/5247/203967
+#EXTINF:-1,ESPN SD¹
+http://lista.lorddark.club:80/5247/5247/19204
+#EXTINF:-1,ESPN SD
+http://lista.lorddark.club:80/5247/5247/510
+#EXTINF:-1,ESPN HD¹
+http://lista.lorddark.club:80/5247/5247/19211
 #EXTINF:-1,ESPN HD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/154
-#EXTINF:-1,ESPN HD ALT
-http://tv1.cs10.tv:80/leopoldo/leopoldo/4071
+http://lista.lorddark.club:80/5247/5247/814
+#EXTINF:-1,ESPN FHD¹
+http://lista.lorddark.club:80/5247/5247/19098
 #EXTINF:-1,ESPN FHD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/153
-#EXTINF:-1,ESPN2 HD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/159
-#EXTINF:-1,ESPN2 HD ALT
-http://tv1.cs10.tv:80/leopoldo/leopoldo/4073
-#EXTINF:-1,ESPN EXTRA HD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/4075
-#EXTINF:-1,ESPN EXTRA FHD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/5499
-#EXTINF:-1,ESPN EXTRA SD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/4076
-#EXTINF:-1,BAND SPORTS HD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/180
-#EXTINF:-1,BAND SPORTS FHD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/179
-#EXTINF:-1,PREMIERE CLUBES HD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/189
-#EXTINF:-1,PREMIERE CLUBES HD ALT
-http://tv1.cs10.tv:80/leopoldo/leopoldo/4084
-#EXTINF:-1,PREMIERE CLUBES FHD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/188
-#EXTINF:-1,PREMIERE 2 HD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/195
-#EXTINF:-1,PREMIERE 2 HD ALT
-http://tv1.cs10.tv:80/leopoldo/leopoldo/4087
-#EXTINF:-1,PREMIERE 2 FHD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/194
-#EXTINF:-1,PREMIERE 3 HD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/201
-#EXTINF:-1,PREMIERE 3 HD ALT
-http://tv1.cs10.tv:80/leopoldo/leopoldo/4089
-#EXTINF:-1,PREMIERE 3 FHD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/200
-#EXTINF:-1,PREMIERE 4 HD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/206
-#EXTINF:-1,PREMIERE 6 FHD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/214
+http://lista.lorddark.club:80/5247/5247/989
+#EXTINF:-1,ESPN 2 SD¹
+http://lista.lorddark.club:80/5247/5247/19205
+#EXTINF:-1,ESPN 2 SD
+http://lista.lorddark.club:80/5247/5247/511
+#EXTINF:-1,ESPN 2 HD¹
+http://lista.lorddark.club:80/5247/5247/19206
+#EXTINF:-1,ESPN 2 HD
+http://lista.lorddark.club:80/5247/5247/812
+#EXTINF:-1,ESPN 2 FHD¹
+http://lista.lorddark.club:80/5247/5247/18996
+#EXTINF:-1,ESPN 2 FHD
+http://lista.lorddark.club:80/5247/5247/990
+#EXTINF:-1,ESPN Brasil SD¹
+http://lista.lorddark.club:80/5247/5247/19207
+#EXTINF:-1,ESPN Brasil SD
+http://lista.lorddark.club:80/5247/5247/512
+#EXTINF:-1,ESPN Brasil HD¹
+http://lista.lorddark.club:80/5247/5247/19208
+#EXTINF:-1,ESPN Brasil HD
+http://lista.lorddark.club:80/5247/5247/813
+#EXTINF:-1,ESPN Brasil HD³
+http://lista.lorddark.club:80/5247/5247/1103
+#EXTINF:-1,ESPN Brasil FHD¹
+http://lista.lorddark.club:80/5247/5247/19097
+#EXTINF:-1,ESPN Brasil FHD
+http://lista.lorddark.club:80/5247/5247/991
+#EXTINF:-1,ESPN Extra SD [1]
+http://lista.lorddark.club:80/5247/5247/19209
+#EXTINF:-1,ESPN Extra HD [1]
+http://lista.lorddark.club:80/5247/5247/19210
+#EXTINF:-1,ESPN Extra HD
+http://lista.lorddark.club:80/5247/5247/815
+#EXTINF:-1,ESPN Extra HD³
+http://lista.lorddark.club:80/5247/5247/1104
+#EXTINF:-1,ESPN Extra FHD [1]
+http://lista.lorddark.club:80/5247/5247/18997
+#EXTINF:-1,ESPN Extra FHD
+http://lista.lorddark.club:80/5247/5247/988
+#EXTINF:-1,BandSports SD
+http://lista.lorddark.club:80/5247/5247/487
+#EXTINF:-1,BandSports SD¹
+http://lista.lorddark.club:80/5247/5247/19161
+#EXTINF:-1,BandSports SD³
+http://lista.lorddark.club:80/5247/5247/201432
+#EXTINF:-1,BandSports HD
+http://lista.lorddark.club:80/5247/5247/794
+#EXTINF:-1,BandSports HD¹
+http://lista.lorddark.club:80/5247/5247/19162
+#EXTINF:-1,BandSports HD³
+http://lista.lorddark.club:80/5247/5247/201434
+#EXTINF:-1,BandSports FHD
+http://lista.lorddark.club:80/5247/5247/968
+#EXTINF:-1,BandSports FHD¹
+http://lista.lorddark.club:80/5247/5247/18981
+#EXTINF:-1,BandSports FHD²
+http://lista.lorddark.club:80/5247/5247/201435
+#EXTINF:-1,FOX Sports SD
+http://lista.lorddark.club:80/5247/5247/518
+#EXTINF:-1,FOX Sports SD¹
+http://lista.lorddark.club:80/5247/5247/19224
+#EXTINF:-1,FOX Sports SD²
+http://lista.lorddark.club:80/5247/5247/201419
+#EXTINF:-1,FOX Sports SD³
+http://lista.lorddark.club:80/5247/5247/201420
+#EXTINF:-1,FOX Sports HD
+http://lista.lorddark.club:80/5247/5247/822
+#EXTINF:-1,FOX Sports HD¹
+http://lista.lorddark.club:80/5247/5247/19225
+#EXTINF:-1,FOX Sports HD²
+http://lista.lorddark.club:80/5247/5247/201421
+#EXTINF:-1,FOX Sports HD³
+http://lista.lorddark.club:80/5247/5247/201422
+#EXTINF:-1,FOX Sports FHD
+http://lista.lorddark.club:80/5247/5247/997
+#EXTINF:-1,FOX Sports FHD¹
+http://lista.lorddark.club:80/5247/5247/19101
+#EXTINF:-1,FOX Sports FHD²
+http://lista.lorddark.club:80/5247/5247/201423
+#EXTINF:-1,FOX Sports FHD³
+http://lista.lorddark.club:80/5247/5247/201424
+#EXTINF:-1,FOX Sports 2 SD
+http://lista.lorddark.club:80/5247/5247/519
+#EXTINF:-1,FOX Sports 2 SD¹
+http://lista.lorddark.club:80/5247/5247/19226
+#EXTINF:-1,FOX Sports 2 SD³
+http://lista.lorddark.club:80/5247/5247/201425
+#EXTINF:-1,FOX Sports 2 HD
+http://lista.lorddark.club:80/5247/5247/821
+#EXTINF:-1,FOX Sports 2 HD¹
+http://lista.lorddark.club:80/5247/5247/19227
+#EXTINF:-1,FOX Sports 2 HD²
+http://lista.lorddark.club:80/5247/5247/201426
+#EXTINF:-1,FOX Sports 2 HD³
+http://lista.lorddark.club:80/5247/5247/201427
+#EXTINF:-1,FOX Sports 2 FHD
+http://lista.lorddark.club:80/5247/5247/998
+#EXTINF:-1,FOX Sports 2 FHD¹
+http://lista.lorddark.club:80/5247/5247/19100
+#EXTINF:-1,FOX Sports 2 FHD²
+http://lista.lorddark.club:80/5247/5247/201428
+#EXTINF:-1,FOX Sports 2 FHD³
+http://lista.lorddark.club:80/5247/5247/201429
+#EXTINF:-1,SporTV SD
+http://lista.lorddark.club:80/5247/5247/579
+#EXTINF:-1,SporTV SD¹
+http://lista.lorddark.club:80/5247/5247/19322
+#EXTINF:-1,SporTV SD²
+http://lista.lorddark.club:80/5247/5247/201413
+#EXTINF:-1,SporTV SD³
+http://lista.lorddark.club:80/5247/5247/201414
+#EXTINF:-1,SporTV HD
+http://lista.lorddark.club:80/5247/5247/201416
+#EXTINF:-1,SporTV HD¹
+http://lista.lorddark.club:80/5247/5247/19327
+#EXTINF:-1,SporTV HD²
+http://lista.lorddark.club:80/5247/5247/201415
+#EXTINF:-1,SporTV HD³
+http://lista.lorddark.club:80/5247/5247/1140
+#EXTINF:-1,SporTV FHD
+http://lista.lorddark.club:80/5247/5247/1038
+#EXTINF:-1,SporTV FHD¹
+http://lista.lorddark.club:80/5247/5247/19116
+#EXTINF:-1,SporTV FHD²
+http://lista.lorddark.club:80/5247/5247/201417
+#EXTINF:-1,SporTV FHD³
+http://lista.lorddark.club:80/5247/5247/201418
+#EXTINF:-1,SporTV 2 SD
+http://lista.lorddark.club:80/5247/5247/580
+#EXTINF:-1,SporTV 2 SD¹
+http://lista.lorddark.club:80/5247/5247/19323
+#EXTINF:-1,SporTV 2 SD²
+http://lista.lorddark.club:80/5247/5247/201407
+#EXTINF:-1,SporTV 2 SD³
+http://lista.lorddark.club:80/5247/5247/201408
+#EXTINF:-1,SporTV 2 HD
+http://lista.lorddark.club:80/5247/5247/860
+#EXTINF:-1,SporTV 2 HD¹
+http://lista.lorddark.club:80/5247/5247/19324
+#EXTINF:-1,SporTV 2 HD²
+http://lista.lorddark.club:80/5247/5247/201409
+#EXTINF:-1,SporTV 2 HD³
+http://lista.lorddark.club:80/5247/5247/1141
+#EXTINF:-1,SporTV 2 FHD
+http://lista.lorddark.club:80/5247/5247/1036
+#EXTINF:-1,SporTV 2 FHD¹
+http://lista.lorddark.club:80/5247/5247/19114
+#EXTINF:-1,SporTV 2 FHD²
+http://lista.lorddark.club:80/5247/5247/201410
+#EXTINF:-1,SporTV 2 FHD³
+http://lista.lorddark.club:80/5247/5247/201411
+#EXTINF:-1,SporTV 3 SD
+http://lista.lorddark.club:80/5247/5247/581
+#EXTINF:-1,SporTV 3 SD¹
+http://lista.lorddark.club:80/5247/5247/19325
+#EXTINF:-1,SporTV 3 SD²
+http://lista.lorddark.club:80/5247/5247/201403
+#EXTINF:-1,SporTV 3 SD³
+http://lista.lorddark.club:80/5247/5247/201404
+#EXTINF:-1,SporTV 3 HD
+http://lista.lorddark.club:80/5247/5247/861
+#EXTINF:-1,SporTV 3 HD¹
+http://lista.lorddark.club:80/5247/5247/19326
+#EXTINF:-1,SporTV 3 HD²
+http://lista.lorddark.club:80/5247/5247/201405
+#EXTINF:-1,SporTV 3 HD³
+http://lista.lorddark.club:80/5247/5247/1142
+#EXTINF:-1,SporTV 3 FHD
+http://lista.lorddark.club:80/5247/5247/1037
+#EXTINF:-1,SporTV 3 FHD¹
+http://lista.lorddark.club:80/5247/5247/19115
+#EXTINF:-1,SporTV 3 FHD³
+http://lista.lorddark.club:80/5247/5247/201406
+#EXTINF:-1,Combate SD
+http://lista.lorddark.club:80/5247/5247/496
+#EXTINF:-1,Combate SD¹
+http://lista.lorddark.club:80/5247/5247/19176
+#EXTINF:-1,Combate SD²
+http://lista.lorddark.club:80/5247/5247/201398
+#EXTINF:-1,Combate SD³
+http://lista.lorddark.club:80/5247/5247/201399
+#EXTINF:-1,Combate HD
+http://lista.lorddark.club:80/5247/5247/799
+#EXTINF:-1,Combate HD¹
+http://lista.lorddark.club:80/5247/5247/19177
+#EXTINF:-1,Combate HD²
+http://lista.lorddark.club:80/5247/5247/201400
+#EXTINF:-1,Combate HD³
+http://lista.lorddark.club:80/5247/5247/1094
+#EXTINF:-1,Combate FHD
+http://lista.lorddark.club:80/5247/5247/975
+#EXTINF:-1,Combate FHD¹
+http://lista.lorddark.club:80/5247/5247/19094
+#EXTINF:-1,Combate FHD²
+http://lista.lorddark.club:80/5247/5247/201401
+#EXTINF:-1,Combate FHD³
+http://lista.lorddark.club:80/5247/5247/201402
+#EXTINF:-1,Fish TV SD
+http://lista.lorddark.club:80/5247/5247/514
+#EXTINF:-1,Fish TV SD¹
+http://lista.lorddark.club:80/5247/5247/19212
+#EXTINF:-1,Fish TV SD²
+http://lista.lorddark.club:80/5247/5247/201393
+#EXTINF:-1,Fish TV SD³
+http://lista.lorddark.club:80/5247/5247/201394
+#EXTINF:-1,Fish TV HD¹
+http://lista.lorddark.club:80/5247/5247/19213
+#EXTINF:-1,Fish TV HD³
+http://lista.lorddark.club:80/5247/5247/201395
+#EXTINF:-1,Fish TV FHD
+http://lista.lorddark.club:80/5247/5247/992
+#EXTINF:-1,Fish TV FHD¹
+http://lista.lorddark.club:80/5247/5247/18998
+#EXTINF:-1,Fish TV FHD²
+http://lista.lorddark.club:80/5247/5247/201396
+#EXTINF:-1,Furação TV
+http://lista.lorddark.club:80/5247/5247/211383
+#EXTINF:-1,Catarinense 02 [1]
+http://lista.lorddark.club:80/5247/5247/204108
+#EXTINF:-1,CARIOCA 1
+http://lista.lorddark.club:80/5247/5247/203962
+#EXTINF:-1,CARIOCA 1²
+http://lista.lorddark.club:80/5247/5247/204107
+#EXTINF:-1,CARIOCA 2
+http://lista.lorddark.club:80/5247/5247/203963
+#EXTINF:-1,CARIOCA 2²
+http://lista.lorddark.club:80/5247/5247/204106
+#EXTINF:-1,CARIOCA 3
+http://lista.lorddark.club:80/5247/5247/203964
+#EXTINF:-1,CARIOCA 3²
+http://lista.lorddark.club:80/5247/5247/204105
+#EXTINF:-1,DAZN 1 [1]
+http://lista.lorddark.club:80/5247/5247/19558
+#EXTINF:-1,DAZN 1 HD³
+http://lista.lorddark.club:80/5247/5247/733
+#EXTINF:-1,DAZN 2 [1]
+http://lista.lorddark.club:80/5247/5247/19559
+#EXTINF:-1,DAZN 2 HD
+http://lista.lorddark.club:80/5247/5247/734
+#EXTINF:-1,DAZN 3 [1]
+http://lista.lorddark.club:80/5247/5247/19577
+#EXTINF:-1,DAZN 3 HD
+http://lista.lorddark.club:80/5247/5247/735
+#EXTINF:-1,DAZN 4 [1]
+http://lista.lorddark.club:80/5247/5247/19578
+#EXTINF:-1,DAZN Brasil HD³
+http://lista.lorddark.club:80/5247/5247/736
+#EXTINF:-1,CONMEBOL TV 1 SD
+http://lista.lorddark.club:80/5247/5247/201450
+#EXTINF:-1,CONMEBOL TV 1 SD³
+http://lista.lorddark.club:80/5247/5247/201458
+#EXTINF:-1,CONMEBOL TV 2 SD
+http://lista.lorddark.club:80/5247/5247/201451
+#EXTINF:-1,CONMEBOL TV 2 SD³
+http://lista.lorddark.club:80/5247/5247/201459
+#EXTINF:-1,CONMEBOL TV 3 SD
+http://lista.lorddark.club:80/5247/5247/201452
+#EXTINF:-1,CONMEBOL TV 3 SD³
+http://lista.lorddark.club:80/5247/5247/201460
+#EXTINF:-1,CONMEBOL TV 4 SD 
+http://lista.lorddark.club:80/5247/5247/201453
+#EXTINF:-1,CONMEBOL TV 1 HD
+http://lista.lorddark.club:80/5247/5247/201454
+#EXTINF:-1,CONMEBOL TV 1 HD¹
+http://lista.lorddark.club:80/5247/5247/201437
+#EXTINF:-1,CONMEBOL TV 1 HD²
+http://lista.lorddark.club:80/5247/5247/201442
+#EXTINF:-1,CONMEBOL TV 2 HD
+http://lista.lorddark.club:80/5247/5247/201455
+#EXTINF:-1,CONMEBOL TV 2 HD¹
+http://lista.lorddark.club:80/5247/5247/201438
+#EXTINF:-1,CONMEBOL TV 2 HD²
+http://lista.lorddark.club:80/5247/5247/201443
+#EXTINF:-1,CONMEBOL TV 3 HD¹
+http://lista.lorddark.club:80/5247/5247/201439
+#EXTINF:-1,CONMEBOL TV 3 HD²
+http://lista.lorddark.club:80/5247/5247/201444
+#EXTINF:-1,CONMEBOL TV 4 HD¹
+http://lista.lorddark.club:80/5247/5247/201440
+#EXTINF:-1,CONMEBOL TV 4 HD²
+http://lista.lorddark.club:80/5247/5247/201445
+#EXTINF:-1,CONMEBOL TV 1 FHD
+http://lista.lorddark.club:80/5247/5247/201456
+#EXTINF:-1,CONMEBOL TV 1 FHD²
+http://lista.lorddark.club:80/5247/5247/201446
+#EXTINF:-1,CONMEBOL TV 1 FHD³
+http://lista.lorddark.club:80/5247/5247/201462
+#EXTINF:-1,CONMEBOL TV 2 FHD
+http://lista.lorddark.club:80/5247/5247/201457
+#EXTINF:-1,CONMEBOL TV 2 FHD²
+http://lista.lorddark.club:80/5247/5247/201447
+#EXTINF:-1,CONMEBOL TV 2 FHD³
+http://lista.lorddark.club:80/5247/5247/201463
+#EXTINF:-1,CONMEBOL TV 3 FHD²
+http://lista.lorddark.club:80/5247/5247/201448
+#EXTINF:-1,CONMEBOL TV 3 FHD³
+http://lista.lorddark.club:80/5247/5247/201464
+#EXTINF:-1,CONMEBOL TV 4 FHD²
+http://lista.lorddark.club:80/5247/5247/201449
+#EXTINF:-1,CONMEBOL TV 4 FHD³
+http://lista.lorddark.club:80/5247/5247/201465
+#EXTINF:-1,WATCH ESPN APP [1]
+http://lista.lorddark.club:80/5247/5247/19579
+#EXTINF:-1,FLA TV / MyCujoo [1]
+http://lista.lorddark.club:80/5247/5247/19580
+#EXTINF:-1,Ei Plus SD [1]
+http://lista.lorddark.club:80/5247/5247/19488
+#EXTINF:-1,Ei Plus HD [1]
+http://lista.lorddark.club:80/5247/5247/19487
+#EXTINF:-1,FUTEBOL INTERNACIONAL
+http://lista.lorddark.club:80/5247/5247/737
+#EXTINF:-1,TNT SPORTS 01 [1]
+http://lista.lorddark.club:80/5247/5247/19565
+#EXTINF:-1,TNT SPORTS 1
+http://lista.lorddark.club:80/5247/5247/1067
+#EXTINF:-1,TNT SPORTS 02 [1]
+http://lista.lorddark.club:80/5247/5247/19566
+#EXTINF:-1,TNT SPORTS 2
+http://lista.lorddark.club:80/5247/5247/1068
+#EXTINF:-1,TNT SPORTS 03 [1]
+http://lista.lorddark.club:80/5247/5247/19567
+#EXTINF:-1,TNT SPORTS 3
+http://lista.lorddark.club:80/5247/5247/1069
+#EXTINF:-1,TNT SPORTS 04 [1]
+http://lista.lorddark.club:80/5247/5247/19568
+#EXTINF:-1,TNT SPORTS 4
+http://lista.lorddark.club:80/5247/5247/1070
+#EXTINF:-1,TNT SPORTS 05 [1]
+http://lista.lorddark.club:80/5247/5247/19569
+#EXTINF:-1,TNT SPORTS 06 [1]
+http://lista.lorddark.club:80/5247/5247/19570
+#EXTINF:-1,Catarinense 01 [1]
+http://lista.lorddark.club:80/5247/5247/19574
+#EXTINF:-1,Fox App [1]
+http://lista.lorddark.club:80/5247/5247/19575
+#EXTINF:-1,Copa do Nordeste 1 [1]
+http://lista.lorddark.club:80/5247/5247/19562
+#EXTINF:-1,Copa do Nordeste 1
+http://lista.lorddark.club:80/5247/5247/204083
+#EXTINF:-1,Copa do Nordeste 1²
+http://lista.lorddark.club:80/5247/5247/204087
+#EXTINF:-1,Copa do Nordeste 1³
+http://lista.lorddark.club:80/5247/5247/204089
+#EXTINF:-1,Copa do Nordeste HD³
+http://lista.lorddark.club:80/5247/5247/204090
+#EXTINF:-1,Copa do Nordeste 2 [1]
+http://lista.lorddark.club:80/5247/5247/19563
+#EXTINF:-1,Copa do Nordeste 2
+http://lista.lorddark.club:80/5247/5247/204084
+#EXTINF:-1,Copa do Nordeste 2²
+http://lista.lorddark.club:80/5247/5247/204088
+#EXTINF:-1,Copa do Nordeste 2³
+http://lista.lorddark.club:80/5247/5247/204091
+#EXTINF:-1,Copa do Nordeste 2 HD³
+http://lista.lorddark.club:80/5247/5247/204092
+#EXTINF:-1,Copa do Nordeste 3 [1]
+http://lista.lorddark.club:80/5247/5247/19564
+#EXTINF:-1,Copa do Nordeste 3
+http://lista.lorddark.club:80/5247/5247/204085
+#EXTINF:-1,Copa do Nordeste 3³
+http://lista.lorddark.club:80/5247/5247/204093
+#EXTINF:-1,Copa do Nordeste 3 HD³
+http://lista.lorddark.club:80/5247/5247/204094
+#EXTINF:-1,Copa do Nordeste 4
+http://lista.lorddark.club:80/5247/5247/204086
+#EXTINF:-1,Copa Libertadores HD [1]
+http://lista.lorddark.club:80/5247/5247/19557
+#EXTINF:-1,Esporte Interativo HD³
+http://lista.lorddark.club:80/5247/5247/1102
+#EXTINF:-1,SERGIPANO 1
+http://lista.lorddark.club:80/5247/5247/203965
+#EXTINF:-1,SERGIPANO 2
+http://lista.lorddark.club:80/5247/5247/203966
+#EXTINF:-1,Premiere Clubes SD [1]
+http://lista.lorddark.club:80/5247/5247/19301
+#EXTINF:-1,Premiere Clubes SD
+http://lista.lorddark.club:80/5247/5247/567
+#EXTINF:-1,Premiere Clubes HD [1]
+http://lista.lorddark.club:80/5247/5247/19302
+#EXTINF:-1,Premiere Clubes HD
+http://lista.lorddark.club:80/5247/5247/856
+#EXTINF:-1,Premiere Clubes HD³
+http://lista.lorddark.club:80/5247/5247/1128
+#EXTINF:-1,Premiere Clubes FHD [1]
+http://lista.lorddark.club:80/5247/5247/19112
+#EXTINF:-1,Premiere Clubes FHD
+http://lista.lorddark.club:80/5247/5247/1026
+#EXTINF:-1,Premiere Clubes FHD³
+http://lista.lorddark.club:80/5247/5247/186051
+#EXTINF:-1,Premiere 2 SD [1]
+http://lista.lorddark.club:80/5247/5247/19289
+#EXTINF:-1,Premiere 2 SD
+http://lista.lorddark.club:80/5247/5247/559
+#EXTINF:-1,Premiere 2 HD [1]
+http://lista.lorddark.club:80/5247/5247/19290
+#EXTINF:-1,Premiere 2 HD
+http://lista.lorddark.club:80/5247/5247/850
+#EXTINF:-1,Premiere 2 FHD [1]
+http://lista.lorddark.club:80/5247/5247/19106
+#EXTINF:-1,Premiere 2 FHD
+http://lista.lorddark.club:80/5247/5247/1027
+#EXTINF:-1,Premiere 3 FHD
+http://lista.lorddark.club:80/5247/5247/1028
+#EXTINF:-1,Premiere 3 SD [1]
+http://lista.lorddark.club:80/5247/5247/19291
+#EXTINF:-1,Premiere 3 SD
+http://lista.lorddark.club:80/5247/5247/560
+#EXTINF:-1,Premiere 3 HD [1]
+http://lista.lorddark.club:80/5247/5247/19292
+#EXTINF:-1,Premiere 3 HD
+http://lista.lorddark.club:80/5247/5247/851
+#EXTINF:-1,Premiere 3 FHD [1]
+http://lista.lorddark.club:80/5247/5247/19107
+#EXTINF:-1,Premiere 4 SD [1]
+http://lista.lorddark.club:80/5247/5247/19293
+#EXTINF:-1,Premiere 4 SD
+http://lista.lorddark.club:80/5247/5247/561
+#EXTINF:-1,Premiere 4 HD [1]
+http://lista.lorddark.club:80/5247/5247/19294
+#EXTINF:-1,Premiere 4 HD
+http://lista.lorddark.club:80/5247/5247/852
+#EXTINF:-1,Premiere 4 HD³
+http://lista.lorddark.club:80/5247/5247/1127
+#EXTINF:-1,Premiere 4 FHD [1]
+http://lista.lorddark.club:80/5247/5247/19108
+#EXTINF:-1,Premiere 4 FHD
+http://lista.lorddark.club:80/5247/5247/1029
+#EXTINF:-1,Premiere 5 SD [1]
+http://lista.lorddark.club:80/5247/5247/19295
+#EXTINF:-1,Premiere 5 SD
+http://lista.lorddark.club:80/5247/5247/562
+#EXTINF:-1,Premiere 5 HD [1]
+http://lista.lorddark.club:80/5247/5247/19296
+#EXTINF:-1,Premiere 5 HD
+http://lista.lorddark.club:80/5247/5247/853
+#EXTINF:-1,Premiere 5 FHD [1]
+http://lista.lorddark.club:80/5247/5247/19109
+#EXTINF:-1,Premiere 5 FHD
+http://lista.lorddark.club:80/5247/5247/1030
+#EXTINF:-1,Premiere 6 SD [1]
+http://lista.lorddark.club:80/5247/5247/19297
+#EXTINF:-1,Premiere 6 SD
+http://lista.lorddark.club:80/5247/5247/563
+#EXTINF:-1,Premiere 6 HD [1]
+http://lista.lorddark.club:80/5247/5247/19298
+#EXTINF:-1,Premiere 6 HD
+http://lista.lorddark.club:80/5247/5247/854
+#EXTINF:-1,Premiere 6 FHD [1]
+http://lista.lorddark.club:80/5247/5247/19110
+#EXTINF:-1,Premiere 6 FHD
+http://lista.lorddark.club:80/5247/5247/1031
+#EXTINF:-1,Premiere 7 SD [1]
+http://lista.lorddark.club:80/5247/5247/19299
+#EXTINF:-1,Premiere 7 SD
+http://lista.lorddark.club:80/5247/5247/564
+#EXTINF:-1,Premiere 7 HD [1]
+http://lista.lorddark.club:80/5247/5247/19300
+#EXTINF:-1,Premiere 7 HD
+http://lista.lorddark.club:80/5247/5247/855
+#EXTINF:-1,Premiere 7 FHD [1]
+http://lista.lorddark.club:80/5247/5247/19111
+#EXTINF:-1,Premiere 7 FHD
+http://lista.lorddark.club:80/5247/5247/1032
+#EXTINF:-1,Premiere 8 SD
+http://lista.lorddark.club:80/5247/5247/565
+#EXTINF:-1,Premiere 9 SD
+http://lista.lorddark.club:80/5247/5247/566
+#EXTINF:-1,AeE SD [1]
+http://lista.lorddark.club:80/5247/5247/19146
+#EXTINF:-1,AeE SD
+http://lista.lorddark.club:80/5247/5247/479
+#EXTINF:-1,AeE HD [1]
+http://lista.lorddark.club:80/5247/5247/19147
+#EXTINF:-1,AeE HD
+http://lista.lorddark.club:80/5247/5247/790
+#EXTINF:-1,AeE FHD [1]
+http://lista.lorddark.club:80/5247/5247/18975
+#EXTINF:-1,AeE FHD
+http://lista.lorddark.club:80/5247/5247/963
+#EXTINF:-1,AMC SD [1]
+http://lista.lorddark.club:80/5247/5247/19148
+#EXTINF:-1,AMC SD
+http://lista.lorddark.club:80/5247/5247/480
+#EXTINF:-1,AMC HD [1]
+http://lista.lorddark.club:80/5247/5247/19149
+#EXTINF:-1,AMC HD
+http://lista.lorddark.club:80/5247/5247/791
+#EXTINF:-1,AMC FHD [1]
+http://lista.lorddark.club:80/5247/5247/18976
+#EXTINF:-1,AMC FHD
+http://lista.lorddark.club:80/5247/5247/964
+#EXTINF:-1,AXN SD [1]
+http://lista.lorddark.club:80/5247/5247/19154
+#EXTINF:-1,AXN SD
+http://lista.lorddark.club:80/5247/5247/482
+#EXTINF:-1,AXN HD [1]
+http://lista.lorddark.club:80/5247/5247/19155
+#EXTINF:-1,AXN HD
+http://lista.lorddark.club:80/5247/5247/793
+#EXTINF:-1,AXN FHD [1]
+http://lista.lorddark.club:80/5247/5247/18979
+#EXTINF:-1,AXN FHD
+http://lista.lorddark.club:80/5247/5247/966
+#EXTINF:-1,Canal Sony SD [1]
+http://lista.lorddark.club:80/5247/5247/19169
+#EXTINF:-1,Canal Sony SD
+http://lista.lorddark.club:80/5247/5247/492
+#EXTINF:-1,Canal Sony HD [1]
+http://lista.lorddark.club:80/5247/5247/19170
+#EXTINF:-1,Canal Sony HD
+http://lista.lorddark.club:80/5247/5247/796
+#EXTINF:-1,Canal Sony FHD [1]
+http://lista.lorddark.club:80/5247/5247/18983
+#EXTINF:-1,Canal Sony FHD
+http://lista.lorddark.club:80/5247/5247/972
+#EXTINF:-1,Cinemax SD [1]
+http://lista.lorddark.club:80/5247/5247/19174
+#EXTINF:-1,Cinemax SD
+http://lista.lorddark.club:80/5247/5247/495
+#EXTINF:-1,Cinemax HD [1]
+http://lista.lorddark.club:80/5247/5247/19175
+#EXTINF:-1,Cinemax HD
+http://lista.lorddark.club:80/5247/5247/798
+#EXTINF:-1,Cinemax FHD [1]
+http://lista.lorddark.club:80/5247/5247/18985
+#EXTINF:-1,Cinemax FHD
+http://lista.lorddark.club:80/5247/5247/974
+#EXTINF:-1,Comedy Central SD [1]
+http://lista.lorddark.club:80/5247/5247/19178
+#EXTINF:-1,Comedy Central SD
+http://lista.lorddark.club:80/5247/5247/497
+#EXTINF:-1,Comedy Central HD [1]
+http://lista.lorddark.club:80/5247/5247/19179
+#EXTINF:-1,Comedy Central HD
+http://lista.lorddark.club:80/5247/5247/800
+#EXTINF:-1,Comedy Central FHD [1]
+http://lista.lorddark.club:80/5247/5247/18986
+#EXTINF:-1,Comedy Central FHD
+http://lista.lorddark.club:80/5247/5247/976
+#EXTINF:-1,Film e Arts SD [1]
+http://lista.lorddark.club:80/5247/5247/19387
+#EXTINF:-1,Film e Arts
+http://lista.lorddark.club:80/5247/5247/513
+#EXTINF:-1,FOX SD [1]
+http://lista.lorddark.club:80/5247/5247/19216
+#EXTINF:-1,FOX SD
+http://lista.lorddark.club:80/5247/5247/516
+#EXTINF:-1,FOX HD [1]
+http://lista.lorddark.club:80/5247/5247/19217
 #EXTINF:-1,FOX HD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/340
+http://lista.lorddark.club:80/5247/5247/817
+#EXTINF:-1,FOX FHD [1]
+http://lista.lorddark.club:80/5247/5247/19099
 #EXTINF:-1,FOX FHD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/338
-#EXTINF:-1,FOX PREMIUM 1 HD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/345
-#EXTINF:-1,FOX PREMIUM 1 FHD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/344
-#EXTINF:-1,FOX PREMIUM 1 SD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/4134
-#EXTINF:-1,FOX PREMIUM 2 HD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/348
-#EXTINF:-1,FOX PREMIUM 2 FHD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/347
-#EXTINF:-1,COMEDY CENTRAL HD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/387
-#EXTINF:-1,COMEDY CENTRAL FHD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/6241
-#EXTINF:-1,SPACE HD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/368
-#EXTINF:-1,SPACE FHD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/367
-#EXTM3U
-#EXTINF:-1,Bein Sports 1
-http://209.145.58.109:25461/omohaktv/App/19
-#EXTINF:-1,BEIN Sports 2
-http://209.145.58.109:25461/omohaktv/App/20
-#EXTINF:-1,BEIN Sports 3
-http://209.145.58.109:25461/omohaktv/App/21
-#EXTINF:-1,Bein Sports 4
-http://209.145.58.109:25461/omohaktv/App/22
-#EXTINF:-1,Bein Sports 5
-http://209.145.58.109:25461/omohaktv/App/23
-#EXTINF:-1,Bein Sports 6
-http://209.145.58.109:25461/omohaktv/App/24
-#EXTINF:-1,Bein Sports 7
-http://209.145.58.109:25461/omohaktv/App/25
-#EXTINF:-1,Sony ten 1
-http://209.145.58.109:25461/omohaktv/App/72
-#EXTINF:-1,Sony ten 2
-http://209.145.58.109:25461/omohaktv/App/73
-#EXTINF:-1,Fox Soccer sports 
-http://209.145.58.109:25461/omohaktv/App/78
-#EXTINF:-1,UFC us
-http://209.145.58.109:25461/omohaktv/App/80
-#EXTINF:-1,Sport hd
-http://209.145.58.109:25461/omohaktv/App/87
-#EXTINF:-1,NBA 
-http://209.145.58.109:25461/omohaktv/App/178
-#EXTINF:-1,ON TIME 2
-http://209.145.58.109:25461/omohaktv/App/169
-#EXTINF:-1,ON TIME 1
-http://209.145.58.109:25461/omohaktv/App/166
-#EXTINF:-1,Netflix comedy 
-http://209.145.58.109:25461/omohaktv/App/148
-#EXTINF:-1,Netflix Drama 
-http://209.145.58.109:25461/omohaktv/App/107
-#EXTINF:-1,Netflix Horror 
-http://209.145.58.109:25461/omohaktv/App/122
-#EXTINF:-1,Netflix Kids 
-http://209.145.58.109:25461/omohaktv/App/121
-#EXTINF:-1,Netflix Movie
-http://209.145.58.109:25461/omohaktv/App/105
-#EXTINF:-1,Osn Movies 
-http://209.145.58.109:25461/omohaktv/App/71
-#EXTINF:-1,Osn Movie
-http://209.145.58.109:25461/omohaktv/App/111
-# EXTM3U
-#EXTINF:0 type="stream" channelId="-1" name="TNT" group="" logo="", TNT
-http://170.82.200.38:8080/tnt/tracks-v1a1/mono.m3u8
-#EXTINF:0 type="stream" channelId="-1" name="ESPN 2" group="ESPORTES" logo="", ESPN 2
-http://170.82.200.38:8080/espn_2/tracks-v1a1/mono.m3u8
-#EXTINF:0 type="stream" channelId="-1" name="STAR CHANNEL" group="" logo="", STAR CHANNEL
-http://170.82.200.38:8080/fox/tracks-v1a1/mono.m3u8
-#EXTINF:0 type="stream" channelId="-1" name="FX" group="" logo="", FX
-http://170.82.200.38:8080/fx/tracks-v1a1/mono.m3u8
-#EXTINF:0 type="stream" channelId="-1" name="SPACE" group="" logo="", SPACE
-http://170.82.200.38:8080/space/tracks-v1a1/mono.m3u8
-#EXTINF:0 type="stream" channelId="-1" name="BAND SPORTS" group="" logo="", BAND SPORTS
-http://170.82.200.38:8080/band_sports/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="TvFornalNordesteFilmes.br" tvg-name="TV JN FILMES" tvg-logo="https://pastebin.com/raw/1W2JxMDZ" group-title="FILMES ANTIGOS",TV JN FILMES
-https://5cf4a2c2512a2.streamlock.net/jornaldonorteste/jornaldonorteste/chunklist_w455959427.m3u8
-#EXTINF:-1 tvg-id="MUSIC BOX BRASIL" tvg-logo="http://i.imgur.com/oRSHAl1.png" group-title="Variedade e Músicas",Music Box Brazil
-http://origin-02.nxplay.com.br/MUSIC_HD/tracks-v1a1/mono.m3u8
-#EXTINF: -1 tvg-id = "Woohoo.br" tvg-logo = "https://i.imgur.com/D6plAdz.png" group-title = "Esportes", WooHoo
-http://177.20.208.58:8000/play/a022/index.m3u8
-#EXTINF:-tvg-id=""tvg-logo= "" group-title="Canais | Esporte",PREMIERE CLUBES
-http://lista.lorddark.club:80/3716528349/viviane2020/856
-
-
-#EXTINF:-tvg-id=""tvg-logo= "" group-title="Canais | Esporte",PREMIERE 2
-http://x00.so:80/pedrocduarte/lcpdf1981/72238
-
-
-#EXTINF:-tvg-id=""tvg-logo= "" group-title="Filmes | Disney",Luca (2021)
-https://861472514.tapecontent.net/radosgw/3OAK72jr1ahdYZq/UMBs-BmlyRAfPY1WEqzhYbquChpCAVXwIWRwesrwnVtIOvkcklng82692JGz8wjQeoZ1rlunWUx6rNAei_GcxFRE5EbT1CJSs1GcDSfXVELF8Y4sCgxl2xXjQ9cZpEu1k6J3IOEtpkDUaC5fG1Q3rzet918_zrNyRNqvwZiHWI1q7IWNau31meIc1XWvfHHvyYmX3cDpmaawA_3XBNnrjgl0bgezpeSXwQmfa1daBZu7wFBa8kqXuTJG3Uz-Uzpg-z4R0JqJzsi1Tto_/LUC4.mp4?stream=1
-
-
-
-#EXTINF:-tvg-id=""tvg-logo= "" group-title="Canais | Esporte",PREMIERE 3
-http://akamaizedx.com:80/davimusse/dmfl21/17344
-
-
-#EXTINF:-tvg-id=""tvg-logo= "" group-title="Canais | Esporte",PREMIERE 4
-http://x00.so:80/pedrocduarte/lcpdf1981/72246
-
-
-#EXTINF:-tvg-id=""tvg-logo= "" group-title="Canais | Esporte",PREMIERE 5
-http://natv.pw:80/Vandojose1/12110000733/19132
-
-
-#EXTINF:-tvg-id=""tvg-logo= "" group-title="Canais | Esporte",PREMIERE 6
-http://akamaizedx.com:80/davimusse/dmfl21/17290
-
-
-#EXTINF:-tvg-id=""tvg-logo= "" group-title="Canais | Esporte",PREMIERE 7
-http://akamaizedx.com:80/davimusse/dmfl21/10054450
-
-
-#EXTINF:-tvg-id=""tvg-logo= "" group-title="Canais | Esporte",PREMIERE 8
-http://b5.vc:80/9JJCdQuZpt/fireurl.co/90358
+http://lista.lorddark.club:80/5247/5247/994
+#EXTINF:-1,FOX Life SD [1]
+http://lista.lorddark.club:80/5247/5247/19218
+#EXTINF:-1,FOX Life SD
+http://lista.lorddark.club:80/5247/5247/517
+#EXTINF:-1,FOX Life HD [1]
+http://lista.lorddark.club:80/5247/5247/19219
+#EXTINF:-1,FOX Life HD
+http://lista.lorddark.club:80/5247/5247/818
+#EXTINF:-1,FOX Life FHD [1]
+http://lista.lorddark.club:80/5247/5247/19000
+#EXTINF:-1,FOX Premium 1 SD [1]
+http://lista.lorddark.club:80/5247/5247/19220
+#EXTINF:-1,FOX Premium 1 HD [1]
+http://lista.lorddark.club:80/5247/5247/19221
+#EXTINF:-1,FOX Premium 1 HD
+http://lista.lorddark.club:80/5247/5247/819
+#EXTINF:-1,FOX Premium 1 HD³
+http://lista.lorddark.club:80/5247/5247/1105
+#EXTINF:-1,FOX Premium 1 FHD [1]
+http://lista.lorddark.club:80/5247/5247/19001
+#EXTINF:-1,FOX Premium 1 FHD
+http://lista.lorddark.club:80/5247/5247/995
+#EXTINF:-1,FOX Premium 2 SD [1]
+http://lista.lorddark.club:80/5247/5247/19222
+#EXTINF:-1,FOX Premium 2 HD [1]
+http://lista.lorddark.club:80/5247/5247/19223
+#EXTINF:-1,FOX Premium 2 HD
+http://lista.lorddark.club:80/5247/5247/820
+#EXTINF:-1,FOX Premium 2 HD³
+http://lista.lorddark.club:80/5247/5247/1106
+#EXTINF:-1,FOX Premium 2 FHD [1]
+http://lista.lorddark.club:80/5247/5247/19002
+#EXTINF:-1,FOX Premium 2 FHD
+http://lista.lorddark.club:80/5247/5247/996
+#EXTINF:-1,FX SD [1]
+http://lista.lorddark.club:80/5247/5247/19230
+#EXTINF:-1,FX SD
+http://lista.lorddark.club:80/5247/5247/521
+#EXTINF:-1,FX HD [1]
+http://lista.lorddark.club:80/5247/5247/19231
+#EXTINF:-1,FX HD
+http://lista.lorddark.club:80/5247/5247/823
+#EXTINF:-1,FX FHD [1]
+http://lista.lorddark.club:80/5247/5247/19004
+#EXTINF:-1,FX FHD
+http://lista.lorddark.club:80/5247/5247/999
+#EXTINF:-1,Megapix SD [1]
+http://lista.lorddark.club:80/5247/5247/19266
+#EXTINF:-1,Megapix SD
+http://lista.lorddark.club:80/5247/5247/543
+#EXTINF:-1,Megapix HD [1]
+http://lista.lorddark.club:80/5247/5247/19267
+#EXTINF:-1,Megapix HD
+http://lista.lorddark.club:80/5247/5247/840
+#EXTINF:-1,Megapix FHD [1]
+http://lista.lorddark.club:80/5247/5247/19017
+#EXTINF:-1,Megapix FHD
+http://lista.lorddark.club:80/5247/5247/1016
+#EXTINF:-1,Paramount SD [1]
+http://lista.lorddark.club:80/5247/5247/19287
+#EXTINF:-1,Paramount SD
+http://lista.lorddark.club:80/5247/5247/555
+#EXTINF:-1,Paramount HD [1]
+http://lista.lorddark.club:80/5247/5247/19288
+#EXTINF:-1,Paramount HD
+http://lista.lorddark.club:80/5247/5247/849
+#EXTINF:-1,Paramount FHD [1]
+http://lista.lorddark.club:80/5247/5247/19028
+#EXTINF:-1,Paramount FHD
+http://lista.lorddark.club:80/5247/5247/1025
+#EXTINF:-1,Space SD [1]
+http://lista.lorddark.club:80/5247/5247/19320
+#EXTINF:-1,Space SD
+http://lista.lorddark.club:80/5247/5247/578
+#EXTINF:-1,Space HD [1]
+http://lista.lorddark.club:80/5247/5247/19321
+#EXTINF:-1,Space HD
+http://lista.lorddark.club:80/5247/5247/859
+#EXTINF:-1,Space FHD [1]
+http://lista.lorddark.club:80/5247/5247/19031
+#EXTINF:-1,Space FHD
+http://lista.lorddark.club:80/5247/5247/1035
+#EXTINF:-1,Studio Universal SD [1]
+http://lista.lorddark.club:80/5247/5247/19328
+#EXTINF:-1,Studio Universal SD
+http://lista.lorddark.club:80/5247/5247/582
+#EXTINF:-1,Studio Universal HD [1]
+http://lista.lorddark.club:80/5247/5247/19329
+#EXTINF:-1,Studio Universal HD
+http://lista.lorddark.club:80/5247/5247/863
+#EXTINF:-1,Studio Universal FHD [1]
+http://lista.lorddark.club:80/5247/5247/19032
+#EXTINF:-1,Studio Universal FHD
+http://lista.lorddark.club:80/5247/5247/1039
+#EXTINF:-1,SyFy SD [1]
+http://lista.lorddark.club:80/5247/5247/19318
+#EXTINF:-1,SyFy SD
+http://lista.lorddark.club:80/5247/5247/583
+#EXTINF:-1,SyFy HD [1]
+http://lista.lorddark.club:80/5247/5247/19319
+#EXTINF:-1,SyFy HD
+http://lista.lorddark.club:80/5247/5247/864
+#EXTINF:-1,SyFy FHD [1]
+http://lista.lorddark.club:80/5247/5247/19033
+#EXTINF:-1,SyFy FHD
+http://lista.lorddark.club:80/5247/5247/1040
+#EXTINF:-1,TBS SD [1]
+http://lista.lorddark.club:80/5247/5247/19330
+#EXTINF:-1,TBS SD
+http://lista.lorddark.club:80/5247/5247/584
+#EXTINF:-1,TBS HD [1]
+http://lista.lorddark.club:80/5247/5247/19331
+#EXTINF:-1,TBS HD
+http://lista.lorddark.club:80/5247/5247/865
+#EXTINF:-1,TBS FHD [1]
+http://lista.lorddark.club:80/5247/5247/19034
+#EXTINF:-1,TBS FHD
+http://lista.lorddark.club:80/5247/5247/1041
+#EXTINF:-1,TCM SD [1]
+http://lista.lorddark.club:80/5247/5247/19332
+#EXTINF:-1,TCM
+http://lista.lorddark.club:80/5247/5247/585
+#EXTINF:-1,TNT SD [1]
+http://lista.lorddark.club:80/5247/5247/19348
+#EXTINF:-1,TNT SD
+http://lista.lorddark.club:80/5247/5247/594
+#EXTINF:-1,TNT HD [1]
+http://lista.lorddark.club:80/5247/5247/19349
+#EXTINF:-1,TNT HD
+http://lista.lorddark.club:80/5247/5247/873
+#EXTINF:-1,TNT FHD [1]
+http://lista.lorddark.club:80/5247/5247/19037
+#EXTINF:-1,TNT FHD
+http://lista.lorddark.club:80/5247/5247/1049
+#EXTINF:-1,TNT Series SD [1]
+http://lista.lorddark.club:80/5247/5247/19350
+#EXTINF:-1,TNT Series SD
+http://lista.lorddark.club:80/5247/5247/595
+#EXTINF:-1,TNT Series HD [1]
+http://lista.lorddark.club:80/5247/5247/19351
+#EXTINF:-1,TNT Series HD
+http://lista.lorddark.club:80/5247/5247/874
+#EXTINF:-1,TNT Series FHD [1]
+http://lista.lorddark.club:80/5247/5247/19038
+#EXTINF:-1,TNT Series FHD
+http://lista.lorddark.club:80/5247/5247/1050
+#EXTINF:-1,Universal TV SD [1]
+http://lista.lorddark.club:80/5247/5247/19364
+#EXTINF:-1,Universal TV
+http://lista.lorddark.club:80/5247/5247/621
+#EXTINF:-1,Universal TV HD [1]
+http://lista.lorddark.club:80/5247/5247/19365
+#EXTINF:-1,Universal TV HD
+http://lista.lorddark.club:80/5247/5247/879
+#EXTINF:-1,Universal TV FHD [1]
+http://lista.lorddark.club:80/5247/5247/19041
+#EXTINF:-1,Universal TV FHD
+http://lista.lorddark.club:80/5247/5247/1054
+#EXTINF:-1,Warner SD [1]
+http://lista.lorddark.club:80/5247/5247/19371
+#EXTINF:-1,Warner SD
+http://lista.lorddark.club:80/5247/5247/617
+#EXTINF:-1,Warner HD [1]
+http://lista.lorddark.club:80/5247/5247/19372
+#EXTINF:-1,Warner HD
+http://lista.lorddark.club:80/5247/5247/882
+#EXTINF:-1,Warner FHD [1]
+http://lista.lorddark.club:80/5247/5247/19043
+#EXTINF:-1,Warner FHD
+http://lista.lorddark.club:80/5247/5247/1056
+#EXTINF:-1,Telecine Action SD
+http://lista.lorddark.club:80/5247/5247/586
+#EXTINF:-1,Telecine Action SD¹
+http://lista.lorddark.club:80/5247/5247/19333
+#EXTINF:-1,Telecine Action SD²
+http://lista.lorddark.club:80/5247/5247/201389
+#EXTINF:-1,Telecine Action SD³
+http://lista.lorddark.club:80/5247/5247/201388
+#EXTINF:-1,Telecine Action HD
+http://lista.lorddark.club:80/5247/5247/866
+#EXTINF:-1,Telecine Action HD¹
+http://lista.lorddark.club:80/5247/5247/19334
+#EXTINF:-1,Telecine Action HD²
+http://lista.lorddark.club:80/5247/5247/201390
+#EXTINF:-1,Telecine Action HD³
+http://lista.lorddark.club:80/5247/5247/1144
+#EXTINF:-1,Telecine Action FHD
+http://lista.lorddark.club:80/5247/5247/1042
+#EXTINF:-1,Telecine Action FHD¹
+http://lista.lorddark.club:80/5247/5247/19117
+#EXTINF:-1,Telecine Action FHD²
+http://lista.lorddark.club:80/5247/5247/201391
+#EXTINF:-1,Telecine Action FHD³
+http://lista.lorddark.club:80/5247/5247/201392
+#EXTINF:-1,Telecine Cult SD
+http://lista.lorddark.club:80/5247/5247/587
+#EXTINF:-1,Telecine Cult SD¹
+http://lista.lorddark.club:80/5247/5247/19335
+#EXTINF:-1,Telecine Fun SD¹
+http://lista.lorddark.club:80/5247/5247/19337
+#EXTINF:-1,Telecine Cult SD²
+http://lista.lorddark.club:80/5247/5247/201382
+#EXTINF:-1,Telecine Cult SD³
+http://lista.lorddark.club:80/5247/5247/201383
+#EXTINF:-1,Telecine Cult HD
+http://lista.lorddark.club:80/5247/5247/867
+#EXTINF:-1,Telecine Cult HD¹
+http://lista.lorddark.club:80/5247/5247/19336
+#EXTINF:-1,Telecine Cult HD²
+http://lista.lorddark.club:80/5247/5247/201384
+#EXTINF:-1,Telecine Cult  HD³
+http://lista.lorddark.club:80/5247/5247/1145
+#EXTINF:-1,Telecine Cult HD³
+http://lista.lorddark.club:80/5247/5247/201385
+#EXTINF:-1,Telecine Cult FHD
+http://lista.lorddark.club:80/5247/5247/1043
+#EXTINF:-1,Telecine Cult FHD¹
+http://lista.lorddark.club:80/5247/5247/19035
+#EXTINF:-1,Telecine Cult FHD²
+http://lista.lorddark.club:80/5247/5247/201386
+#EXTINF:-1,Telecine Cult FHD³
+http://lista.lorddark.club:80/5247/5247/201387
+#EXTINF:-1,Telecine Fun SD
+http://lista.lorddark.club:80/5247/5247/588
+#EXTINF:-1,Telecine Fun SD²
+http://lista.lorddark.club:80/5247/5247/201377
+#EXTINF:-1,Telecine Fun SD³
+http://lista.lorddark.club:80/5247/5247/201378
+#EXTINF:-1,Telecine Fun HD
+http://lista.lorddark.club:80/5247/5247/868
+#EXTINF:-1,Telecine Fun HD¹
+http://lista.lorddark.club:80/5247/5247/19338
+#EXTINF:-1,Telecine Fun HD²
+http://lista.lorddark.club:80/5247/5247/201379
+#EXTINF:-1,Telecine Fun HD³
+http://lista.lorddark.club:80/5247/5247/1146
+#EXTINF:-1,Telecine Fun FHD
+http://lista.lorddark.club:80/5247/5247/1044
+#EXTINF:-1,Telecine Fun FHD¹
+http://lista.lorddark.club:80/5247/5247/19118
+#EXTINF:-1,Telecine Fun FHD²
+http://lista.lorddark.club:80/5247/5247/201380
+#EXTINF:-1,Telecine Fun FHD³
+http://lista.lorddark.club:80/5247/5247/201381
+#EXTINF:-1,Telecine Pipoca SD
+http://lista.lorddark.club:80/5247/5247/589
+#EXTINF:-1,Telecine Pipoca SD¹
+http://lista.lorddark.club:80/5247/5247/19339
+#EXTINF:-1,Telecine Pipoca SD²
+http://lista.lorddark.club:80/5247/5247/201352
+#EXTINF:-1,Telecine Pipoca SD³
+http://lista.lorddark.club:80/5247/5247/201353
+#EXTINF:-1,Telecine Pipoca HD
+http://lista.lorddark.club:80/5247/5247/869
+#EXTINF:-1,Telecine Pipoca HD¹
+http://lista.lorddark.club:80/5247/5247/19340
+#EXTINF:-1,Telecine Pipoca HD²
+http://lista.lorddark.club:80/5247/5247/201350
+#EXTINF:-1,Telecine Pipoca HD³
+http://lista.lorddark.club:80/5247/5247/1147
+#EXTINF:-1,Telecine Pipoca FHD
+http://lista.lorddark.club:80/5247/5247/1045
+#EXTINF:-1,Telecine Pipoca FHD¹
+http://lista.lorddark.club:80/5247/5247/19119
+#EXTINF:-1,Telecine Pipoca FHD²
+http://lista.lorddark.club:80/5247/5247/201351
+#EXTINF:-1,Telecine Pipoca FHD³
+http://lista.lorddark.club:80/5247/5247/201354
+#EXTINF:-1,Telecine Premium SD
+http://lista.lorddark.club:80/5247/5247/590
+#EXTINF:-1,Telecine Premium SD¹
+http://lista.lorddark.club:80/5247/5247/19341
+#EXTINF:-1,Telecine Premium SD²
+http://lista.lorddark.club:80/5247/5247/201355
+#EXTINF:-1,Telecine Premium SD³
+http://lista.lorddark.club:80/5247/5247/201356
+#EXTINF:-1,Telecine Premium HD
+http://lista.lorddark.club:80/5247/5247/870
+#EXTINF:-1,Telecine Premium HD¹
+http://lista.lorddark.club:80/5247/5247/19342
+#EXTINF:-1,Telecine Premium HD²
+http://lista.lorddark.club:80/5247/5247/201370
+#EXTINF:-1,Telecine Premium HD³
+http://lista.lorddark.club:80/5247/5247/1148
+#EXTINF:-1,Telecine Premium FHD
+http://lista.lorddark.club:80/5247/5247/1046
+#EXTINF:-1,Telecine Premium FHD¹
+http://lista.lorddark.club:80/5247/5247/19120
+#EXTINF:-1,Telecine Premium FHD²
+http://lista.lorddark.club:80/5247/5247/201371
+#EXTINF:-1,Telecine Premium FHD³
+http://lista.lorddark.club:80/5247/5247/201372
+#EXTINF:-1,Telecine Touch SD¹
+http://lista.lorddark.club:80/5247/5247/19343
+#EXTINF:-1,Telecine Touch SD²
+http://lista.lorddark.club:80/5247/5247/591
+#EXTINF:-1,Telecine Touch SD³
+http://lista.lorddark.club:80/5247/5247/201373
+#EXTINF:-1,Telecine Touch HD
+http://lista.lorddark.club:80/5247/5247/871
+#EXTINF:-1,Telecine Touch HD¹
+http://lista.lorddark.club:80/5247/5247/19344
+#EXTINF:-1,Telecine Touch HD²
+http://lista.lorddark.club:80/5247/5247/201374
+#EXTINF:-1,Telecine Touch HD³
+http://lista.lorddark.club:80/5247/5247/1149
+#EXTINF:-1,Telecine Touch FHD
+http://lista.lorddark.club:80/5247/5247/1047
+#EXTINF:-1,Telecine Touch FHD¹
+http://lista.lorddark.club:80/5247/5247/19121
+#EXTINF:-1,Telecine Touch FHD²
+http://lista.lorddark.club:80/5247/5247/201375
+#EXTINF:-1,Telecine Touch FHD³
+http://lista.lorddark.club:80/5247/5247/201376
+#EXTINF:-1,HBO SD¹
+http://lista.lorddark.club:80/5247/5247/19242
+#EXTINF:-1,HBO SD
+http://lista.lorddark.club:80/5247/5247/530
+#EXTINF:-1,HBO HD¹
+http://lista.lorddark.club:80/5247/5247/19247
+#EXTINF:-1,HBO HD
+http://lista.lorddark.club:80/5247/5247/830
+#EXTINF:-1,HBO FHD
+http://lista.lorddark.club:80/5247/5247/1004
+#EXTINF:-1,HBO HD³
+http://lista.lorddark.club:80/5247/5247/1119
+#EXTINF:-1,HBO FHD¹
+http://lista.lorddark.club:80/5247/5247/19105
+#EXTINF:-1,HBO 2 SD¹
+http://lista.lorddark.club:80/5247/5247/19243
+#EXTINF:-1,HBO 2 SD
+http://lista.lorddark.club:80/5247/5247/534
+#EXTINF:-1,HBO 2 HD¹
+http://lista.lorddark.club:80/5247/5247/19244
+#EXTINF:-1,HBO 2 HD
+http://lista.lorddark.club:80/5247/5247/828
+#EXTINF:-1,HBO 2 HD³
+http://lista.lorddark.club:80/5247/5247/1120
+#EXTINF:-1,HBO 2 FHD¹
+http://lista.lorddark.club:80/5247/5247/19104
+#EXTINF:-1,HBO 2 FHD
+http://lista.lorddark.club:80/5247/5247/1007
+#EXTINF:-1,HBO Plus SD [1]
+http://lista.lorddark.club:80/5247/5247/19248
+#EXTINF:-1,HBO Plus SD
+http://lista.lorddark.club:80/5247/5247/532
+#EXTINF:-1,HBO Plus HD [1]
+http://lista.lorddark.club:80/5247/5247/19249
+#EXTINF:-1,HBO Plus HD
+http://lista.lorddark.club:80/5247/5247/831
+#EXTINF:-1,HBO Plus HD³
+http://lista.lorddark.club:80/5247/5247/1122
+#EXTINF:-1,HBO Plus FHD [1]
+http://lista.lorddark.club:80/5247/5247/19009
+#EXTINF:-1,HBO Plus FHD
+http://lista.lorddark.club:80/5247/5247/1005
+#EXTINF:-1,HBO Family SD [1]
+http://lista.lorddark.club:80/5247/5247/19245
+#EXTINF:-1,HBO Family SD
+http://lista.lorddark.club:80/5247/5247/531
+#EXTINF:-1,HBO Family HD [1]
+http://lista.lorddark.club:80/5247/5247/19246
+#EXTINF:-1,HBO Family HD
+http://lista.lorddark.club:80/5247/5247/829
+#EXTINF:-1,HBO Family HD³
+http://lista.lorddark.club:80/5247/5247/1121
+#EXTINF:-1,HBO Family FHD [1]
+http://lista.lorddark.club:80/5247/5247/19008
+#EXTINF:-1,HBO Familly FHD
+http://lista.lorddark.club:80/5247/5247/1003
+#EXTINF:-1,HBO Signature SD [1]
+http://lista.lorddark.club:80/5247/5247/19250
+#EXTINF:-1,HBO Signature SD
+http://lista.lorddark.club:80/5247/5247/533
+#EXTINF:-1,HBO Signature HD [1]
+http://lista.lorddark.club:80/5247/5247/19251
+#EXTINF:-1,HBO Signature HD
+http://lista.lorddark.club:80/5247/5247/832
+#EXTINF:-1,HBO Signature HD³
+http://lista.lorddark.club:80/5247/5247/1123
+#EXTINF:-1,HBO Signature FHD [1]
+http://lista.lorddark.club:80/5247/5247/19010
+#EXTINF:-1,HBO Signature FHD
+http://lista.lorddark.club:80/5247/5247/1006
+#EXTINF:-1,HBO Mundi SD [1]
+http://lista.lorddark.club:80/5247/5247/19260
+#EXTINF:-1,HBO Mundi SD
+http://lista.lorddark.club:80/5247/5247/540
+#EXTINF:-1,HBO Mundi HD [1]
+http://lista.lorddark.club:80/5247/5247/19261
+#EXTINF:-1,HBO Mundi HD
+http://lista.lorddark.club:80/5247/5247/837
+#EXTINF:-1,HBO Mundi FHD [1]
+http://lista.lorddark.club:80/5247/5247/19014
+#EXTINF:-1,HBO Mundi FHD
+http://lista.lorddark.club:80/5247/5247/1013
+#EXTINF:-1,HBO Pop SD [1]
+http://lista.lorddark.club:80/5247/5247/19264
+#EXTINF:-1,HBO Pop SD
+http://lista.lorddark.club:80/5247/5247/542
+#EXTINF:-1,HBO Pop HD [1]
+http://lista.lorddark.club:80/5247/5247/19265
+#EXTINF:-1,HBO Pop HD
+http://lista.lorddark.club:80/5247/5247/839
+#EXTINF:-1,HBO Pop FHD [1]
+http://lista.lorddark.club:80/5247/5247/19016
+#EXTINF:-1,HBO Pop FHD
+http://lista.lorddark.club:80/5247/5247/1015
+#EXTINF:-1,HBO Xtreme SD [1]
+http://lista.lorddark.club:80/5247/5247/19262
+#EXTINF:-1,HBO Xtreme SD
+http://lista.lorddark.club:80/5247/5247/541
+#EXTINF:-1,HBO Xtreme HD [1]
+http://lista.lorddark.club:80/5247/5247/19263
+#EXTINF:-1,HBO Xtreme HD
+http://lista.lorddark.club:80/5247/5247/838
+#EXTINF:-1,HBO Xtreme FHD [1]
+http://lista.lorddark.club:80/5247/5247/19015
+#EXTINF:-1,HBO Xtreme FHD
+http://lista.lorddark.club:80/5247/5247/1014
+#EXTINF:-1,AXN SD LEG [1]
+http://lista.lorddark.club:80/5247/5247/19512
+#EXTINF:-1,AXN HD LEG [1]
+http://lista.lorddark.club:80/5247/5247/19511
+#EXTINF:-1,Canal Sony SD LEG [1]
+http://lista.lorddark.club:80/5247/5247/19546
+#EXTINF:-1,Canal Sony HD LEG [1]
+http://lista.lorddark.club:80/5247/5247/19545
+#EXTINF:-1,FX SD LEG [1]
+http://lista.lorddark.club:80/5247/5247/19534
+#EXTINF:-1,FX HD LEG [1]
+http://lista.lorddark.club:80/5247/5247/19533
+#EXTINF:-1,STAR CHANNEL SD LEG [1]
+http://lista.lorddark.club:80/5247/5247/19514
+#EXTINF:-1,STAR CHANNEL HD LEG [1]
+http://lista.lorddark.club:80/5247/5247/19513
+#EXTINF:-1,HBO SD LEG [1]
+http://lista.lorddark.club:80/5247/5247/19516
+#EXTINF:-1,HBO HD LEG [1]
+http://lista.lorddark.club:80/5247/5247/19515
+#EXTINF:-1,HBO Mundi SD LEG [1]
+http://lista.lorddark.club:80/5247/5247/19520
+#EXTINF:-1,HBO Plus SD LEG [1]
+http://lista.lorddark.club:80/5247/5247/19518
+#EXTINF:-1,HBO Plus HD LEG [1]
+http://lista.lorddark.club:80/5247/5247/19517
+#EXTINF:-1,HBO Pop SD LEG [1]
+http://lista.lorddark.club:80/5247/5247/19536
+#EXTINF:-1,HBO Pop HD LEG [1]
+http://lista.lorddark.club:80/5247/5247/19535
+#EXTINF:-1,HBO Xtreme SD LEG [1]
+http://lista.lorddark.club:80/5247/5247/19519
+#EXTINF:-1,Megapix SD LEG [1]
+http://lista.lorddark.club:80/5247/5247/19538
+#EXTINF:-1,Megapix HD LEG [1]
+http://lista.lorddark.club:80/5247/5247/19537
+#EXTINF:-1,Space SD LEG [1]
+http://lista.lorddark.club:80/5247/5247/19540
+#EXTINF:-1,Space HD LEG [1]
+http://lista.lorddark.club:80/5247/5247/19539
+#EXTINF:-1,Telecine Action SD¹ LEG
+http://lista.lorddark.club:80/5247/5247/19522
+#EXTINF:-1,Telecine Action HD¹ LEG
+http://lista.lorddark.club:80/5247/5247/19521
+#EXTINF:-1,Telecine Fun SD¹ LEG
+http://lista.lorddark.club:80/5247/5247/19524
+#EXTINF:-1,Telecine Fun HD¹ LEG
+http://lista.lorddark.club:80/5247/5247/19523
+#EXTINF:-1,Telecine Pipoca SD LEG¹
+http://lista.lorddark.club:80/5247/5247/19526
+#EXTINF:-1,Telecine Pipoca HD LEG¹
+http://lista.lorddark.club:80/5247/5247/19525
+#EXTINF:-1,Telecine Premium HD LEG²
+http://lista.lorddark.club:80/5247/5247/19528
+#EXTINF:-1,Telecine Premium HD LEG¹
+http://lista.lorddark.club:80/5247/5247/19527
+#EXTINF:-1,Telecine Touch SD LEG¹
+http://lista.lorddark.club:80/5247/5247/19530
+#EXTINF:-1,Telecine Touch HD LEG¹
+http://lista.lorddark.club:80/5247/5247/19529
+#EXTINF:-1,TNT SD LEG [1]
+http://lista.lorddark.club:80/5247/5247/19532
+#EXTINF:-1,TNT HD LEG [1]
+http://lista.lorddark.club:80/5247/5247/19531
+#EXTINF:-1,TNT Series SD LEG [1]
+http://lista.lorddark.club:80/5247/5247/19542
+#EXTINF:-1,TNT Series HD LEG [1]
+http://lista.lorddark.club:80/5247/5247/19541
+#EXTINF:-1,Warner SD LEG [1]
+http://lista.lorddark.club:80/5247/5247/19544
+#EXTINF:-1,Warner HD LEG [1]
+http://lista.lorddark.club:80/5247/5247/19543
+#EXTINF:-1,Cine Sky 1
+http://lista.lorddark.club:80/5247/5247/44914
+#EXTINF:-1,Cine Sky 1 ²
+http://lista.lorddark.club:80/5247/5247/44748
+#EXTINF:-1,Cine Sky 2
+http://lista.lorddark.club:80/5247/5247/44915
+#EXTINF:-1,Cine Sky 2 ²
+http://lista.lorddark.club:80/5247/5247/44749
+#EXTINF:-1,Cine Sky 3
+http://lista.lorddark.club:80/5247/5247/44916
+#EXTINF:-1,Cine Sky 4
+http://lista.lorddark.club:80/5247/5247/44917
+#EXTINF:-1,Cine Sky 5
+http://lista.lorddark.club:80/5247/5247/44918
+#EXTINF:-1,Cine Sky 5 ²
+http://lista.lorddark.club:80/5247/5247/44750
+#EXTINF:-1,Cine Sky 6
+http://lista.lorddark.club:80/5247/5247/44919
+#EXTINF:-1,Cine Sky 7
+http://lista.lorddark.club:80/5247/5247/44920
+#EXTINF:-1,Cine Sky 8
+http://lista.lorddark.club:80/5247/5247/44921
+#EXTINF:-1,Cine Sky 9
+http://lista.lorddark.club:80/5247/5247/44922
+#EXTINF:-1,Cine Sky 10
+http://lista.lorddark.club:80/5247/5247/44923
+#EXTINF:-1,Baby TV SD [1]
+http://lista.lorddark.club:80/5247/5247/19156
+#EXTINF:-1,Baby TV SD
+http://lista.lorddark.club:80/5247/5247/483
+#EXTINF:-1,Boomerang SD [1]
+http://lista.lorddark.club:80/5247/5247/19165
+#EXTINF:-1,Boomerang HD [1]
+http://lista.lorddark.club:80/5247/5247/19166
+#EXTINF:-1,Boomerang  FHD [1]
+http://lista.lorddark.club:80/5247/5247/18982
+#EXTINF:-1,Boomerang FHD
+http://lista.lorddark.club:80/5247/5247/970
+#EXTINF:-1,Cartoon Network SD [1]
+http://lista.lorddark.club:80/5247/5247/19172
+#EXTINF:-1,Cartoon Network SD
+http://lista.lorddark.club:80/5247/5247/494
+#EXTINF:-1,Cartoon Network HD [1]
+http://lista.lorddark.club:80/5247/5247/19173
+#EXTINF:-1,Cartoon Network HD
+http://lista.lorddark.club:80/5247/5247/797
+#EXTINF:-1,Cartoon Network FHD [1]
+http://lista.lorddark.club:80/5247/5247/18984
+#EXTINF:-1,Cartoon Network FHD
+http://lista.lorddark.club:80/5247/5247/973
+#EXTINF:-1,Discovery Kids SD [1]
+http://lista.lorddark.club:80/5247/5247/19188
+#EXTINF:-1,Discovery Kids SD
+http://lista.lorddark.club:80/5247/5247/501
+#EXTINF:-1,Discovery Kids HD [1]
+http://lista.lorddark.club:80/5247/5247/19189
+#EXTINF:-1,Discovery Kids HD
+http://lista.lorddark.club:80/5247/5247/804
+#EXTINF:-1,Discovery Kids FHD [1]
+http://lista.lorddark.club:80/5247/5247/18990
+#EXTINF:-1,Discovery Kids FHD
+http://lista.lorddark.club:80/5247/5247/980
+#EXTINF:-1,Disney Channel SD [1]
+http://lista.lorddark.club:80/5247/5247/19198
+#EXTINF:-1,Disney Channel SD
+http://lista.lorddark.club:80/5247/5247/503
+#EXTINF:-1,Disney Channel HD [1]
+http://lista.lorddark.club:80/5247/5247/19199
+#EXTINF:-1,Disney Channel HD
+http://lista.lorddark.club:80/5247/5247/809
+#EXTINF:-1,Disney Channel HD³
+http://lista.lorddark.club:80/5247/5247/1095
+#EXTINF:-1,Disney Channel FHD [1]
+http://lista.lorddark.club:80/5247/5247/19096
+#EXTINF:-1,Disney Channel FHD
+http://lista.lorddark.club:80/5247/5247/985
+#EXTINF:-1,Disney Jr SD [1]
+http://lista.lorddark.club:80/5247/5247/19200
+#EXTINF:-1,Disney Jr SD
+http://lista.lorddark.club:80/5247/5247/504
+#EXTINF:-1,Disney Jr HD [1]
+http://lista.lorddark.club:80/5247/5247/19375
+#EXTINF:-1,Disney Jr HD
+http://lista.lorddark.club:80/5247/5247/810
+#EXTINF:-1,Disney Jr HD³
+http://lista.lorddark.club:80/5247/5247/1097
+#EXTINF:-1,Disney Jr FHD [1]
+http://lista.lorddark.club:80/5247/5247/19045
+#EXTINF:-1,Disney Jr FHD
+http://lista.lorddark.club:80/5247/5247/986
+#EXTINF:-1,Disney XD SD [1]
+http://lista.lorddark.club:80/5247/5247/19201
+#EXTINF:-1,Disney XD SD
+http://lista.lorddark.club:80/5247/5247/505
+#EXTINF:-1,Disney XD HD³
+http://lista.lorddark.club:80/5247/5247/1099
+#EXTINF:-1,Gloob SD [1]
+http://lista.lorddark.club:80/5247/5247/19234
+#EXTINF:-1,Gloob SD
+http://lista.lorddark.club:80/5247/5247/528
+#EXTINF:-1,Gloob HD [1]
+http://lista.lorddark.club:80/5247/5247/19235
+#EXTINF:-1,Gloob HD
+http://lista.lorddark.club:80/5247/5247/826
+#EXTINF:-1,Gloob HD³
+http://lista.lorddark.club:80/5247/5247/1116
+#EXTINF:-1,Gloob FHD [1]
+http://lista.lorddark.club:80/5247/5247/19103
+#EXTINF:-1,Gloob FHD
+http://lista.lorddark.club:80/5247/5247/1001
+#EXTINF:-1,Gloobinho SD [1]
+http://lista.lorddark.club:80/5247/5247/19237
+#EXTINF:-1,Gloobinho HD [1]
+http://lista.lorddark.club:80/5247/5247/19236
+#EXTINF:-1,Gloobinho HD³
+http://lista.lorddark.club:80/5247/5247/1117
+#EXTINF:-1,Gloobinho FHD [1]
+http://lista.lorddark.club:80/5247/5247/19005
+#EXTINF:-1,NatGeo Kids SD [1]
+http://lista.lorddark.club:80/5247/5247/19276
+#EXTINF:-1,NatGeo Kids SD
+http://lista.lorddark.club:80/5247/5247/548
+#EXTINF:-1,NatGeo Kids HD [1]
+http://lista.lorddark.club:80/5247/5247/19277
+#EXTINF:-1,NatGeo Kids HD
+http://lista.lorddark.club:80/5247/5247/844
+#EXTINF:-1,NatGeo Kids FHD [1]
+http://lista.lorddark.club:80/5247/5247/19023
+#EXTINF:-1,NatGeo Kids FHD
+http://lista.lorddark.club:80/5247/5247/1021
+#EXTINF:-1,Nick SD [1]
+http://lista.lorddark.club:80/5247/5247/19283
+#EXTINF:-1,Nick SD
+http://lista.lorddark.club:80/5247/5247/553
+#EXTINF:-1,Nick HD [1]
+http://lista.lorddark.club:80/5247/5247/19284
+#EXTINF:-1,Nick HD
+http://lista.lorddark.club:80/5247/5247/846
+#EXTINF:-1,Nick FHD [1]
+http://lista.lorddark.club:80/5247/5247/19026
+#EXTINF:-1,Nick FHD
+http://lista.lorddark.club:80/5247/5247/1022
+#EXTINF:-1,Nick Jr SD [1]
+http://lista.lorddark.club:80/5247/5247/19281
+#EXTINF:-1,Nick Jr SD
+http://lista.lorddark.club:80/5247/5247/552
+#EXTINF:-1,Nick Jr HD [1]
+http://lista.lorddark.club:80/5247/5247/19282
+#EXTINF:-1,Nick Jr HD
+http://lista.lorddark.club:80/5247/5247/847
+#EXTINF:-1,Nick Jr FHD [1]
+http://lista.lorddark.club:80/5247/5247/19025
+#EXTINF:-1,Nick Jr FHD
+http://lista.lorddark.club:80/5247/5247/1023
+#EXTINF:-1,Playkids SD [1]
+http://lista.lorddark.club:80/5247/5247/19386
+#EXTINF:-1,Playkids SD
+http://lista.lorddark.club:80/5247/5247/746
+#EXTINF:-1,Playkids HD [1]
+http://lista.lorddark.club:80/5247/5247/19385
+#EXTINF:-1,Playkids FHD [1]
+http://lista.lorddark.club:80/5247/5247/19052
+#EXTINF:-1,Tooncast SD [1]
+http://lista.lorddark.club:80/5247/5247/19352
+#EXTINF:-1,Tooncast SD
+http://lista.lorddark.club:80/5247/5247/596
+#EXTINF:-1,TV Globinho SD
+http://lista.lorddark.club:80/5247/5247/623
+#EXTINF:-1,TV RA-TIM-BUM SD [1]
+http://lista.lorddark.club:80/5247/5247/19360
+#EXTINF:-1,TV RA-TIM-BUM SD
+http://lista.lorddark.club:80/5247/5247/607
+#EXTINF:-1,TV RA-TIM-BUM HD [1]
+http://lista.lorddark.club:80/5247/5247/19361
+#EXTINF:-1,TV RA-TIM-BUM HD
+http://lista.lorddark.club:80/5247/5247/877
+#EXTINF:-1,TV RA-TIM-BUM FHD [1]
+http://lista.lorddark.club:80/5247/5247/19040
+#EXTINF:-1,Zoomoo [1]
+http://lista.lorddark.club:80/5247/5247/19400
+#EXTINF:-1,Zoomoo SD
+http://lista.lorddark.club:80/5247/5247/619
+#EXTINF:-1,Animal Planet SD [1]
+http://lista.lorddark.club:80/5247/5247/19150
+#EXTINF:-1,Animal Planet SD
+http://lista.lorddark.club:80/5247/5247/481
+#EXTINF:-1,Animal Planet HD [1]
+http://lista.lorddark.club:80/5247/5247/19151
+#EXTINF:-1,Animal Planet HD
+http://lista.lorddark.club:80/5247/5247/792
+#EXTINF:-1,Animal Planet FHD [1]
+http://lista.lorddark.club:80/5247/5247/18977
+#EXTINF:-1,Animal Planet FHD
+http://lista.lorddark.club:80/5247/5247/965
+#EXTINF:-1,Discovery Channel SD [1]
+http://lista.lorddark.club:80/5247/5247/19182
+#EXTINF:-1,Discovery Channel SD
+http://lista.lorddark.club:80/5247/5247/499
+#EXTINF:-1,Discovery Channel HD [1]
+http://lista.lorddark.club:80/5247/5247/19183
+#EXTINF:-1,Discovery Channel HD
+http://lista.lorddark.club:80/5247/5247/801
+#EXTINF:-1,Discovery Channel FHD [1]
+http://lista.lorddark.club:80/5247/5247/19095
+#EXTINF:-1,Discovery Channel FHD
+http://lista.lorddark.club:80/5247/5247/977
+#EXTINF:-1,Discovery Science SD [1]
+http://lista.lorddark.club:80/5247/5247/19190
+#EXTINF:-1,Discovery Science HD [1]
+http://lista.lorddark.club:80/5247/5247/19191
+#EXTINF:-1,Discovery Science HD
+http://lista.lorddark.club:80/5247/5247/805
+#EXTINF:-1,Discovery Science FHD [1]
+http://lista.lorddark.club:80/5247/5247/18991
+#EXTINF:-1,Discovery Science FHD
+http://lista.lorddark.club:80/5247/5247/981
+#EXTINF:-1,Discovery Theater SD [1]
+http://lista.lorddark.club:80/5247/5247/19192
+#EXTINF:-1,Discovery Theater HD [1]
+http://lista.lorddark.club:80/5247/5247/19193
+#EXTINF:-1,Discovery Theater HD
+http://lista.lorddark.club:80/5247/5247/806
+#EXTINF:-1,Discovery Theater FHD [1]
+http://lista.lorddark.club:80/5247/5247/18992
+#EXTINF:-1,Discovery Theater FHD
+http://lista.lorddark.club:80/5247/5247/982
+#EXTINF:-1,Discovery Turbo SD [1]
+http://lista.lorddark.club:80/5247/5247/19194
+#EXTINF:-1,Discovery Turbo SD
+http://lista.lorddark.club:80/5247/5247/502
+#EXTINF:-1,Discovery Turbo HD [1]
+http://lista.lorddark.club:80/5247/5247/19195
+#EXTINF:-1,Discovery Turbo HD
+http://lista.lorddark.club:80/5247/5247/807
+#EXTINF:-1,Discovery Turbo FHD [1]
+http://lista.lorddark.club:80/5247/5247/18993
+#EXTINF:-1,Discovery Turbo FHD
+http://lista.lorddark.club:80/5247/5247/983
+#EXTINF:-1,Discovery World SD [1]
+http://lista.lorddark.club:80/5247/5247/19196
+#EXTINF:-1,Discovery World HD [1]
+http://lista.lorddark.club:80/5247/5247/19197
+#EXTINF:-1,Discovery World HD
+http://lista.lorddark.club:80/5247/5247/808
+#EXTINF:-1,Discovery World FHD [1]
+http://lista.lorddark.club:80/5247/5247/18994
+#EXTINF:-1,Discovery World FHD
+http://lista.lorddark.club:80/5247/5247/984
+#EXTINF:-1,H2 SD [1]
+http://lista.lorddark.club:80/5247/5247/19240
+#EXTINF:-1,H2 SD
+http://lista.lorddark.club:80/5247/5247/535
+#EXTINF:-1,H2 HD [1]
+http://lista.lorddark.club:80/5247/5247/19241
+#EXTINF:-1,H2 HD
+http://lista.lorddark.club:80/5247/5247/833
+#EXTINF:-1,H2 FHD [1]
+http://lista.lorddark.club:80/5247/5247/19007
+#EXTINF:-1,H2 FHD
+http://lista.lorddark.club:80/5247/5247/1009
+#EXTINF:-1,History SD [1]
+http://lista.lorddark.club:80/5247/5247/19252
+#EXTINF:-1,History SD
+http://lista.lorddark.club:80/5247/5247/620
+#EXTINF:-1,History HD [1]
+http://lista.lorddark.club:80/5247/5247/19253
+#EXTINF:-1,History HD
+http://lista.lorddark.club:80/5247/5247/834
+#EXTINF:-1,History FHD [1]
+http://lista.lorddark.club:80/5247/5247/19011
+#EXTINF:-1,History FHD
+http://lista.lorddark.club:80/5247/5247/1008
+#EXTINF:-1,ID - Investigation Discovery SD [1]
+http://lista.lorddark.club:80/5247/5247/19254
+#EXTINF:-1,ID - Investigacao Discovery SD
+http://lista.lorddark.club:80/5247/5247/536
+#EXTINF:-1,ID - Investigation Discovery HD [1]
+http://lista.lorddark.club:80/5247/5247/19255
+#EXTINF:-1,ID - Investigation Discovery HD
+http://lista.lorddark.club:80/5247/5247/835
+#EXTINF:-1,ID - Investigation Discovery FHD [1]
+http://lista.lorddark.club:80/5247/5247/19012
+#EXTINF:-1,ID - Investigation Discovery FHD
+http://lista.lorddark.club:80/5247/5247/1010
+#EXTINF:-1,Love Nature FHD
+http://lista.lorddark.club:80/5247/5247/44913
+#EXTINF:-1,NatGeo SD [1]
+http://lista.lorddark.club:80/5247/5247/19274
+#EXTINF:-1,NatGeo SD
+http://lista.lorddark.club:80/5247/5247/550
+#EXTINF:-1,NatGeo HD [1]
+http://lista.lorddark.club:80/5247/5247/19275
+#EXTINF:-1,NatGeo HD
+http://lista.lorddark.club:80/5247/5247/843
+#EXTINF:-1,NatGeo FHD [1]
+http://lista.lorddark.club:80/5247/5247/19022
+#EXTINF:-1,NatGeo FHD
+http://lista.lorddark.club:80/5247/5247/1019
+#EXTINF:-1,NatGeo Wild SD [1]
+http://lista.lorddark.club:80/5247/5247/19279
+#EXTINF:-1,NatGeo Wild SD
+http://lista.lorddark.club:80/5247/5247/549
+#EXTINF:-1,NatGeo Wild HD [1]
+http://lista.lorddark.club:80/5247/5247/19278
+#EXTINF:-1,NatGeo Wild HD
+http://lista.lorddark.club:80/5247/5247/845
+#EXTINF:-1,NatGeo Wild FHD [1]
+http://lista.lorddark.club:80/5247/5247/19024
+#EXTINF:-1,NatGeo Wild FHD
+http://lista.lorddark.club:80/5247/5247/1020
+#EXTINF:-1,Smithsonian SD [1]
+http://lista.lorddark.club:80/5247/5247/19397
+#EXTINF:-1,Smithsonian HD [1]
+http://lista.lorddark.club:80/5247/5247/19396
+#EXTINF:-1,Smithsonian FHD [1]
+http://lista.lorddark.club:80/5247/5247/19054
+#EXTINF:-1,Arte 1 SD [1]
+http://lista.lorddark.club:80/5247/5247/19152
+#EXTINF:-1,Arte 1 HD [1]
+http://lista.lorddark.club:80/5247/5247/19153
+#EXTINF:-1,Arte 1 FHD [1]
+http://lista.lorddark.club:80/5247/5247/18978
+#EXTINF:-1,Canal Brasil SD [1]
+http://lista.lorddark.club:80/5247/5247/19167
+#EXTINF:-1,Canal Brasil SD
+http://lista.lorddark.club:80/5247/5247/490
+#EXTINF:-1,Canal Brasil HD [1]
+http://lista.lorddark.club:80/5247/5247/19168
+#EXTINF:-1,Canal Brasil HD³
+http://lista.lorddark.club:80/5247/5247/1092
+#EXTINF:-1,Canal Brasil FHD [1]
+http://lista.lorddark.club:80/5247/5247/19048
+#EXTINF:-1,Canal Brasil FHD
+http://lista.lorddark.club:80/5247/5247/971
+#EXTINF:-1,Curta! SD [1]
+http://lista.lorddark.club:80/5247/5247/19180
+#EXTINF:-1,Curta! SD
+http://lista.lorddark.club:80/5247/5247/498
+#EXTINF:-1,Curta! HD [1]
+http://lista.lorddark.club:80/5247/5247/19181
+#EXTINF:-1,Curta! FHD [1]
+http://lista.lorddark.club:80/5247/5247/18987
+#EXTINF:-1,Discovery Home & Health SD [1]
+http://lista.lorddark.club:80/5247/5247/19186
+#EXTINF:-1,Discovery Home & Health SD
+http://lista.lorddark.club:80/5247/5247/500
+#EXTINF:-1,Discovery Home & Health HD [1]
+http://lista.lorddark.club:80/5247/5247/19187
+#EXTINF:-1,Discovery Home & Health HD
+http://lista.lorddark.club:80/5247/5247/803
+#EXTINF:-1,Discovery Home & Health FHD [1]
+http://lista.lorddark.club:80/5247/5247/18989
+#EXTINF:-1,Discovery Home & Health FHD
+http://lista.lorddark.club:80/5247/5247/979
+#EXTINF:-1,DOG TV HD³
+http://lista.lorddark.club:80/5247/5247/48556
+#EXTINF:-1,DOG TV FHD³
+http://lista.lorddark.club:80/5247/5247/48557
+#EXTINF:-1,E! SD [1]
+http://lista.lorddark.club:80/5247/5247/19202
+#EXTINF:-1,E! SD
+http://lista.lorddark.club:80/5247/5247/506
+#EXTINF:-1,E! HD [1]
+http://lista.lorddark.club:80/5247/5247/19203
+#EXTINF:-1,E! HD
+http://lista.lorddark.club:80/5247/5247/811
+#EXTINF:-1,E! HD³
+http://lista.lorddark.club:80/5247/5247/1101
+#EXTINF:-1,E! FHD [1]
+http://lista.lorddark.club:80/5247/5247/18995
+#EXTINF:-1,E! FHD
+http://lista.lorddark.club:80/5247/5247/987
+#EXTINF:-1,Food Network SD [1]
+http://lista.lorddark.club:80/5247/5247/19214
+#EXTINF:-1,Food Network SD
+http://lista.lorddark.club:80/5247/5247/515
+#EXTINF:-1,Food Network HD [1]
+http://lista.lorddark.club:80/5247/5247/19215
+#EXTINF:-1,Food Network HD
+http://lista.lorddark.club:80/5247/5247/816
+#EXTINF:-1,Food Network FHD [1]
+http://lista.lorddark.club:80/5247/5247/18999
+#EXTINF:-1,Food Network FHD
+http://lista.lorddark.club:80/5247/5247/993
+#EXTINF:-1,GNT SD [1]
+http://lista.lorddark.club:80/5247/5247/19238
+#EXTINF:-1,GNT SD
+http://lista.lorddark.club:80/5247/5247/529
+#EXTINF:-1,GNT HD [1]
+http://lista.lorddark.club:80/5247/5247/19239
+#EXTINF:-1,GNT HD
+http://lista.lorddark.club:80/5247/5247/827
+#EXTINF:-1,GNT HD³
+http://lista.lorddark.club:80/5247/5247/1118
+#EXTINF:-1,GNT FHD [1]
+http://lista.lorddark.club:80/5247/5247/19006
+#EXTINF:-1,GNT FHD³
+http://lista.lorddark.club:80/5247/5247/1002
+#EXTINF:-1,HGTV SD [1]
+http://lista.lorddark.club:80/5247/5247/19184
+#EXTINF:-1,HGTV HD [1]
+http://lista.lorddark.club:80/5247/5247/19185
+#EXTINF:-1,HGTV HD
+http://lista.lorddark.club:80/5247/5247/802
+#EXTINF:-1,HGTV FHD [1]
+http://lista.lorddark.club:80/5247/5247/18988
+#EXTINF:-1,HGTV FHD
+http://lista.lorddark.club:80/5247/5247/978
+#EXTINF:-1,Lifetime SD [1]
+http://lista.lorddark.club:80/5247/5247/19256
+#EXTINF:-1,Lifetime SD
+http://lista.lorddark.club:80/5247/5247/538
+#EXTINF:-1,Lifetime HD [1]
+http://lista.lorddark.club:80/5247/5247/19257
+#EXTINF:-1,Lifetime HD
+http://lista.lorddark.club:80/5247/5247/836
+#EXTINF:-1,Lifetime FHD [1]
+http://lista.lorddark.club:80/5247/5247/19013
+#EXTINF:-1,Lifetime FHD
+http://lista.lorddark.club:80/5247/5247/1011
+#EXTINF:-1,Mais Globosat SD [1]
+http://lista.lorddark.club:80/5247/5247/19258
+#EXTINF:-1,Mais Globosat SD
+http://lista.lorddark.club:80/5247/5247/539
+#EXTINF:-1,Mais Globosat HD [1]
+http://lista.lorddark.club:80/5247/5247/19259
+#EXTINF:-1,Mais Globosat HD
+http://lista.lorddark.club:80/5247/5247/825
+#EXTINF:-1,Mais Globosat HD³
+http://lista.lorddark.club:80/5247/5247/1124
+#EXTINF:-1,Mais Globosat FHD [1]
+http://lista.lorddark.club:80/5247/5247/19047
+#EXTINF:-1,Mais Globosat FHD
+http://lista.lorddark.club:80/5247/5247/1012
+#EXTINF:-1,NHK SD
+http://lista.lorddark.club:80/5247/5247/551
+#EXTINF:-1,NHK SD ²
+http://lista.lorddark.club:80/5247/5247/44909
+#EXTINF:-1,NHK World SD
+http://lista.lorddark.club:80/5247/5247/44910
+#EXTINF:-1,NHK World SD ²
+http://lista.lorddark.club:80/5247/5247/44912
+#EXTINF:-1,NHK World HD
+http://lista.lorddark.club:80/5247/5247/44911
+#EXTINF:-1,OFF SD [1]
+http://lista.lorddark.club:80/5247/5247/19285
+#EXTINF:-1,OFF SD
+http://lista.lorddark.club:80/5247/5247/554
+#EXTINF:-1,OFF HD [1]
+http://lista.lorddark.club:80/5247/5247/19286
+#EXTINF:-1,OFF HD
+http://lista.lorddark.club:80/5247/5247/848
+#EXTINF:-1,OFF HD³
+http://lista.lorddark.club:80/5247/5247/1126
+#EXTINF:-1,OFF FHD [1]
+http://lista.lorddark.club:80/5247/5247/19027
+#EXTINF:-1,OFF FHD
+http://lista.lorddark.club:80/5247/5247/1024
+#EXTINF:-1,TLC SD [1]
+http://lista.lorddark.club:80/5247/5247/19346
+#EXTINF:-1,TLC SD
+http://lista.lorddark.club:80/5247/5247/593
+#EXTINF:-1,TLC HD [1]
+http://lista.lorddark.club:80/5247/5247/19347
+#EXTINF:-1,TLC HD
+http://lista.lorddark.club:80/5247/5247/872
+#EXTINF:-1,TLC FHD [1]
+http://lista.lorddark.club:80/5247/5247/19036
+#EXTINF:-1,TLC FHD
+http://lista.lorddark.club:80/5247/5247/1048
+#EXTINF:-1,TruTV SD [1]
+http://lista.lorddark.club:80/5247/5247/19362
+#EXTINF:-1,TruTV SD
+http://lista.lorddark.club:80/5247/5247/598
+#EXTINF:-1,TruTV SD
+http://lista.lorddark.club:80/5247/5247/597
+#EXTINF:-1,TruTV HD [1]
+http://lista.lorddark.club:80/5247/5247/19363
+#EXTINF:-1,TruTV HD³
+http://lista.lorddark.club:80/5247/5247/1152
+#EXTINF:-1,TruTV FHD [1]
+http://lista.lorddark.club:80/5247/5247/19039
+#EXTINF:-1,VIVA SD [1]
+http://lista.lorddark.club:80/5247/5247/19369
+#EXTINF:-1,VIVA SD
+http://lista.lorddark.club:80/5247/5247/616
+#EXTINF:-1,VIVA HD [1]
+http://lista.lorddark.club:80/5247/5247/19370
+#EXTINF:-1,VIVA HD
+http://lista.lorddark.club:80/5247/5247/881
+#EXTINF:-1,VIVA HD³
+http://lista.lorddark.club:80/5247/5247/1153
+#EXTINF:-1,VIVA FHD [1]
+http://lista.lorddark.club:80/5247/5247/19122
+#EXTINF:-1,Woohoo SD [1]
+http://lista.lorddark.club:80/5247/5247/19373
+#EXTINF:-1,Woohoo SD
+http://lista.lorddark.club:80/5247/5247/618
+#EXTINF:-1,Woohoo HD [1]
+http://lista.lorddark.club:80/5247/5247/19374
+#EXTINF:-1,Woohoo FHD [1]
+http://lista.lorddark.club:80/5247/5247/19044
+#EXTINF:-1,Woohoo FHD
+http://lista.lorddark.club:80/5247/5247/1057
+#EXTINF:-1,BIS SD [1]
+http://lista.lorddark.club:80/5247/5247/19163
+#EXTINF:-1,BIS SD
+http://lista.lorddark.club:80/5247/5247/488
+#EXTINF:-1,BIS HD [1]
+http://lista.lorddark.club:80/5247/5247/19164
+#EXTINF:-1,BIS HD
+http://lista.lorddark.club:80/5247/5247/795
+#EXTINF:-1,BIS HD³
+http://lista.lorddark.club:80/5247/5247/1091
+#EXTINF:-1,BIS FHD [1]
+http://lista.lorddark.club:80/5247/5247/19093
+#EXTINF:-1,BIS FHD
+http://lista.lorddark.club:80/5247/5247/969
+#EXTINF:-1,MTV SD [1]
+http://lista.lorddark.club:80/5247/5247/19268
+#EXTINF:-1,MTV SD
+http://lista.lorddark.club:80/5247/5247/544
+#EXTINF:-1,MTV HD [1]
+http://lista.lorddark.club:80/5247/5247/19269
+#EXTINF:-1,MTV HD
+http://lista.lorddark.club:80/5247/5247/841
+#EXTINF:-1,MTV FHD [1]
+http://lista.lorddark.club:80/5247/5247/19018
+#EXTINF:-1,MTV FHD
+http://lista.lorddark.club:80/5247/5247/1017
+#EXTINF:-1,MTV LIVE SD [1]
+http://lista.lorddark.club:80/5247/5247/19376
+#EXTINF:-1,MTV LIVE HD [1]
+http://lista.lorddark.club:80/5247/5247/19377
+#EXTINF:-1,MTV Live FHD [1]
+http://lista.lorddark.club:80/5247/5247/19019
+#EXTINF:-1,Multishow SD [1]
+http://lista.lorddark.club:80/5247/5247/19270
+#EXTINF:-1,Multishow SD
+http://lista.lorddark.club:80/5247/5247/545
+#EXTINF:-1,Multishow HD [1]
+http://lista.lorddark.club:80/5247/5247/19271
+#EXTINF:-1,Multishow HD
+http://lista.lorddark.club:80/5247/5247/842
+#EXTINF:-1,Multishow HD³
+http://lista.lorddark.club:80/5247/5247/1125
+#EXTINF:-1,Multishow FHD [1]
+http://lista.lorddark.club:80/5247/5247/19020
+#EXTINF:-1,Multishow FHD
+http://lista.lorddark.club:80/5247/5247/1018
+#EXTINF:-1,Music Box Brasil SD [1]
+http://lista.lorddark.club:80/5247/5247/19272
+#EXTINF:-1,Music Box Brazil SD
+http://lista.lorddark.club:80/5247/5247/546
+#EXTINF:-1,Music Box Brazil SD ²
+http://lista.lorddark.club:80/5247/5247/547
+#EXTINF:-1,Music Box Brasil HD [1]
+http://lista.lorddark.club:80/5247/5247/19273
+#EXTINF:-1,Music Box Brasil FHD [1]
+http://lista.lorddark.club:80/5247/5247/19021
+#EXTINF:-1,Play TV SD
+http://lista.lorddark.club:80/5247/5247/557
+#EXTINF:-1,Prime Box Brasil SD [1]
+http://lista.lorddark.club:80/5247/5247/19303
+#EXTINF:-1,Prime Box Brazil SD
+http://lista.lorddark.club:80/5247/5247/568
+#EXTINF:-1,Prime Box Brasil HD [1]
+http://lista.lorddark.club:80/5247/5247/19304
+#EXTINF:-1,Prime Box Brasil FHD [1]
+http://lista.lorddark.club:80/5247/5247/19029
+#EXTINF:-1,VH1 SD [1]
+http://lista.lorddark.club:80/5247/5247/19366
+#EXTINF:-1,VH1 HD [1]
+http://lista.lorddark.club:80/5247/5247/19367
+#EXTINF:-1,VH1 HD
+http://lista.lorddark.club:80/5247/5247/880
+#EXTINF:-1,VH1 FHD [1]
+http://lista.lorddark.club:80/5247/5247/19042
+#EXTINF:-1,VH1 FHD
+http://lista.lorddark.club:80/5247/5247/1055
+#EXTINF:-1,VH1 MegaHits SD [1]
+http://lista.lorddark.club:80/5247/5247/19368
+#EXTINF:-1,VH1 MegaHits SD
+http://lista.lorddark.club:80/5247/5247/615
+#EXTINF:-1,BAND News SD¹
+http://lista.lorddark.club:80/5247/5247/19159
+#EXTINF:-1,BAND News SD²
+http://lista.lorddark.club:80/5247/5247/486
+#EXTINF:-1,BAND News SD³
+http://lista.lorddark.club:80/5247/5247/201361
+#EXTINF:-1,BAND News HD
+http://lista.lorddark.club:80/5247/5247/201347
+#EXTINF:-1,BAND News HD¹
+http://lista.lorddark.club:80/5247/5247/19160
+#EXTINF:-1,BAND News HD²
+http://lista.lorddark.club:80/5247/5247/201346
+#EXTINF:-1,BAND News FHD
+http://lista.lorddark.club:80/5247/5247/967
+#EXTINF:-1,BAND News FHD¹
+http://lista.lorddark.club:80/5247/5247/18980
+#EXTINF:-1,BAND News FHD²
+http://lista.lorddark.club:80/5247/5247/201362
+#EXTINF:-1,CNN Brasil SD
+http://lista.lorddark.club:80/5247/5247/201348
+#EXTINF:-1,CNN Brasil SD²
+http://lista.lorddark.club:80/5247/5247/201349
+#EXTINF:-1,CNN Brasil SD³
+http://lista.lorddark.club:80/5247/5247/201357
+#EXTINF:-1,CNN Brasil HD
+http://lista.lorddark.club:80/5247/5247/27001
+#EXTINF:-1,CNN Brasil HD¹
+http://lista.lorddark.club:80/5247/5247/27003
+#EXTINF:-1,CNN Brasil HD²
+http://lista.lorddark.club:80/5247/5247/201358
+#EXTINF:-1,CNN Brasil FHD
+http://lista.lorddark.club:80/5247/5247/27002
+#EXTINF:-1,CNN Brasil FHD¹
+http://lista.lorddark.club:80/5247/5247/27004
+#EXTINF:-1,CNN Brasil FHD²
+http://lista.lorddark.club:80/5247/5247/201359
+#EXTINF:-1,CNN Brasil FHD³
+http://lista.lorddark.club:80/5247/5247/201360
+#EXTINF:-1,Globo News SD
+http://lista.lorddark.club:80/5247/5247/524
+#EXTINF:-1,Globo News SD¹
+http://lista.lorddark.club:80/5247/5247/19232
+#EXTINF:-1,Globo News SD²
+http://lista.lorddark.club:80/5247/5247/201364
+#EXTINF:-1,Globo News SD³
+http://lista.lorddark.club:80/5247/5247/201365
+#EXTINF:-1,Globo News HD
+http://lista.lorddark.club:80/5247/5247/824
+#EXTINF:-1,Globo News HD¹
+http://lista.lorddark.club:80/5247/5247/19233
+#EXTINF:-1,Globo News HD²
+http://lista.lorddark.club:80/5247/5247/201366
+#EXTINF:-1,Globo News HD³
+http://lista.lorddark.club:80/5247/5247/1112
+#EXTINF:-1,Globo News FHD
+http://lista.lorddark.club:80/5247/5247/1000
+#EXTINF:-1,Globo News FHD¹
+http://lista.lorddark.club:80/5247/5247/19102
+#EXTINF:-1,Globo News FHD²
+http://lista.lorddark.club:80/5247/5247/48570
+#EXTINF:-1,Record News SD
+http://lista.lorddark.club:80/5247/5247/570
+#EXTINF:-1,Record News SD¹
+http://lista.lorddark.club:80/5247/5247/19307
+#EXTINF:-1,Record News SD³
+http://lista.lorddark.club:80/5247/5247/201368
+#EXTINF:-1,Record News SD²
+http://lista.lorddark.club:80/5247/5247/201367
+#EXTINF:-1,Record News HD¹
+http://lista.lorddark.club:80/5247/5247/19308
+#EXTINF:-1,Record News HD³
+http://lista.lorddark.club:80/5247/5247/1132
+#EXTINF:-1,Record News FHD¹
+http://lista.lorddark.club:80/5247/5247/19030
+#EXTINF:-1,Record News FHD²
+http://lista.lorddark.club:80/5247/5247/201369
+#EXTINF:-1,Boa Vontade TV FHD [1]
+http://lista.lorddark.club:80/5247/5247/19055
+#EXTINF:-1,Cancao Nova SD
+http://lista.lorddark.club:80/5247/5247/493
+#EXTINF:-1,Cancao Nova
+http://lista.lorddark.club:80/5247/5247/19171
+#EXTINF:-1,Novo Tempo SD
+http://lista.lorddark.club:80/5247/5247/622
+#EXTINF:-1,Rede Vida SD [1]
+http://lista.lorddark.club:80/5247/5247/19314
+#EXTINF:-1,Rede Vida SD
+http://lista.lorddark.club:80/5247/5247/575
+#EXTINF:-1,Rede Vida HD [1]
+http://lista.lorddark.club:80/5247/5247/19380
+#EXTINF:-1,Rede Vida HD³
+http://lista.lorddark.club:80/5247/5247/1136
+#EXTINF:-1,Rede Vida FHD [1]
+http://lista.lorddark.club:80/5247/5247/19051
+#EXTINF:-1,TV Aparecida SD
+http://lista.lorddark.club:80/5247/5247/600
+#EXTINF:-1,TV Evangelizar
+http://lista.lorddark.club:80/5247/5247/771
+#EXTINF:-1,AeE FHD H265
+http://lista.lorddark.club:80/5247/5247/48552
+#EXTINF:-1,AeE FHD H265³
+http://lista.lorddark.club:80/5247/5247/48574
+#EXTINF:-1,AeE FHD H265³¹
+http://lista.lorddark.club:80/5247/5247/48559
+#EXTINF:-1,AeE FHD H265 ***
+http://lista.lorddark.club:80/5247/5247/48558
+#EXTINF:-1,AMC FHD H265 *
+http://lista.lorddark.club:80/5247/5247/48564
+#EXTINF:-1,Animal Planet FHD H265
+http://lista.lorddark.club:80/5247/5247/48550
+#EXTINF:-1,Animal Planet 4K³
+http://lista.lorddark.club:80/5247/5247/48617
+#EXTINF:-1,Discovery Channel 4K³
+http://lista.lorddark.club:80/5247/5247/48620
+#EXTINF:-1,AMC FHD H265
+http://lista.lorddark.club:80/5247/5247/48551
+#EXTINF:-1,AXN FHD H265
+http://lista.lorddark.club:80/5247/5247/48549
+#EXTINF:-1,Band 4K³
+http://lista.lorddark.club:80/5247/5247/48625
+#EXTINF:-1,Band TV Goiania FHD H265
+http://lista.lorddark.club:80/5247/5247/48463
+#EXTINF:-1,Band News H.265
+http://lista.lorddark.club:80/5247/5247/48548
+#EXTINF:-1,Band News H.265³
+http://lista.lorddark.club:80/5247/5247/201363
+#EXTINF:-1,BandSports H.265
+http://lista.lorddark.club:80/5247/5247/48547
+#EXTINF:-1,Star Wars: Episódio 2 - Ataque dos Clones (2002)
+http://lista.lorddark.club:80/5247/5247/201436
+#EXTINF:-1,BIS FHD H265
+http://lista.lorddark.club:80/5247/5247/48546
+#EXTINF:-1,Boomerang FHD H265
+http://lista.lorddark.club:80/5247/5247/48545
+#EXTINF:-1,Canal Brasil FHD H265
+http://lista.lorddark.club:80/5247/5247/48544
+#EXTINF:-1,Canal Sony FHD H265
+http://lista.lorddark.club:80/5247/5247/48543
+#EXTINF:-1,Canal Sony FHD H265 *
+http://lista.lorddark.club:80/5247/5247/48595
+#EXTINF:-1,Cartoon Network FHD H265
+http://lista.lorddark.club:80/5247/5247/48542
+#EXTINF:-1,Cartoon Network 4K *
+http://lista.lorddark.club:80/5247/5247/48614
+#EXTINF:-1,Cinemax FHD H265
+http://lista.lorddark.club:80/5247/5247/48541
+#EXTINF:-1,Combate  H.265
+http://lista.lorddark.club:80/5247/5247/48540
+#EXTINF:-1,Combate  H.265²
+http://lista.lorddark.club:80/5247/5247/48576
+#EXTINF:-1,Combate 4K²
+http://lista.lorddark.club:80/5247/5247/48624
+#EXTINF:-1,Comedy Central FHD H265
+http://lista.lorddark.club:80/5247/5247/48539
+#EXTINF:-1,Comedy Central FHD H265³
+http://lista.lorddark.club:80/5247/5247/48563
+#EXTINF:-1,Discovery Channel FHD H265
+http://lista.lorddark.club:80/5247/5247/48538
+#EXTINF:-1,Discovery Channel FHD H265³
+http://lista.lorddark.club:80/5247/5247/48561
+#EXTINF:-1,Discovery Home e Health FHD H265
+http://lista.lorddark.club:80/5247/5247/48536
+#EXTINF:-1,Discovery Kids FHD H265
+http://lista.lorddark.club:80/5247/5247/48535
+#EXTINF:-1,Discovery Science FHD H265
+http://lista.lorddark.club:80/5247/5247/48534
+#EXTINF:-1,Discovery Theater FHD H265
+http://lista.lorddark.club:80/5247/5247/48533
+#EXTINF:-1,Discovery Turbo FHD H265
+http://lista.lorddark.club:80/5247/5247/48532
+#EXTINF:-1,Discovery World FHD H265
+http://lista.lorddark.club:80/5247/5247/48531
+#EXTINF:-1,Disney Channel FHD H265
+http://lista.lorddark.club:80/5247/5247/48530
+#EXTINF:-1,Disney Junior FHD H265
+http://lista.lorddark.club:80/5247/5247/48529
+#EXTINF:-1,E! FHD H265
+http://lista.lorddark.club:80/5247/5247/48528
+#EXTINF:-1,E! FHD H265 *
+http://lista.lorddark.club:80/5247/5247/48562
+#EXTINF:-1,ESPN H.265
+http://lista.lorddark.club:80/5247/5247/48526
+#EXTINF:-1,ESPN 4K²
+http://lista.lorddark.club:80/5247/5247/48610
+#EXTINF:-1,ESPN Extra FHD H265
+http://lista.lorddark.club:80/5247/5247/48527
+#EXTINF:-1,ESPN 2 H.265
+http://lista.lorddark.club:80/5247/5247/48525
+#EXTINF:-1,ESPN Brasil H.265
+http://lista.lorddark.club:80/5247/5247/48524
+#EXTINF:-1,FishTV FHD H265
+http://lista.lorddark.club:80/5247/5247/48523
+#EXTINF:-1,Fish TV H.265³
+http://lista.lorddark.club:80/5247/5247/201397
+#EXTINF:-1,Food Network FHD H265
+http://lista.lorddark.club:80/5247/5247/48522
+#EXTINF:-1,Food Network FHD H265 *
+http://lista.lorddark.club:80/5247/5247/48580
+#EXTINF:-1,Fox FHD H265
+http://lista.lorddark.club:80/5247/5247/48521
+#EXTINF:-1,Fox 4K *
+http://lista.lorddark.club:80/5247/5247/48598
+#EXTINF:-1,Fox Premium 1 FHD H265
+http://lista.lorddark.club:80/5247/5247/48520
+#EXTINF:-1,Fox Premium 1 FHD H265 *
+http://lista.lorddark.club:80/5247/5247/48578
+#EXTINF:-1,Fox Premium 2 FHD H265
+http://lista.lorddark.club:80/5247/5247/48519
+#EXTINF:-1,Fox Premium 2 FHD H265³
+http://lista.lorddark.club:80/5247/5247/48577
+#EXTINF:-1,Fox Sports H.265
+http://lista.lorddark.club:80/5247/5247/48518
+#EXTINF:-1,Fox Sports H.265²
+http://lista.lorddark.club:80/5247/5247/48560
+#EXTINF:-1,Fox Sports 2 H.265
+http://lista.lorddark.club:80/5247/5247/48517
+#EXTINF:-1,Fox Sports 2 H.265³
+http://lista.lorddark.club:80/5247/5247/201430
+#EXTINF:-1,Fox Sports 2 4K²
+http://lista.lorddark.club:80/5247/5247/48612
+#EXTINF:-1,Fox Sports 4K²
+http://lista.lorddark.club:80/5247/5247/201431
+#EXTINF:-1,FX FHD H265
+http://lista.lorddark.club:80/5247/5247/48516
+#EXTINF:-1,FX FHD H265 *
+http://lista.lorddark.club:80/5247/5247/48594
+#EXTINF:-1,Gazeta 4K *
+http://lista.lorddark.club:80/5247/5247/48604
+#EXTINF:-1,Globo SP FHD H265³
+http://lista.lorddark.club:80/5247/5247/48575
+#EXTINF:-1,Globo 4K³
+http://lista.lorddark.club:80/5247/5247/48623
+#EXTINF:-1,Globo News H.265³
+http://lista.lorddark.club:80/5247/5247/48515
+#EXTINF:-1,Gloob FHD H265
+http://lista.lorddark.club:80/5247/5247/48514
+#EXTINF:-1,GNT FHD H265
+http://lista.lorddark.club:80/5247/5247/48513
+#EXTINF:-1,H2 FHD H265
+http://lista.lorddark.club:80/5247/5247/48506
+#EXTINF:-1,HBO H.265
+http://lista.lorddark.club:80/5247/5247/48511
+#EXTINF:-1,HBO H.265³
+http://lista.lorddark.club:80/5247/5247/48596
+#EXTINF:-1,HBO 4K *
+http://lista.lorddark.club:80/5247/5247/48606
+#EXTINF:-1,HBO 2 H.265
+http://lista.lorddark.club:80/5247/5247/48508
+#EXTINF:-1,HBO Xtreme FHD H265
+http://lista.lorddark.club:80/5247/5247/48501
+#EXTINF:-1,HBO Xtreme 4K³
+http://lista.lorddark.club:80/5247/5247/48600
+#EXTINF:-1,HBO Familly FHD H265
+http://lista.lorddark.club:80/5247/5247/48512
+#EXTINF:-1,HBO Mundi FHD H265
+http://lista.lorddark.club:80/5247/5247/48502
+#EXTINF:-1,HBO Mundi FHD H265³
+http://lista.lorddark.club:80/5247/5247/48589
+#EXTINF:-1,HBO Plus FHD H265
+http://lista.lorddark.club:80/5247/5247/48510
+#EXTINF:-1,HBO Pop FHD H265
+http://lista.lorddark.club:80/5247/5247/48500
+#EXTINF:-1,HBO Pop FHD H265 *
+http://lista.lorddark.club:80/5247/5247/48592
+#EXTINF:-1,HBO Signature FHD H265
+http://lista.lorddark.club:80/5247/5247/48509
+#EXTINF:-1,HBO Xtreme FHD H265 *
+http://lista.lorddark.club:80/5247/5247/48590
+#EXTINF:-1,History FHD H265
+http://lista.lorddark.club:80/5247/5247/48507
+#EXTINF:-1,History FHD H265 *
+http://lista.lorddark.club:80/5247/5247/48569
+#EXTINF:-1,HGTV FHD H265
+http://lista.lorddark.club:80/5247/5247/48537
+#EXTINF:-1,HGTV FHD H265 *
+http://lista.lorddark.club:80/5247/5247/48581
+#EXTINF:-1,ID - Investigation Discovery FHD H265
+http://lista.lorddark.club:80/5247/5247/48505
+#EXTINF:-1,ID - Investigation Discovery FHD H265 *
+http://lista.lorddark.club:80/5247/5247/48568
+#EXTINF:-1,Lifetime FHD H265
+http://lista.lorddark.club:80/5247/5247/48504
+#EXTINF:-1,Mais Globosat FHD H265
+http://lista.lorddark.club:80/5247/5247/48503
+#EXTINF:-1,Megapix FHD H265
+http://lista.lorddark.club:80/5247/5247/48499
+#EXTINF:-1,Megapix FHD H265 *
+http://lista.lorddark.club:80/5247/5247/48591
+#EXTINF:-1,Megapix 4K *
+http://lista.lorddark.club:80/5247/5247/48613
+#EXTINF:-1,MTV FHD H265
+http://lista.lorddark.club:80/5247/5247/48498
+#EXTINF:-1,Multishow FHD H265
+http://lista.lorddark.club:80/5247/5247/48497
+#EXTINF:-1,Multishow 4K *
+http://lista.lorddark.club:80/5247/5247/48615
+#EXTINF:-1,NatGeo FHD H265
+http://lista.lorddark.club:80/5247/5247/48496
+#EXTINF:-1,NatGeo 4K³
+http://lista.lorddark.club:80/5247/5247/48611
+#EXTINF:-1,NatGeo Wild FHD H265
+http://lista.lorddark.club:80/5247/5247/48495
+#EXTINF:-1,NatGeo Kids FHD H265
+http://lista.lorddark.club:80/5247/5247/48494
+#EXTINF:-1,Nick FHD H265
+http://lista.lorddark.club:80/5247/5247/48493
+#EXTINF:-1,Nick Jr FHD H265
+http://lista.lorddark.club:80/5247/5247/48492
+#EXTINF:-1,OFF FHD H265
+http://lista.lorddark.club:80/5247/5247/48491
+#EXTINF:-1,OFF FHD H265 *
+http://lista.lorddark.club:80/5247/5247/48579
+#EXTINF:-1,Paramount FHD H265
+http://lista.lorddark.club:80/5247/5247/48490
+#EXTINF:-1,Premiere Clubes FHD H265
+http://lista.lorddark.club:80/5247/5247/48489
+#EXTINF:-1,Premiere Clubes FHD H265 *
+http://lista.lorddark.club:80/5247/5247/48572
+#EXTINF:-1,Premiere Clubes 4K³
+http://lista.lorddark.club:80/5247/5247/48621
+#EXTINF:-1,Premiere 2 FHD H265
+http://lista.lorddark.club:80/5247/5247/48488
+#EXTINF:-1,Premiere 3 FHD H265
+http://lista.lorddark.club:80/5247/5247/48487
+#EXTINF:-1,Premiere 4 FHD H265
+http://lista.lorddark.club:80/5247/5247/48486
+#EXTINF:-1,Premiere 5 FHD H265
+http://lista.lorddark.club:80/5247/5247/48485
+#EXTINF:-1,Premiere 6 FHD H265
+http://lista.lorddark.club:80/5247/5247/48484
+#EXTINF:-1,Premiere 7 FHD H265
+http://lista.lorddark.club:80/5247/5247/48483
+#EXTINF:-1,Record 4K³
+http://lista.lorddark.club:80/5247/5247/48622
+#EXTINF:-1,Record TV Goiania FHD H265
+http://lista.lorddark.club:80/5247/5247/48482
+#EXTINF:-1,RedeTV! FHD H265
+http://lista.lorddark.club:80/5247/5247/48481
+#EXTINF:-1,RedeTV! 4K *
+http://lista.lorddark.club:80/5247/5247/48607
+#EXTINF:-1,RedeTV! 4K **
+http://lista.lorddark.club:80/5247/5247/48605
+#EXTINF:-1,SBT 4K *
+http://lista.lorddark.club:80/5247/5247/48618
+#EXTINF:-1,SBT TV Serra Dourada FHD H265
+http://lista.lorddark.club:80/5247/5247/48462
+#EXTINF:-1,Space FHD H265
+http://lista.lorddark.club:80/5247/5247/48480
+#EXTINF:-1,Space FHD H265 *
+http://lista.lorddark.club:80/5247/5247/48588
+#EXTINF:-1,Space 4K³
+http://lista.lorddark.club:80/5247/5247/48609
+#EXTINF:-1,SporTV H.265
+http://lista.lorddark.club:80/5247/5247/48477
+#EXTINF:-1,SporTV H.265²
+http://lista.lorddark.club:80/5247/5247/48567
+#EXTINF:-1,SporTV 4K²
+http://lista.lorddark.club:80/5247/5247/48616
+#EXTINF:-1,SporTV 2 H265
+http://lista.lorddark.club:80/5247/5247/48479
+#EXTINF:-1,SporTV 2 H265³
+http://lista.lorddark.club:80/5247/5247/201412
+#EXTINF:-1,SporTV 3 H.265
+http://lista.lorddark.club:80/5247/5247/48478
+#EXTINF:-1,SporTV 3 H.265²
+http://lista.lorddark.club:80/5247/5247/48566
+#EXTINF:-1,Studio Universal FHD H265
+http://lista.lorddark.club:80/5247/5247/48476
+#EXTINF:-1,SYFY FHD H265
+http://lista.lorddark.club:80/5247/5247/48475
+#EXTINF:-1,TBS FHD H265
+http://lista.lorddark.club:80/5247/5247/48474
+#EXTINF:-1,Telecine Action H.265
+http://lista.lorddark.club:80/5247/5247/48473
+#EXTINF:-1,Telecine Action  H.265³
+http://lista.lorddark.club:80/5247/5247/48555
+#EXTINF:-1,Telecine Cult H.265
+http://lista.lorddark.club:80/5247/5247/48472
+#EXTINF:-1,Telecine Fun H.265
+http://lista.lorddark.club:80/5247/5247/48471
+#EXTINF:-1,Telecine Fun H.265²
+http://lista.lorddark.club:80/5247/5247/48573
+#EXTINF:-1,Telecine Pipoca H.265
+http://lista.lorddark.club:80/5247/5247/48470
+#EXTINF:-1,Telecine Pipoca H.265²
+http://lista.lorddark.club:80/5247/5247/48586
+#EXTINF:-1,Telecine Pipoca 4K²
+http://lista.lorddark.club:80/5247/5247/48599
+#EXTINF:-1,Telecine Premium H.265
+http://lista.lorddark.club:80/5247/5247/48469
+#EXTINF:-1,Telecine Premium  H.265²
+http://lista.lorddark.club:80/5247/5247/48584
+#EXTINF:-1,Telecine Premium 4K²
+http://lista.lorddark.club:80/5247/5247/48608
+#EXTINF:-1,Telecine Touch  H.265
+http://lista.lorddark.club:80/5247/5247/48468
+#EXTINF:-1,TLC FHD H265
+http://lista.lorddark.club:80/5247/5247/48467
+#EXTINF:-1,TNT FHD H265
+http://lista.lorddark.club:80/5247/5247/48466
+#EXTINF:-1,TNT 4K *
+http://lista.lorddark.club:80/5247/5247/48602
+#EXTINF:-1,TNT Series FHD H265
+http://lista.lorddark.club:80/5247/5247/48465
+#EXTINF:-1,TNT Series FHD H265 *
+http://lista.lorddark.club:80/5247/5247/48587
+#EXTINF:-1,TNT Series 4K *
+http://lista.lorddark.club:80/5247/5247/48601
+#EXTINF:-1,Tv Anhaguera FHD H265
+http://lista.lorddark.club:80/5247/5247/48464
+#EXTINF:-1,Universal Tv FHD H265
+http://lista.lorddark.club:80/5247/5247/48461
+#EXTINF:-1,Universal TV FHD H265 *
+http://lista.lorddark.club:80/5247/5247/48565
+#EXTINF:-1,VH1 FHD H265
+http://lista.lorddark.club:80/5247/5247/48460
+#EXTINF:-1,Warner FHD H265
+http://lista.lorddark.club:80/5247/5247/48459
+#EXTINF:-1,Warner FHD H265 *
+http://lista.lorddark.club:80/5247/5247/48585
+#EXTINF:-1,Woohoo FHD H265
+http://lista.lorddark.club:80/5247/5247/48458
