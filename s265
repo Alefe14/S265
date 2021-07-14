@@ -285,7 +285,395 @@ https://cdn.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/playlist.m3u8
 http://evpp.mm.uol.com.br:1935/band_live/terraviva/playlist.m3u8
 #EXTINF:-1,CANAL RURAL
 https://5fa18afd2e74c.streamlock.net/live/smil:canalrural.smil/playlist.m3u8
-#EXTM3U
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Baby TV HD
+http://pascaltv.site:8080/F12611/b199b47b/8922?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Band FHD
+http://tv.factoryiptv.com:80/xKkHz2Jckd/factoryiptv/38429?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Band HD
+http://tv.factoryiptv.com:80/xKkHz2Jckd/factoryiptv/36990?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",CANAL SONY FHD
+http://tv1.cs10.tv:80/leopoldo/leopoldo/355?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",CANAL SONY HD
+http://tv1.cs10.tv:80/leopoldo/leopoldo/356?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",CARTOON NETWORK
+http://mains.services:2086/live/mikekoot/1757909/92719.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="https://i.imgur.com/FZwHq8k.png" group-title="News",CBN São Paulo
+https://medias.sgr.globo.com/hls/vCBNSP/vCBNSP.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="https://listaiptv.gratis/logos/imagens/cctv1.png" group-title="Undefined",CCTV
+https://cctvcnchwh5ca.v.cdn20.com/live/cctv1_2/index.m3u8?contentid=2820180516001&checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="https://listaiptv.gratis/logos/imagens/cctv13.png" group-title="Undefined",CCTV Notícias
+https://cctvcnchwh5ca.v.cdn20.com/live/cctv13_2/index.m3u8?contentid=2820180516001&checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",CINE BRASIL
+http://168.205.87.198:8555/live/elienecp/123456/145.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",CINE SKY PLAY 1
+http://tv1.cs10.tv:80/leopoldo/leopoldo/57586?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",CINE SKY PLAY 2
+http://tv1.cs10.tv:80/leopoldo/leopoldo/57587?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",CINE SKY PLAY 3
+http://tv1.cs10.tv:80/leopoldo/leopoldo/57588?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",CINE SKY PLAY 4
+http://tv1.cs10.tv:80/leopoldo/leopoldo/57589?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",CINE SKY PLAY 5
+http://tv1.cs10.tv:80/leopoldo/leopoldo/57590?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",CINE SKY PLAY 6
+http://tv1.cs10.tv:80/leopoldo/leopoldo/57591?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",CINE SKY PLAY 8
+http://tv1.cs10.tv:80/leopoldo/leopoldo/57593?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",CINE SKY PLAY 9
+http://tv1.cs10.tv:80/leopoldo/leopoldo/57594?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",CINE+
+http://pascaltv.site:8080/F12611/b199b47b/7335?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",CINEMAX
+http://mains.services:2086/live/mikekoot/1757909/92718.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",CINEMAX - H265
+http://tv.factoryiptv.com:80/xKkHz2Jckd/factoryiptv/50535?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",CINEMAX FHD
+http://tv1.cs10.tv:80/leopoldo/leopoldo/370?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",CINEMAX HD
+http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/28906?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",CNN Brasil HD
+http://pascaltv.site:8080/F12611/b199b47b/148404?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="https://listaiptv.gratis/logos/imagens/cnt.png" group-title="Undefined",CNT
+https://dd8umsy8yf96u.cloudfront.net/live/cnt-curitiba.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",COMBATE
+http://mains.services:2086/live/mikekoot/1757909/92717.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",COMBATE FHD
+http://tv1.cs10.tv:80/leopoldo/leopoldo/141?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",COMBATE H265
+http://tv.factoryiptv.com:80/xKkHz2Jckd/factoryiptv/50536?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",COMEDY CENTRAL FHD
+http://tv1.cs10.tv:80/leopoldo/leopoldo/6241?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",COMEDY CENTRAL HD
+http://tv1.cs10.tv:80/leopoldo/leopoldo/387?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",CONMEBOL TV 01 HD
+http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/242154?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",CONMEBOL TV 02 HD
+http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/242155?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",CONMEBOL TV 03 HD
+http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/242156?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",CONMEBOL TV 04 HD
+http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/242157?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",CONMEBOL TV 1 HD
+http://rv.flysat.live:80/307210013157/307210013157/82348?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",CULT
+http://168.205.87.198:8555/live/elienecp/123456/30.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",CURTA [ALT]
+http://tv.factoryiptv.com:80/xKkHz2Jckd/factoryiptv/50676?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Canal Brasil FHD
+http://tv.factoryiptv.com:80/xKkHz2Jckd/factoryiptv/41517?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",DAZN 1 HD
+http://tv.factoryiptv.com:80/xKkHz2Jckd/factoryiptv/58130?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",DAZN 2 HD
+http://tv.factoryiptv.com:80/xKkHz2Jckd/factoryiptv/58433?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",DAZN HD 3
+http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/241924?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",DAZN HD 4
+http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/241925?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",DISCOVERY CHANNEL
+http://mains.services:2086/live/mikekoot/1757909/92734.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",DISCOVERY CHANNEL FHD
+http://tv1.cs10.tv:80/leopoldo/leopoldo/482?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",DISCOVERY CHANNEL HD
+http://tv1.cs10.tv:80/leopoldo/leopoldo/484?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",E! FHD
+http://tv.factoryiptv.com:80/xKkHz2Jckd/factoryiptv/41476?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",Esporte Interativo HD
+http://tv.factoryiptv.com:80/xKkHz2Jckd/factoryiptv/61879?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="https://listaiptv.gratis/logos/imagens/futura.png" group-title="Undefined",FDR - Futura (CE)
+http://stmv1.transmissaodigital.com/ronald6259/ronald6259/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",FISH TV
+http://168.205.87.198:8555/live/elienecp/123456/62.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",FOOD NETWORK
+http://mains.services:2086/live/mikekoot/1757909/92700.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",FORMULA 1 TV
+http://tv1.cs10.tv:80/leopoldo/leopoldo/57181?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",FOX
+http://mains.services:2086/live/mikekoot/1757909/92699.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",FOX Crime
+http://pascaltv.site:8080/F12611/b199b47b/16366?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",FOX FHD
+http://tv1.cs10.tv:80/leopoldo/leopoldo/338?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",FOX HD
+http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/28904?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",FOX LIFE FHD
+http://tv1.cs10.tv:80/leopoldo/leopoldo/7643?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",FOX LIFE HD
+http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/28903?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",FOX PREMIUM 1
+http://mains.services:2086/live/mikekoot/1757909/92697.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",FOX PREMIUM 1 FHD
+http://tv1.cs10.tv:80/leopoldo/leopoldo/344?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",FOX PREMIUM 2 FHD
+http://tv1.cs10.tv:80/leopoldo/leopoldo/347?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",FOX SPORTS - H265
+http://tv.factoryiptv.com:80/xKkHz2Jckd/factoryiptv/51241?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",FOX SPORTS 2 FHD
+http://tv1.cs10.tv:80/leopoldo/leopoldo/4064?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",FOX SPORTS 2
+http://mains.services:2086/live/mikekoot/1757909/92695.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",FOX SPORTS HD
+http://tv1.cs10.tv:80/leopoldo/leopoldo/130?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",FOX SPORTS FHD
+http://tv1.cs10.tv:80/leopoldo/leopoldo/128?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",FX FHD
+http://tv.factoryiptv.com:80/xKkHz2Jckd/factoryiptv/41482?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",FX HD
+http://tv1.cs10.tv:80/leopoldo/leopoldo/353?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Film&Arts FHD
+http://tv.factoryiptv.com:80/xKkHz2Jckd/factoryiptv/61965?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",FilmBox Extra HD
+http://pascaltv.site:8080/F12611/b199b47b/16377?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",FoxSports
+http://tv.factoryiptv.com:80/xKkHz2Jckd/factoryiptv/37099?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",FoxSports 2 [4K]
+http://tv.factoryiptv.com:80/xKkHz2Jckd/factoryiptv/61847?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",GNT FHD
+http://tv1.cs10.tv:80/leopoldo/leopoldo/2509?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",GNT HD
+http://tv1.cs10.tv:80/leopoldo/leopoldo/426?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",H2
+http://mains.services:2086/live/mikekoot/1757909/92684.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",H2 FHD
+http://tv1.cs10.tv:80/leopoldo/leopoldo/518?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",H2 HD
+http://tv1.cs10.tv:80/leopoldo/leopoldo/519?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",HBO
+http://mains.services:2086/live/mikekoot/1757909/92680.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",HBO 2
+http://tv.factoryiptv.com:80/xKkHz2Jckd/factoryiptv/37086?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",HBO 2 FHD
+http://tv1.cs10.tv:80/leopoldo/leopoldo/298?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",HBO 2 HD [ALT]
+http://tv.factoryiptv.com:80/xKkHz2Jckd/factoryiptv/50788?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",HBO EXTREME HD
+http://tv1.cs10.tv:80/leopoldo/leopoldo/329?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",HBO FAMILY FHD
+http://tv1.cs10.tv:80/leopoldo/leopoldo/310?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",HBO FAMILY HD
+http://tv1.cs10.tv:80/leopoldo/leopoldo/311?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",HBO FHD
+http://tv.factoryiptv.com:80/xKkHz2Jckd/factoryiptv/61972?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",HBO MUNDI HD
+http://tv1.cs10.tv:80/leopoldo/leopoldo/321?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",HBO PLUS HD
+http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/28913?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",HBO PLUS HD  [ALT]
+http://tv.factoryiptv.com:80/xKkHz2Jckd/factoryiptv/51151?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",HBO PLUS- H265
+http://tv.factoryiptv.com:80/xKkHz2Jckd/factoryiptv/51246?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",HBO POP FHD
+http://tv.factoryiptv.com:80/xKkHz2Jckd/factoryiptv/40270?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",HBO POP HD
+http://tv.factoryiptv.com:80/xKkHz2Jckd/factoryiptv/36911?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",HBO SIGNATURE - H265
+http://tv.factoryiptv.com:80/xKkHz2Jckd/factoryiptv/51247?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",HBO SIGNATURE HD
+http://tv1.cs10.tv:80/leopoldo/leopoldo/316?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",HBO Xtreme HD
+http://tv.factoryiptv.com:80/xKkHz2Jckd/factoryiptv/36912?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",HGTV FHD
+http://tv1.cs10.tv:80/leopoldo/leopoldo/497?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",HGTV HD
+http://tv1.cs10.tv:80/leopoldo/leopoldo/498?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",HISTORY CHANNEL [ALT]
+http://tv.factoryiptv.com:80/xKkHz2Jckd/factoryiptv/50799?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",HISTORY HD
+http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/28838?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",ID - INVESTIGACAO DISCOVERY FHD
+http://tv1.cs10.tv:80/leopoldo/leopoldo/479?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",ID - INVESTIGACAO DISCOVERY HD
+http://tv1.cs10.tv:80/leopoldo/leopoldo/480?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="https://i1.wp.com/itu.tv.br/wp-content/uploads/2020/03/cropped-favicon.png" group-title="Local;Undefined",Itú TV,ITV
+http://tv02.logicahost.com.br:1935/itutv/itutv/live.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",LIFETIME - H265
+http://tv.factoryiptv.com:80/xKkHz2Jckd/factoryiptv/51251?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",LIFETIME
+http://mains.services:2086/live/mikekoot/1757909/92675.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",LIFETIME HD
+http://tv1.cs10.tv:80/leopoldo/leopoldo/438?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Lifetime HD
+http://tv.factoryiptv.com:80/xKkHz2Jckd/factoryiptv/36914?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",MAIS GLOBOSAT [ALT]
+http://tv.factoryiptv.com:80/xKkHz2Jckd/factoryiptv/50838?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",MEGAPIX FHD
+http://tv1.cs10.tv:80/leopoldo/leopoldo/269?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",MEGAPIX HD
+http://tv1.cs10.tv:80/leopoldo/leopoldo/270?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",MTV - H265
+http://tv.factoryiptv.com:80/xKkHz2Jckd/factoryiptv/51252?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",MTV FHD
+http://tv1.cs10.tv:80/leopoldo/leopoldo/461?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",MULTISHOW H265
+http://tv.factoryiptv.com:80/xKkHz2Jckd/factoryiptv/51253?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",MULTISHOW HD
+http://tv1.cs10.tv:80/leopoldo/leopoldo/454?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Music",MUSIC BOX BRASIL [ALT]
+http://tv.factoryiptv.com:80/xKkHz2Jckd/factoryiptv/50859?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",NAT GEO
+http://168.205.87.198:8555/live/elienecp/123456/78.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Kids",NAT GEO KIDS FHD
+http://tv1.cs10.tv:80/leopoldo/leopoldo/543?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",NAT GEO WILD FHD
+http://tv1.cs10.tv:80/leopoldo/leopoldo/505?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",NAT GEO WILD HD
+http://tv1.cs10.tv:80/leopoldo/leopoldo/506?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",NATGEO HD [ALT]
+http://tv.factoryiptv.com:80/xKkHz2Jckd/factoryiptv/50902?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Kids",NATGEO KIDS HD [ALT]
+http://tv.factoryiptv.com:80/xKkHz2Jckd/factoryiptv/50903?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",NATIONAL GEOGRAPHIC FHD
+http://tv1.cs10.tv:80/leopoldo/leopoldo/508?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",NICK HD
+http://rv.flysat.live:80/307210013157/307210013157/82420?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",NICK JR
+http://mains.services:2086/live/mikekoot/1757909/92664.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",National Geographic FHD
+http://tv.factoryiptv.com:80/xKkHz2Jckd/factoryiptv/41280?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",National Geographic [4K]
+http://tv.factoryiptv.com:80/xKkHz2Jckd/factoryiptv/61846?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Nick FHD
+http://tv.factoryiptv.com:80/xKkHz2Jckd/factoryiptv/40039?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Nick Jr. FHD
+http://tv.factoryiptv.com:80/xKkHz2Jckd/factoryiptv/41498?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",OFF
+http://mains.services:2086/live/mikekoot/1757909/92662.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",OFF - H265
+http://tv.factoryiptv.com:80/xKkHz2Jckd/factoryiptv/51257?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",OFF HD
+http://tv1.cs10.tv:80/leopoldo/leopoldo/183?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",PARAMOUNT CHANNEL HD [ALT]
+http://tv.factoryiptv.com:80/xKkHz2Jckd/factoryiptv/50938?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",PARAMOUNT FHD
+http://tv1.cs10.tv:80/leopoldo/leopoldo/375?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",PARAMOUNT HD
+http://tv1.cs10.tv:80/leopoldo/leopoldo/376?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Kids",PLAYKIDS HD
+http://tv1.cs10.tv:80/leopoldo/leopoldo/4253?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",PREMIERE 2
+http://mains.services:2086/live/mikekoot/1757909/92660.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",PREMIERE 2 H265
+http://tv.factoryiptv.com:80/xKkHz2Jckd/factoryiptv/51259?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",PREMIERE 3
+http://mains.services:2086/live/mikekoot/1757909/92659.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",PREMIERE 3 H265
+http://tv.factoryiptv.com:80/xKkHz2Jckd/factoryiptv/51260?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",PREMIERE 4 H265
+http://tv.factoryiptv.com:80/xKkHz2Jckd/factoryiptv/51261?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",PREMIERE 4 HD
+http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/194224?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",PREMIERE 5 H265
+http://tv.factoryiptv.com:80/xKkHz2Jckd/factoryiptv/51262?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",PREMIERE 5 HD [ALT]
+http://tv.factoryiptv.com:80/xKkHz2Jckd/factoryiptv/50983?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",PREMIERE 6 [ALT]
+http://tv.factoryiptv.com:80/xKkHz2Jckd/factoryiptv/50986?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",PREMIERE 7 HD [ALT]
+http://tv.factoryiptv.com:80/xKkHz2Jckd/factoryiptv/50987?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",PREMIERE 8 [ALT]
+http://tv.factoryiptv.com:80/xKkHz2Jckd/factoryiptv/50989?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",PREMIERE CLUBES H265
+http://tv.factoryiptv.com:80/xKkHz2Jckd/factoryiptv/51265?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",PREMIERE CLUBES HD
+http://tv1.cs10.tv:80/leopoldo/leopoldo/189?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",PREMIERE CLUBES HD
+http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/28863?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",PREMIERE CLUBES HD ALT
+http://tv1.cs10.tv:80/leopoldo/leopoldo/4084?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",PRIME BOX BRAZIL SD
+http://tv1.cs10.tv:80/leopoldo/leopoldo/469?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",PRIME BOX BRAZIL HD
+http://tv1.cs10.tv:80/leopoldo/leopoldo/4137?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="https://i.imgur.com/TnSvJpd.png" group-title="Education",Portal Cultura Pará
+http://str.portalcultura.com.br:80/funtelpa/tv_funtelpa/live.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",SBT FHD
+http://tv.factoryiptv.com:80/xKkHz2Jckd/factoryiptv/38420?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",SBT HD
+http://tv1.cs10.tv:80/leopoldo/leopoldo/82?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",SPACE
+http://mains.services:2086/live/mikekoot/1757909/92648.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",SONY FULL HD H265
+http://tv.factoryiptv.com:80/xKkHz2Jckd/factoryiptv/50533?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",SONY CHANNEL HD
+http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/194306?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",SPORTV
+http://mains.services:2086/live/mikekoot/1757909/92645.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",SPORTV - H265
+http://tv.factoryiptv.com:80/xKkHz2Jckd/factoryiptv/51270?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",SPORTV 2
+http://mains.services:2086/live/mikekoot/1757909/92647.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",SPORTV 2 - H265
+http://tv.factoryiptv.com:80/xKkHz2Jckd/factoryiptv/51268?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",SPORTV 2 HD
+http://tv1.cs10.tv:80/leopoldo/leopoldo/121?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",SPORTV 3 FHD
+http://tv1.cs10.tv:80/leopoldo/leopoldo/124?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",SPORTV 3 HD
+http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/194220?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",SPORTV 3 [ALT]
+http://tv.factoryiptv.com:80/xKkHz2Jckd/factoryiptv/51054?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",SPORTV FHD ALT
+http://tv1.cs10.tv:80/leopoldo/leopoldo/5414?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",STUDIO UNIVERSAL
+http://mains.services:2086/live/mikekoot/1757909/92644.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",STUDIO UNIVERSAL HD
+http://tv1.cs10.tv:80/leopoldo/leopoldo/279?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",SYFY FHD
+http://tv1.cs10.tv:80/leopoldo/leopoldo/283?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",SYFY HD
+http://tv1.cs10.tv:80/leopoldo/leopoldo/284?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Smithsonian Channel FHD
+http://tv.factoryiptv.com:80/xKkHz2Jckd/factoryiptv/57389?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Smithsonian Channel HD
+http://tv.factoryiptv.com:80/xKkHz2Jckd/factoryiptv/57387?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Star Channel FHD
+http://tv.factoryiptv.com:80/xKkHz2Jckd/factoryiptv/38427?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Star Channel - H265
+http://tv.factoryiptv.com:80/xKkHz2Jckd/factoryiptv/50544?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Star Channel
+http://tv.factoryiptv.com:80/xKkHz2Jckd/factoryiptv/37101?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",SporTV [4K]
+http://tv.factoryiptv.com:80/xKkHz2Jckd/factoryiptv/40785?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",TBS
+http://tv.factoryiptv.com:80/xKkHz2Jckd/factoryiptv/37041?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",TBS FHD
+http://tv.factoryiptv.com:80/xKkHz2Jckd/factoryiptv/41505?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",TBS HD
+http://tv.factoryiptv.com:80/xKkHz2Jckd/factoryiptv/36940?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",TCM
+http://tv.factoryiptv.com:80/xKkHz2Jckd/factoryiptv/37037?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",TNT - H265
+http://tv.factoryiptv.com:80/xKkHz2Jckd/factoryiptv/51305?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",TNT FHD
+http://tv.factoryiptv.com:80/xKkHz2Jckd/factoryiptv/41507?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",TNT HD
+http://tv1.cs10.tv:80/leopoldo/leopoldo/361?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",TNT SERIES - H265
+http://tv.factoryiptv.com:80/xKkHz2Jckd/factoryiptv/51306?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",TNT SERIES HD
+http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/194312?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",TNT Séries [4K]
+http://tv.factoryiptv.com:80/xKkHz2Jckd/factoryiptv/61845?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",TNT [4K]
+http://tv.factoryiptv.com:80/xKkHz2Jckd/factoryiptv/61839?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",UNIVERSAL CHANNEL HD
+http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/28841?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",UNIVERSAL CHANNEL HD ALT
+http://tv1.cs10.tv:80/leopoldo/leopoldo/5540?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",VIVA FHD
+http://tv1.cs10.tv:80/leopoldo/leopoldo/5497?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",VIVA HD
+http://tv1.cs10.tv:80/leopoldo/leopoldo/422?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Viva FHD
+http://tv.factoryiptv.com:80/xKkHz2Jckd/factoryiptv/38393?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",WARNER CHANNEL H265
+http://tv.factoryiptv.com:80/xKkHz2Jckd/factoryiptv/51308?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",WARNER CHANNEL HD
+http://tv1.cs10.tv:80/leopoldo/leopoldo/335?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",WOOHOO HD
+http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/28834?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Warner BR
+http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/6088?checkedby:iptvcat.com
+
 #EXTINF:0 tvg-country="BR" tvg-logo="https://i.imgur.com/0L5tCLH.png" group-title="Shop",1001 Noites
 https://cdn.jmvstream.com/w/LVW-8155/ngrp:LVW8155_41E1ciuCvO_all/chunklist.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="https://listaiptv.gratis/logos/imagens/1hd.png" group-title="Music",1HD Music
