@@ -285,644 +285,1485 @@ https://cdn.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/playlist.m3u8
 http://evpp.mm.uol.com.br:1935/band_live/terraviva/playlist.m3u8
 #EXTINF:-1,CANAL RURAL
 https://5fa18afd2e74c.streamlock.net/live/smil:canalrural.smil/playlist.m3u8
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Baby TV HD
-http://pascaltv.site:8080/F12611/b199b47b/8922?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Band FHD
-http://tv.factoryiptv.com:80/xKkHz2Jckd/factoryiptv/38429?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Band HD
-http://tv.factoryiptv.com:80/xKkHz2Jckd/factoryiptv/36990?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",CANAL SONY FHD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/355?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",CANAL SONY HD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/356?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",CARTOON NETWORK
-http://mains.services:2086/live/mikekoot/1757909/92719.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="https://i.imgur.com/FZwHq8k.png" group-title="News",CBN São Paulo
-https://medias.sgr.globo.com/hls/vCBNSP/vCBNSP.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="https://listaiptv.gratis/logos/imagens/cctv1.png" group-title="Undefined",CCTV
-https://cctvcnchwh5ca.v.cdn20.com/live/cctv1_2/index.m3u8?contentid=2820180516001&checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="https://listaiptv.gratis/logos/imagens/cctv13.png" group-title="Undefined",CCTV Notícias
-https://cctvcnchwh5ca.v.cdn20.com/live/cctv13_2/index.m3u8?contentid=2820180516001&checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",CINE BRASIL
-http://168.205.87.198:8555/live/elienecp/123456/145.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",CINE SKY PLAY 1
-http://tv1.cs10.tv:80/leopoldo/leopoldo/57586?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",CINE SKY PLAY 2
-http://tv1.cs10.tv:80/leopoldo/leopoldo/57587?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",CINE SKY PLAY 3
-http://tv1.cs10.tv:80/leopoldo/leopoldo/57588?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",CINE SKY PLAY 4
-http://tv1.cs10.tv:80/leopoldo/leopoldo/57589?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",CINE SKY PLAY 5
-http://tv1.cs10.tv:80/leopoldo/leopoldo/57590?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",CINE SKY PLAY 6
-http://tv1.cs10.tv:80/leopoldo/leopoldo/57591?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",CINE SKY PLAY 8
-http://tv1.cs10.tv:80/leopoldo/leopoldo/57593?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",CINE SKY PLAY 9
-http://tv1.cs10.tv:80/leopoldo/leopoldo/57594?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",CINE+
-http://pascaltv.site:8080/F12611/b199b47b/7335?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",CINEMAX
-http://mains.services:2086/live/mikekoot/1757909/92718.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",CINEMAX - H265
-http://tv.factoryiptv.com:80/xKkHz2Jckd/factoryiptv/50535?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",CINEMAX FHD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/370?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",CINEMAX HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/28906?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",CNN Brasil HD
-http://pascaltv.site:8080/F12611/b199b47b/148404?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="https://listaiptv.gratis/logos/imagens/cnt.png" group-title="Undefined",CNT
-https://dd8umsy8yf96u.cloudfront.net/live/cnt-curitiba.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",COMBATE
-http://mains.services:2086/live/mikekoot/1757909/92717.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",COMBATE FHD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/141?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",COMBATE H265
-http://tv.factoryiptv.com:80/xKkHz2Jckd/factoryiptv/50536?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",COMEDY CENTRAL FHD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/6241?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",COMEDY CENTRAL HD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/387?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",CONMEBOL TV 01 HD
-http://rv.flysat.live:80/307210013157/307210013157/82348?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",CONMEBOL TV 02 HD
-http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/242155?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",CONMEBOL TV 03 HD
-http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/242156?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",CONMEBOL TV 04 HD
-http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/242157?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",CONMEBOL TV 1 HD
-http://rv.flysat.live:80/307210013157/307210013157/82348?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",CULT
-http://168.205.87.198:8555/live/elienecp/123456/30.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",CURTA [ALT]
-http://tv.factoryiptv.com:80/xKkHz2Jckd/factoryiptv/50676?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Canal Brasil FHD
-http://tv.factoryiptv.com:80/xKkHz2Jckd/factoryiptv/41517?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",DAZN 1 HD
-http://tv.factoryiptv.com:80/xKkHz2Jckd/factoryiptv/58130?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",DAZN 2 HD
-http://tv.factoryiptv.com:80/xKkHz2Jckd/factoryiptv/58433?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",DAZN HD 3
-http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/241924?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",DAZN HD 4
-http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/241925?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",DISCOVERY CHANNEL
-http://mains.services:2086/live/mikekoot/1757909/92734.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",DISCOVERY CHANNEL FHD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/482?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",DISCOVERY CHANNEL HD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/484?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",E! FHD
-http://tv.factoryiptv.com:80/xKkHz2Jckd/factoryiptv/41476?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",Esporte Interativo HD
-http://tv.factoryiptv.com:80/xKkHz2Jckd/factoryiptv/61879?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="https://listaiptv.gratis/logos/imagens/futura.png" group-title="Undefined",FDR - Futura (CE)
-http://stmv1.transmissaodigital.com/ronald6259/ronald6259/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",FISH TV
-http://168.205.87.198:8555/live/elienecp/123456/62.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",FOOD NETWORK
-http://mains.services:2086/live/mikekoot/1757909/92700.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",FORMULA 1 TV
-http://tv1.cs10.tv:80/leopoldo/leopoldo/57181?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",FOX
-http://mains.services:2086/live/mikekoot/1757909/92699.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",FOX Crime
-http://pascaltv.site:8080/F12611/b199b47b/16366?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",FOX FHD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/338?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",FOX HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/28904?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",FOX LIFE FHD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/7643?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",FOX LIFE HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/28903?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",FOX PREMIUM 1
-http://mains.services:2086/live/mikekoot/1757909/92697.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",FOX PREMIUM 1 FHD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/344?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",FOX PREMIUM 2 FHD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/347?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",FOX SPORTS - H265
-http://tv.factoryiptv.com:80/xKkHz2Jckd/factoryiptv/51241?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",FOX SPORTS 2 FHD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/4064?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",FOX SPORTS 2
-http://mains.services:2086/live/mikekoot/1757909/92695.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",FOX SPORTS HD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/130?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",FOX SPORTS FHD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/128?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",FX FHD
-http://tv.factoryiptv.com:80/xKkHz2Jckd/factoryiptv/41482?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",FX HD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/353?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Film&Arts FHD
-http://tv.factoryiptv.com:80/xKkHz2Jckd/factoryiptv/61965?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",FilmBox Extra HD
-http://pascaltv.site:8080/F12611/b199b47b/16377?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",FoxSports
-http://tv.factoryiptv.com:80/xKkHz2Jckd/factoryiptv/37099?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",FoxSports 2 [4K]
-http://tv.factoryiptv.com:80/xKkHz2Jckd/factoryiptv/61847?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",GNT FHD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/2509?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",GNT HD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/426?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",H2
-http://mains.services:2086/live/mikekoot/1757909/92684.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",H2 FHD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/518?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",H2 HD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/519?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",HBO
-http://mains.services:2086/live/mikekoot/1757909/92680.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",HBO 2
-http://tv.factoryiptv.com:80/xKkHz2Jckd/factoryiptv/37086?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",HBO 2 FHD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/298?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",HBO 2 HD [ALT]
-http://tv.factoryiptv.com:80/xKkHz2Jckd/factoryiptv/50788?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",HBO EXTREME HD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/329?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",HBO FAMILY FHD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/310?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",HBO FAMILY HD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/311?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",HBO FHD
-http://tv.factoryiptv.com:80/xKkHz2Jckd/factoryiptv/61972?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",HBO MUNDI HD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/321?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",HBO PLUS HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/28913?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",HBO PLUS HD  [ALT]
-http://tv.factoryiptv.com:80/xKkHz2Jckd/factoryiptv/51151?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",HBO PLUS- H265
-http://tv.factoryiptv.com:80/xKkHz2Jckd/factoryiptv/51246?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",HBO POP FHD
-http://tv.factoryiptv.com:80/xKkHz2Jckd/factoryiptv/40270?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",HBO POP HD
-http://tv.factoryiptv.com:80/xKkHz2Jckd/factoryiptv/36911?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",HBO SIGNATURE - H265
-http://tv.factoryiptv.com:80/xKkHz2Jckd/factoryiptv/51247?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",HBO SIGNATURE HD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/316?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",HBO Xtreme HD
-http://tv.factoryiptv.com:80/xKkHz2Jckd/factoryiptv/36912?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",HGTV FHD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/497?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",HGTV HD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/498?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",HISTORY CHANNEL [ALT]
-http://tv.factoryiptv.com:80/xKkHz2Jckd/factoryiptv/50799?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",HISTORY HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/28838?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",ID - INVESTIGACAO DISCOVERY FHD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/479?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",ID - INVESTIGACAO DISCOVERY HD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/480?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="https://i1.wp.com/itu.tv.br/wp-content/uploads/2020/03/cropped-favicon.png" group-title="Local;Undefined",Itú TV,ITV
-http://tv02.logicahost.com.br:1935/itutv/itutv/live.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",LIFETIME - H265
-http://tv.factoryiptv.com:80/xKkHz2Jckd/factoryiptv/51251?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",LIFETIME
-http://mains.services:2086/live/mikekoot/1757909/92675.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",LIFETIME HD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/438?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Lifetime HD
-http://tv.factoryiptv.com:80/xKkHz2Jckd/factoryiptv/36914?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",MAIS GLOBOSAT [ALT]
-http://tv.factoryiptv.com:80/xKkHz2Jckd/factoryiptv/50838?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",MEGAPIX FHD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/269?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",MEGAPIX HD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/270?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",MTV - H265
-http://tv.factoryiptv.com:80/xKkHz2Jckd/factoryiptv/51252?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",MTV FHD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/461?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",MULTISHOW H265
-http://tv.factoryiptv.com:80/xKkHz2Jckd/factoryiptv/51253?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",MULTISHOW HD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/454?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Music",MUSIC BOX BRASIL [ALT]
-http://tv.factoryiptv.com:80/xKkHz2Jckd/factoryiptv/50859?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",NAT GEO
-http://168.205.87.198:8555/live/elienecp/123456/78.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Kids",NAT GEO KIDS FHD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/543?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",NAT GEO WILD FHD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/505?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",NAT GEO WILD HD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/506?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",NATGEO HD [ALT]
-http://tv.factoryiptv.com:80/xKkHz2Jckd/factoryiptv/50902?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Kids",NATGEO KIDS HD [ALT]
-http://tv.factoryiptv.com:80/xKkHz2Jckd/factoryiptv/50903?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",NATIONAL GEOGRAPHIC FHD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/508?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",NICK HD
-http://rv.flysat.live:80/307210013157/307210013157/82420?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",NICK JR
-http://mains.services:2086/live/mikekoot/1757909/92664.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",National Geographic FHD
-http://tv.factoryiptv.com:80/xKkHz2Jckd/factoryiptv/41280?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",National Geographic [4K]
-http://tv.factoryiptv.com:80/xKkHz2Jckd/factoryiptv/61846?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Nick FHD
-http://tv.factoryiptv.com:80/xKkHz2Jckd/factoryiptv/40039?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Nick Jr. FHD
-http://tv.factoryiptv.com:80/xKkHz2Jckd/factoryiptv/41498?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",OFF
-http://mains.services:2086/live/mikekoot/1757909/92662.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",OFF - H265
-http://tv.factoryiptv.com:80/xKkHz2Jckd/factoryiptv/51257?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",OFF HD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/183?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",PARAMOUNT CHANNEL HD [ALT]
-http://tv.factoryiptv.com:80/xKkHz2Jckd/factoryiptv/50938?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",PARAMOUNT FHD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/375?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",PARAMOUNT HD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/376?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Kids",PLAYKIDS HD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/4253?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",PREMIERE 2
-http://mains.services:2086/live/mikekoot/1757909/92660.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",PREMIERE 2 H265
-http://tv.factoryiptv.com:80/xKkHz2Jckd/factoryiptv/51259?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",PREMIERE 3
-http://mains.services:2086/live/mikekoot/1757909/92659.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",PREMIERE 3 H265
-http://tv.factoryiptv.com:80/xKkHz2Jckd/factoryiptv/51260?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",PREMIERE 4 H265
-http://tv.factoryiptv.com:80/xKkHz2Jckd/factoryiptv/51261?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",PREMIERE 4 HD
-http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/194224?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",PREMIERE 5 H265
-http://tv.factoryiptv.com:80/xKkHz2Jckd/factoryiptv/51262?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",PREMIERE 5 HD [ALT]
-http://tv.factoryiptv.com:80/xKkHz2Jckd/factoryiptv/50983?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",PREMIERE 6 [ALT]
-http://tv.factoryiptv.com:80/xKkHz2Jckd/factoryiptv/50986?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",PREMIERE 7 HD [ALT]
-http://tv.factoryiptv.com:80/xKkHz2Jckd/factoryiptv/50987?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",PREMIERE 8 [ALT]
-http://tv.factoryiptv.com:80/xKkHz2Jckd/factoryiptv/50989?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",PREMIERE CLUBES H265
-http://tv.factoryiptv.com:80/xKkHz2Jckd/factoryiptv/51265?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",PREMIERE CLUBES HD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/189?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",PREMIERE CLUBES HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/28863?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",PREMIERE CLUBES HD ALT
-http://tv1.cs10.tv:80/leopoldo/leopoldo/4084?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",PRIME BOX BRAZIL SD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/469?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",PRIME BOX BRAZIL HD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/4137?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="https://i.imgur.com/TnSvJpd.png" group-title="Education",Portal Cultura Pará
-http://str.portalcultura.com.br:80/funtelpa/tv_funtelpa/live.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",SBT FHD
-http://tv.factoryiptv.com:80/xKkHz2Jckd/factoryiptv/38420?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",SBT HD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/82?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",SPACE
-http://mains.services:2086/live/mikekoot/1757909/92648.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",SONY FULL HD H265
-http://tv.factoryiptv.com:80/xKkHz2Jckd/factoryiptv/50533?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",SONY CHANNEL HD
-http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/194306?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",SPORTV
-http://mains.services:2086/live/mikekoot/1757909/92645.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",SPORTV - H265
-http://tv.factoryiptv.com:80/xKkHz2Jckd/factoryiptv/51270?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",SPORTV 2
-http://mains.services:2086/live/mikekoot/1757909/92647.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",SPORTV 2 - H265
-http://tv.factoryiptv.com:80/xKkHz2Jckd/factoryiptv/51268?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",SPORTV 2 HD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/121?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",SPORTV 3 FHD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/124?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",SPORTV 3 HD
-http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/194220?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",SPORTV 3 [ALT]
-http://tv.factoryiptv.com:80/xKkHz2Jckd/factoryiptv/51054?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",SPORTV FHD ALT
-http://tv1.cs10.tv:80/leopoldo/leopoldo/5414?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",STUDIO UNIVERSAL
-http://mains.services:2086/live/mikekoot/1757909/92644.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",STUDIO UNIVERSAL HD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/279?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",SYFY FHD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/283?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",SYFY HD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/284?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Smithsonian Channel FHD
-http://tv.factoryiptv.com:80/xKkHz2Jckd/factoryiptv/57389?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Smithsonian Channel HD
-http://tv.factoryiptv.com:80/xKkHz2Jckd/factoryiptv/57387?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Star Channel FHD
-http://tv.factoryiptv.com:80/xKkHz2Jckd/factoryiptv/38427?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Star Channel - H265
-http://tv.factoryiptv.com:80/xKkHz2Jckd/factoryiptv/50544?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Star Channel
-http://tv.factoryiptv.com:80/xKkHz2Jckd/factoryiptv/37101?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",SporTV [4K]
-http://tv.factoryiptv.com:80/xKkHz2Jckd/factoryiptv/40785?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",TBS
-http://tv.factoryiptv.com:80/xKkHz2Jckd/factoryiptv/37041?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",TBS FHD
-http://tv.factoryiptv.com:80/xKkHz2Jckd/factoryiptv/41505?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",TBS HD
-http://tv.factoryiptv.com:80/xKkHz2Jckd/factoryiptv/36940?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",TCM
-http://tv.factoryiptv.com:80/xKkHz2Jckd/factoryiptv/37037?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",TNT - H265
-http://tv.factoryiptv.com:80/xKkHz2Jckd/factoryiptv/51305?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",TNT FHD
-http://tv.factoryiptv.com:80/xKkHz2Jckd/factoryiptv/41507?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",TNT HD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/361?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",TNT SERIES - H265
-http://tv.factoryiptv.com:80/xKkHz2Jckd/factoryiptv/51306?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",TNT SERIES HD
-http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/194312?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",TNT Séries [4K]
-http://tv.factoryiptv.com:80/xKkHz2Jckd/factoryiptv/61845?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",TNT [4K]
-http://tv.factoryiptv.com:80/xKkHz2Jckd/factoryiptv/61839?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",UNIVERSAL CHANNEL HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/28841?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",UNIVERSAL CHANNEL HD ALT
-http://tv1.cs10.tv:80/leopoldo/leopoldo/5540?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",VIVA FHD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/5497?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",VIVA HD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/422?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Viva FHD
-http://tv.factoryiptv.com:80/xKkHz2Jckd/factoryiptv/38393?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",WARNER CHANNEL H265
-http://tv.factoryiptv.com:80/xKkHz2Jckd/factoryiptv/51308?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",WARNER CHANNEL HD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/335?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",WOOHOO HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/28834?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Warner BR
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/6088?checkedby:iptvcat.com
-
-#EXTINF:0 tvg-country="BR" tvg-logo="https://i.imgur.com/0L5tCLH.png" group-title="Shop",1001 Noites
-https://cdn.jmvstream.com/w/LVW-8155/ngrp:LVW8155_41E1ciuCvO_all/chunklist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="https://listaiptv.gratis/logos/imagens/1hd.png" group-title="Music",1HD Music
-http://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/mono.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",A&E
-http://tv.factoryiptv.com:80/xKkHz2Jckd/factoryiptv/37130?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",A&E FHD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/378?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",A&E FHD [Alt]
-http://cdn.us21.live:80/mateus01/01mateus/140814?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",A&E FHD
-http://tv.factoryiptv.com:80/xKkHz2Jckd/factoryiptv/40263?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",A&E HD
-http://tv.factoryiptv.com:80/xKkHz2Jckd/factoryiptv/36929?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",ALL SPORTS
-http://168.205.87.198:8555/live/elienecp/123456/148.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",AMC FHD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/391?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",AMC FHD [ALT]
-http://tv.factoryiptv.com:80/xKkHz2Jckd/factoryiptv/50636?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",AMC HD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/392?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",ANIMAL PLANET
-http://mains.services:2086/live/mikekoot/1757909/92725.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",ANIMAL PLANET HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/28846?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",ANIMAL PLANET FHD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/474?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",ANIMAL PLANET [ALT]
-http://tv.factoryiptv.com:80/xKkHz2Jckd/factoryiptv/50641?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",AXN FHD
-http://tv.factoryiptv.com:80/xKkHz2Jckd/factoryiptv/41468?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",AXN FHD [ALT]
-http://tv.factoryiptv.com:80/xKkHz2Jckd/factoryiptv/50644?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Arte 1 FHD
-http://tv.factoryiptv.com:80/xKkHz2Jckd/factoryiptv/41467?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Arte1 HD BR
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/6147?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",BAND
-http://mains.services:2086/live/mikekoot/1757909/92735.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",BAND FHD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/73?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",BAND NEWS
-http://mains.services:2086/live/mikekoot/1757909/92723.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="News",BAND NEWS FHD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/530?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",BAND SPORTS FHD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/179?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",BAND SPORTS HD
-http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/194214?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",BIS FHD
-http://pascaltv.site:8080/F12611/b199b47b/24621?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",BIS HD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/459?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",BOOMERANG HD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/28858?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",BR_HD_CANAL BRASIL
-http://iptvparatodos.net:38953/julio0206/53327705/22752?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",BR_HD_CANAL SONY
-http://iptvparatodos.net:38953/julio0206/53327705/22751?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",BR_HD_CARTOON NETWORK
-http://iptvparatodos.net:38953/julio0206/53327705/22749?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",BR_HD_CINEMAX
-http://iptvparatodos.net:38953/julio0206/53327705/22748?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",BR_HD_COMBATE
-http://iptvparatodos.net:38953/julio0206/53327705/22747?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",BR_HD_COMEDY CENTRAL
-http://iptvparatodos.net:38953/julio0206/53327705/22746?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",BR_HD_DISCOVERY CHANNEL
-http://iptvparatodos.net:38953/julio0206/53327705/22745?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",BR_HD_DISCOVERY CIVILIZATION
-http://iptvparatodos.net:38953/julio0206/53327705/22744?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",BR_HD_DISCOVERY H/H
-http://iptvparatodos.net:38953/julio0206/53327705/22743?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",BR_HD_DISCOVERY ID
-http://iptvparatodos.net:38953/julio0206/53327705/22742?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Kids",BR_HD_DISCOVERY KIDS
-http://iptvparatodos.net:38953/julio0206/53327705/22741?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",BR_HD_DISCOVERY SCIENCE
-http://iptvparatodos.net:38953/julio0206/53327705/22740?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",BR_HD_DISCOVERY THEATER
-http://iptvparatodos.net:38953/julio0206/53327705/22739?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",BR_HD_DISCOVERY TURBO
-http://iptvparatodos.net:38953/julio0206/53327705/22738?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",BR_HD_DISCOVERY WORLD
-http://iptvparatodos.net:38953/julio0206/53327705/22737?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",BR_HD_DISNEY CH
-http://iptvparatodos.net:38953/julio0206/53327705/22736?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",BR_HD_DISNEY JUNIOR
-http://iptvparatodos.net:38953/julio0206/53327705/22735?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",BR_HD_DISNEY XD
-http://iptvparatodos.net:38953/julio0206/53327705/22734?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",BR_HD_ESPN 2
-http://iptvparatodos.net:38953/julio0206/53327705/22730?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",BR_HD_ESPN EXTRA
-http://iptvparatodos.net:38953/julio0206/53327705/22731?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",BR_HD_ESPN_
-http://iptvparatodos.net:38953/julio0206/53327705/22729?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",BR_HD_FISH TV
-http://iptvparatodos.net:38953/julio0206/53327705/22726?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",BR_HD_FOX
-http://iptvparatodos.net:38953/julio0206/53327705/22725?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",BR_HD_FOX PREMIUM 2 BR_HD
-http://iptvparatodos.net:38953/julio0206/53327705/22640?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",BR_HD_FOX SPORTS
-http://iptvparatodos.net:38953/julio0206/53327705/22723?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",BR_HD_FOX SPORTS 2
-http://iptvparatodos.net:38953/julio0206/53327705/22722?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",BR_HD_FUTURA
-http://iptvparatodos.net:38953/julio0206/53327705/22721?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",BR_HD_FX
-http://iptvparatodos.net:38953/julio0206/53327705/22720?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",BR_HD_GAZETA
-http://iptvparatodos.net:38953/julio0206/53327705/22646?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",BR_HD_GLOBO RJ
-http://iptvparatodos.net:38953/julio0206/53327705/22717?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",BR_HD_GLOBO SP
-http://iptvparatodos.net:38953/julio0206/53327705/22716?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="News",BR_HD_GLOBO NEWS
-http://iptvparatodos.net:38953/julio0206/53327705/22718?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",BR_HD_GNT
-http://iptvparatodos.net:38953/julio0206/53327705/22714?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",BR_HD_GLOBO RBS PORTO ALEGRE HD
-http://iptvparatodos.net:38953/julio0206/53327705/91457?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",BR_HD_GLOOB
-http://iptvparatodos.net:38953/julio0206/53327705/22715?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",BR_HD_Globo MINAS
-http://iptvparatodos.net:38953/julio0206/53327705/22719?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",BR_HD_H2
-http://iptvparatodos.net:38953/julio0206/53327705/22713?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",BR_HD_HBO
-http://iptvparatodos.net:38953/julio0206/53327705/22712?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",BR_HD_HBO EXTREME
-http://iptvparatodos.net:38953/julio0206/53327705/22704?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",BR_HD_HBO FAMILY
-http://iptvparatodos.net:38953/julio0206/53327705/22711?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",BR_HD_HBO PLUS
-http://iptvparatodos.net:38953/julio0206/53327705/22710?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",BR_HD_HBO POP
-http://iptvparatodos.net:38953/julio0206/53327705/22702?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",BR_HD_HBO SIGNATURE
-http://iptvparatodos.net:38953/julio0206/53327705/22708?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",BR_HD_HBO2
-http://iptvparatodos.net:38953/julio0206/53327705/22707?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",BR_HD_HISTORY CHANNEL
-http://iptvparatodos.net:38953/julio0206/53327705/22706?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",BR_HD_LIFETIME
-http://iptvparatodos.net:38953/julio0206/53327705/22638?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",BR_HD_MAIS GLOBOSAT
-http://iptvparatodos.net:38953/julio0206/53327705/91456?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",BR_HD_MEGAPIX
-http://iptvparatodos.net:38953/julio0206/53327705/22701?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",BR_HD_MULTISHOW
-http://iptvparatodos.net:38953/julio0206/53327705/22699?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",BR_HD_NAT GEO
-http://iptvparatodos.net:38953/julio0206/53327705/22697?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Kids",BR_HD_NAT GEO KIDS
-http://iptvparatodos.net:38953/julio0206/53327705/22696?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",BR_HD_NATGEO WILD
-http://iptvparatodos.net:38953/julio0206/53327705/22695?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",BR_HD_NICK JR
-http://iptvparatodos.net:38953/julio0206/53327705/22693?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",BR_HD_OFF
-http://iptvparatodos.net:38953/julio0206/53327705/22645?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",BR_HD_PARAMOUNT CHANNEL
-http://iptvparatodos.net:38953/julio0206/53327705/22690?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",BR_HD_PLAY TV
-http://iptvparatodos.net:38953/julio0206/53327705/22689?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",BR_HD_PREMIERE 1
-http://iptvparatodos.net:38953/julio0206/53327705/28418?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",BR_HD_PREMIERE 2
-http://iptvparatodos.net:38953/julio0206/53327705/22687?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",BR_HD_PREMIERE 3
-http://iptvparatodos.net:38953/julio0206/53327705/22686?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",BR_HD_PREMIERE 4
-http://iptvparatodos.net:38953/julio0206/53327705/22685?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",BR_HD_PREMIERE 5
-http://iptvparatodos.net:38953/julio0206/53327705/22684?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",BR_HD_PREMIERE 6
-http://iptvparatodos.net:38953/julio0206/53327705/22683?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",BR_HD_PREMIERE 7
-http://iptvparatodos.net:38953/julio0206/53327705/22682?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",BR_HD_PREMIERE 8
-http://iptvparatodos.net:38953/julio0206/53327705/22681?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",BR_HD_PREMIERE 9
-http://iptvparatodos.net:38953/julio0206/53327705/22680?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",BR_HD_PREMIERE CLUBES
-http://iptvparatodos.net:38953/julio0206/53327705/22679?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",BR_HD_RECORD
-http://iptvparatodos.net:38953/julio0206/53327705/22677?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="News",BR_HD_RECORD NEWS
-http://iptvparatodos.net:38953/julio0206/53327705/22676?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",BR_HD_REDE BRASIL TV
-http://iptvparatodos.net:38953/julio0206/53327705/22673?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",BR_HD_REDE VIDA
-http://iptvparatodos.net:38953/julio0206/53327705/22674?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",BR_HD_SBT
-http://iptvparatodos.net:38953/julio0206/53327705/22672?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",BR_HD_SPACE
-http://iptvparatodos.net:38953/julio0206/53327705/22671?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",BR_HD_SPOR-TV 2
-http://iptvparatodos.net:38953/julio0206/53327705/22669?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",BR_HD_SPOR-TV 3
-http://iptvparatodos.net:38953/julio0206/53327705/22668?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",BR_HD_STAR HITS  1 BR_HD
-http://iptvparatodos.net:38953/julio0206/53327705/22641?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",BR_HD_STAR LIFE
-http://iptvparatodos.net:38953/julio0206/53327705/22724?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",BR_HD_STUDIO UNIVERSAL
-http://iptvparatodos.net:38953/julio0206/53327705/22667?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",BR_HD_SYFY
-http://iptvparatodos.net:38953/julio0206/53327705/22643?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",BR_HD_TBS
-http://iptvparatodos.net:38953/julio0206/53327705/22642?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",BR_HD_TCM
-http://iptvparatodos.net:38953/julio0206/53327705/22666?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",BR_HD_TELECINE ACTION
-http://iptvparatodos.net:38953/julio0206/53327705/22665?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",BR_HD_TELECINE CULT
-http://iptvparatodos.net:38953/julio0206/53327705/22664?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",BR_HD_TELECINE FUN
-http://iptvparatodos.net:38953/julio0206/53327705/22663?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",BR_HD_TELECINE PIPOCA
-http://iptvparatodos.net:38953/julio0206/53327705/22662?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",BR_HD_TELECINE PREMIUM
-http://iptvparatodos.net:38953/julio0206/53327705/22661?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",BR_HD_TELECINE TOUCH
-http://iptvparatodos.net:38953/julio0206/53327705/22660?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",BR_HD_TLC
-http://iptvparatodos.net:38953/julio0206/53327705/22659?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",BR_HD_TNT
-http://iptvparatodos.net:38953/julio0206/53327705/22658?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",BR_HD_TNT SERIES
-http://iptvparatodos.net:38953/julio0206/53327705/22657?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",BR_HD_TOONCAST
-http://iptvparatodos.net:38953/julio0206/53327705/22656?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",BR_HD_TRUTV
-http://iptvparatodos.net:38953/julio0206/53327705/22655?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",BR_HD_TV CULTURA
-http://iptvparatodos.net:38953/julio0206/53327705/22654?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",BR_HD_TV GUARULHOS SP
-http://iptvparatodos.net:38953/julio0206/53327705/22652?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",BR_HD_UNIVERSAL
-http://iptvparatodos.net:38953/julio0206/53327705/22653?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",BR_HD_WARNER CHANNEL
-http://iptvparatodos.net:38953/julio0206/53327705/22650?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",BR_HD_WOOHOO
-http://iptvparatodos.net:38953/julio0206/53327705/22649?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",BR_HD_VIVA
-http://iptvparatodos.net:38953/julio0206/53327705/22651?checkedby:iptvcat.com
+#EXTINF:-1,ANIMAL PLANET 4K
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/31029
+#EXTINF:-1,BAND 4K
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/31030
+#EXTINF:-1,CARTOON NETWORK 4K
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/31031
+#EXTINF:-1,COMBATE 4K
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/31032
+#EXTINF:-1,DISCOVERY CHANNEL 4K
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/31033
+#EXTINF:-1,ESPN 4K
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/31034
+#EXTINF:-1,FOX SPORTS 2 4K
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/31035
+#EXTINF:-1,FOX SPORTS 1 4K
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/31036
+#EXTINF:-1,GAZETA 4K
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/31037
+#EXTINF:-1,GLOBO 4K
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/31038
+#EXTINF:-1,MULTISHOW 4K
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/31041
+#EXTINF:-1,PREMIERE CLUBES
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/31042
+#EXTINF:-1,RECORDTV 4K
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/31043
+#EXTINF:-1,REDE TV 4K
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/31044
+#EXTINF:-1,SBT 4K
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/31045
+#EXTINF:-1,SPACE 4K
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/31046
+#EXTINF:-1,SPORTV 4K
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/31047
+#EXTINF:-1,STAR CHANNEL
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/31048
+#EXTINF:-1,TELECINE PIPOCA 4K
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/31049
+#EXTINF:-1,TELECINE PREMIUM 4K
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/31050
+#EXTINF:-1,TNT 4K
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/31051
+#EXTINF:-1,BAND RJ HD²
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/31053
+#EXTINF:-1,BAND RJ HD³
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/31055
+#EXTINF:-1,BAND RJ SD
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/31056
+#EXTINF:-1,TV ALTIORA
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/31058
+#EXTINF:-1,BAND CAMPINAS ¹
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/31059
+#EXTINF:-1,BAND FULLHD
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/31060
+#EXTINF:-1,BAND HD
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/31061
+#EXTINF:-1,BAND PA (RBATV)
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/31062
+#EXTINF:-1,CANAL BRASIL FULLHD
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/31063
+#EXTINF:-1,CANAL DO BOI
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/31064
+#EXTINF:-1,CLASSIQUE TV
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/31066
+#EXTINF:-1,CLASSIQUE TV 2
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/31067
+#EXTINF:-1,GAZETA ¹ SP
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/31069
+#EXTINF:-1,GOSPEL CARTOON
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/31070
+#EXTINF:-1,REDE TV FULLHD
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/31071
+#EXTINF:-1,REDE TV HD
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/31072
+#EXTINF:-1,SBT
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/31075
+#EXTINF:-1,SBT FULLHD
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/31076
+#EXTINF:-1,SBT RJ ¹
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/31077
+#EXTINF:-1,SBT TV ALTEROSA HD
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/31078
+#EXTINF:-1,SBT TV SERRA DOURADA FULLHD
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/31080
+#EXTINF:-1,TV ARATU HD
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/31082
+#EXTINF:-1,TV CULTURA
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/31083
+#EXTINF:-1,TV CULTURA HD
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/31084
+#EXTINF:-1,TV DIARIO FULLHD
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/31085
+#EXTINF:-1,TV DIGITAL BIRIGUI
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/31086
+#EXTINF:-1,TV GAZETA
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/31087
+#EXTINF:-1,GLOBO TV GAZETA NORTE MINEIRA
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/31088
+#EXTINF:-1,TV JORNAL DO NORDESTE
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/31091
+#EXTINF:-1,TV JUSTIÇA
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/31092
+#EXTINF:-1,TV NOVA ONDA
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/31097
+#EXTINF:-1,TV SERRA VERDE
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/31099
+#EXTINF:-1,TV UNIÃO DE NATAL
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/31101
+#EXTINF:-1,ANIMAL PLANET FULLHD
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/31104
+#EXTINF:-1,ANIMAL PLANET HD
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/31105
+#EXTINF:-1,DISCOVERY CHANNEL FULLHD
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/31106
+#EXTINF:-1,DISCOVERY HOME & HEALTH FULLHD
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/31107
+#EXTINF:-1,DISCOVERY HOME & HEALTH HD
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/31108
+#EXTINF:-1,DISCOVERY ID FULLHD
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/31109
+#EXTINF:-1,DISCOVERY ID HD
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/31110
+#EXTINF:-1,DISCOVERY SCIENCE FULL HD
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/31111
+#EXTINF:-1,DISCOVERY SCIENCE HD
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/31112
+#EXTINF:-1,DISCOVERY THEATHER FULLHD
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/31113
+#EXTINF:-1,DISCOVERY TURBO FULL HD
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/31114
+#EXTINF:-1,DISCOVERY TURBO HD
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/31115
+#EXTINF:-1,DISCOVERY WORLD FULLHD
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/31116
+#EXTINF:-1,DISCOVERY WORLD HD
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/31117
+#EXTINF:-1,H2 FULLHD
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/31118
+#EXTINF:-1,H2 HD
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/31119
+#EXTINF:-1,HGTV HD
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/31121
+#EXTINF:-1,HISTORY FULLHD
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/31122
+#EXTINF:-1,HISTORY HD
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/31123
+#EXTINF:-1,NATGEO FULL HD
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/31124
+#EXTINF:-1,NATGEO HD
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/31125
+#EXTINF:-1,NATGEO WILD FULLHD
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/31126
+#EXTINF:-1,NATGEO WILD HD
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/31127
+#EXTINF:-1,SMITHSONIAN HD
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/31128
+#EXTINF:-1,TLC FULLHD
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/31129
+#EXTINF:-1,TRAVEL BOX BRAZIL
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/31130
+#EXTINF:-1,ALL SPORTS TV²
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/31131
+#EXTINF:-1,ALL SPORTS
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/31132
+#EXTINF:-1,BAND SPORTS FULLHD
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/31133
+#EXTINF:-1,BAND SPORTS HD
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/31134
+#EXTINF:-1,BAND SPORTS HD*
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/31135
+#EXTINF:-1,COMBATE FULLHD
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/31136
+#EXTINF:-1,COMBATE HD
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/31137
+#EXTINF:-1,COMBATE HD*
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/31138
+#EXTINF:-1,ESPN 2 FULLHD
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/31139
+#EXTINF:-1,ESPN 2 HD
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/31140
+#EXTINF:-1,ESPN 2 HD+
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/31141
+#EXTINF:-1,ESPN BRASIL FULLHD
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/31142
+#EXTINF:-1,ESPN BRASIL HD
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/31143
+#EXTINF:-1,ESPN BRASIL HD+
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/31144
+#EXTINF:-1,ESPN EXTRA FULLHD
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/31145
+#EXTINF:-1,ESPN EXTRA HD
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/31146
+#EXTINF:-1,ESPN EXTRA HD+
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/31147
+#EXTINF:-1,ESPN FULL HD
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/31148
+#EXTINF:-1,ESPN HD
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/31149
+#EXTINF:-1,ESPN HD+
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/31150
+#EXTINF:-1,FISH TV FULLHD
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/31151
+#EXTINF:-1,FISH TV HD
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/31152
+#EXTINF:-1,FOX SPORTS 2 FULLHD
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/31153
+#EXTINF:-1,FOX SPORTS 2 HD
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/31154
+#EXTINF:-1,FOX SPORTS 1 FULLHD
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/31155
+#EXTINF:-1,FOX SPORTS 1 HD
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/31156
+#EXTINF:-1,GOLF CHANNEL HD
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/31158
+#EXTINF:-1,OFF FULLHD
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/31159
+#EXTINF:-1,OFF HD
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/31160
+#EXTINF:-1,SPORTV 2 FULLHD
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/31162
+#EXTINF:-1,SPORTV 2 HD
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/31163
+#EXTINF:-1,SPORTV 3 FULL HD
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/31165
+#EXTINF:-1,SPORTV 3 HD
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/31166
+#EXTINF:-1,SPORTV FULLHD
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/31168
+#EXTINF:-1,SPORTV HD
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/31169
+#EXTINF:-1,SPORTV HD*
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/31170
+#EXTINF:-1,WOOHOO FULLHD
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/31171
+#EXTINF:-1,WOOHOO HD
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/31172
+#EXTINF:-1,CONMEBOL 3
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/31189
+#EXTINF:-1,CONMEBOL 4
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/31191
+#EXTINF:-1,COPA DO NORDESTE 2 HD
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/31203
+#EXTINF:-1,DAZN2 FULL HD
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/31210
+#EXTINF:-1,DAZN2 HD
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/31211
+#EXTINF:-1,TNT SPORTS 2
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/31223
+#EXTINF:-1,TNT SPORTS 2 HD
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/31224
+#EXTINF:-1,TNT SPORTS 3 HD
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/31226
+#EXTINF:-1,TNT SPORTS 4 HD
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/31227
+#EXTINF:-1,TNT SPORTS 4 SD
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/31228
+#EXTINF:-1,TNT SPORTS 5 HD
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/31229
+#EXTINF:-1,TNT SPORTS 5 HD
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/31230
+#EXTINF:-1,TNT SPORTS 6 HD
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/31231
+#EXTINF:-1,TNT SPORTS 1 HD
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/31237
+#EXTINF:-1,CBTV
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/31242
+#EXTINF:-1,ELEVEN SPORTS 1
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/31243
+#EXTINF:-1,ELEVEN SPORTS 2
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/31244
+#EXTINF:-1,ELEVEN SPORTS 3
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/31245
+#EXTINF:-1,GOLF CHANNEL
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/31246
+#EXTINF:-1,MLB NETWORK
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/31247
+#EXTINF:-1,NBA TV
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/31248
+#EXTINF:-1,RED BULL TV
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/31250
+#EXTINF:-1,SPORT TV +
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/31251
+#EXTINF:-1,SPORT TV 1
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/31252
+#EXTINF:-1,SPORT TV 2
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/31253
+#EXTINF:-1,SPORT TV 3
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/31254
+#EXTINF:-1,SPORT TV 4
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/31255
+#EXTINF:-1,SPORT TV 5
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/31256
+#EXTINF:-1,SPORT TV NBA
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/31257
+#EXTINF:-1,SPORTING TV
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/31258
+#EXTINF:-1,ABU DHABI SPORTS 01
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/31259
+#EXTINF:-1,ABU DHABI SPORTS 02
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/31260
+#EXTINF:-1,ABU DHABI SPORTS 03
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/31261
+#EXTINF:-1,ABU DHABI SPORTS 04
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/31262
+#EXTINF:-1,AL KASS SPORTS 01
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/31263
+#EXTINF:-1,AL KASS SPORTS 02
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/31264
+#EXTINF:-1,AL KASS SPORTS 03
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/31265
+#EXTINF:-1,AL KASS SPORTS 04
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/31266
+#EXTINF:-1,AL KASS SPORTS 05
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/31267
+#EXTINF:-1,A&E FULLHD
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/31268
+#EXTINF:-1,AMC HD
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/31269
+#EXTINF:-1,AXN FULLHD
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/31270
+#EXTINF:-1,AXN HD
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/31271
+#EXTINF:-1,CANAL SONY FULLHD
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/31272
+#EXTINF:-1,CANAL SONY HD
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/31273
+#EXTINF:-1,CINEMAX FULLHD
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/31274
+#EXTINF:-1,CINEMAX HD
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/31275
+#EXTINF:-1,FX FULLHD
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/31276
+#EXTINF:-1,FX HD
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/31277
+#EXTINF:-1,MEGAPIX FULLHD
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/31278
+#EXTINF:-1,MEGAPIX HD
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/31279
+#EXTINF:-1,PARAMOUNT CHANNEL FULLHD
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/31280
+#EXTINF:-1,PARAMOUNT CHANNEL HD
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/31281
+#EXTINF:-1,SPACE FULLHD
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/31282
+#EXTINF:-1,SPACE HD
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/31283
+#EXTINF:-1,SPACE HD*
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/31284
+#EXTINF:-1,STAR CHANNEL FULLHD
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/31285
+#EXTINF:-1,STAR CHANNEL HD
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/31286
+#EXTINF:-1,STAR HITS 1 FULLHD
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/31287
+#EXTINF:-1,STAR HITS 2 FULLHD
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/31288
+#EXTINF:-1,STAR HITS 2 HD
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/31289
+#EXTINF:-1,STAR HITS 1 HD
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/31290
+#EXTINF:-1,STUDIO UNIVERSAL FULLHD
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/31291
+#EXTINF:-1,STUDIO UNIVERSAL HD
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/31292
+#EXTINF:-1,SYFY FULL HD
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/31293
+#EXTINF:-1,SYFY HD
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/31294
+#EXTINF:-1,TBS FULL HD
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/31295
+#EXTINF:-1,TBS HD
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/31296
+#EXTINF:-1,TCM FULLHD
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/31297
+#EXTINF:-1,TCM HD
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/31298
+#EXTINF:-1,TNT FULL HD
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/31299
+#EXTINF:-1,TNT HD
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/31300
+#EXTINF:-1,TNT SERIES FULLHD
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/31301
+#EXTINF:-1,TNT SERIES HD
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/31302
+#EXTINF:-1,UNIVERSAL CHANNEL FULLHD
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/31303
+#EXTINF:-1,UNIVERSAL TV HD
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/31304
+#EXTINF:-1,WARNER CHANNEL FULLHD
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/31305
+#EXTINF:-1,CINEMA 1
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/31316
+#EXTINF:-1,CINEMA 2
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/31317
+#EXTINF:-1,CINEMA 3
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/31318
+#EXTINF:-1,CINEMA 4
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/31319
+#EXTINF:-1,CINEMA 5
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/31320
+#EXTINF:-1,CINEMA 6
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/31321
+#EXTINF:-1,CINEMA 7
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/31322
+#EXTINF:-1,CINEMA 8
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/31324
+#EXTINF:-1,CINE SKY 9 HD
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/31325
+#EXTINF:-1,HBO 2 HD
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/31460
+#EXTINF:-1,HBO FAMILY FULLHD
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/31461
+#EXTINF:-1,HBO FAMILY HD
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/31462
+#EXTINF:-1,HBO FAMILY HD*
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/31463
+#EXTINF:-1,HBO FULL HD
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/31464
+#EXTINF:-1,HBO 1 HD
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/31465
+#EXTINF:-1,HBO MUNDI FULLHD
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/31466
+#EXTINF:-1,HBO MUNDI HD
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/31467
+#EXTINF:-1,HBO PLUS FULLHD
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/31468
+#EXTINF:-1,HBO PLUS HD
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/31469
+#EXTINF:-1,HBO POP FULLHD
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/31470
+#EXTINF:-1,HBO POP HD
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/31471
+#EXTINF:-1,HBO SIGNATURE FULLHD
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/31472
+#EXTINF:-1,HBO SIGNATURE HD
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/31473
+#EXTINF:-1,HBO XTREAME HD
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/31474
+#EXTINF:-1,HBO XTREME FULLHD
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/31475
+#EXTINF:-1,BABY TV FULLHD
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/31476
+#EXTINF:-1,BABY TV HD
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/31477
+#EXTINF:-1,BOOMERANG FULLHD
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/31478
+#EXTINF:-1,CARTOON NETWORK FULLHD
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/31479
+#EXTINF:-1,CARTOON NETWORK HD
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/31480
+#EXTINF:-1,DISCOVERY KIDS FULLHD
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/31481
+#EXTINF:-1,DISCOVERY KIDS HD
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/31482
+#EXTINF:-1,DISNEY CHANNEL FULLHD
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/31483
+#EXTINF:-1,DISNEY CHANNEL HD
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/31484
+#EXTINF:-1,DISNEY JUNIOR FULLHD
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/31485
+#EXTINF:-1,DISNEY JUNIOR HD
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/31486
+#EXTINF:-1,DISNEY XD FULLHD
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/31487
+#EXTINF:-1,DISNEY XD HD
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/31488
+#EXTINF:-1,GLOOB FULLHD
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/31491
+#EXTINF:-1,GLOOB HD
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/31492
+#EXTINF:-1,LOADING TV
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/31494
+#EXTINF:-1,NATGEO KIDS FULLHD
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/31495
+#EXTINF:-1,NATGEO KIDS HD
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/31496
+#EXTINF:-1,NICK JR FULLHD
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/31497
+#EXTINF:-1,NICK JR HD
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/31498
+#EXTINF:-1,NICKELODEON FULLHD
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/31499
+#EXTINF:-1,NICKELODEON HD
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/31500
+#EXTINF:-1,TOONCAST FULLHD
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/31501
+#EXTINF:-1,TV RA TIM BUM FULLHD
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/31502
+#EXTINF:-1,TV RA TIM BUM HD
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/31503
+#EXTINF:-1,ZOOMOO HD
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/31504
+#EXTINF:-1,BAND NEWS FULLHD
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/31506
+#EXTINF:-1,CNN BRASIL FULLHD
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/31508
+#EXTINF:-1,CNN BRASIL HD
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/31509
+#EXTINF:-1,CNN ESPANHOL FULLHD
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/31510
+#EXTINF:-1,CNN INTERNACIONAL FULLHD
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/31511
+#EXTINF:-1,DW DEUTSCHE
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/31512
+#EXTINF:-1,DW ESPANHOL
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/31513
+#EXTINF:-1,FOX NEWS FULLHD
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/31514
+#EXTINF:-1,FOX NEWS HD
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/31515
+#EXTINF:-1,GLOBO NEWS HD
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/31518
+#EXTINF:-1,GLOBO NEWS HD
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/31519
+#EXTINF:-1,NHK JAPÃO  HD
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/31520
+#EXTINF:-1,RAI INTERNACIONAL HD
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/31521
+#EXTINF:-1,RECORD NEWS FULLHD
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/31522
+#EXTINF:-1,RECORD NEWS HD
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/31523
+#EXTINF:-1,SIC INTERNACIONAL²
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/31524
+#EXTINF:-1,PREMIERE CLUBES FULL HD
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/31525
+#EXTINF:-1,PREMIERE CLUBES HD
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/31526
+#EXTINF:-1,PREMIERE CLUBES HD²
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/31527
+#EXTINF:-1,PREMIERE 2 FULL HD
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/31528
+#EXTINF:-1,PREMIERE 2 HD
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/31529
+#EXTINF:-1,PREMIERE 2 UHD
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/31531
+#EXTINF:-1,PREMIERE 3 FULL HD
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/31532
+#EXTINF:-1,PREMIERE 3 HD
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/31533
+#EXTINF:-1,PREMIERE 3 UHD
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/31535
+#EXTINF:-1,PREMIERE 4 FULL HD
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/31536
+#EXTINF:-1,PREMIERE 4 HD
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/31537
+#EXTINF:-1,PREMIERE 5 FULL HD
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/31539
+#EXTINF:-1,PREMIERE 5 HD
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/31540
+#EXTINF:-1,PREMIERE 6 FULL HD
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/31542
+#EXTINF:-1,PREMIERE 6 HD
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/31543
+#EXTINF:-1,PREMIERE 7 FULL HD
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/31544
+#EXTINF:-1,PREMIERE 7 HD
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/31545
+#EXTINF:-1,POWER COUPLE BRASIL FULLHD
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/31547
+#EXTINF:-1,POWER COUPLE BRASIL HD²
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/31548
+#EXTINF:-1,POWER COUPLE BRASIL HD³
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/31549
+#EXTINF:-1,POWER COUPLE BRASIL HD
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/31550
+#EXTINF:-1,BR: RECORD CAMPINAS HD²
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/31553
+#EXTINF:-1,BR: RECORD RJ HD²
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/31555
+#EXTINF:-1,BR: RECORD SP HD²
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/31556
+#EXTINF:-1,RECORD RS
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/31557
+#EXTINF:-1,RECORD BAHIA HD
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/31558
+#EXTINF:-1,RECORD BRASILIA
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/31560
+#EXTINF:-1,RECORD BRASILIA HD¹
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/31561
+#EXTINF:-1,RECORD FULLHD
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/31562
+#EXTINF:-1,RECORD GOIAS
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/31563
+#EXTINF:-1,RECORD MINAS HD
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/31565
+#EXTINF:-1,RECORD RJ HD
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/31566
+#EXTINF:-1,RECORD RS HD
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/31567
+#EXTINF:-1,RECORD SP HD
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/31568
+#EXTINF:-1,RECORD¹
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/31569
+#EXTINF:-1,TV EVANGELIZAR
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/31570
+#EXTINF:-1,CANCAO NOVA
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/31571
+#EXTINF:-1,NOVO TEMPO
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/31573
+#EXTINF:-1,REDE GENISIS FHULLD
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/31574
+#EXTINF:-1,REDE GOSPEL FULLHD
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/31575
+#EXTINF:-1,REDE SUPER FULLHD
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/31576
+#EXTINF:-1,REDE VIDA
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/31577
+#EXTINF:-1,RIT FULLHD
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/31578
+#EXTINF:-1,TV APARECIDA LIVRE
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/31579
+#EXTINF:-1,TV GOSPEL CEARÁ
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/31580
+#EXTINF:-1,CBTV Now
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/31581
+#EXTINF:-1,TELECINE ACTION FULL HD
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/31582
+#EXTINF:-1,TELECINE ACTION HD
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/31583
+#EXTINF:-1,TELECINE CULT FULL HD
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/31584
+#EXTINF:-1,TELECINE CULT HD
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/31585
+#EXTINF:-1,TELECINE FUN FULLHD
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/31587
+#EXTINF:-1,TELECINE FUN HD
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/31588
+#EXTINF:-1,TELECINE PIPOCA FULLHD
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/31589
+#EXTINF:-1,TELECINE PIPOCA HD
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/31590
+#EXTINF:-1,TELECINE PREMIUM FULL HD
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/31591
+#EXTINF:-1,TELECINE PREMIUM HD
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/31592
+#EXTINF:-1,TELECINE TOUCH FULL HD
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/31593
+#EXTINF:-1,TELECINE TOUCH HD
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/31594
+#EXTINF:-1,Arte 1 FULLHD
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/31595
+#EXTINF:-1,BIS FULLHD
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/31596
+#EXTINF:-1,BIS HD
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/31597
+#EXTINF:-1,CHEF TV FULLHD
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/31598
+#EXTINF:-1,COMEDY CENTRAL FULLHD
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/31599
+#EXTINF:-1,COMEDY CENTRAL HD
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/31600
+#EXTINF:-1,CURTA! FULLHD
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/31601
+#EXTINF:-1,CURTA! HD*
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/31602
+#EXTINF:-1,E! FULLHD
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/31604
+#EXTINF:-1,E! HD
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/31605
+#EXTINF:-1,FOOD NETWORK FULLHD
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/31606
+#EXTINF:-1,FOOD NETWORK HD
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/31607
+#EXTINF:-1,GNT FULLHD
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/31608
+#EXTINF:-1,GNT HD
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/31609
+#EXTINF:-1,ISAT FULLHD
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/31610
+#EXTINF:-1,LIFETIME FULLHD
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/31611
+#EXTINF:-1,LIFETIME HD
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/31612
+#EXTINF:-1,MAIS GLOBOSAT
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/31613
+#EXTINF:-1,MAIS GLOBOSAT FULLHD
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/31614
+#EXTINF:-1,MTV FULLHD
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/31615
+#EXTINF:-1,MTV HD
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/31616
+#EXTINF:-1,MULTISHOW FULLHD
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/31617
+#EXTINF:-1,MULTSHOW HD
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/31618
+#EXTINF:-1,MUSIC BOX BRASIL FULLHD
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/31619
+#EXTINF:-1,PLAY TV FULLHD
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/31620
+#EXTINF:-1,PRIME BOX BRASIL FULL HD
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/31621
+#EXTINF:-1,SHOPTIME HD
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/31622
+#EXTINF:-1,STAR LIFE FULLHD
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/31623
+#EXTINF:-1,STAR LIFE HD
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/31624
+#EXTINF:-1,TRU TV FULLHD
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/31626
+#EXTINF:-1,TRUTV HD
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/31627
+#EXTINF:-1,VH1 HD
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/31628
+#EXTINF:-1,VH1 MEGA HITS FULLHD
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/31629
+#EXTINF:-1,VIVA FULLHD
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/31630
+#EXTINF:-1,VIVA HD
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/31631
+#EXTINF:-1,THE BIG BANG THEORY
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/31632
+#EXTINF:-1,Tom & Jerry
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/31633
+#EXTINF:-1,3 ESPIÃS DEMAIS
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/31634
+#EXTINF:-1,3 PALAVRINHAS
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/31635
+#EXTINF:-1,A TURMA DO ZÉ COLMÉIA
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/31636
+#EXTINF:-1,A PANTERA COR-DE-ROSA
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/31637
+#EXTINF:-1,A PEQUENA SEREIA
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/31638
+#EXTINF:-1,A PEQUENA SEREIA
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/31639
+#EXTINF:-1,A TURMA DO MANDA CHUVA
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/31640
+#EXTINF:-1,A VACA E O FRANGO
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/31641
+#EXTINF:-1,ALADDIN
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/31642
+#EXTINF:-1,ALF, O ETEIMOSO
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/31643
+#EXTINF:-1,ANIMANIACS
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/31644
+#EXTINF:-1,AS AVENTURAS DE JACKIE CHAN
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/31645
+#EXTINF:-1,AS AVENTURAS DE JACKIE CHAN
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/31646
+#EXTINF:-1,AS AVENTURAS DE TINTIM
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/31647
+#EXTINF:-1,AS TARTARUGAS NINJAS
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/31649
+#EXTINF:-1,BABY LOONEY TUNES
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/31650
+#EXTINF:-1,BABY LOONEY TUNES
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/31651
+#EXTINF:-1,BATMAN - SÉRIE ANIMADA
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/31652
+#EXTINF:-1,BEN 10
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/31653
+#EXTINF:-1,BEN 10 (2005)
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/31654
+#EXTINF:-1,BEN 10 OMNIVERSE
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/31655
+#EXTINF:-1,BIBO PAI E BOBI FILHO
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/31656
+#EXTINF:-1,BANANAS DE PIJAMAS
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/31657
+#EXTINF:-1,OS THUNDERMANS
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/31658
+#EXTINF:-1,BLACK KAMEN RIDER
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/31659
+#EXTINF:-1,BOB ESPONJA
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/31660
+#EXTINF:-1,BOB ZOOM
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/31661
+#EXTINF:-1,BREAKING BAD ¹
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/31663
+#EXTINF:-1,LULUZINHA
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/31664
+#EXTINF:-1,CARANGOS E MOTOCAS
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/31665
+#EXTINF:-1,CASA DO MICKEY
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/31666
+#EXTINF:-1,SCOOBY DOO
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/31667
+#EXTINF:-1,CAVALEIROS DO ZODÍACO - BATALHA DAS 12 CASAS
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/31668
+#EXTINF:-1,CAVALEIROS DO ZODÍACO - SAGA DE ASGARD
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/31669
+#EXTINF:-1,CAVALEIROS DO ZODÍACO - SAGA DE HADES
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/31670
+#EXTINF:-1,CAVALEIROS DO ZODÍACO - SAGA DE POSEIDON
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/31671
+#EXTINF:-1,CAVALEIROS DO ZODÍACO - SAGA SANTUÁRIO
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/31672
+#EXTINF:-1,CAVALO DE FOGO
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/31673
+#EXTINF:-1,CAVERNA DO DRAGÃO
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/31674
+#EXTINF:-1,CHAPOLIN
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/31675
+#EXTINF:-1,CHAVES
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/31676
+#EXTINF:-1,CHAVES DESENHO
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/31677
+#EXTINF:-1,Os Padrinhos Mágicos
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/31678
+#EXTINF:-1,COMÉDIA SELVAGEM
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/31679
+#EXTINF:-1,CORAGEM CAO COVARDE
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/31680
+#EXTINF:-1,DE VOLTA PARA O FUTURO
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/31681
+#EXTINF:-1,DOIS HOMENS E MEIO
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/31684
+#EXTINF:-1,DRAKE E JOSH
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/31690
+#EXTINF:-1,EU SOU O MÁXIMO
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/31695
+#EXTINF:-1,GARFIELD
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/31702
+#EXTINF:-1,KIDS TV
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/31703
+#EXTINF:-1,ICARLY
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/31708
+#EXTINF:-1,CARTOON GOSPEL
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/31713
+#EXTINF:-1,LOONEY TUNES
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/31720
+#EXTINF:-1,LOONEY TUNES
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/31721
+#EXTINF:-1,MASHA E O URSO
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/31724
+#EXTINF:-1,O INCRÍVEL MUNDO DE GUMBALL
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/31731
+#EXTINF:-1,OS JOVENS TITÃS EM AÇÃO
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/31740
+#EXTINF:-1,OS SMURFS
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/31742
+#EXTINF:-1,PATRULHA CANINA 24H
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/31746
+#EXTINF:-1,A CASA DO MICKEY MOUSE
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/31748
+#EXTINF:-1,POWER RANGERS
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/31754
+#EXTINF:-1,DIGIMON
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/31757
+#EXTINF:-1,SOBRENATURAL
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/31758
+#EXTINF:-1,STREET FIGTHER
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/31761
+#EXTINF:-1,TODO MUNDO ODEIA O CHRIS
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/31765
+#EXTINF:-1,FÁBULAS DA DISNEY
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/31768
+#EXTINF:-1,UM MALUCO NO PEDAÇO
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/31769
+#EXTINF:-1,X-MAN
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/31773
+#EXTINF:-1,A Mulher na Janela (2021)
+http://xcui.vitvabc.xyz:8880/movie/287994003125/287994003125/31900.mkv
+#EXTINF:-1,Alerta Vermelho (2019)
+http://xcui.vitvabc.xyz:8880/movie/287994003125/287994003125/31901.mkv
+#EXTINF:-1,American Pie Apresenta: Meninas ao Ataque (2020)
+http://xcui.vitvabc.xyz:8880/movie/287994003125/287994003125/31902.mkv
+#EXTINF:-1,Ataque Fatal (2019)
+http://xcui.vitvabc.xyz:8880/movie/287994003125/287994003125/31903.mkv
+#EXTINF:-1,Depois a Louca Sou Eu (2020)
+http://xcui.vitvabc.xyz:8880/movie/287994003125/287994003125/31904.mp4
+#EXTINF:-1,Eu Sou Todas as Meninas (2021)
+http://xcui.vitvabc.xyz:8880/movie/287994003125/287994003125/31905.mkv
+#EXTINF:-1,Ferry (2021)
+http://xcui.vitvabc.xyz:8880/movie/287994003125/287994003125/31906.mkv
+#EXTINF:-1,O Rebanho (2020)
+http://xcui.vitvabc.xyz:8880/movie/287994003125/287994003125/31907.mkv
+#EXTINF:-1,O Mistério da Casa Assombrada (2020)
+http://xcui.vitvabc.xyz:8880/movie/287994003125/287994003125/31908.mkv
+#EXTINF:-1,O Perfeito Sr. Cha (2021)
+http://xcui.vitvabc.xyz:8880/movie/287994003125/287994003125/31909.mkv
+#EXTINF:-1,Os Intrusos (2020)
+http://xcui.vitvabc.xyz:8880/movie/287994003125/287994003125/31910.mkv
+#EXTINF:-1,Oxigênio (2021)
+http://xcui.vitvabc.xyz:8880/movie/287994003125/287994003125/31911.mkv
+#EXTINF:-1,Patricia, Uma Paixão Escondida (2020)
+http://xcui.vitvabc.xyz:8880/movie/287994003125/287994003125/31912.mkv
+#EXTINF:-1,Sem Remorso (2021)
+http://xcui.vitvabc.xyz:8880/movie/287994003125/287994003125/31913.mkv
+#EXTINF:-1,Alvo Número Um (2020)
+http://xcui.vitvabc.xyz:8880/movie/287994003125/287994003125/31914.mkv
+#EXTINF:-1,Matando Deus (2017)
+http://xcui.vitvabc.xyz:8880/movie/287994003125/287994003125/31915.mkv
+#EXTINF:-1,Rosa Amarela (2020)
+http://xcui.vitvabc.xyz:8880/movie/287994003125/287994003125/31954.mp4
+#EXTINF:-1,Além das Montanhas (2020)
+http://xcui.vitvabc.xyz:8880/movie/287994003125/287994003125/32147.mkv
+#EXTINF:-1,Army of the Dead: Invasão em Las Vegas (2021)
+http://xcui.vitvabc.xyz:8880/movie/287994003125/287994003125/32148.mkv
+#EXTINF:-1,Meu Eterno Primeiro Amor (2020)
+http://xcui.vitvabc.xyz:8880/movie/287994003125/287994003125/32149.mkv
+#EXTINF:-1,O Último Desejo de Sardar (2021)
+http://xcui.vitvabc.xyz:8880/movie/287994003125/287994003125/32150.mkv
+#EXTINF:-1,P!NK: Tudo Que Aprendi Até Agora (2021)
+http://xcui.vitvabc.xyz:8880/movie/287994003125/287994003125/32151.mkv
+#EXTINF:-1,GLOBO NEWS SD
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/32153
+#EXTINF:-1,GLOBO NEWS
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/32334
+#EXTINF:-1,BR: XXX 18+ 1
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/32395
+#EXTINF:-1,BR: XXX 18+ 2
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/32396
+#EXTINF:-1,BR: XXX 18+ 3
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/32397
+#EXTINF:-1,BR: XXX 18+ 4
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/32398
+#EXTINF:-1,BR: XXX 18+ 5
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/32399
+#EXTINF:-1,BR: XXX 18+ 6
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/32400
+#EXTINF:-1,BR: XXX 18+ 7
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/32401
+#EXTINF:-1,BR: XXX 18+ 8
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/32402
+#EXTINF:-1,BR: XXX 18+ 9
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/32403
+#EXTINF:-1,BR: XXX 18+ 10
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/32404
+#EXTINF:-1,BR: XXX 18+ 11
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/32405
+#EXTINF:-1,BR: XXX 18+ 12
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/32406
+#EXTINF:-1,BR: XXX 18+ 13
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/32407
+#EXTINF:-1,BR: XXX 18+ 14
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/32408
+#EXTINF:-1,BR: XXX 18+ 15
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/32409
+#EXTINF:-1,BR: XXX 18+ 16
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/32410
+#EXTINF:-1,BR: XXX 18+ 17
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/32411
+#EXTINF:-1,BR: XXX 18+ 18
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/32412
+#EXTINF:-1,BR: XXX 18+ 19
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/32413
+#EXTINF:-1,BR: XXX 18+ 20
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/32414
+#EXTINF:-1,BR: XXX 18+ 21
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/32415
+#EXTINF:-1,BR: XXX 18+ 22
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/32416
+#EXTINF:-1,BR: XXX 18+ 23
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/32417
+#EXTINF:-1,BR: XXX 18+ 24
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/32418
+#EXTINF:-1,BR: XXX 18+ 25
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/32419
+#EXTINF:-1,BR: XXX 18+ 26
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/32420
+#EXTINF:-1,BR: XXX 18+ 27
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/32421
+#EXTINF:-1,BR: XXX 18+ 28
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/32422
+#EXTINF:-1,BR: XXX 18+ 29
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/32423
+#EXTINF:-1,BR: XXX 18+ 30
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/32424
+#EXTINF:-1,BR: XXX 18+ 31
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/32425
+#EXTINF:-1,BR: XXX 18+ 32
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/32426
+#EXTINF:-1,BR: XXX 18+ 33
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/32427
+#EXTINF:-1,BR: XXX 18+ 34
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/32428
+#EXTINF:-1,BR: XXX 18+ 35
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/32429
+#EXTINF:-1,BR: XXX 18+ 36
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/32430
+#EXTINF:-1,BR: XXX 18+ 37
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/32431
+#EXTINF:-1,BR: XXX 18+ 38
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/32432
+#EXTINF:-1,BR: XXX 18+ 39
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/32433
+#EXTINF:-1,BR: XXX 18+ 40
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/32434
+#EXTINF:-1,Garantia de Morte (1990)
+http://xcui.vitvabc.xyz:8880/movie/287994003125/287994003125/32455.mkv
+#EXTINF:-1,Looper: Assassinos do Futuro (2012)
+http://xcui.vitvabc.xyz:8880/movie/287994003125/287994003125/32456.mkv
+#EXTINF:-1,Clube da Luta Para Mulheres (2021)
+http://xcui.vitvabc.xyz:8880/movie/287994003125/287994003125/32457.mkv
+#EXTINF:-1,Solomon Kane - O Caçador de Demônios (2009)
+http://xcui.vitvabc.xyz:8880/movie/287994003125/287994003125/32458.mkv
+#EXTINF:-1,Tudo de Novo (2020)
+http://xcui.vitvabc.xyz:8880/movie/287994003125/287994003125/32459.mkv
+#EXTINF:-1,Frankenweenie (2012)
+http://xcui.vitvabc.xyz:8880/movie/287994003125/287994003125/32460.mp4
+#EXTINF:-1,O Hotel do Terror (2017)
+http://xcui.vitvabc.xyz:8880/movie/287994003125/287994003125/32461.mkv
+#EXTINF:-1,Terror em Shellmont (2018)
+http://xcui.vitvabc.xyz:8880/movie/287994003125/287994003125/32462.mkv
+#EXTINF:-1,The.Battle.Roar.to.Victory
+http://xcui.vitvabc.xyz:8880/movie/287994003125/287994003125/32463.mkv
+#EXTINF:-1,GLOBO TV RIO SUL HD
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/32155
+#EXTINF:-1,GLOBO² AMAZONAS SD
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/32157
+#EXTINF:-1,GLOBO² ANHANGUERA GOIANIA SD
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/32158
+#EXTINF:-1,GLOBO² BRASILIA SD
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/32159
+#EXTINF:-1,GLOBO² EPTV CAMPINAS HD
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/32161
+#EXTINF:-1,GLOBO² INTERNACIONAL SD
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/32163
+#EXTINF:-1,GLOBO² MINAS SD
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/32164
+#EXTINF:-1,GLOBO² NORDESTE HD
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/32165
+#EXTINF:-1,GLOBO² NSC FLORIANOPOLIS HD
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/32167
+#EXTINF:-1,GLOBO² RBS PORTO ALEGRE SD
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/32168
+#EXTINF:-1,GLOBO² RIBEIRÃO PRETO SD
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/32169
+#EXTINF:-1,GLOBO² RJ HD
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/32170
+#EXTINF:-1,GLOBO² RPC TV HD
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/32172
+#EXTINF:-1,GLOBO² SP HD
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/32174
+#EXTINF:-1,GLOBO² SP SD
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/32175
+#EXTINF:-1,GLOBO² TV BAHIA SD
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/32176
+#EXTINF:-1,GLOBO² TV Sergipe HD
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/32178
+#EXTINF:-1,GLOBO² TV TEM BAURU SD
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/32179
+#EXTINF:-1,GLOBO² TV Tem Rio Preto SD
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/32180
+#EXTINF:-1,GLOBO² TV TEM SOROCABA SD
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/32181
+#EXTINF:-1,GLOBO² TV VANGUARDA S.J DOS CAMPOS SD
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/32182
+#EXTINF:-1,GLOBO² TV VERDES MARES FORTALEZA SD
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/32183
+#EXTINF:-1,GLOBO³  NSC JOINVILLE  HDD SC
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/32184
+#EXTINF:-1,GLOBO³ BRASILIA FULL HD
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/32191
+#EXTINF:-1,GLOBO³ CHAPECO HD
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/32194
+#EXTINF:-1,GLOBO³ CURITIBA FULL HD
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/32198
+#EXTINF:-1,GLOBO³ EPTV CAMPINAS FULL HD
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/32203
+#EXTINF:-1,GLOBO³ EPTV RIBEIRAO PRETO SD
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/32206
+#EXTINF:-1,GLOBO³ FLORIANOPOLIS FULL HD
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/32208
+#EXTINF:-1,GLOBO³ FOZ DO IGUAÇU FULL HD
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/32215
+#EXTINF:-1,GLOBO³ FULLHD SP H.265
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/32216
+#EXTINF:-1,GLOBO³ GAZETA SUL ALEGRE ES FULL HD
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/32217
+#EXTINF:-1,GLOBO³ GAZETA VITORIA SD
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/32220
+#EXTINF:-1,GLOBO³ GOIANIA FULL HD
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/32221
+#EXTINF:-1,GLOBO³ GOIANIA SD
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/32223
+#EXTINF:-1,GLOBO³ INTEGRACAO ARAXA HD
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/32224
+#EXTINF:-1,GLOBO³ INTER TV  CABUGI FULLHD
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/32226
+#EXTINF:-1,GLOBO³ INTER TV ALTO LITORAL FULL HD
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/32227
+#EXTINF:-1,GLOBO³ INTER TV CABUGI SD
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/32230
+#EXTINF:-1,GLOBO³ NORDESTE FULL HD
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/32241
+#EXTINF:-1,GLOBO³ NSC CHAPECO FULLHD
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/32243
+#EXTINF:-1,GLOBO³ NSC JOINVILLE  FULLHD SC
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/32244
+#EXTINF:-1,GLOBO³ PORTO ALEGRE FULL HD
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/32247
+#EXTINF:-1,GLOBO³ RBS TV CAXIAS DO SUL FULL HD
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/32251
+#EXTINF:-1,GLOBO³ RPC MARINGA FULLHD
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/32265
+#EXTINF:-1,GLOBO³ RPC PONTA GROSSA FULLHD
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/32266
+#EXTINF:-1,GLOBO³ RPC TV PARANAVAI FULL HD
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/32267
+#EXTINF:-1,GLOBO³ SP FULL HD
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/32276
+#EXTINF:-1,GLOBO³ TV ASA BRANCA FULL HD
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/32279
+#EXTINF:-1,GLOBO³ TV CABO BRANCO FULL HD
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/32281
+#EXTINF:-1,GLOBO³ TV CENTRO AMERICA HD
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/32284
+#EXTINF:-1,GLOBO³ TV CLUBE PI HD
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/32286
+#EXTINF:-1,GLOBO³ TV GAZETA ALAGOAS FULLHD
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/32290
+#EXTINF:-1,GLOBO³ TV GAZETA VITORIA FULLHD
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/32291
+#EXTINF:-1,GLOBO³ TV INTER CABUGI HD
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/32297
+#EXTINF:-1,GLOBO³ TV MIRANTE FULL HD
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/32298
+#EXTINF:-1,GLOBO³ TV MIRANTE
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/32300
+#EXTINF:-1,GLOBO³ TV RIO SUL FULL HD
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/32301
+#EXTINF:-1,GLOBO³ TV SANTA CRUZ FULLHD
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/32304
+#EXTINF:-1,GLOBO³ TV SERGIPE FULL HD
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/32307
+#EXTINF:-1,GLOBO³ tv sergipe sd
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/32309
+#EXTINF:-1,GLOBO¹ CENTRO AMÉRICA FULLHD
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/32319
+#EXTINF:-1,GLOBO¹ EPTV CAMPINAS FULL HD
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/32320
+#EXTINF:-1,GLOBO¹ EPTV SUL DE MINAS FULL HD
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/32323
+#EXTINF:-1,GLOBO¹ INTER TV ALTO LITORAL FULLHD
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/32325
+#EXTINF:-1,GLOBO¹ INTER TV CABUGI FULLHD
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/32326
+#EXTINF:-1,GLOBO¹ INTER TV DOS VALES FULLHD
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/32327
+#EXTINF:-1,GLOBO¹ INTER TV GRANDE MINAS FULLHD
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/32328
+#EXTINF:-1,GLOBO¹ MINAS FULLHD
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/32330
+#EXTINF:-1,GLOBO¹ MINAS HD
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/32331
+#EXTINF:-1,GLOBO¹ NACIONAL FULLHD
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/32333
+#EXTINF:-1,GLOBO¹ NORDESTE FULL HD
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/32335
+#EXTINF:-1,GLOBO¹ NSC FLORIANÓPOLIS FULL HD
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/32339
+#EXTINF:-1,GLOBO¹ NSC TV BLUMENAU FULLHD
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/32340
+#EXTINF:-1,GLOBO¹ NSC TV CRICIÚMA FULLHD
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/32341
+#EXTINF:-1,GLOBO¹ PORTUGAL FULLHD
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/32342
+#EXTINF:-1,GLOBO¹ RBS CAXIAS DO SUL FULLHD
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/32343
+#EXTINF:-1,GLOBO¹ RBS TV POA FULLHD
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/32344
+#EXTINF:-1,GLOBO¹ RBS TV POA HD
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/32345
+#EXTINF:-1,GLOBO¹ REDE AMAZONICA FULLHD
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/32347
+#EXTINF:-1,GLOBO¹ RJ FULL HD
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/32348
+#EXTINF:-1,GLOBO¹ RPC CURITIBA FULLHD
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/32351
+#EXTINF:-1,GLOBO¹ RPC FOZ DO IGUAÇU FULLHD
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/32352
+#EXTINF:-1,GLOBO¹ RPC MARINGÁ FULLHD
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/32353
+#EXTINF:-1,GLOBO¹ RPC PARANAENSE FULL HD
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/32354
+#EXTINF:-1,GLOBO¹ RPC PONTA GROSSA FULLHD
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/32356
+#EXTINF:-1,GLOBO¹ RPC TV CURITIBA SD
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/32357
+#EXTINF:-1,GLOBO¹ SP FULL HD
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/32358
+#EXTINF:-1,GLOBO¹ SP HD¹
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/32360
+#EXTINF:-1,GLOBO¹ TV ANHANGUERA FULL HD
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/32362
+#EXTINF:-1,GLOBO¹ TV ASA BRANCA FULL HD
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/32365
+#EXTINF:-1,GLOBO¹ TV BAHIA FULL HD
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/32367
+#EXTINF:-1,GLOBO¹ TV BRASILIA FULLHD
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/32370
+#EXTINF:-1,GLOBO¹ TV CABO BRANCO FULLHD
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/32371
+#EXTINF:-1,GLOBO¹ TV CENTRO AMÉRICA SD
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/32372
+#EXTINF:-1,GLOBO¹ TV CLUBE TERESINA FULLHD
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/32373
+#EXTINF:-1,GLOBO¹ TV GAZETA DE ALAGOAS FULLHD
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/32374
+#EXTINF:-1,GLOBO¹ TV GAZETA ES FULLHD
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/32375
+#EXTINF:-1,GLOBO¹ TV INTEGRAÇÃO JUIZ DE FORA FULLHD
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/32376
+#EXTINF:-1,GLOBO¹ TV MIRANTE FULL HD
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/32380
+#EXTINF:-1,GLOBO¹ TV MORENA FULL HD
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/32383
+#EXTINF:-1,GLOBO¹ TV RECIFE FULLHD
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/32386
+#EXTINF:-1,GLOBO¹ TV RIO SUL FULL HD
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/32387
+#EXTINF:-1,GLOBO¹ TV SANTA CRUZ FULL HD
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/32389
+#EXTINF:-1,GLOBO¹ TV SERGIPE FULLHD
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/32391
+#EXTINF:-1,GLOBO¹ TV VERDES MARES FULL HD
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/32393
+#EXTINF:-1,Cruella (2021)
+http://xcui.vitvabc.xyz:8880/movie/287994003125/287994003125/32464.mkv
+#EXTINF:-1,Ela Morre Amanhã (2020)
+http://xcui.vitvabc.xyz:8880/movie/287994003125/287994003125/32465.mkv
+#EXTINF:-1,Friends: A Reunião (2021)
+http://xcui.vitvabc.xyz:8880/movie/287994003125/287994003125/32466.mkv
+#EXTINF:-1,Juntos Novamente (2021)
+http://xcui.vitvabc.xyz:8880/movie/287994003125/287994003125/32467.mkv
+#EXTINF:-1,Perfeição Insondável (2020)
+http://xcui.vitvabc.xyz:8880/movie/287994003125/287994003125/32468.mkv
+#EXTINF:-1,The Postcard Killings (2020)
+http://xcui.vitvabc.xyz:8880/movie/287994003125/287994003125/32469.mkv
+#EXTINF:-1,Relíquia Macabra (2020)
+http://xcui.vitvabc.xyz:8880/movie/287994003125/287994003125/32470.mkv
+#EXTINF:-1,Rogai por Nós (2021)
+http://xcui.vitvabc.xyz:8880/movie/287994003125/287994003125/32471.mkv
+#EXTINF:-1,Aqueles Que Me Desejam a Morte (2021)
+http://xcui.vitvabc.xyz:8880/movie/287994003125/287994003125/32472.mkv
+#EXTINF:-1,Infiltrado (2021)
+http://xcui.vitvabc.xyz:8880/movie/287994003125/287994003125/32473.mkv
+#EXTINF:-1,Xtremo (2021)
+http://xcui.vitvabc.xyz:8880/movie/287994003125/287994003125/32474.mkv
+#EXTINF:-1,Sweet & Sour (2021)
+http://xcui.vitvabc.xyz:8880/movie/287994003125/287994003125/32475.mkv
+#EXTINF:-1,Pretty Guardian Sailor Moon Eternal: O Filme - Parte 2 (2021)
+http://xcui.vitvabc.xyz:8880/movie/287994003125/287994003125/32477.mkv
+#EXTINF:-1,Pretty Guardian Sailor Moon Eternal: O Filme - Parte 2 (2021)
+http://xcui.vitvabc.xyz:8880/movie/287994003125/287994003125/32478.mkv
+#EXTINF:-1,Homunculus (2021)
+http://xcui.vitvabc.xyz:8880/movie/287994003125/287994003125/32479.mkv
+#EXTINF:-1,Infinite (2021)
+http://xcui.vitvabc.xyz:8880/movie/287994003125/287994003125/32480.mkv
+#EXTINF:-1,Locked Down (2010)
+http://xcui.vitvabc.xyz:8880/movie/287994003125/287994003125/32481.mkv
+#EXTINF:-1,Uma Skatista Radical (2021)
+http://xcui.vitvabc.xyz:8880/movie/287994003125/287994003125/32482.mkv
+#EXTINF:-1,Charm City Kings (2020)
+http://xcui.vitvabc.xyz:8880/movie/287994003125/287994003125/32517.mkv
+#EXTINF:-1,#SemSaída (2020)
+http://xcui.vitvabc.xyz:8880/movie/287994003125/287994003125/32518.mkv
+#EXTINF:-1,Superinteligência (2020)
+http://xcui.vitvabc.xyz:8880/movie/287994003125/287994003125/32519.mkv
+#EXTINF:-1,Kandasamys: A Viagem (2021)
+http://xcui.vitvabc.xyz:8880/movie/287994003125/287994003125/32562.mkv
+#EXTINF:-1,Rompendo Barreiras: Nosso Planeta (2021)
+http://xcui.vitvabc.xyz:8880/movie/287994003125/287994003125/32563.mkv
+#EXTINF:-1,Segurança (2021)
+http://xcui.vitvabc.xyz:8880/movie/287994003125/287994003125/32608.mkv
+#EXTINF:-1,Samurai X: O Final (2021)
+http://xcui.vitvabc.xyz:8880/movie/287994003125/287994003125/32609.mkv
+#EXTINF:-1,Luca (2021)
+http://xcui.vitvabc.xyz:8880/movie/287994003125/287994003125/32610.mkv
+#EXTINF:-1,Em Guerra com o Vovô (2020)
+http://xcui.vitvabc.xyz:8880/movie/287994003125/287994003125/32611.mkv
+#EXTINF:-1,Delivery Macabro (2019)
+http://xcui.vitvabc.xyz:8880/movie/287994003125/287994003125/32633.mkv
+#EXTINF:-1,ELEVEN SPORTS 01 HD
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/32857
+#EXTINF:-1,ELEVEN SPORTS 02 HD
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/32858
+#EXTINF:-1,ELEVEN SPORTS 04 HD
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/32859
+#EXTINF:-1,ELEVEN SPORTS 05 HD
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/32860
+#EXTINF:-1,ELEVEN SPORTS 06 HD
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/32861
+#EXTINF:-1,ELEVEN SPORTS 07 HD
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/32862
+#EXTINF:-1,ELEVEN SPORTS 08 HD
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/32863
+#EXTINF:-1,ELEVEN SPORTS 09 HD
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/32864
+#EXTINF:-1,Espécies em Perigo (2021)
+http://xcui.vitvabc.xyz:8880/movie/287994003125/287994003125/32865.mkv
+#EXTINF:-1,Batman:  O Longo Dia das Bruxas – Parte 1 (2021)
+http://xcui.vitvabc.xyz:8880/movie/287994003125/287994003125/32866.mkv
+#EXTINF:-1,Caçadoras de Aventuras (1995)
+http://xcui.vitvabc.xyz:8880/movie/287994003125/287994003125/32867.mkv
+#EXTINF:-1,Boss Level: O Último Nível (2021)
+http://xcui.vitvabc.xyz:8880/movie/287994003125/287994003125/32868.mp4
+#EXTINF:-1,Awake (2021)
+http://xcui.vitvabc.xyz:8880/movie/287994003125/287994003125/32869.mkv
+#EXTINF:-1,Cidade de Gelo (2020)
+http://xcui.vitvabc.xyz:8880/movie/287994003125/287994003125/32870.mkv
+#EXTINF:-1,A Montanha Enfeitiçada (2009)
+http://xcui.vitvabc.xyz:8880/movie/287994003125/287994003125/32871.mkv
+#EXTINF:-1,Din e o Dragão Genial (2021)
+http://xcui.vitvabc.xyz:8880/movie/287994003125/287994003125/32872.mkv
+#EXTINF:-1,EncrenCão (2019)
+http://xcui.vitvabc.xyz:8880/movie/287994003125/287994003125/32873.mkv
+#EXTINF:-1,Django (1966)
+http://xcui.vitvabc.xyz:8880/movie/287994003125/287994003125/32874.mkv
+#EXTINF:-1,Edward Mãos de Tesoura (1990)
+http://xcui.vitvabc.xyz:8880/movie/287994003125/287994003125/32875.mkv
+#EXTINF:-1,Fique Rico ou Morra Tentando (2005)
+http://xcui.vitvabc.xyz:8880/movie/287994003125/287994003125/32876.mkv
+#EXTINF:-1,Sequestro Internacional (2019)
+http://xcui.vitvabc.xyz:8880/movie/287994003125/287994003125/32877.mkv
+#EXTINF:-1,Invocação do Mal 3: A Ordem do Demônio (2021)
+http://xcui.vitvabc.xyz:8880/movie/287994003125/287994003125/32878.mkv
+#EXTINF:-1,Os Pequenos Vestígios (2021)
+http://xcui.vitvabc.xyz:8880/movie/287994003125/287994003125/32891.mkv
+#EXTINF:-1,Os Jovens Pistoleiros (1988)
+http://xcui.vitvabc.xyz:8880/movie/287994003125/287994003125/32892.mkv
+#EXTINF:-1,O Gângster Nômade (2021)
+http://xcui.vitvabc.xyz:8880/movie/287994003125/287994003125/32893.mkv
+#EXTINF:-1,Paternidade (2021)
+http://xcui.vitvabc.xyz:8880/movie/287994003125/287994003125/32894.mkv
+#EXTINF:-1,Quem Quer Ser um Milionário? (2008)
+http://xcui.vitvabc.xyz:8880/movie/287994003125/287994003125/32895.mkv
+#EXTINF:-1,Um Amor Após a Vida (2021)
+http://xcui.vitvabc.xyz:8880/movie/287994003125/287994003125/32896.mkv
+#EXTINF:-1,A Discussão (2020)
+http://xcui.vitvabc.xyz:8880/movie/287994003125/287994003125/32897.mkv
+#EXTINF:-1,Ameaça Subterrânea (1997)
+http://xcui.vitvabc.xyz:8880/movie/287994003125/287994003125/32898.mkv
+#EXTINF:-1,A Caça (1964)
+http://xcui.vitvabc.xyz:8880/movie/287994003125/287994003125/32899.mkv
+#EXTINF:-1,Atentados em Londres (2021)
+http://xcui.vitvabc.xyz:8880/movie/287994003125/287994003125/32900.mkv
+#EXTINF:-1,Carnaval (2021)
+http://xcui.vitvabc.xyz:8880/movie/287994003125/287994003125/32901.mkv
+#EXTINF:-1,Em Terreno Selvagem (1994)
+http://xcui.vitvabc.xyz:8880/movie/287994003125/287994003125/32902.mkv
+#EXTINF:-1,Laranja Mecânica (1971)
+http://xcui.vitvabc.xyz:8880/movie/287994003125/287994003125/32903.mkv
+#EXTINF:-1,Nadando pelo Ouro (2020)
+http://xcui.vitvabc.xyz:8880/movie/287994003125/287994003125/32904.mkv
+#EXTINF:-1,Nascido para Vencer (2021)
+http://xcui.vitvabc.xyz:8880/movie/287994003125/287994003125/32905.mkv
+#EXTINF:-1,O Convidado (2019)
+http://xcui.vitvabc.xyz:8880/movie/287994003125/287994003125/32906.mkv
+#EXTINF:-1,Espiral: O Legado de Jogos Mortais (2021)
+http://xcui.vitvabc.xyz:8880/movie/287994003125/287994003125/32907.mp4
+#EXTINF:-1,Um Lugar Silencioso - Parte II (2021)
+http://xcui.vitvabc.xyz:8880/movie/287994003125/287994003125/32908.mkv
+#EXTINF:-1,Velozes & Furiosos 9 (2021)
+http://xcui.vitvabc.xyz:8880/movie/287994003125/287994003125/32909.mkv
+#EXTINF:-1,Não Matarás (2020)
+http://xcui.vitvabc.xyz:8880/movie/287994003125/287994003125/32920.mkv
+#EXTINF:-1,À Espreita do Mal (2019)
+http://xcui.vitvabc.xyz:8880/movie/287994003125/287994003125/32921.mkv
+#EXTINF:-1,The Single Mom Conspiracy (2021)
+http://xcui.vitvabc.xyz:8880/movie/287994003125/287994003125/32922.mkv
+#EXTINF:-1,An American Pickle (2020)
+http://xcui.vitvabc.xyz:8880/movie/287994003125/287994003125/33079.mkv
+#EXTINF:-1,Uncle Peckerhead (2020)
+http://xcui.vitvabc.xyz:8880/movie/287994003125/287994003125/33098.mkv
+#EXTINF:-1,A Gripe (2013)
+http://xcui.vitvabc.xyz:8880/movie/287994003125/287994003125/33099.mkv
+#EXTINF:-1,Não Olhe Para o Berço (2018)
+http://xcui.vitvabc.xyz:8880/movie/287994003125/287994003125/33100.mp4
+#EXTINF:-1,Abraço (2019)
+http://xcui.vitvabc.xyz:8880/movie/287994003125/287994003125/18318.mkv
+#EXTINF:-1,O Recepcionista (2020)
+http://xcui.vitvabc.xyz:8880/movie/287994003125/287994003125/33192.mkv
+#EXTINF:-1,3 Dias para Matar (2014)
+http://xcui.vitvabc.xyz:8880/movie/287994003125/287994003125/33193.mp4
+#EXTINF:-1,Dança Comigo? (2004)
+http://xcui.vitvabc.xyz:8880/movie/287994003125/287994003125/33202.mkv
+#EXTINF:-1,Dragão: A História de Bruce Lee (1993)
+http://xcui.vitvabc.xyz:8880/movie/287994003125/287994003125/33203.mkv
+#EXTINF:-1,Invasão a Londres (2016)
+http://xcui.vitvabc.xyz:8880/movie/287994003125/287994003125/33325.mkv
+#EXTINF:-1,Milagre Azul (2021)
+http://xcui.vitvabc.xyz:8880/movie/287994003125/287994003125/33591.mkv
+#EXTINF:-1,Mãe Só Há Uma (2016)
+http://xcui.vitvabc.xyz:8880/movie/287994003125/287994003125/33592.mkv
+#EXTINF:-1,O Divino Baggio (2021)
+http://xcui.vitvabc.xyz:8880/movie/287994003125/287994003125/33593.mkv
+#EXTINF:-1,Dancing Queens (2021)
+http://xcui.vitvabc.xyz:8880/movie/287994003125/287994003125/33594.mkv
+#EXTINF:-1,Alex Strangelove (2018)
+http://xcui.vitvabc.xyz:8880/movie/287994003125/287994003125/33667.mp4
+#EXTINF:-1,Amor por Direito (2015)
+http://xcui.vitvabc.xyz:8880/movie/287994003125/287994003125/33668.mkv
+#EXTINF:-1,Carol (2015)
+http://xcui.vitvabc.xyz:8880/movie/287994003125/287994003125/33669.mp4
+#EXTINF:-1,Com Amor, Simon (2018)
+http://xcui.vitvabc.xyz:8880/movie/287994003125/287994003125/33670.mp4
+#EXTINF:-1,Alive (2020)
+http://xcui.vitvabc.xyz:8880/movie/287994003125/287994003125/33671.mkv
+#EXTINF:-1,Direito de Amar (2009)
+http://xcui.vitvabc.xyz:8880/movie/287994003125/287994003125/33680.mp4
+#EXTINF:-1,Filadélfia (1993)
+http://xcui.vitvabc.xyz:8880/movie/287994003125/287994003125/33681.mp4
+#EXTINF:-1,Hoje Eu Quero Voltar Sozinho (2014)
+http://xcui.vitvabc.xyz:8880/movie/287994003125/287994003125/33682.mkv
+#EXTINF:-1,Meninos Não Choram (1999)
+http://xcui.vitvabc.xyz:8880/movie/287994003125/287994003125/33683.mkv
+#EXTINF:-1,Orgulho e Esperança (2014)
+http://xcui.vitvabc.xyz:8880/movie/287994003125/287994003125/33684.mp4
+#EXTINF:-1,O Segredo de Brokeback Mountain (2005)
+http://xcui.vitvabc.xyz:8880/movie/287994003125/287994003125/33685.mp4
+#EXTINF:-1,Praia do Futuro (2014)
+http://xcui.vitvabc.xyz:8880/movie/287994003125/287994003125/33686.mkv
+#EXTINF:-1,Flores Raras (2013)
+http://xcui.vitvabc.xyz:8880/movie/287994003125/287994003125/33687.avi
+#EXTINF:-1,Tatuagem (2013)
+http://xcui.vitvabc.xyz:8880/movie/287994003125/287994003125/33688.avi
+#EXTINF:-1,Priscilla, a Rainha do Deserto (1994)
+http://xcui.vitvabc.xyz:8880/movie/287994003125/287994003125/33689.mkv
+#EXTINF:-1,Jogo da Morte 2 (1981)
+http://xcui.vitvabc.xyz:8880/movie/287994003125/287994003125/33690.mkv
+#EXTINF:-1,O Dragão Chinês (1971)
+http://xcui.vitvabc.xyz:8880/movie/287994003125/287994003125/33691.mkv
+#EXTINF:-1,Jogo da Morte (1978)
+http://xcui.vitvabc.xyz:8880/movie/287994003125/287994003125/33692.mkv
+#EXTINF:-1,Operação Dragão (1973)
+http://xcui.vitvabc.xyz:8880/movie/287994003125/287994003125/33693.mkv
+#EXTINF:-1,O Vôo do Dragão (1972)
+http://xcui.vitvabc.xyz:8880/movie/287994003125/287994003125/33694.mkv
+#EXTINF:-1,E Se Fosse Verdade (2005)
+http://xcui.vitvabc.xyz:8880/movie/287994003125/287994003125/33695.mkv
+#EXTINF:-1,Família do Bagulho (2013)
+http://xcui.vitvabc.xyz:8880/movie/287994003125/287994003125/33696.mkv
+#EXTINF:-1,Ghost Lab (2021)
+http://xcui.vitvabc.xyz:8880/movie/287994003125/287994003125/33697.mkv
+#EXTINF:-1,O Shaolin do Sertão (2016)
+http://xcui.vitvabc.xyz:8880/movie/287994003125/287994003125/33698.mp4
+#EXTINF:-1,Os Parças (2017)
+http://xcui.vitvabc.xyz:8880/movie/287994003125/287994003125/33699.mp4
+#EXTINF:-1,Quero Ficar com Polly (2004)
+http://xcui.vitvabc.xyz:8880/movie/287994003125/287994003125/33710.mp4
+#EXTINF:-1,Spirit: O Corcel Indomável (2002)
+http://xcui.vitvabc.xyz:8880/movie/287994003125/287994003125/33711.mkv
+#EXTINF:-1,As Legiões Emergentes (2019)
+http://xcui.vitvabc.xyz:8880/movie/287994003125/287994003125/33712.mkv
+#EXTINF:-1,A Guerra do Amanhã (2021)
+http://xcui.vitvabc.xyz:8880/movie/287994003125/287994003125/33713.mkv
+#EXTINF:-1,Desgrávida (2020)
+http://xcui.vitvabc.xyz:8880/movie/287994003125/287994003125/33714.mkv
+#EXTINF:-1,Filhas do Sol (2018)
+http://xcui.vitvabc.xyz:8880/movie/287994003125/287994003125/33715.mkv
+#EXTINF:-1,Interrompemos a Programação (2021)
+http://xcui.vitvabc.xyz:8880/movie/287994003125/287994003125/33716.mkv
+#EXTINF:-1,Nem um Passo em Falso (2021)
+http://xcui.vitvabc.xyz:8880/movie/287994003125/287994003125/33717.mkv
+#EXTINF:-1,Rua do Medo: 1994 - Parte 1 (2021)
+http://xcui.vitvabc.xyz:8880/movie/287994003125/287994003125/33718.mkv
+#EXTINF:-1,À Segunda Vista (2021)
+http://xcui.vitvabc.xyz:8880/movie/287994003125/287994003125/33719.mkv
+#EXTINF:-1,Homunculus (2021)
+http://xcui.vitvabc.xyz:8880/movie/287994003125/287994003125/29017.mkv
+#EXTINF:-1,TELECINE ACTION HD²
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/33730
+#EXTINF:-1,AMC HD²
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/33731
+#EXTINF:-1,Film & Arts
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/33732
+#EXTINF:-1,FUTURA HD
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/33733
+#EXTINF:-1,FUTURA FHD
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/33734
+#EXTINF:-1,GLOBO TV VERDES MARES HD
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/33736
+#EXTINF:-1,Globo TV Liberal HD Belém
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/33737
+#EXTINF:-1,MUSIC BOX BRASIL HD
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/33738
+#EXTINF:-1,GLOOBINHO FULL HD
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/33739
+#EXTINF:-1,GLOOBINHO HD
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/33740
+#EXTINF:-1,GLOOBINHO H265
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/33741
+#EXTINF:-1,Like HD
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/33742
+#EXTINF:-1,PAI ETERNO FULLHD
+http://xcui.vitvabc.xyz:8880/287994003125/287994003125/33743
 
 
