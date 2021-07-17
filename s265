@@ -286,1385 +286,156 @@ http://evpp.mm.uol.com.br:1935/band_live/terraviva/playlist.m3u8
 #EXTINF:-1,CANAL RURAL
 https://5fa18afd2e74c.streamlock.net/live/smil:canalrural.smil/playlist.m3u8
  
-#EXTINF:-1,A&E FHD
-http://vipeiptv.com:25461/albino01/albino01/856079
-#EXTINF:-1,A&E HD
-http://vipeiptv.com:25461/albino01/albino01/856078
-#EXTINF:-1,A&E SD
-http://vipeiptv.com:25461/albino01/albino01/856077
-#EXTINF:-1,AMC SD
-http://vipeiptv.com:25461/albino01/albino01/856080
-#EXTINF:-1,AMC HD
-http://vipeiptv.com:25461/albino01/albino01/856081
-#EXTINF:-1,AMC FHD
-http://vipeiptv.com:25461/albino01/albino01/856082
-#EXTINF:-1,ANIMAL PLANET SD
-http://vipeiptv.com:25461/albino01/albino01/856283
-#EXTINF:-1,ANIMAL PLANET SD ALT
-http://vipeiptv.com:25461/albino01/albino01/856284
-#EXTINF:-1,ANIMAL PLANET HD
-http://vipeiptv.com:25461/albino01/albino01/856285
-#EXTINF:-1,ANIMAL PLANET HD ALT
-http://vipeiptv.com:25461/albino01/albino01/856286
-#EXTINF:-1,ANIMAL PLANET FHD
-http://vipeiptv.com:25461/albino01/albino01/856287
-#EXTINF:-1,ANIMAL PLANET FHD ALT
-http://vipeiptv.com:25461/albino01/albino01/856288
-#EXTINF:-1,ARTE 1 SD ALT
-http://vipeiptv.com:25461/albino01/albino01/856089
-#EXTINF:-1,ARTE 1 HD
-http://vipeiptv.com:25461/albino01/albino01/856090
-#EXTINF:-1,ARTE 1 HD ALT
-http://vipeiptv.com:25461/albino01/albino01/856091
-#EXTINF:-1,ARTE 1 FHD ALT
-http://vipeiptv.com:25461/albino01/albino01/856092
-#EXTINF:-1,AXN SD
-http://vipeiptv.com:25461/albino01/albino01/856083
-#EXTINF:-1,AXN SD ALT
-http://vipeiptv.com:25461/albino01/albino01/856084
-#EXTINF:-1,AXN HD
-http://vipeiptv.com:25461/albino01/albino01/856085
-#EXTINF:-1,AXN HD ALT
-http://vipeiptv.com:25461/albino01/albino01/856086
-#EXTINF:-1,AXN FHD
-http://vipeiptv.com:25461/albino01/albino01/856087
-#EXTINF:-1,AXN FHD ALT
-http://vipeiptv.com:25461/albino01/albino01/856088
-#EXTINF:-1,BABY TV SD ALT
-http://vipeiptv.com:25461/albino01/albino01/856577
-#EXTINF:-1,BABY HD ALT
-http://vipeiptv.com:25461/albino01/albino01/856578
-#EXTINF:-1,BABY FHD ALT
-http://vipeiptv.com:25461/albino01/albino01/856579
-#EXTINF:-1,BAND SD
-http://vipeiptv.com:25461/albino01/albino01/856507
-#EXTINF:-1,BAND SD ALT
-http://vipeiptv.com:25461/albino01/albino01/856508
-#EXTINF:-1,BAND HD
-http://vipeiptv.com:25461/albino01/albino01/856509
-#EXTINF:-1,BAND HD ALT
-http://vipeiptv.com:25461/albino01/albino01/856510
-#EXTINF:-1,BAND FHD ALT
-http://vipeiptv.com:25461/albino01/albino01/856511
-#EXTINF:-1,BAND NEWS SD
-http://vipeiptv.com:25461/albino01/albino01/856483
-#EXTINF:-1,BAND NEWS SD ALT
-http://vipeiptv.com:25461/albino01/albino01/856484
-#EXTINF:-1,BAND NEWS HD
-http://vipeiptv.com:25461/albino01/albino01/856485
-#EXTINF:-1,BAND NEWS HD ALT
-http://vipeiptv.com:25461/albino01/albino01/856486
-#EXTINF:-1,BAND NEWS FHD ALT
-http://vipeiptv.com:25461/albino01/albino01/856487
-#EXTINF:-1,BAND SP HD ALT
-http://vipeiptv.com:25461/albino01/albino01/857066
-#EXTINF:-1,BAND SPORTS SD
-http://vipeiptv.com:25461/albino01/albino01/856182
-#EXTINF:-1,BAND SPORTS SD ALT
-http://vipeiptv.com:25461/albino01/albino01/856183
-#EXTINF:-1,BAND SPORTS HD
-http://vipeiptv.com:25461/albino01/albino01/856184
-#EXTINF:-1,BAND SPORTS HD ALT
-http://vipeiptv.com:25461/albino01/albino01/856185
-#EXTINF:-1,BAND SPORTS FHD ALT
-http://vipeiptv.com:25461/albino01/albino01/856186
-#EXTINF:-1,BIS SD
-http://vipeiptv.com:25461/albino01/albino01/856640
-#EXTINF:-1,BIS SD ALT
-http://vipeiptv.com:25461/albino01/albino01/856641
-#EXTINF:-1,BIS HD
-http://vipeiptv.com:25461/albino01/albino01/856642
-#EXTINF:-1,BIS HD ALT
-http://vipeiptv.com:25461/albino01/albino01/856643
-#EXTINF:-1,BIS FHD
-http://vipeiptv.com:25461/albino01/albino01/856644
-#EXTINF:-1,BIS FHD ALT
-http://vipeiptv.com:25461/albino01/albino01/856645
-#EXTINF:-1,BOOMERANG
-http://vipeiptv.com:25461/albino01/albino01/856580
-#EXTINF:-1,BOOMERANG SD ALT
-http://vipeiptv.com:25461/albino01/albino01/856581
-#EXTINF:-1,BOOMERANG HD
-http://vipeiptv.com:25461/albino01/albino01/856582
-#EXTINF:-1,BOOMERANG HD ALT
-http://vipeiptv.com:25461/albino01/albino01/856583
-#EXTINF:-1,BOOMERANG FHD ALT
-http://vipeiptv.com:25461/albino01/albino01/856584
-#EXTINF:-1,CANAL BRASIL SD ALT
-http://vipeiptv.com:25461/albino01/albino01/856512
-#EXTINF:-1,CANAL BRASIL HD
-http://vipeiptv.com:25461/albino01/albino01/856652
-#EXTINF:-1,CANAL BRASIL HD ALT
-http://vipeiptv.com:25461/albino01/albino01/856513
-#EXTINF:-1,CANAL BRASIL FHD ALT
-http://vipeiptv.com:25461/albino01/albino01/856514
-#EXTINF:-1,CANAL SONY HD
-http://vipeiptv.com:25461/albino01/albino01/856654
-#EXTINF:-1,CANAL SONY SD
-http://vipeiptv.com:25461/albino01/albino01/856653
-#EXTINF:-1,CANÇÃO NOVA SD
-http://vipeiptv.com:25461/albino01/albino01/856655
-#EXTINF:-1,CANÇÃO NOVA SD
-http://vipeiptv.com:25461/albino01/albino01/856825
-#EXTINF:-1,CANÇÃO NOVA  HD
-http://vipeiptv.com:25461/albino01/albino01/856824
-#EXTINF:-1,CANÇÃO NOVA HD
-http://vipeiptv.com:25461/albino01/albino01/856656
-#EXTINF:-1,CANÇÃO NOVA ²
-http://vipeiptv.com:25461/albino01/albino01/856823
-#EXTINF:-1,CARTOON NETWORK SD
-http://vipeiptv.com:25461/albino01/albino01/856585
-#EXTINF:-1,CARTOON NETWORK SD ALT
-http://vipeiptv.com:25461/albino01/albino01/856586
-#EXTINF:-1,CARTOON NETWORK HD
-http://vipeiptv.com:25461/albino01/albino01/856587
-#EXTINF:-1,CARTOON NETWORK HD ALT
-http://vipeiptv.com:25461/albino01/albino01/856588
-#EXTINF:-1,CARTOON NETWORK FHD ALT
-http://vipeiptv.com:25461/albino01/albino01/856589
-#EXTINF:-1,CINEMAX SD ALT
-http://vipeiptv.com:25461/albino01/albino01/856093
-#EXTINF:-1,CINEMAX HD
-http://vipeiptv.com:25461/albino01/albino01/856094
-#EXTINF:-1,CINEMAX HD ALT
-http://vipeiptv.com:25461/albino01/albino01/856095
-#EXTINF:-1,CINEMAX FHD
-http://vipeiptv.com:25461/albino01/albino01/856096
-#EXTINF:-1,CINEMAX FHD ALT
-http://vipeiptv.com:25461/albino01/albino01/856097
-#EXTINF:-1,CNN BRASIL SD
-http://vipeiptv.com:25461/albino01/albino01/856488
-#EXTINF:-1,CNN BRASIL SD ALT
-http://vipeiptv.com:25461/albino01/albino01/856489
-#EXTINF:-1,CNN BRASIL HD
-http://vipeiptv.com:25461/albino01/albino01/856490
-#EXTINF:-1,CNN BRASIL HD ALT
-http://vipeiptv.com:25461/albino01/albino01/856491
-#EXTINF:-1,CNN BRASIL FHD
-http://vipeiptv.com:25461/albino01/albino01/856492
-#EXTINF:-1,CNN BRASIL FHD ALT
-http://vipeiptv.com:25461/albino01/albino01/856493
-#EXTINF:-1,CNN INTERNACIONAL SD ALT
-http://vipeiptv.com:25461/albino01/albino01/856497
-#EXTINF:-1,CNN INTERNACIONAL HD ALT
-http://vipeiptv.com:25461/albino01/albino01/856498
-#EXTINF:-1,CNT ES HD ALT
-http://vipeiptv.com:25461/albino01/albino01/857054
-#EXTINF:-1,COMBATE SD
-http://vipeiptv.com:25461/albino01/albino01/856187
-#EXTINF:-1,COMBATE SD ALT
-http://vipeiptv.com:25461/albino01/albino01/856188
-#EXTINF:-1,COMBATE HD
-http://vipeiptv.com:25461/albino01/albino01/856189
-#EXTINF:-1,COMBATE HD ALT
-http://vipeiptv.com:25461/albino01/albino01/856190
-#EXTINF:-1,COMBATE FHD
-http://vipeiptv.com:25461/albino01/albino01/856191
-#EXTINF:-1,COMBATE FHD ALT
-http://vipeiptv.com:25461/albino01/albino01/856192
-#EXTINF:-1,COMEDY CENTRAL SD
-http://vipeiptv.com:25461/albino01/albino01/856657
-#EXTINF:-1,COMEDY CENTRAL SD ALT
-http://vipeiptv.com:25461/albino01/albino01/856658
-#EXTINF:-1,COMEDY CENTRAL HD
-http://vipeiptv.com:25461/albino01/albino01/856659
-#EXTINF:-1,COMEDY CENTRAL HD ALT
-http://vipeiptv.com:25461/albino01/albino01/856660
-#EXTINF:-1,COMEDY CENTRAL FHD
-http://vipeiptv.com:25461/albino01/albino01/856661
-#EXTINF:-1,COMEDY CENTRAL FHD ALT
-http://vipeiptv.com:25461/albino01/albino01/856662
-#EXTINF:-1,CURTA! SD ALT
-http://vipeiptv.com:25461/albino01/albino01/856649
-#EXTINF:-1,CURTA! HD ALT
-http://vipeiptv.com:25461/albino01/albino01/856650
-#EXTINF:-1,CURTA! FHD ALT
-http://vipeiptv.com:25461/albino01/albino01/856651
-#EXTINF:-1,DISCOVERY CHANNEL SD
-http://vipeiptv.com:25461/albino01/albino01/856038
-#EXTINF:-1,DISCOVERY CHANNEL SD ALT
-http://vipeiptv.com:25461/albino01/albino01/856039
-#EXTINF:-1,DISCOVERY CHANNEL HD
-http://vipeiptv.com:25461/albino01/albino01/856040
-#EXTINF:-1,DISCOVERY CHANNEL HD ALT
-http://vipeiptv.com:25461/albino01/albino01/856041
-#EXTINF:-1,DISCOVERY CHANNEL FHD
-http://vipeiptv.com:25461/albino01/albino01/856042
-#EXTINF:-1,DISCOVERY CHANNEL FHD ALT
-http://vipeiptv.com:25461/albino01/albino01/856043
-#EXTINF:-1,DISCOVERY HOME & HEALTH SD
-http://vipeiptv.com:25461/albino01/albino01/856071
-#EXTINF:-1,DISCOVERY HOME & HEALTH SD ALT
-http://vipeiptv.com:25461/albino01/albino01/856072
-#EXTINF:-1,DISCOVERY HOME & HEALTH HD
-http://vipeiptv.com:25461/albino01/albino01/856073
-#EXTINF:-1,DISCOVERY HOME & HEALTH HD ALT
-http://vipeiptv.com:25461/albino01/albino01/856074
-#EXTINF:-1,DISCOVERY HOME & HEALTH FHD
-http://vipeiptv.com:25461/albino01/albino01/856075
-#EXTINF:-1,DISCOVERY HOME & HEALTH FHD ALT
-http://vipeiptv.com:25461/albino01/albino01/856076
-#EXTINF:-1,DISCOVERY KIDS SD
-http://vipeiptv.com:25461/albino01/albino01/856590
-#EXTINF:-1,DISCOVERY KIDS SD ALT
-http://vipeiptv.com:25461/albino01/albino01/856591
-#EXTINF:-1,DISCOVERY KIDS HD
-http://vipeiptv.com:25461/albino01/albino01/856592
-#EXTINF:-1,DISCOVERY KIDS HD ALT
-http://vipeiptv.com:25461/albino01/albino01/856593
-#EXTINF:-1,DISCOVERY KIDS FHD ALT
-http://vipeiptv.com:25461/albino01/albino01/856594
-#EXTINF:-1,DISCOVERY SCIENCE FHD
-http://vipeiptv.com:25461/albino01/albino01/856047
-#EXTINF:-1,DISCOVERY SCIENCE FHD ALT
-http://vipeiptv.com:25461/albino01/albino01/856048
-#EXTINF:-1,DISCOVERY SCIENCE SD ALT
-http://vipeiptv.com:25461/albino01/albino01/856044
-#EXTINF:-1,DISCOVERY SCIENCE HD
-http://vipeiptv.com:25461/albino01/albino01/856045
-#EXTINF:-1,DISCOVERY SCIENCE HD ALT
-http://vipeiptv.com:25461/albino01/albino01/856046
-#EXTINF:-1,DISCOVERY THEATHER SD
-http://vipeiptv.com:25461/albino01/albino01/856049
-#EXTINF:-1,DISCOVERY THEATHER SD ALT
-http://vipeiptv.com:25461/albino01/albino01/856050
-#EXTINF:-1,DISCOVERY THEATHER HD
-http://vipeiptv.com:25461/albino01/albino01/856051
-#EXTINF:-1,DISCOVERY THEATHER HD ALT
-http://vipeiptv.com:25461/albino01/albino01/856052
-#EXTINF:-1,DISCOVERY THEATHER FHD
-http://vipeiptv.com:25461/albino01/albino01/856053
-#EXTINF:-1,DISCOVERY THEATHER FHD ALT
-http://vipeiptv.com:25461/albino01/albino01/856054
-#EXTINF:-1,DISCOVERY TURBO SD
-http://vipeiptv.com:25461/albino01/albino01/856055
-#EXTINF:-1,DISCOVERY TURBO SD ALT
-http://vipeiptv.com:25461/albino01/albino01/856056
-#EXTINF:-1,DISCOVERY TURBO HD
-http://vipeiptv.com:25461/albino01/albino01/856057
-#EXTINF:-1,DISCOVERY TURBO HD ALT
-http://vipeiptv.com:25461/albino01/albino01/856058
-#EXTINF:-1,DISCOVERY TURBO FHD
-http://vipeiptv.com:25461/albino01/albino01/856059
-#EXTINF:-1,DISCOVERY TURBO FHD ALT
-http://vipeiptv.com:25461/albino01/albino01/856060
-#EXTINF:-1,DISCOVERY WORLD SD ALT
-http://vipeiptv.com:25461/albino01/albino01/856061
-#EXTINF:-1,DISCOVERY WORLD HD
-http://vipeiptv.com:25461/albino01/albino01/856062
-#EXTINF:-1,DISCOVERY WORLD HD ALT
-http://vipeiptv.com:25461/albino01/albino01/856063
-#EXTINF:-1,DISCOVERY WORLD FHD
-http://vipeiptv.com:25461/albino01/albino01/856064
-#EXTINF:-1,DISCOVERY WORLD FHD ALT
-http://vipeiptv.com:25461/albino01/albino01/856065
-#EXTINF:-1,DISNEY CHANNEL SD
-http://vipeiptv.com:25461/albino01/albino01/856595
-#EXTINF:-1,DISNEY CHANNEL SD ALT
-http://vipeiptv.com:25461/albino01/albino01/856596
-#EXTINF:-1,DISNEY CHANNEL HD
-http://vipeiptv.com:25461/albino01/albino01/856597
-#EXTINF:-1,DISNEY CHANNEL HD ALT
-http://vipeiptv.com:25461/albino01/albino01/856598
-#EXTINF:-1,DISNEY CHANNEL FHD ALT
-http://vipeiptv.com:25461/albino01/albino01/856599
-#EXTINF:-1,DISNEY JUNIOR SD
-http://vipeiptv.com:25461/albino01/albino01/856600
-#EXTINF:-1,DISNEY JUNIOR SD ALT
-http://vipeiptv.com:25461/albino01/albino01/856601
-#EXTINF:-1,DISNEY JUNIOR HD
-http://vipeiptv.com:25461/albino01/albino01/856602
-#EXTINF:-1,DISNEY JR HD ALT
-http://vipeiptv.com:25461/albino01/albino01/856603
-#EXTINF:-1,DISNEY JR FHD ALT
-http://vipeiptv.com:25461/albino01/albino01/856604
-#EXTINF:-1,DISNEY XD SD
-http://vipeiptv.com:25461/albino01/albino01/856605
-#EXTINF:-1,DISNEY XD SD ALT
-http://vipeiptv.com:25461/albino01/albino01/856606
-#EXTINF:-1,DISNEY XD HD ALT
-http://vipeiptv.com:25461/albino01/albino01/856607
-#EXTINF:-1,DISNEY XD FHD ALT
-http://vipeiptv.com:25461/albino01/albino01/856608
-#EXTINF:-1,E! SD
-http://vipeiptv.com:25461/albino01/albino01/856663
-#EXTINF:-1,E! HD
-http://vipeiptv.com:25461/albino01/albino01/856665
-#EXTINF:-1,E! HD ALT
-http://vipeiptv.com:25461/albino01/albino01/856664
-#EXTINF:-1,E! FHD ALT
-http://vipeiptv.com:25461/albino01/albino01/856666
-#EXTINF:-1,EPTV RIBEIRAO PRETO HD ALT
-http://vipeiptv.com:25461/albino01/albino01/857014
-#EXTINF:-1,EPTV Sao Carlos ALT
-http://vipeiptv.com:25461/albino01/albino01/857012
-#EXTINF:-1,PN 2 SD
-http://vipeiptv.com:25461/albino01/albino01/925558
-#EXTINF:-1,PN 2 SD ALT
-http://vipeiptv.com:25461/albino01/albino01/925559
-#EXTINF:-1,PN 2 HD
-http://vipeiptv.com:25461/albino01/albino01/925560
-#EXTINF:-1,PN 2 HD ALT
-http://vipeiptv.com:25461/albino01/albino01/925561
-#EXTINF:-1,PN 2 FHD ALT
-http://vipeiptv.com:25461/albino01/albino01/925562
-#EXTINF:-1,PN 1 SD
-http://vipeiptv.com:25461/albino01/albino01/925553
-#EXTINF:-1,PN 1 SD ALT
-http://vipeiptv.com:25461/albino01/albino01/925554
-#EXTINF:-1,PN 1 HD
-http://vipeiptv.com:25461/albino01/albino01/925555
-#EXTINF:-1,PN 1 HD ALT
-http://vipeiptv.com:25461/albino01/albino01/925556
-#EXTINF:-1,PN 1 FHD ALT
-http://vipeiptv.com:25461/albino01/albino01/925557
-#EXTINF:-1,PN BRASIL SD
-http://vipeiptv.com:25461/albino01/albino01/925563
-#EXTINF:-1,PN BRASIL SD ALT
-http://vipeiptv.com:25461/albino01/albino01/925564
-#EXTINF:-1,PN BRASIL HD
-http://vipeiptv.com:25461/albino01/albino01/925565
-#EXTINF:-1,PN BRASIL HD ALT
-http://vipeiptv.com:25461/albino01/albino01/925566
-#EXTINF:-1,PN BRASIL FHD ALT
-http://vipeiptv.com:25461/albino01/albino01/925567
-#EXTINF:-1,PN EXTRA SD ALT
-http://vipeiptv.com:25461/albino01/albino01/925568
-#EXTINF:-1,PN EXTRA HD
-http://vipeiptv.com:25461/albino01/albino01/925569
-#EXTINF:-1,PN EXTRA HD ALT
-http://vipeiptv.com:25461/albino01/albino01/925570
-#EXTINF:-1,PN EXTRA FHD ALT
-http://vipeiptv.com:25461/albino01/albino01/925571
-#EXTINF:-1,FISH TV FHD ALT
-http://vipeiptv.com:25461/albino01/albino01/856671
-#EXTINF:-1,FISH TV HD
-http://vipeiptv.com:25461/albino01/albino01/856669
-#EXTINF:-1,FISH TV HD ALT
-http://vipeiptv.com:25461/albino01/albino01/856670
-#EXTINF:-1,FISH TV SD ALT
-http://vipeiptv.com:25461/albino01/albino01/856668
-#EXTINF:-1,FOOD NETWORK FHD
-http://vipeiptv.com:25461/albino01/albino01/856676
-#EXTINF:-1,FOOD NETWORK FHD ALT
-http://vipeiptv.com:25461/albino01/albino01/856677
-#EXTINF:-1,FOOD NETWORK HD
-http://vipeiptv.com:25461/albino01/albino01/856674
-#EXTINF:-1,FOOD NETWORK HD ALT
-http://vipeiptv.com:25461/albino01/albino01/856675
-#EXTINF:-1,FOOD NETWORK SD
-http://vipeiptv.com:25461/albino01/albino01/856672
-#EXTINF:-1,FOOD NETWORK SD ALT
-http://vipeiptv.com:25461/albino01/albino01/856673
-#EXTINF:-1,FOX FHD ALT
-http://vipeiptv.com:25461/albino01/albino01/856102
-#EXTINF:-1,FOX HD
-http://vipeiptv.com:25461/albino01/albino01/856100
-#EXTINF:-1,FOX HD ALT
-http://vipeiptv.com:25461/albino01/albino01/856101
-#EXTINF:-1,FOX LIFE FHD
-http://vipeiptv.com:25461/albino01/albino01/856682
-#EXTINF:-1,FOX LIFE FHD ALT
-http://vipeiptv.com:25461/albino01/albino01/856683
-#EXTINF:-1,FOX LIFE HD
-http://vipeiptv.com:25461/albino01/albino01/856680
-#EXTINF:-1,FOX LIFE HD ALT
-http://vipeiptv.com:25461/albino01/albino01/856681
-#EXTINF:-1,FOX LIFE SD
-http://vipeiptv.com:25461/albino01/albino01/856678
-#EXTINF:-1,FOX LIFE SD ALT
-http://vipeiptv.com:25461/albino01/albino01/856679
-#EXTINF:-1,FOX PREMIUM 1 FHD
-http://vipeiptv.com:25461/albino01/albino01/856106
-#EXTINF:-1,FOX PREMIUM 1 FHD ALT
-http://vipeiptv.com:25461/albino01/albino01/856107
-#EXTINF:-1,FOX PREMIUM 1 HD
-http://vipeiptv.com:25461/albino01/albino01/856104
-#EXTINF:-1,FOX PREMIUM 1 HD ALT
-http://vipeiptv.com:25461/albino01/albino01/856105
-#EXTINF:-1,FOX PREMIUM 1 SD ALT
-http://vipeiptv.com:25461/albino01/albino01/856103
-#EXTINF:-1,FOX PREMIUM 2 FHD
-http://vipeiptv.com:25461/albino01/albino01/856111
-#EXTINF:-1,FOX PREMIUM 2 FHD ALT
-http://vipeiptv.com:25461/albino01/albino01/856112
-#EXTINF:-1,FOX PREMIUM 2 HD
-http://vipeiptv.com:25461/albino01/albino01/856109
-#EXTINF:-1,FOX PREMIUM 2 HD ALT
-http://vipeiptv.com:25461/albino01/albino01/856110
-#EXTINF:-1,FOX PREMIUM 2 SD ALT
-http://vipeiptv.com:25461/albino01/albino01/856108
-#EXTINF:-1,FUTURA HD
-http://vipeiptv.com:25461/albino01/albino01/856684
-#EXTINF:-1,FX FHD
-http://vipeiptv.com:25461/albino01/albino01/856117
-#EXTINF:-1,FX FHD ALT
-http://vipeiptv.com:25461/albino01/albino01/856118
-#EXTINF:-1,FX HD
-http://vipeiptv.com:25461/albino01/albino01/856115
-#EXTINF:-1,FX HD ALT
-http://vipeiptv.com:25461/albino01/albino01/856116
-#EXTINF:-1,FX SD
-http://vipeiptv.com:25461/albino01/albino01/856113
-#EXTINF:-1,FX SD ALT
-http://vipeiptv.com:25461/albino01/albino01/856114
-#EXTINF:-1,GAZETA HD SP ALT
-http://vipeiptv.com:25461/albino01/albino01/857068
-#EXTINF:-1,GLOBO AMAZÔNICA HD
-http://vipeiptv.com:25461/albino01/albino01/856358
-#EXTINF:-1,GLOBO BAHIA HD
-http://vipeiptv.com:25461/albino01/albino01/856364
-#EXTINF:-1,GLOBO BAHIA SD
-http://vipeiptv.com:25461/albino01/albino01/856362
-#EXTINF:-1,GLOBO BRASILIA HD ALT
-http://vipeiptv.com:25461/albino01/albino01/856373
-#EXTINF:-1,GLOBO BRASÍLIA HD
-http://vipeiptv.com:25461/albino01/albino01/856372
-#EXTINF:-1,GLOBO BRASÍLIA SD
-http://vipeiptv.com:25461/albino01/albino01/856370
-#EXTINF:-1,GLOBO CENTRO AMERICA HD ALT
-http://vipeiptv.com:25461/albino01/albino01/856360
-#EXTINF:-1,GLOBO CUAIBÁ SD
-http://vipeiptv.com:25461/albino01/albino01/856375
-#EXTINF:-1,GLOBO EPTV CAMPINAS FHD ALT
-http://vipeiptv.com:25461/albino01/albino01/856380
-#EXTINF:-1,GLOBO EPTV CAMPINAS HD
-http://vipeiptv.com:25461/albino01/albino01/856378
-#EXTINF:-1,GLOBO EPTV CAMPINAS HD ALT
-http://vipeiptv.com:25461/albino01/albino01/856379
-#EXTINF:-1,GLOBO EPTV CAMPINAS SD
-http://vipeiptv.com:25461/albino01/albino01/856376
-#EXTINF:-1,Globo EPTV CAMPINAS SD ALT
-http://vipeiptv.com:25461/albino01/albino01/856377
-#EXTINF:-1,GLOBO EPTV RIBEIRÃO PRETO SD
-http://vipeiptv.com:25461/albino01/albino01/856381
-#EXTINF:-1,GLOBO EPTV SUL DE MINAS FHD ALT
-http://vipeiptv.com:25461/albino01/albino01/856444
-#EXTINF:-1,GLOBO EPTV SUL DE MINAS HD ALT
-http://vipeiptv.com:25461/albino01/albino01/856443
-#EXTINF:-1,GLOBO EPTV SUL DE MINAS SD ALT
-http://vipeiptv.com:25461/albino01/albino01/856442
-#EXTINF:-1,GLOBO EPTV SÃO CARLOS
-http://vipeiptv.com:25461/albino01/albino01/856383
-#EXTINF:-1,GLOBO FORTALEZA HD
-http://vipeiptv.com:25461/albino01/albino01/856385
-#EXTINF:-1,GLOBO FORTALEZA SD
-http://vipeiptv.com:25461/albino01/albino01/856384
-#EXTINF:-1,GLOBO GOIÂNIA - TV ANHANGUERA HD
-http://vipeiptv.com:25461/albino01/albino01/856386
-#EXTINF:-1,GLOBO INTER TV CABUGI HD
-http://vipeiptv.com:25461/albino01/albino01/856387
-#EXTINF:-1,GLOBO INTER TV CABUGI SD ALT
-http://vipeiptv.com:25461/albino01/albino01/856445
-#EXTINF:-1,Globo Minas FHD ALT
-http://vipeiptv.com:25461/albino01/albino01/856392
-#EXTINF:-1,GLOBO MINAS HD
-http://vipeiptv.com:25461/albino01/albino01/856390
-#EXTINF:-1,Globo Minas HD ALT
-http://vipeiptv.com:25461/albino01/albino01/856391
-#EXTINF:-1,GLOBO MINAS SD
-http://vipeiptv.com:25461/albino01/albino01/856388
-#EXTINF:-1,Globo Minas SD ALT
-http://vipeiptv.com:25461/albino01/albino01/856389
-#EXTINF:-1,GLOBO NEWS FHD
-http://vipeiptv.com:25461/albino01/albino01/856397
-#EXTINF:-1,GLOBO NEWS FHD ALT
-http://vipeiptv.com:25461/albino01/albino01/856398
-#EXTINF:-1,GLOBO NEWS HD
-http://vipeiptv.com:25461/albino01/albino01/856395
-#EXTINF:-1,GLOBO NEWS HD ALT
-http://vipeiptv.com:25461/albino01/albino01/856396
-#EXTINF:-1,GLOBO NEWS SD
-http://vipeiptv.com:25461/albino01/albino01/856393
-#EXTINF:-1,GLOBO NEWS SD ALT
-http://vipeiptv.com:25461/albino01/albino01/856394
-#EXTINF:-1,GLOBO NORDESTE FHD ALT
-http://vipeiptv.com:25461/albino01/albino01/856405
-#EXTINF:-1,GLOBO NORDESTE HD
-http://vipeiptv.com:25461/albino01/albino01/856403
-#EXTINF:-1,GLOBO NORDESTE HD ALT
-http://vipeiptv.com:25461/albino01/albino01/856404
-#EXTINF:-1,GLOBO NORDESTE SD ALT
-http://vipeiptv.com:25461/albino01/albino01/856402
-#EXTINF:-1,GLOBO NSC BLUMENAU HD
-http://vipeiptv.com:25461/albino01/albino01/856406
-#EXTINF:-1,GLOBO NSC FLORIANOPOLIS FHD ALT
-http://vipeiptv.com:25461/albino01/albino01/856450
-#EXTINF:-1,GLOBO NSC FLORIANOPOLIS HD ALT
-http://vipeiptv.com:25461/albino01/albino01/856449
-#EXTINF:-1,GLOBO NSC FLORIANOPOLIS SD ALT
-http://vipeiptv.com:25461/albino01/albino01/856448
-#EXTINF:-1,GLOBO NSC JOINVILLE HD
-http://vipeiptv.com:25461/albino01/albino01/856407
-#EXTINF:-1,GLOBO NSC TV HD
-http://vipeiptv.com:25461/albino01/albino01/856408
-#EXTINF:-1,GLOBO RBS TV 4K
-http://vipeiptv.com:25461/albino01/albino01/856413
-#EXTINF:-1,GLOBO RBS TV FHD
-http://vipeiptv.com:25461/albino01/albino01/856412
-#EXTINF:-1,GLOBO RBS TV POA FHD ALT
-http://vipeiptv.com:25461/albino01/albino01/856411
-#EXTINF:-1,GLOBO RBS TV POA HD ALT
-http://vipeiptv.com:25461/albino01/albino01/856410
-#EXTINF:-1,GLOBO RBS TV POA SD ALT
-http://vipeiptv.com:25461/albino01/albino01/856409
-#EXTINF:-1,GLOBO REDE AMAZONICA MANAUS SD ALT#
-http://vipeiptv.com:25461/albino01/albino01/856452
-#EXTINF:-1,GLOBO RJ FHD
-http://vipeiptv.com:25461/albino01/albino01/856421
-#EXTINF:-1,GLOBO RJ FHD ALT
-http://vipeiptv.com:25461/albino01/albino01/856422
-#EXTINF:-1,GLOBO RJ HD
-http://vipeiptv.com:25461/albino01/albino01/856419
-#EXTINF:-1,Globo RJ HD ALT
-http://vipeiptv.com:25461/albino01/albino01/856420
-#EXTINF:-1,GLOBO RJ SD
-http://vipeiptv.com:25461/albino01/albino01/856417
-#EXTINF:-1,Globo RJ SD ALT
-http://vipeiptv.com:25461/albino01/albino01/856418
-#EXTINF:-1,GLOBO RPC CURITIBA SD
-http://vipeiptv.com:25461/albino01/albino01/856423
-#EXTINF:-1,GLOBO RPC TV CURITIBA SD ALT
-http://vipeiptv.com:25461/albino01/albino01/856453
-#EXTINF:-1,GLOBO SP FHD ALT
-http://vipeiptv.com:25461/albino01/albino01/856430
-#EXTINF:-1,GLOBO SP HD
-http://vipeiptv.com:25461/albino01/albino01/856428
-#EXTINF:-1,GLOBO SP HD ALT
-http://vipeiptv.com:25461/albino01/albino01/856429
-#EXTINF:-1,GLOBO SP SD ALT
-http://vipeiptv.com:25461/albino01/albino01/856427
-#EXTINF:-1,GLOBO SP SDD
-http://vipeiptv.com:25461/albino01/albino01/856426
-#EXTINF:-1,GLOBO TV ANHANGUERA  SD ALT
-http://vipeiptv.com:25461/albino01/albino01/856454
-#EXTINF:-1,GLOBO TV BAHIA FHD ALT
-http://vipeiptv.com:25461/albino01/albino01/856366
-#EXTINF:-1,GLOBO TV BAHIA HD ALT
-http://vipeiptv.com:25461/albino01/albino01/856365
-#EXTINF:-1,GLOBO TV BAHIA SD ALT
-http://vipeiptv.com:25461/albino01/albino01/856363
-#EXTINF:-1,GLOBO TV BRASILIA FHD ALT
-http://vipeiptv.com:25461/albino01/albino01/856374
-#EXTINF:-1,GLOBO TV LIBERAL BELEM SD ALT
-http://vipeiptv.com:25461/albino01/albino01/856456
-#EXTINF:-1,GLOBO TV MIRANTE FHD ALT
-http://vipeiptv.com:25461/albino01/albino01/856401
-#EXTINF:-1,GLOBO TV MIRANTE HD ALT
-http://vipeiptv.com:25461/albino01/albino01/856400
-#EXTINF:-1,GLOBO TV MIRANTE SD ALT
-http://vipeiptv.com:25461/albino01/albino01/856399
-#EXTINF:-1,GLOBO TV MORENA FHD
-http://vipeiptv.com:25461/albino01/albino01/856436
-#EXTINF:-1,GLOBO TV MORENA FHD ALT
-http://vipeiptv.com:25461/albino01/albino01/856437
-#EXTINF:-1,GLOBO TV MORENA HD
-http://vipeiptv.com:25461/albino01/albino01/856433
-#EXTINF:-1,GLOBO TV MORENA HD ALT
-http://vipeiptv.com:25461/albino01/albino01/856435
-#EXTINF:-1,GLOBO TV MORENA SD
-http://vipeiptv.com:25461/albino01/albino01/856431
-#EXTINF:-1,GLOBO TV MORENA SD ALT
-http://vipeiptv.com:25461/albino01/albino01/856432
-#EXTINF:-1,GLOBO TV TEM BAURU HD
-http://vipeiptv.com:25461/albino01/albino01/856434
-#EXTINF:-1,GLOBO TV TEM BAURU SD ALT
-http://vipeiptv.com:25461/albino01/albino01/856457
-#EXTINF:-1,GLOBO TV TEM SJRP
-http://vipeiptv.com:25461/albino01/albino01/856438
-#EXTINF:-1,GLOBO TV TEM SOROCABA HD
-http://vipeiptv.com:25461/albino01/albino01/856439
-#EXTINF:-1,GLOBO TV TEM SOROCABA SD ALT
-http://vipeiptv.com:25461/albino01/albino01/856458
-#EXTINF:-1,GLOBO TV TRIBUNA
-http://vipeiptv.com:25461/albino01/albino01/856440
-#EXTINF:-1,GLOBO TV TRIBUNA SANTOS SD ALT
-http://vipeiptv.com:25461/albino01/albino01/856459
-#EXTINF:-1,GLOBO TV VANGUARDA SJC
-http://vipeiptv.com:25461/albino01/albino01/856441
-#EXTINF:-1,GLOBO TV VANGUARDA SÃO JOSE DOS CAMPOS SD ALT
-http://vipeiptv.com:25461/albino01/albino01/856460
-#EXTINF:-1,GLOBO TV VERDES MARES FHD ALT
-http://vipeiptv.com:25461/albino01/albino01/856463
-#EXTINF:-1,GLOBO TV VERDES MARES HD ALT
-http://vipeiptv.com:25461/albino01/albino01/856462
-#EXTINF:-1,GLOBO TV VERDES MARES SD ALT
-http://vipeiptv.com:25461/albino01/albino01/856461
-#EXTINF:-1,GLOBO VITORIA ES ALT
-http://vipeiptv.com:25461/albino01/albino01/856999
-#EXTINF:-1,GLOBO VITORIA ES. FHD ALT
-http://vipeiptv.com:25461/albino01/albino01/857001
-#EXTINF:-1,GLOBOTV ANHANGUERA FHD ALT
-http://vipeiptv.com:25461/albino01/albino01/856465
-#EXTINF:-1,GLOBOTV ANHANGUERA HD ALT
-http://vipeiptv.com:25461/albino01/albino01/856464
-#EXTINF:-1,GLOOB FHD ALT
-http://vipeiptv.com:25461/albino01/albino01/856613
-#EXTINF:-1,GLOOB HD
-http://vipeiptv.com:25461/albino01/albino01/856611
-#EXTINF:-1,GLOOB HD ALT
-http://vipeiptv.com:25461/albino01/albino01/856612
-#EXTINF:-1,GLOOB SD
-http://vipeiptv.com:25461/albino01/albino01/856609
-#EXTINF:-1,GLOOB SD ALT
-http://vipeiptv.com:25461/albino01/albino01/856610
-#EXTINF:-1,GNT FHD
-http://vipeiptv.com:25461/albino01/albino01/856689
-#EXTINF:-1,GNT FHD ALT
-http://vipeiptv.com:25461/albino01/albino01/856690
-#EXTINF:-1,GNT HD
-http://vipeiptv.com:25461/albino01/albino01/856687
-#EXTINF:-1,GNT HD ALT
-http://vipeiptv.com:25461/albino01/albino01/856688
-#EXTINF:-1,GNT SD
-http://vipeiptv.com:25461/albino01/albino01/856685
-#EXTINF:-1,GNT SD ALT
-http://vipeiptv.com:25461/albino01/albino01/856686
-#EXTINF:-1,H2 FHD ALT
-http://vipeiptv.com:25461/albino01/albino01/856302
-#EXTINF:-1,H2 HD
-http://vipeiptv.com:25461/albino01/albino01/856300
-#EXTINF:-1,H2 HD ALT
-http://vipeiptv.com:25461/albino01/albino01/856301
-#EXTINF:-1,H2 SD
-http://vipeiptv.com:25461/albino01/albino01/856298
-#EXTINF:-1,H2 SD ALT
-http://vipeiptv.com:25461/albino01/albino01/856299
-#EXTINF:-1,HBO 2 FHD
-http://vipeiptv.com:25461/albino01/albino01/856323
-#EXTINF:-1,HBO 2 FHD ALT
-http://vipeiptv.com:25461/albino01/albino01/856324
-#EXTINF:-1,HBO 2 HD
-http://vipeiptv.com:25461/albino01/albino01/856321
-#EXTINF:-1,HBO 2 HD ALT
-http://vipeiptv.com:25461/albino01/albino01/856322
-#EXTINF:-1,HBO 2 SD
-http://vipeiptv.com:25461/albino01/albino01/856319
-#EXTINF:-1,HBO 2 SD ALT
-http://vipeiptv.com:25461/albino01/albino01/856320
-#EXTINF:-1,HBO FAMILY FHD
-http://vipeiptv.com:25461/albino01/albino01/856329
-#EXTINF:-1,HBO FAMILY FHD ALT
-http://vipeiptv.com:25461/albino01/albino01/856330
-#EXTINF:-1,HBO FAMILY HD
-http://vipeiptv.com:25461/albino01/albino01/856327
-#EXTINF:-1,HBO FAMILY HD ALT
-http://vipeiptv.com:25461/albino01/albino01/856328
-#EXTINF:-1,HBO FAMILY SD
-http://vipeiptv.com:25461/albino01/albino01/856325
-#EXTINF:-1,HBO FAMILY SD ALT
-http://vipeiptv.com:25461/albino01/albino01/856326
-#EXTINF:-1,HBO FHD
-http://vipeiptv.com:25461/albino01/albino01/856317
-#EXTINF:-1,HBO FHD ALT
-http://vipeiptv.com:25461/albino01/albino01/856318
-#EXTINF:-1,HBO HD
-http://vipeiptv.com:25461/albino01/albino01/856315
-#EXTINF:-1,HBO HD ALT
-http://vipeiptv.com:25461/albino01/albino01/856316
-#EXTINF:-1,HBO MUNDI FHD
-http://vipeiptv.com:25461/albino01/albino01/856334
-#EXTINF:-1,HBO MUNDI FHD ALT
-http://vipeiptv.com:25461/albino01/albino01/856335
-#EXTINF:-1,HBO MUNDI HD
-http://vipeiptv.com:25461/albino01/albino01/856332
-#EXTINF:-1,HBO MUNDI HD ALT
-http://vipeiptv.com:25461/albino01/albino01/856333
-#EXTINF:-1,HBO MUNDI SD ALT
-http://vipeiptv.com:25461/albino01/albino01/856331
-#EXTINF:-1,HBO PLUS FHD ALT
-http://vipeiptv.com:25461/albino01/albino01/856338
-#EXTINF:-1,HBO PLUS HD ALT
-http://vipeiptv.com:25461/albino01/albino01/856337
-#EXTINF:-1,HBO PLUS SD ALT
-http://vipeiptv.com:25461/albino01/albino01/856336
-#EXTINF:-1,HBO POP FHD ALT
-http://vipeiptv.com:25461/albino01/albino01/856343
-#EXTINF:-1,HBO POP HD
-http://vipeiptv.com:25461/albino01/albino01/856341
-#EXTINF:-1,HBO POP HD ALT
-http://vipeiptv.com:25461/albino01/albino01/856342
-#EXTINF:-1,HBO POP SD
-http://vipeiptv.com:25461/albino01/albino01/856339
-#EXTINF:-1,HBO POP SD ALT
-http://vipeiptv.com:25461/albino01/albino01/856340
-#EXTINF:-1,HBO SD
-http://vipeiptv.com:25461/albino01/albino01/856313
-#EXTINF:-1,HBO SD ALT
-http://vipeiptv.com:25461/albino01/albino01/856314
-#EXTINF:-1,HBO SIGNATURE FHD
-http://vipeiptv.com:25461/albino01/albino01/856347
-#EXTINF:-1,HBO SIGNATURE FHD ALT
-http://vipeiptv.com:25461/albino01/albino01/856348
-#EXTINF:-1,HBO SIGNATURE HD
-http://vipeiptv.com:25461/albino01/albino01/856345
-#EXTINF:-1,HBO SIGNATURE HD ALT
-http://vipeiptv.com:25461/albino01/albino01/856346
-#EXTINF:-1,HBO SIGNATURE SD ALT
-http://vipeiptv.com:25461/albino01/albino01/856344
-#EXTINF:-1,HBO XTREME FHD
-http://vipeiptv.com:25461/albino01/albino01/856353
-#EXTINF:-1,HBO XTREME FHD ALT
-http://vipeiptv.com:25461/albino01/albino01/856354
-#EXTINF:-1,HBO XTREME HD
-http://vipeiptv.com:25461/albino01/albino01/856351
-#EXTINF:-1,HBO XTREME HD ALT
-http://vipeiptv.com:25461/albino01/albino01/856352
-#EXTINF:-1,HBO XTREME SD
-http://vipeiptv.com:25461/albino01/albino01/856349
-#EXTINF:-1,HBO XTREME SD ALT
-http://vipeiptv.com:25461/albino01/albino01/856350
-#EXTINF:-1,HBO+ FHD
-http://vipeiptv.com:25461/albino01/albino01/856357
-#EXTINF:-1,HBO+ HD
-http://vipeiptv.com:25461/albino01/albino01/856356
-#EXTINF:-1,HBO+ SD
-http://vipeiptv.com:25461/albino01/albino01/856355
-#EXTINF:-1,HGTV FHD ALT
-http://vipeiptv.com:25461/albino01/albino01/856292
-#EXTINF:-1,HGTV HD
-http://vipeiptv.com:25461/albino01/albino01/856290
-#EXTINF:-1,HGTV HD ALT
-http://vipeiptv.com:25461/albino01/albino01/856291
-#EXTINF:-1,HGTV SD ALT
-http://vipeiptv.com:25461/albino01/albino01/856289
-#EXTINF:-1,HISTORY FHD ALT
-http://vipeiptv.com:25461/albino01/albino01/856297
-#EXTINF:-1,HISTORY HD
-http://vipeiptv.com:25461/albino01/albino01/856295
-#EXTINF:-1,HISTORY HD ALT
-http://vipeiptv.com:25461/albino01/albino01/856296
-#EXTINF:-1,HISTORY SD
-http://vipeiptv.com:25461/albino01/albino01/856293
-#EXTINF:-1,HISTORY SD ALT
-http://vipeiptv.com:25461/albino01/albino01/856294
-#EXTINF:-1,ID - INVESTIGAÇÃO DISCOVERY FHD ALT
-http://vipeiptv.com:25461/albino01/albino01/856070
-#EXTINF:-1,ID - INVESTIGAÇÃO DISCOVERY HD
-http://vipeiptv.com:25461/albino01/albino01/856068
-#EXTINF:-1,ID - INVESTIGAÇÃO DISCOVERY HD ALT
-http://vipeiptv.com:25461/albino01/albino01/856069
-#EXTINF:-1,ID - INVESTIGAÇÃO DISCOVERY SD
-http://vipeiptv.com:25461/albino01/albino01/856066
-#EXTINF:-1,ID - INVESTIGAÇÃO DISCOVERY SD ALT
-http://vipeiptv.com:25461/albino01/albino01/856067
-#EXTINF:-1,LIFETIME FHD ALT
-http://vipeiptv.com:25461/albino01/albino01/856695
-#EXTINF:-1,LIFETIME HD
-http://vipeiptv.com:25461/albino01/albino01/856693
-#EXTINF:-1,LIFETIME HD ALT
-http://vipeiptv.com:25461/albino01/albino01/856694
-#EXTINF:-1,LIFETIME SD
-http://vipeiptv.com:25461/albino01/albino01/856691
-#EXTINF:-1,LIFETIME SD ALT
-http://vipeiptv.com:25461/albino01/albino01/856692
-#EXTINF:-1,MAIS GLOBOSAT HD
-http://vipeiptv.com:25461/albino01/albino01/856698
-#EXTINF:-1,MAIS GLOBOSAT HD ALT
-http://vipeiptv.com:25461/albino01/albino01/856699
-#EXTINF:-1,MAIS GLOBOSAT SD
-http://vipeiptv.com:25461/albino01/albino01/856696
-#EXTINF:-1,MEGAPIX FHD
-http://vipeiptv.com:25461/albino01/albino01/856123
-#EXTINF:-1,MEGAPIX FHD ALT
-http://vipeiptv.com:25461/albino01/albino01/856124
-#EXTINF:-1,MEGAPIX HD
-http://vipeiptv.com:25461/albino01/albino01/856121
-#EXTINF:-1,MEGAPIX HD ALT
-http://vipeiptv.com:25461/albino01/albino01/856122
-#EXTINF:-1,MEGAPIX SD
-http://vipeiptv.com:25461/albino01/albino01/856119
-#EXTINF:-1,MEGAPIX SD ALT
-http://vipeiptv.com:25461/albino01/albino01/856120
-#EXTINF:-1,MTV FHD ALT
-http://vipeiptv.com:25461/albino01/albino01/856705
-#EXTINF:-1,MTV HD
-http://vipeiptv.com:25461/albino01/albino01/856703
-#EXTINF:-1,MTV HD ALT
-http://vipeiptv.com:25461/albino01/albino01/856704
-#EXTINF:-1,MTV SD
-http://vipeiptv.com:25461/albino01/albino01/856701
-#EXTINF:-1,MTV SD ALT
-http://vipeiptv.com:25461/albino01/albino01/856702
-#EXTINF:-1,MULTISHOW FHD ALT
-http://vipeiptv.com:25461/albino01/albino01/856710
-#EXTINF:-1,MULTISHOW HD
-http://vipeiptv.com:25461/albino01/albino01/856709
-#EXTINF:-1,MULTISHOW HD ALT
-http://vipeiptv.com:25461/albino01/albino01/856708
-#EXTINF:-1,MULTISHOW SD
-http://vipeiptv.com:25461/albino01/albino01/856706
-#EXTINF:-1,MULTISHOW SD ALT
-http://vipeiptv.com:25461/albino01/albino01/856707
-#EXTINF:-1,MUSIC BOX BRASIL FHD ALT
-http://vipeiptv.com:25461/albino01/albino01/856713
-#EXTINF:-1,MUSIC BOX BRASIL HD ALT
-http://vipeiptv.com:25461/albino01/albino01/856712
-#EXTINF:-1,MUSIC BOX BRASIL SD ALT
-http://vipeiptv.com:25461/albino01/albino01/856711
-#EXTINF:-1,NATGEO KIDS FHD ALT
-http://vipeiptv.com:25461/albino01/albino01/856619
-#EXTINF:-1,NATGEO KIDS HD ALT
-http://vipeiptv.com:25461/albino01/albino01/856618
-#EXTINF:-1,NATGEO KIDS SD ALT
-http://vipeiptv.com:25461/albino01/albino01/856617
-#EXTINF:-1,NATGEO WILD FHD ALT
-http://vipeiptv.com:25461/albino01/albino01/856312
-#EXTINF:-1,NATGEO WILD HD
-http://vipeiptv.com:25461/albino01/albino01/856310
-#EXTINF:-1,NATGEO WILD HD ALT
-http://vipeiptv.com:25461/albino01/albino01/856311
-#EXTINF:-1,NATGEO WILD SD
-http://vipeiptv.com:25461/albino01/albino01/856308
-#EXTINF:-1,NATGEO WILD SD ALT
-http://vipeiptv.com:25461/albino01/albino01/856309
-#EXTINF:-1,NATIONAL GEOGRAPHIC FHD ALT
-http://vipeiptv.com:25461/albino01/albino01/856307
-#EXTINF:-1,NATIONAL GEOGRAPHIC HD
-http://vipeiptv.com:25461/albino01/albino01/856305
-#EXTINF:-1,NATIONAL GEOGRAPHIC HD ALT
-http://vipeiptv.com:25461/albino01/albino01/856306
-#EXTINF:-1,NATIONAL GEOGRAPHIC SD
-http://vipeiptv.com:25461/albino01/albino01/856303
-#EXTINF:-1,NATIONAL GEOGRAPHIC SD ALT
-http://vipeiptv.com:25461/albino01/albino01/856304
-#EXTINF:-1,NICK JR FHD ALT
-http://vipeiptv.com:25461/albino01/albino01/856624
-#EXTINF:-1,NICK JR HD ALT
-http://vipeiptv.com:25461/albino01/albino01/856623
-#EXTINF:-1,NICK JR SD ALT
-http://vipeiptv.com:25461/albino01/albino01/856621
-#EXTINF:-1,NICK JR. HD
-http://vipeiptv.com:25461/albino01/albino01/856622
-#EXTINF:-1,NICK JR. SD
-http://vipeiptv.com:25461/albino01/albino01/856620
-#EXTINF:-1,NICKELODEON FHD ALT
-http://vipeiptv.com:25461/albino01/albino01/856629
-#EXTINF:-1,NICKELODEON HD
-http://vipeiptv.com:25461/albino01/albino01/856627
-#EXTINF:-1,NICKELODEON HD ALT
-http://vipeiptv.com:25461/albino01/albino01/856628
-#EXTINF:-1,NICKELODEON SD
-http://vipeiptv.com:25461/albino01/albino01/856625
-#EXTINF:-1,NICKELODEON SD ALT
-http://vipeiptv.com:25461/albino01/albino01/856626
-#EXTINF:-1,NOVO TEMPO HD ²
-http://vipeiptv.com:25461/albino01/albino01/856827
-#EXTINF:-1,NOVO TEMPO ²
-http://vipeiptv.com:25461/albino01/albino01/856826
-#EXTINF:-1,NSC TV BLUMENAU FHD ALT
-http://vipeiptv.com:25461/albino01/albino01/856470
-#EXTINF:-1,NSC TV BLUMENAU SD ALT
-http://vipeiptv.com:25461/albino01/albino01/856469
-#EXTINF:-1,OFF FHD ALT
-http://vipeiptv.com:25461/albino01/albino01/856718
-#EXTINF:-1,OFF HD
-http://vipeiptv.com:25461/albino01/albino01/856716
-#EXTINF:-1,OFF HD ALT
-http://vipeiptv.com:25461/albino01/albino01/856717
-#EXTINF:-1,OFF SD
-http://vipeiptv.com:25461/albino01/albino01/856714
-#EXTINF:-1,OFF SD ALT
-http://vipeiptv.com:25461/albino01/albino01/856715
-#EXTINF:-1,PAI ETERNO SD
-http://vipeiptv.com:25461/albino01/albino01/856828
-#EXTINF:-1,PARAMOUNT
-http://vipeiptv.com:25461/albino01/albino01/856125
-#EXTINF:-1,PARAMOUNT CHANNEL FHD ALT
-http://vipeiptv.com:25461/albino01/albino01/856129
-#EXTINF:-1,PARAMOUNT CHANNEL HD ALT
-http://vipeiptv.com:25461/albino01/albino01/856128
-#EXTINF:-1,PARAMOUNT HD
-http://vipeiptv.com:25461/albino01/albino01/856127
-#EXTINF:-1,PARAMOUNT SD ALT
-http://vipeiptv.com:25461/albino01/albino01/856126
-#EXTINF:-1,PLAY KIDS HD ALT
-http://vipeiptv.com:25461/albino01/albino01/856630
-#EXTINF:-1,PREMIERE 2 SD
-http://vipeiptv.com:25461/albino01/albino01/856253
-#EXTINF:-1,PREMIERE 2 SD ALT
-http://vipeiptv.com:25461/albino01/albino01/856254
-#EXTINF:-1,PREMIERE 2 HD
-http://vipeiptv.com:25461/albino01/albino01/856255
-#EXTINF:-1,PREMIERE 2 HD ALT
-http://vipeiptv.com:25461/albino01/albino01/856256
-#EXTINF:-1,PREMIERE 2 FHD
-http://vipeiptv.com:25461/albino01/albino01/856257
-#EXTINF:-1,PREMIERE 2 FHD ALT
-http://vipeiptv.com:25461/albino01/albino01/856258
-#EXTINF:-1,PREMIERE 3 SD
-http://vipeiptv.com:25461/albino01/albino01/856259
-#EXTINF:-1,PREMIERE 3 SD ALT
-http://vipeiptv.com:25461/albino01/albino01/856260
-#EXTINF:-1,PREMIERE 3 HD
-http://vipeiptv.com:25461/albino01/albino01/856261
-#EXTINF:-1,PREMIERE 3 HD ALT
-http://vipeiptv.com:25461/albino01/albino01/856262
-#EXTINF:-1,PREMIERE 3 FHD
-http://vipeiptv.com:25461/albino01/albino01/856263
-#EXTINF:-1,PREMIERE 3 FHD ALT
-http://vipeiptv.com:25461/albino01/albino01/856264
-#EXTINF:-1,PREMIERE 4 SD
-http://vipeiptv.com:25461/albino01/albino01/856265
-#EXTINF:-1,PREMIERE 4 SD ALT
-http://vipeiptv.com:25461/albino01/albino01/856266
-#EXTINF:-1,PREMIERE 4 HD
-http://vipeiptv.com:25461/albino01/albino01/856267
-#EXTINF:-1,PREMIERE 4 HD ALT
-http://vipeiptv.com:25461/albino01/albino01/856268
-#EXTINF:-1,PREMIERE 4 FHD ALT
-http://vipeiptv.com:25461/albino01/albino01/856269
-#EXTINF:-1,PREMIERE 5 SD
-http://vipeiptv.com:25461/albino01/albino01/856270
-#EXTINF:-1,PREMIERE 5 SD ALT
-http://vipeiptv.com:25461/albino01/albino01/856271
-#EXTINF:-1,PREMIERE 5 HD
-http://vipeiptv.com:25461/albino01/albino01/856272
-#EXTINF:-1,PREMIERE 5 HD ALT
-http://vipeiptv.com:25461/albino01/albino01/856273
-#EXTINF:-1,PREMIERE 5 FHD ALT
-http://vipeiptv.com:25461/albino01/albino01/856274
-#EXTINF:-1,PREMIERE 6 SD ALT
-http://vipeiptv.com:25461/albino01/albino01/856275
-#EXTINF:-1,PREMIERE 6 HD
-http://vipeiptv.com:25461/albino01/albino01/856276
-#EXTINF:-1,PREMIERE 6 HD ALT
-http://vipeiptv.com:25461/albino01/albino01/856277
-#EXTINF:-1,PREMIERE 6 FHD ALT
-http://vipeiptv.com:25461/albino01/albino01/856278
-#EXTINF:-1,PREMIERE 7 FHD ALT
-http://vipeiptv.com:25461/albino01/albino01/856282
-#EXTINF:-1,PREMIERE 7 SD ALT
-http://vipeiptv.com:25461/albino01/albino01/856280
-#EXTINF:-1,PREMIERE 7 HD
-http://vipeiptv.com:25461/albino01/albino01/856279
-#EXTINF:-1,PREMIERE 7 HD ALT
-http://vipeiptv.com:25461/albino01/albino01/856281
-#EXTINF:-1,PREMIERE CLUBES SD
-http://vipeiptv.com:25461/albino01/albino01/856247
-#EXTINF:-1,PREMIERE CLUBES SD ALT
-http://vipeiptv.com:25461/albino01/albino01/856248
-#EXTINF:-1,PREMIERE CLUBES HD
-http://vipeiptv.com:25461/albino01/albino01/856249
-#EXTINF:-1,PREMIERE CLUBES HD ALT
-http://vipeiptv.com:25461/albino01/albino01/856250
-#EXTINF:-1,PREMIERE CLUBES FHD
-http://vipeiptv.com:25461/albino01/albino01/856251
-#EXTINF:-1,PREMIERE CLUBES FHD ALT
-http://vipeiptv.com:25461/albino01/albino01/856252
-#EXTINF:-1,PRIME BOX BRASIL FHD ALT
-http://vipeiptv.com:25461/albino01/albino01/856132
-#EXTINF:-1,PRIME BOX BRASIL HD ALT
-http://vipeiptv.com:25461/albino01/albino01/856131
-#EXTINF:-1,PRIME BOX BRASIL SD ALT
-http://vipeiptv.com:25461/albino01/albino01/856130
-#EXTINF:-1,RBS CAXIAS FHD ALT
-http://vipeiptv.com:25461/albino01/albino01/857006
-#EXTINF:-1,RBS CAXIAS HD ALT
-http://vipeiptv.com:25461/albino01/albino01/857005
-#EXTINF:-1,RBS HD ALT
-http://vipeiptv.com:25461/albino01/albino01/857004
-#EXTINF:-1,RBS PELOTAS FHD ALT
-http://vipeiptv.com:25461/albino01/albino01/857007
-#EXTINF:-1,RBS PELOTAS HD ALT
-http://vipeiptv.com:25461/albino01/albino01/857008
-#EXTINF:-1,RBSTV STA MARIA ALT
-http://vipeiptv.com:25461/albino01/albino01/857011
-#EXTINF:-1,RECORD BELEM
-http://vipeiptv.com:25461/albino01/albino01/856533
-#EXTINF:-1,RECORD BH HD
-http://vipeiptv.com:25461/albino01/albino01/856519
-#EXTINF:-1,Record BH HD ALT
-http://vipeiptv.com:25461/albino01/albino01/856520
-#EXTINF:-1,RECORD BH MINAS HD ALT
-http://vipeiptv.com:25461/albino01/albino01/857067
-#EXTINF:-1,RECORD BRASILIA HD ALT
-http://vipeiptv.com:25461/albino01/albino01/857022
-#EXTINF:-1,RECORD DF HD
-http://vipeiptv.com:25461/albino01/albino01/856521
-#EXTINF:-1,Record FHD ALT
-http://vipeiptv.com:25461/albino01/albino01/856518
-#EXTINF:-1,RECORD GO HD ALT
-http://vipeiptv.com:25461/albino01/albino01/856536
-#EXTINF:-1,RECORD HD ALT
-http://vipeiptv.com:25461/albino01/albino01/856517
-#EXTINF:-1,RECORD MANAUS HD ALT
-http://vipeiptv.com:25461/albino01/albino01/857050
-#EXTINF:-1,RECORD MINAS HD ALT
-http://vipeiptv.com:25461/albino01/albino01/856538
-#EXTINF:-1,RECORD MINAS SD
-http://vipeiptv.com:25461/albino01/albino01/856537
-#EXTINF:-1,RECORD NEWS FHD ALT
-http://vipeiptv.com:25461/albino01/albino01/856506
-#EXTINF:-1,RECORD NEWS HD ALT
-http://vipeiptv.com:25461/albino01/albino01/856505
-#EXTINF:-1,RECORD NEWS SD
-http://vipeiptv.com:25461/albino01/albino01/856503
-#EXTINF:-1,RECORD NEWS SD ALT
-http://vipeiptv.com:25461/albino01/albino01/856504
-#EXTINF:-1,RECORD RJ HD ALT
-http://vipeiptv.com:25461/albino01/albino01/856540
-#EXTINF:-1,RECORD RS HD
-http://vipeiptv.com:25461/albino01/albino01/856522
-#EXTINF:-1,RECORD RS HD ALT
-http://vipeiptv.com:25461/albino01/albino01/856542
-#EXTINF:-1,RECORD RS SD
-http://vipeiptv.com:25461/albino01/albino01/856541
-#EXTINF:-1,RECORD SD
-http://vipeiptv.com:25461/albino01/albino01/856515
-#EXTINF:-1,RECORD SD ALT
-http://vipeiptv.com:25461/albino01/albino01/856516
-#EXTINF:-1,RECORD SERGIPE - TV ATALAIA HD ALT
-http://vipeiptv.com:25461/albino01/albino01/857025
-#EXTINF:-1,RECORD SP HD
-http://vipeiptv.com:25461/albino01/albino01/856523
-#EXTINF:-1,RECORD SP HD ALT
-http://vipeiptv.com:25461/albino01/albino01/856543
-#EXTINF:-1,REDE TV FHD ALT
-http://vipeiptv.com:25461/albino01/albino01/856550
-#EXTINF:-1,REDE TV HD ALT
-http://vipeiptv.com:25461/albino01/albino01/856549
-#EXTINF:-1,REDE TV SD ALT
-http://vipeiptv.com:25461/albino01/albino01/856548
-#EXTINF:-1,REDE VIDA
-http://vipeiptv.com:25461/albino01/albino01/856524
-#EXTINF:-1,REDE VIDA
-http://vipeiptv.com:25461/albino01/albino01/856829
-#EXTINF:-1,REDETV!
-http://vipeiptv.com:25461/albino01/albino01/856525
-#EXTINF:-1,Religioso 1
-http://vipeiptv.com:25461/albino01/albino01/925549
-#EXTINF:-1,religioso 2
-http://vipeiptv.com:25461/albino01/albino01/925550
-#EXTINF:-1,RIT
-http://vipeiptv.com:25461/albino01/albino01/856526
-#EXTINF:-1,SBT FHD ALT
-http://vipeiptv.com:25461/albino01/albino01/856531
-#EXTINF:-1,SBT HD
-http://vipeiptv.com:25461/albino01/albino01/856529
-#EXTINF:-1,SBT HD ALT
-http://vipeiptv.com:25461/albino01/albino01/856530
-#EXTINF:-1,SBT RS HD
-http://vipeiptv.com:25461/albino01/albino01/856845
-#EXTINF:-1,SBT RS HD ALT
-http://vipeiptv.com:25461/albino01/albino01/857028
-#EXTINF:-1,SBT SD
-http://vipeiptv.com:25461/albino01/albino01/856527
-#EXTINF:-1,SBT SD ALT
-http://vipeiptv.com:25461/albino01/albino01/856528
-#EXTINF:-1,SONY FHD ALT
-http://vipeiptv.com:25461/albino01/albino01/856145
-#EXTINF:-1,SONY HD ALT
-http://vipeiptv.com:25461/albino01/albino01/856144
-#EXTINF:-1,SONY SD ALT
-http://vipeiptv.com:25461/albino01/albino01/856143
-#EXTINF:-1,SPACE FHD
-http://vipeiptv.com:25461/albino01/albino01/856137
-#EXTINF:-1,SPACE FHD ALT
-http://vipeiptv.com:25461/albino01/albino01/856138
-#EXTINF:-1,SPACE HD
-http://vipeiptv.com:25461/albino01/albino01/856135
-#EXTINF:-1,SPACE HD ALT
-http://vipeiptv.com:25461/albino01/albino01/856136
-#EXTINF:-1,SPACE SD
-http://vipeiptv.com:25461/albino01/albino01/856133
-#EXTINF:-1,SPACE SD ALT
-http://vipeiptv.com:25461/albino01/albino01/856134
-#EXTINF:-1,SPORTS 1 SD
-http://vipeiptv.com:25461/albino01/albino01/925572
-#EXTINF:-1,SPORTS 1 SD ALT
-http://vipeiptv.com:25461/albino01/albino01/925573
-#EXTINF:-1,SPORTS 1 HD
-http://vipeiptv.com:25461/albino01/albino01/925574
-#EXTINF:-1,SPORT HD ALT
-http://vipeiptv.com:25461/albino01/albino01/925575
-#EXTINF:-1,SPORTS 1 FHD
-http://vipeiptv.com:25461/albino01/albino01/925576
-#EXTINF:-1,SPORTS 1 FHD ALT
-http://vipeiptv.com:25461/albino01/albino01/925577
-#EXTINF:-1,SPORTS 2 SD
-http://vipeiptv.com:25461/albino01/albino01/925578
-#EXTINF:-1,SPORTS 2 SD ALT
-http://vipeiptv.com:25461/albino01/albino01/925579
-#EXTINF:-1,SPORTS 2 HD
-http://vipeiptv.com:25461/albino01/albino01/925580
-#EXTINF:-1,SPORTS 2 FHD ALT
-http://vipeiptv.com:25461/albino01/albino01/925582
-#EXTINF:-1,SPORTV SD
-http://vipeiptv.com:25461/albino01/albino01/856230
-#EXTINF:-1,SPORTV SD ALT
-http://vipeiptv.com:25461/albino01/albino01/856231
-#EXTINF:-1,SPORTV HD
-http://vipeiptv.com:25461/albino01/albino01/856232
-#EXTINF:-1,SPORTV HD ALT
-http://vipeiptv.com:25461/albino01/albino01/856233
-#EXTINF:-1,SPORTV FHD
-http://vipeiptv.com:25461/albino01/albino01/856234
-#EXTINF:-1,SPORTV FHD ALT
-http://vipeiptv.com:25461/albino01/albino01/856235
-#EXTINF:-1,SPORTV 2 SD
-http://vipeiptv.com:25461/albino01/albino01/856236
-#EXTINF:-1,SPORTV 2 SD ALT
-http://vipeiptv.com:25461/albino01/albino01/856237
-#EXTINF:-1,SPORTV 2 HD
-http://vipeiptv.com:25461/albino01/albino01/856238
-#EXTINF:-1,SPORTV 2 HD ALT
-http://vipeiptv.com:25461/albino01/albino01/856239
-#EXTINF:-1,SPORTS 2 HD ALT
-http://vipeiptv.com:25461/albino01/albino01/925581
-#EXTINF:-1,SPORTV 2 FHD
-http://vipeiptv.com:25461/albino01/albino01/856240
-#EXTINF:-1,SPORTV 2 FHD ALT
-http://vipeiptv.com:25461/albino01/albino01/856241
-#EXTINF:-1,SPORTV 3 SD
-http://vipeiptv.com:25461/albino01/albino01/856242
-#EXTINF:-1,SPORTV 3 SD ALT
-http://vipeiptv.com:25461/albino01/albino01/856243
-#EXTINF:-1,SPORTV 3 HD
-http://vipeiptv.com:25461/albino01/albino01/856244
-#EXTINF:-1,SPORTV 3 HD ALT
-http://vipeiptv.com:25461/albino01/albino01/856245
-#EXTINF:-1,SPORTV 3 FHD ALT
-http://vipeiptv.com:25461/albino01/albino01/856246
-#EXTINF:-1,STUDIO UNIVERSAL FHD ALT
-http://vipeiptv.com:25461/albino01/albino01/856142
-#EXTINF:-1,STUDIO UNIVERSAL HD
-http://vipeiptv.com:25461/albino01/albino01/856140
-#EXTINF:-1,STUDIO UNIVERSAL HD ALT
-http://vipeiptv.com:25461/albino01/albino01/856141
-#EXTINF:-1,STUDIO UNIVERSAL SD ALT
-http://vipeiptv.com:25461/albino01/albino01/856139
-#EXTINF:-1,SYFY FHD ALT
-http://vipeiptv.com:25461/albino01/albino01/856150
-#EXTINF:-1,SYFY HD
-http://vipeiptv.com:25461/albino01/albino01/856148
-#EXTINF:-1,SYFY HD ALT
-http://vipeiptv.com:25461/albino01/albino01/856149
-#EXTINF:-1,SYFY SD
-http://vipeiptv.com:25461/albino01/albino01/856146
-#EXTINF:-1,SYFY SD ALT
-http://vipeiptv.com:25461/albino01/albino01/856147
-#EXTINF:-1,TBS FHD ALT
-http://vipeiptv.com:25461/albino01/albino01/856153
-#EXTINF:-1,TBS HD ALT
-http://vipeiptv.com:25461/albino01/albino01/856152
-#EXTINF:-1,TBS SD ALT
-http://vipeiptv.com:25461/albino01/albino01/856151
-#EXTINF:-1,TELECINE ACTION SD
-http://vipeiptv.com:25461/albino01/albino01/855992
-#EXTINF:-1,TC ACTION SD ALT
-http://vipeiptv.com:25461/albino01/albino01/855993
-#EXTINF:-1,TELECINE ACTION HD
-http://vipeiptv.com:25461/albino01/albino01/855994
-#EXTINF:-1,TC ACTION HD ALT
-http://vipeiptv.com:25461/albino01/albino01/855995
-#EXTINF:-1,TC ACTION FHD ALT
-http://vipeiptv.com:25461/albino01/albino01/855997
-#EXTINF:-1,TELECINE ACTION FHD
-http://vipeiptv.com:25461/albino01/albino01/855996
-#EXTINF:-1,TELECINE FUN SD
-http://vipeiptv.com:25461/albino01/albino01/856004
-#EXTINF:-1,TC FUN SD ALT
-http://vipeiptv.com:25461/albino01/albino01/856005
-#EXTINF:-1,TELECINE FUN HD
-http://vipeiptv.com:25461/albino01/albino01/856006
-#EXTINF:-1,TC FUN HD ALT
-http://vipeiptv.com:25461/albino01/albino01/856007
-#EXTINF:-1,TC FUN FHD ALT
-http://vipeiptv.com:25461/albino01/albino01/856009
-#EXTINF:-1,TELECINE FUN FHD
-http://vipeiptv.com:25461/albino01/albino01/856008
-#EXTINF:-1,TELECINE PREMIUM SD
-http://vipeiptv.com:25461/albino01/albino01/856016
-#EXTINF:-1,TC PREMIUM SD ALT
-http://vipeiptv.com:25461/albino01/albino01/856017
-#EXTINF:-1,TELECINE PREMIUM HD
-http://vipeiptv.com:25461/albino01/albino01/856018
-#EXTINF:-1,TC PREMIUM HD ALT
-http://vipeiptv.com:25461/albino01/albino01/856019
-#EXTINF:-1,TC PREMIUM FHD ALT
-http://vipeiptv.com:25461/albino01/albino01/856021
-#EXTINF:-1,TELECINE PREMIUM FHD
-http://vipeiptv.com:25461/albino01/albino01/856020
-#EXTINF:-1,TCM FHD ALT
-http://vipeiptv.com:25461/albino01/albino01/856157
-#EXTINF:-1,TCM HD ALT
-http://vipeiptv.com:25461/albino01/albino01/856156
-#EXTINF:-1,TCM SD
-http://vipeiptv.com:25461/albino01/albino01/856154
-#EXTINF:-1,TCM SD ALT
-http://vipeiptv.com:25461/albino01/albino01/856155
-#EXTINF:-1,TELECINE CULT SD
-http://vipeiptv.com:25461/albino01/albino01/855998
-#EXTINF:-1,TC CULT SD ALT
-http://vipeiptv.com:25461/albino01/albino01/855999
-#EXTINF:-1,TELECINE CULT HD
-http://vipeiptv.com:25461/albino01/albino01/856000
-#EXTINF:-1,TC CULT HD ALT
-http://vipeiptv.com:25461/albino01/albino01/856001
-#EXTINF:-1,TELECINE CULT FHD
-http://vipeiptv.com:25461/albino01/albino01/856002
-#EXTINF:-1,TC CULT FHD ALT
-http://vipeiptv.com:25461/albino01/albino01/856003
-#EXTINF:-1,TELECINE PIPOCA SD
-http://vipeiptv.com:25461/albino01/albino01/856010
-#EXTINF:-1,TC PIPOCA SD ALT
-http://vipeiptv.com:25461/albino01/albino01/856011
-#EXTINF:-1,TELECINE PIPOCA HD
-http://vipeiptv.com:25461/albino01/albino01/856012
-#EXTINF:-1,TC PIPOCA HD ALT
-http://vipeiptv.com:25461/albino01/albino01/856013
-#EXTINF:-1,TELECINE PIPOCA FHD
-http://vipeiptv.com:25461/albino01/albino01/856014
-#EXTINF:-1,TC PIPOCA FHD ALT
-http://vipeiptv.com:25461/albino01/albino01/856015
-#EXTINF:-1,TELECINE TOUCH SD
-http://vipeiptv.com:25461/albino01/albino01/856022
-#EXTINF:-1,TC TOUCH SD ALT
-http://vipeiptv.com:25461/albino01/albino01/856023
-#EXTINF:-1,TELECINE TOUCH HD
-http://vipeiptv.com:25461/albino01/albino01/856024
-#EXTINF:-1,TC TOUCH HD ALT
-http://vipeiptv.com:25461/albino01/albino01/856025
-#EXTINF:-1,TELECINE TOUCH FHD
-http://vipeiptv.com:25461/albino01/albino01/856026
-#EXTINF:-1,TC TOUCH FHD ALT
-http://vipeiptv.com:25461/albino01/albino01/856027
-#EXTINF:-1,TLC FHD ALT
-http://vipeiptv.com:25461/albino01/albino01/856160
-#EXTINF:-1,TLC HD ALT
-http://vipeiptv.com:25461/albino01/albino01/856159
-#EXTINF:-1,TLC SD ALT
-http://vipeiptv.com:25461/albino01/albino01/856158
-#EXTINF:-1,TNT FHD
-http://vipeiptv.com:25461/albino01/albino01/856165
-#EXTINF:-1,TNT FHD ALT
-http://vipeiptv.com:25461/albino01/albino01/856166
-#EXTINF:-1,TNT HD
-http://vipeiptv.com:25461/albino01/albino01/856163
-#EXTINF:-1,TNT HD ALT
-http://vipeiptv.com:25461/albino01/albino01/856164
-#EXTINF:-1,TNT SD
-http://vipeiptv.com:25461/albino01/albino01/856161
-#EXTINF:-1,TNT SD ALT
-http://vipeiptv.com:25461/albino01/albino01/856162
-#EXTINF:-1,TNT SERIES FHD ALT
-http://vipeiptv.com:25461/albino01/albino01/856171
-#EXTINF:-1,TNT SERIES HD ALT
-http://vipeiptv.com:25461/albino01/albino01/856170
-#EXTINF:-1,TNT SERIES SD ALT
-http://vipeiptv.com:25461/albino01/albino01/856168
-#EXTINF:-1,TNT SÉRIES HD
-http://vipeiptv.com:25461/albino01/albino01/856169
-#EXTINF:-1,TNT SÉRIES SD
-http://vipeiptv.com:25461/albino01/albino01/856167
-#EXTINF:-1,TOONCAST FHD ALT
-http://vipeiptv.com:25461/albino01/albino01/856634
-#EXTINF:-1,TOONCAST HD ALT
-http://vipeiptv.com:25461/albino01/albino01/856633
-#EXTINF:-1,TOONCAST SD
-http://vipeiptv.com:25461/albino01/albino01/856631
-#EXTINF:-1,TOONCAST SD ALT
-http://vipeiptv.com:25461/albino01/albino01/856632
-#EXTINF:-1,TV APARECIDA  SD
-http://vipeiptv.com:25461/albino01/albino01/856830
-#EXTINF:-1,TV APARECIDA HD
-http://vipeiptv.com:25461/albino01/albino01/856832
-#EXTINF:-1,TV APARECIDA ²
-http://vipeiptv.com:25461/albino01/albino01/856831
-#EXTINF:-1,TV CABO BRANCO HD
-http://vipeiptv.com:25461/albino01/albino01/856807
-#EXTINF:-1,TV CABO BRANCO SD
-http://vipeiptv.com:25461/albino01/albino01/856808
-#EXTINF:-1,TV CAMARA ALT
-http://vipeiptv.com:25461/albino01/albino01/857070
-#EXTINF:-1,TV CULTURA ES HD ALT
-http://vipeiptv.com:25461/albino01/albino01/857057
-#EXTINF:-1,TV CÂMARA
-http://vipeiptv.com:25461/albino01/albino01/856554
-#EXTINF:-1,TV DIARIO FHD ALT
-http://vipeiptv.com:25461/albino01/albino01/856553
-#EXTINF:-1,TV DIARIO HD ALT
-http://vipeiptv.com:25461/albino01/albino01/856552
-#EXTINF:-1,TV DIARIO SD ALT
-http://vipeiptv.com:25461/albino01/albino01/856551
-#EXTINF:-1,TV EVANGELIZAR ES ²
-http://vipeiptv.com:25461/albino01/albino01/856833
-#EXTINF:-1,TV GAZETA FHD ALT
-http://vipeiptv.com:25461/albino01/albino01/856473
-#EXTINF:-1,TV GAZETA SD ALT
-http://vipeiptv.com:25461/albino01/albino01/856474
-#EXTINF:-1,TV NOVO TEMPO  SD
-http://vipeiptv.com:25461/albino01/albino01/856834
-#EXTINF:-1,TV RA TIM BUM FHD ALT
-http://vipeiptv.com:25461/albino01/albino01/856638
-#EXTINF:-1,TV RA TIM BUM HD ALT
-http://vipeiptv.com:25461/albino01/albino01/856637
-#EXTINF:-1,TV RA TIM BUM SD ALT
-http://vipeiptv.com:25461/albino01/albino01/856636
-#EXTINF:-1,TV RIO SUL SD ALT
-http://vipeiptv.com:25461/albino01/albino01/856476
-#EXTINF:-1,TV RÁ-TIM-BUM SSD
-http://vipeiptv.com:25461/albino01/albino01/856635
-#EXTINF:-1,TV SANTA CRUZ FHD ALT
-http://vipeiptv.com:25461/albino01/albino01/856478
-#EXTINF:-1,TV SANTA CRUZ SD ALT
-http://vipeiptv.com:25461/albino01/albino01/856477
-#EXTINF:-1,TV Santa Cruz TV Bahia HD -GLOBO- ALT
-http://vipeiptv.com:25461/albino01/albino01/857020
-#EXTINF:-1,TV SENADO ALT
-http://vipeiptv.com:25461/albino01/albino01/857069
-#EXTINF:-1,TV SERGIPE FHD ALT
-http://vipeiptv.com:25461/albino01/albino01/856480
-#EXTINF:-1,TV SERGIPE SD ALT
-http://vipeiptv.com:25461/albino01/albino01/856479
-#EXTINF:-1,TV SUBAE (GLOBO BAHIA HD) ALT
-http://vipeiptv.com:25461/albino01/albino01/857021
-#EXTINF:-1,TV TEM BAURU FHD ALT
-http://vipeiptv.com:25461/albino01/albino01/856482
-#EXTINF:-1,TV TEM BAURU HD ALT
-http://vipeiptv.com:25461/albino01/albino01/856481
-#EXTINF:-1,TV Tem Sao Jose do Rio Preto ALT
-http://vipeiptv.com:25461/albino01/albino01/857019
-#EXTINF:-1,TV VANGUARDA FHD (SAO JOSE DOS CAMPOS ) ALT
-http://vipeiptv.com:25461/albino01/albino01/857010
-#EXTINF:-1,TVE
-http://vipeiptv.com:25461/albino01/albino01/856555
-#EXTINF:-1,UNIVERSAL CHANNEL FHD ALT
-http://vipeiptv.com:25461/albino01/albino01/856176
-#EXTINF:-1,UNIVERSAL CHANNEL HD ALT
-http://vipeiptv.com:25461/albino01/albino01/856175
-#EXTINF:-1,UNIVERSAL CHANNEL SD ALT
-http://vipeiptv.com:25461/albino01/albino01/856173
-#EXTINF:-1,UNIVERSAL TV HD
-http://vipeiptv.com:25461/albino01/albino01/856174
-#EXTINF:-1,UNIVERSAL TV SD
-http://vipeiptv.com:25461/albino01/albino01/856172
-#EXTINF:-1,VIVA FHD ALT
-http://vipeiptv.com:25461/albino01/albino01/856740
-#EXTINF:-1,VIVA HD
-http://vipeiptv.com:25461/albino01/albino01/856738
-#EXTINF:-1,VIVA HD ALT
-http://vipeiptv.com:25461/albino01/albino01/856739
-#EXTINF:-1,VIVA SD
-http://vipeiptv.com:25461/albino01/albino01/856736
-#EXTINF:-1,VIVA SD ALT
-http://vipeiptv.com:25461/albino01/albino01/856737
-#EXTINF:-1,WARNER CHANNEL FHD ALT
-http://vipeiptv.com:25461/albino01/albino01/856181
-#EXTINF:-1,WARNER CHANNEL HD
-http://vipeiptv.com:25461/albino01/albino01/856179
-#EXTINF:-1,WARNER CHANNEL HD ALT
-http://vipeiptv.com:25461/albino01/albino01/856180
-#EXTINF:-1,WARNER CHANNEL SD
-http://vipeiptv.com:25461/albino01/albino01/856177
-#EXTINF:-1,WARNER CHANNEL SD ALT
-http://vipeiptv.com:25461/albino01/albino01/856178
-#EXTINF:-1,WOOHOO HD
-http://vipeiptv.com:25461/albino01/albino01/856734
-#EXTINF:-1,WOOHOO SD
-http://vipeiptv.com:25461/albino01/albino01/856732
-#EXTINF:-1,ZOOMOO
-http://vipeiptv.com:25461/albino01/albino01/856639
+#EXTINF:-1,Warner Channel HD+
+http://xcui.vitvabc.xyz:8880/287994003748/287994003748/16765
+#EXTINF:-1,A&E HD+
+http://xcui.vitvabc.xyz:8880/287994003748/287994003748/16691
+#EXTINF:-1,AMC HD+
+http://xcui.vitvabc.xyz:8880/287994003748/287994003748/16692
+#EXTINF:-1,Animal Planet HD+
+http://xcui.vitvabc.xyz:8880/287994003748/287994003748/16693
+#EXTINF:-1,Arte 1 HD+
+http://xcui.vitvabc.xyz:8880/287994003748/287994003748/16694
+#EXTINF:-1,AXN HD+
+http://xcui.vitvabc.xyz:8880/287994003748/287994003748/16695
+#EXTINF:-1,Band News HD+
+http://xcui.vitvabc.xyz:8880/287994003748/287994003748/16696
+#EXTINF:-1,Band SP HD+
+http://xcui.vitvabc.xyz:8880/287994003748/287994003748/16697
+#EXTINF:-1,Band Sports HD+
+http://xcui.vitvabc.xyz:8880/287994003748/287994003748/16698
+#EXTINF:-1,Boomerang HD+
+http://xcui.vitvabc.xyz:8880/287994003748/287994003748/16699
+#EXTINF:-1,Canal Sony HD+
+http://xcui.vitvabc.xyz:8880/287994003748/287994003748/16700
+#EXTINF:-1,Cartoon Network HD+
+http://xcui.vitvabc.xyz:8880/287994003748/287994003748/16701
+#EXTINF:-1,Cinemax HD+
+http://xcui.vitvabc.xyz:8880/287994003748/287994003748/16702
+#EXTINF:-1,Combate HD+
+http://xcui.vitvabc.xyz:8880/287994003748/287994003748/16703
+#EXTINF:-1,Comedy Central HD+
+http://xcui.vitvabc.xyz:8880/287994003748/287994003748/16704
+#EXTINF:-1,Discovery Channel HD+
+http://xcui.vitvabc.xyz:8880/287994003748/287994003748/16705
+#EXTINF:-1,Discovery H&H HD+
+http://xcui.vitvabc.xyz:8880/287994003748/287994003748/16706
+#EXTINF:-1,Discovery Kids HD+
+http://xcui.vitvabc.xyz:8880/287994003748/287994003748/16707
+#EXTINF:-1,Discovery Science HD+
+http://xcui.vitvabc.xyz:8880/287994003748/287994003748/16708
+#EXTINF:-1,Discovery Theater HD+
+http://xcui.vitvabc.xyz:8880/287994003748/287994003748/16709
+#EXTINF:-1,Discovery TLC HD+
+http://xcui.vitvabc.xyz:8880/287994003748/287994003748/16710
+#EXTINF:-1,Discovery Turbo HD+
+http://xcui.vitvabc.xyz:8880/287994003748/287994003748/16711
+#EXTINF:-1,Discovery World HD+
+http://xcui.vitvabc.xyz:8880/287994003748/287994003748/16712
+#EXTINF:-1,Disney Channel HD+
+http://xcui.vitvabc.xyz:8880/287994003748/287994003748/16713
+#EXTINF:-1,Disney Junior HD+
+http://xcui.vitvabc.xyz:8880/287994003748/287994003748/16714
+#EXTINF:-1,Disney XD HD+
+http://xcui.vitvabc.xyz:8880/287994003748/287994003748/16715
+#EXTINF:-1,ESPN 2 HD+
+http://xcui.vitvabc.xyz:8880/287994003748/287994003748/16716
+#EXTINF:-1,ESPN Brasil HD+
+http://xcui.vitvabc.xyz:8880/287994003748/287994003748/16717
+#EXTINF:-1,ESPN HD+
+http://xcui.vitvabc.xyz:8880/287994003748/287994003748/16718
+#EXTINF:-1,Food Network HD+
+http://xcui.vitvabc.xyz:8880/287994003748/287994003748/16719
+#EXTINF:-1,STAR CHANNEL HD+
+http://xcui.vitvabc.xyz:8880/287994003748/287994003748/16720
+#EXTINF:-1,Fox Life HD+
+http://xcui.vitvabc.xyz:8880/287994003748/287994003748/16721
+#EXTINF:-1,STAR HITS 1 HD+
+http://xcui.vitvabc.xyz:8880/287994003748/287994003748/16722
+#EXTINF:-1,STAR HITS 2 HD+
+http://xcui.vitvabc.xyz:8880/287994003748/287994003748/16723
+#EXTINF:-1,Fox Sports 2 HD+
+http://xcui.vitvabc.xyz:8880/287994003748/287994003748/16724
+#EXTINF:-1,Fox Sports 1 HD+
+http://xcui.vitvabc.xyz:8880/287994003748/287994003748/16725
+#EXTINF:-1,FX HD+
+http://xcui.vitvabc.xyz:8880/287994003748/287994003748/16726
+#EXTINF:-1,Globo News HD+
+http://xcui.vitvabc.xyz:8880/287994003748/287994003748/16727
+#EXTINF:-1,Globo Nordeste HD+
+http://xcui.vitvabc.xyz:8880/287994003748/287994003748/16728
+#EXTINF:-1,Globo RJ HD+
+http://xcui.vitvabc.xyz:8880/287994003748/287994003748/16729
+#EXTINF:-1,Globo SP HD+
+http://xcui.vitvabc.xyz:8880/287994003748/287994003748/16730
+#EXTINF:-1,Globo TV Bahia HD+
+http://xcui.vitvabc.xyz:8880/287994003748/287994003748/16731
+#EXTINF:-1,Gloob HD+
+http://xcui.vitvabc.xyz:8880/287994003748/287994003748/16732
+#EXTINF:-1,H2 HD+
+http://xcui.vitvabc.xyz:8880/287994003748/287994003748/16733
+#EXTINF:-1,HGTV HD+
+http://xcui.vitvabc.xyz:8880/287994003748/287994003748/16734
+#EXTINF:-1,History Channel HD+
+http://xcui.vitvabc.xyz:8880/287994003748/287994003748/16735
+#EXTINF:-1,ID Investigao Discovery HD+
+http://xcui.vitvabc.xyz:8880/287994003748/287994003748/16736
+#EXTINF:-1,Mais Globosat HD+
+http://xcui.vitvabc.xyz:8880/287994003748/287994003748/16737
+#EXTINF:-1,MTV HD+
+http://xcui.vitvabc.xyz:8880/287994003748/287994003748/16738
+#EXTINF:-1,MTV Live HD+
+http://xcui.vitvabc.xyz:8880/287994003748/287994003748/16739
+#EXTINF:-1,Multishow HD+
+http://xcui.vitvabc.xyz:8880/287994003748/287994003748/16740
+#EXTINF:-1,Nat Geo Kids HD+
+http://xcui.vitvabc.xyz:8880/287994003748/287994003748/16741
+#EXTINF:-1,Nat Geo Wild HD+
+http://xcui.vitvabc.xyz:8880/287994003748/287994003748/16742
+#EXTINF:-1,National Geographic HD+
+http://xcui.vitvabc.xyz:8880/287994003748/287994003748/16743
+#EXTINF:-1,Nick Jr HD+
+http://xcui.vitvabc.xyz:8880/287994003748/287994003748/16744
+#EXTINF:-1,Nickelodeon HD+
+http://xcui.vitvabc.xyz:8880/287994003748/287994003748/16745
+#EXTINF:-1,Paramount Channel HD+
+http://xcui.vitvabc.xyz:8880/287994003748/287994003748/16746
+#EXTINF:-1,Record News HD+
+http://xcui.vitvabc.xyz:8880/287994003748/287994003748/16747
+#EXTINF:-1,Record SP HD+
+http://xcui.vitvabc.xyz:8880/287994003748/287994003748/16748
+#EXTINF:-1,SBT SP HD+
+http://xcui.vitvabc.xyz:8880/287994003748/287994003748/16749
+#EXTINF:-1,Space HD+
+http://xcui.vitvabc.xyz:8880/287994003748/287994003748/16750
+#EXTINF:-1,SporTV 2 HD+
+http://xcui.vitvabc.xyz:8880/287994003748/287994003748/16751
+#EXTINF:-1,SporTV 3 HD+
+http://xcui.vitvabc.xyz:8880/287994003748/287994003748/16752
+#EXTINF:-1,SporTV HD+
+http://xcui.vitvabc.xyz:8880/287994003748/287994003748/16753
+#EXTINF:-1,Studio Universal HD+
+http://xcui.vitvabc.xyz:8880/287994003748/287994003748/16754
+#EXTINF:-1,SyFy HD+
+http://xcui.vitvabc.xyz:8880/287994003748/287994003748/16755
+#EXTINF:-1,Telecine Fun HD+
+http://xcui.vitvabc.xyz:8880/287994003748/287994003748/16756
+#EXTINF:-1,Telecine Pipoca HD+
+http://xcui.vitvabc.xyz:8880/287994003748/287994003748/16757
+#EXTINF:-1,Telecine Premium HD+
+http://xcui.vitvabc.xyz:8880/287994003748/287994003748/16758
+#EXTINF:-1,Telecine Touch HD+
+http://xcui.vitvabc.xyz:8880/287994003748/287994003748/16759
+#EXTINF:-1,TNT HD+
+http://xcui.vitvabc.xyz:8880/287994003748/287994003748/16760
+#EXTINF:-1,TNT Sies HD+
+http://xcui.vitvabc.xyz:8880/287994003748/287994003748/16761
+#EXTINF:-1,Tooncast HD+
+http://xcui.vitvabc.xyz:8880/287994003748/287994003748/16762
+#EXTINF:-1,Universal Channel HD+
+http://xcui.vitvabc.xyz:8880/287994003748/287994003748/16763
+#EXTINF:-1,Viva HD+
+http://xcui.vitvabc.xyz:8880/287994003748/287994003748/16764
+
 
 
