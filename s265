@@ -285,61 +285,99 @@ https://cdn.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/playlist.m3u8
 http://evpp.mm.uol.com.br:1935/band_live/terraviva/playlist.m3u8
 #EXTINF:-1,CANAL RURAL
 https://5fa18afd2e74c.streamlock.net/live/smil:canalrural.smil/playlist.m3u8
+
 #EXTINF:-1, TV Cultura
 http://50.7.34.155:2200/BR/cultura-br/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1, SBT
 http://50.7.34.155:2200/BR/SBT_HD-br/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1,  Globo SP
 http://50.7.34.155:2200/BR/Globo_HD_SP-br/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1,  Globo RJ
 http://50.7.34.155:2200/BR/Globo_HD_RJ-br/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1,  Globo Nordeste
 http://50.7.34.155:2200/BR/Globo_Nordeste_HD-br/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1,  Globo Nordeste
 http://50.7.34.155:2200/BR/Globo_Nordeste_HD-br/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1,  RPC Curitiba
 http://50.7.34.155:2200/BR/RPC_TV_Curitiba_HD-br/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1,  TV Anhanguera Goiania
 http://50.7.34.155:2200/BR/TV_Anhanguera_Gonia_HD-br/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1,  EPTV Campinas
-http://50.7.34.155:2200/BR/EPTV_HD_Campinas-br/tracks-v1a1/mono.m3u8#EXTINF:-1,  TV Verdes Mares Fortaleza
+http://50.7.34.155:2200/BR/EPTV_HD_Campinas-br/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,  TV Verdes Mares Fortaleza
 http://50.7.34.155:2200/BR/TV_Verdes_Mares_HD_Fortaleza-br/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1,  RPC Cascavel
-http://50.7.34.155:2200/BR/Globo_Rpc_Cascavel_HD_-br/tracks-v1a1/mono.m3u8#EXTINF:-1,  Record SP
+http://50.7.34.155:2200/BR/Globo_Rpc_Cascavel_HD_-br/tracks-v1a1/mono.m3u8
+
+
+#EXTINF:-1,  Record SP
 http://50.7.34.155:2200/BR/RECORDTV_HD-br/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1,  RedeTV
 http://50.7.34.155:2200/BR/Rede_TV_HD-br/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1,  Gazeta
 http://50.7.34.155:2200/BR/Gazeta-br/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1,  Band
 http://50.7.34.155:2200/BR/Band_HD-br/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1,  Loading TV
 http://50.7.34.155:2200/BR/Loading_TV_-br/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1, TV Novo Tempo
 http://50.7.34.155:2200/BR/tvnovotempo-br/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1, Canal Rural
 http://50.7.34.155:2200/BR/canalrural-br/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1, TV Aparecida
 http://50.7.34.155:2200/BR/tvaparecida-br/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1, TV Escola
 http://50.7.34.155:2200/BR/tvescola-br/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1, CNN Brasil
 http://50.7.34.155:2200/BR/CNN_Brasil_HD-br/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1, Globo News
 http://50.7.34.155:2200/BR/Globo_News_HD-br/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1, Record News
-http://50.7.34.155:2200/BR/recordnews-br/tracks-v1a1/mono.m3u8#EXTINF:-1, Mais Globosat
-http://50.7.34.155:2200/BR/Mais_Globosat_HD-br/tracks-v1a1/mono.m3u8#EXTINF:-1, GNT
-http://50.7.34.155:2200/BR/GNT_HD-br/tracks-v1a1/mono.m3u8#EXTINF:-1, SYFY
-http://50.7.34.155:2200/BR/SyFy_HD-br/tracks-v1a1/mono.m3u8#EXTINF:-1, Multishow
-http://50.7.34.155:2200/BR/Multishow_HD-br/tracks-v1a1/mono.m3u8#EXTINF:-1, Curta
-http://50.7.34.155:2200/BR/Curta_HD-br/tracks-v1a1/mono.m3u8#EXTINF:-1, Food Network
-http://50.7.34.155:2200/BR/Food_Network_HD-br/tracks-v1a1/mono.m3u8#EXTINF:-1, Arte1
-http://50.7.34.155:2200/BR/Arte_1_HD-br/tracks-v1a1/mono.m3u8#EXTINF:-1, Fashion
-http://50.7.34.155:2200/BR/Fashion_HD-br/tracks-v1a1/mono.m3u8#EXTINF:-1, TLC
-http://50.7.34.155:2200/BR/TLC_HD-br/tracks-v1a1/mono.m3u8#EXTINF:-1, TCM
-http://50.7.34.155:2200/BR/tcm-br/tracks-v1a1/mono.m3u8#EXTINF:-1, HBO
-http://50.7.34.155:2200/BR/HBO_HD-br/tracks-v1a1/mono.m3u8#EXTINF:-1, HBO 2
+http://50.7.34.155:2200/BR/recordnews-br/tracks-v1a1/mono.m3u8
+#EXTINF:-1, Mais Globosat
+http://50.7.34.155:2200/BR/Mais_Globosat_HD-br/tracks-v1a1/mono.m3u8
+#EXTINF:-1, GNT
+http://50.7.34.155:2200/BR/GNT_HD-br/tracks-v1a1/mono.m3u8
+#EXTINF:-1, SYFY
+http://50.7.34.155:2200/BR/SyFy_HD-br/tracks-v1a1/mono.m3u8
+#EXTINF:-1, Multishow
+http://50.7.34.155:2200/BR/Multishow_HD-br/tracks-v1a1/mono.m3u8
+#EXTINF:-1, Curta
+http://50.7.34.155:2200/BR/Curta_HD-br/tracks-v1a1/mono.m3u8
+#EXTINF:-1, Food Network
+http://50.7.34.155:2200/BR/Food_Network_HD-br/tracks-v1a1/mono.m3u8
+#EXTINF:-1, Arte1
+http://50.7.34.155:2200/BR/Arte_1_HD-br/tracks-v1a1/mono.m3u8
+#EXTINF:-1, Fashion
+http://50.7.34.155:2200/BR/Fashion_HD-br/tracks-v1a1/mono.m3u8
+#EXTINF:-1, TLC
+http://50.7.34.155:2200/BR/TLC_HD-br/tracks-v1a1/mono.m3u8
+#EXTINF:-1, TCM
+http://50.7.34.155:2200/BR/tcm-br/tracks-v1a1/mono.m3u8
+#EXTINF:-1, HBO
+http://50.7.34.155:2200/BR/HBO_HD-br/tracks-v1a1/mono.m3u8
+#EXTINF:-1, HBO 2
 http://50.7.34.155:2200/BR/HBO_2_HD-br/tracks-v1a1/mono.m3u8
 #EXTINF:-1, HBO Family
 http://50.7.34.155:2200/BR/HBO_Family_HD-br/tracks-v1a1/mono.m3u8
@@ -350,7 +388,8 @@ http://50.7.34.155:2200/BR/HBO_Mundi_HD-br/tracks-v1a1/mono.m3u8
 #EXTINF:-1, HBO Pop
 http://50.7.34.155:2200/BR/HBO_Pop_Mundi_HD-br/tracks-v1a1/mono.m3u8
 #EXTINF:-1, HBO Signature
-http://50.7.34.155:2200/BR/HBO_Signature_Mundi_HD-br/tracks-v1a1/mono.m3u8#EXTINF:-1, HBO Xtreme
+http://50.7.34.155:2200/BR/HBO_Signature_Mundi_HD-br/tracks-v1a1/mono.m3u8
+#EXTINF:-1, HBO Xtreme
 http://50.7.34.155:2200/BR/HBO_Xtreme_Mundi_HD-br/tracks-v1a1/mono.m3u8
 #EXTINF:-1,  Telecine Action
 http://50.7.34.155:2200/BR/Telecine_Action_HD-br/tracks-v1a1/mono.m3u8
@@ -363,12 +402,14 @@ http://50.7.34.155:2200/BR/Telecine_Premium_HD-br/tracks-v1a1/mono.m3u8
 #EXTINF:-1,  Telecine Touch
 http://50.7.34.155:2200/BR/Telecine_Touch_HD-br/tracks-v1a1/mono.m3u8
 #EXTINF:-1,  Telecine Cult
-http://50.7.34.155:2200/BR/Telecine_Cult_HD-br/tracks-v1a1/mono.m3u8#EXTINF:-1, Canal Brasil
+http://50.7.34.155:2200/BR/Telecine_Cult_HD-br/tracks-v1a1/mono.m3u8
+#EXTINF:-1, Canal Brasil
 http://50.7.34.155:2200/BR/Canal_Brasil_HD-br/tracks-v1a1/mono.m3u8
 #EXTINF:-1, Universal TV
 http://50.7.34.155:2200/BR/Universal_TV_HD-br/tracks-v1a1/mono.m3u8
 #EXTINF:-1, Studio Universal
-http://50.7.34.155:2200/BR/Studio_Universal_HD-br/tracks-v1a1/mono.m3u8#EXTINF:-1, Warner Channel
+http://50.7.34.155:2200/BR/Studio_Universal_HD-br/tracks-v1a1/mono.m3u8
+#EXTINF:-1, Warner Channel
 http://50.7.34.155:2200/BR/Warner_Channel_HD-br/tracks-v1a1/mono.m3u8
 #EXTINF:-1, Star Channel
 http://50.7.34.155:2200/BR/Fox_HD-br/tracks-v1a1/mono.m3u8
@@ -383,12 +424,14 @@ http://50.7.34.155:2200/BR/Cinemax_HD-br/tracks-v1a1/mono.m3u8
 #EXTINF:-1, Megapix
 http://50.7.34.155:2200/BR/Megapix_HD-br/tracks-v1a1/mono.m3u8
 #EXTINF:-1, Space
-http://50.7.34.155:2200/BR/Space_HD-br/tracks-v1a1/mono.m3u8#EXTINF:-1, Film&Arts
+http://50.7.34.155:2200/BR/Space_HD-br/tracks-v1a1/mono.m3u8
+#EXTINF:-1, Film&Arts
 http://50.7.34.155:2200/BR/Film_Arts_HD-br/tracks-v1a1/mono.m3u8
 #EXTINF:-1, Fx
 http://50.7.34.155:2200/BR/Fx_HD-br/tracks-v1a1/mono.m3u8
 #EXTINF:-1, Sony Channel
-http://50.7.34.155:2200/BR/Canal_Sony_HD-br/tracks-v1a1/mono.m3u8#EXTINF:-1, TBS
+http://50.7.34.155:2200/BR/Canal_Sony_HD-br/tracks-v1a1/mono.m3u8
+#EXTINF:-1, TBS
 http://50.7.34.155:2200/BR/TBS_HD-br/tracks-v1a1/mono.m3u8
 #EXTINF:-1, Paramount
 http://50.7.34.155:2200/BR/Paramount_HD-br/tracks-v1a1/mono.m3u8
@@ -401,7 +444,8 @@ http://50.7.34.155:2200/BR/AMC_HD-br/tracks-v1a1/mono.m3u8
 #EXTINF:-1, A&E
 http://50.7.34.155:2200/BR/AE_HD-br/tracks-v1a1/mono.m3u8
 #EXTINF:-1, Sportv 1
-http://50.7.34.155:2200/BR/Sportv_HD-br/tracks-v1a1/mono.m3u8#EXTINF:-1, Sportv 2
+http://50.7.34.155:2200/BR/Sportv_HD-br/tracks-v1a1/mono.m3u8
+#EXTINF:-1, Sportv 2
 http://50.7.34.155:2200/BR/Sportv_2_HD-br/tracks-v1a1/mono.m3u8
 #EXTINF:-1, Sportv 3
 http://50.7.34.155:2200/BR/Sportv_3_HD-br/tracks-v1a1/mono.m3u8
@@ -410,13 +454,16 @@ http://50.7.34.155:2200/BR/Premiere_Clubes_HD-br/tracks-v1a1/mono.m3u8
 #EXTINF:-1, Premiere 2
 http://50.7.34.155:2200/BR/Premiere_2_HD-br/tracks-v1a1/mono.m3u8
 #EXTINF:-1, Premiere 3
-http://50.7.34.155:2200/BR/Premiere_3_HD-br/tracks-v1a1/mono.m3u8#EXTINF:-1, Premiere 4
-http://50.7.34.155:2200/BR/Premiere_4_HD-br/tracks-v1a1/mono.m3u8#EXTINF:-1, Premiere 5
+http://50.7.34.155:2200/BR/Premiere_3_HD-br/tracks-v1a1/mono.m3u8
+#EXTINF:-1, Premiere 4
+http://50.7.34.155:2200/BR/Premiere_4_HD-br/tracks-v1a1/mono.m3u8
+#EXTINF:-1, Premiere 5
 http://50.7.34.155:2200/BR/Premiere_5_HD-br/tracks-v1a1/mono.m3u8
 #EXTINF:-1, Premiere 6
 http://50.7.34.155:2200/BR/Premiere_6_HD-br/tracks-v1a1/mono.m3u8
 #EXTINF:-1, Premiere 7
-http://50.7.34.155:2200/BR/Premiere_7_HD-br/tracks-v1a1/mono.m3u8#EXTINF:-1, Premiere 8
+http://50.7.34.155:2200/BR/Premiere_7_HD-br/tracks-v1a1/mono.m3u8
+#EXTINF:-1, Premiere 8
 http://50.7.34.155:2200/BR/Premiere_8_HD-br/tracks-v1a1/mono.m3u8
 #EXTINF:-1, ESPN
 http://50.7.34.155:2200/BR/ESPN_HD-br/tracks-v1a1/mono.m3u8
@@ -437,18 +484,22 @@ http://50.7.34.155:2200/BR/EI_PLUS_2_HD-br/tracks-v1a1/mono.m3u8
 #EXTINF:-1, Estádio TNT Sports 3
 http://50.7.34.155:2200/BR/EI_PLUS_3_HD-br/tracks-v1a1/mono.m3u8
 #EXTINF:-1, Estádio TNT Sports 4
-http://50.7.34.155:2200/BR/EI_PLUS_4_HD-br/tracks-v1a1/mono.m3u8#EXTINF:-1, Estádio TNT Sports 5
-http://50.7.34.155:2200/BR/EI_PLUS_5_HD-br/tracks-v1a1/mono.m3u8#EXTINF:-1, Estádio TNT Sports 6
+http://50.7.34.155:2200/BR/EI_PLUS_4_HD-br/tracks-v1a1/mono.m3u8
+#EXTINF:-1, Estádio TNT Sports 5
+http://50.7.34.155:2200/BR/EI_PLUS_5_HD-br/tracks-v1a1/mono.m3u8
+#EXTINF:-1, Estádio TNT Sports 6
 http://50.7.34.155:2200/BR/EI_PLUS_6_HD-br/tracks-v1a1/mono.m3u8
 #EXTINF:-1, Conmebol TV 4
 http://50.7.34.155:2200/BR/Conmebol_TV_04_HD-br/tracks-v1a1/mono.m3u8
 #EXTINF:-1, MTV
-http://50.7.34.155:2200/BR/MTV_HD-br/tracks-v1a1/mono.m3u8#EXTINF:-1, MTV
+http://50.7.34.155:2200/BR/MTV_HD-br/tracks-v1a1/mono.m3u8
+#EXTINF:-1, MTV
 http://50.7.34.155:2200/BR/MTV_LIVE_HD-br/tracks-v1a1/mono.m3u8
 #EXTINF:-1, BIS
 http://50.7.34.155:2200/BR/BIS_HD-br/tracks-v1a1/mono.m3u8
 #EXTINF:-1, Travel Box Brasil
-http://50.7.34.155:2200/BR/Travel_Box_Brasil_HD-br/tracks-v1a1/mono.m3u8#EXTINF:-1, Fishtv
+http://50.7.34.155:2200/BR/Travel_Box_Brasil_HD-br/tracks-v1a1/mono.m3u8
+#EXTINF:-1, Fishtv
 http://50.7.34.155:2200/BR/fishtvhd-br/tracks-v1a1/mono.m3u8
 #EXTINF:-1, Discovery Channel
 http://50.7.34.155:2200/BR/Discovery_Channel_HD-br/tracks-v1a1/mono.m3u8
@@ -457,13 +508,16 @@ http://50.7.34.155:2200/BR/Discovery_Science_HD-br/tracks-v1a1/mono.m3u8
 #EXTINF:-1, Discovery World
 http://50.7.34.155:2200/BR/Discovery_World_HD-br/tracks-v1a1/mono.m3u8
 #EXTINF:-1, Discovery Turbo
-http://50.7.34.155:2200/BR/Discovery_Turbo_HD-br/tracks-v1a1/mono.m3u8#EXTINF:-1, Discovery Home & Health
+http://50.7.34.155:2200/BR/Discovery_Turbo_HD-br/tracks-v1a1/mono.m3u8
+#EXTINF:-1, Discovery Home & Health
 http://50.7.34.155:2200/BR/Disc-_Home_Health_HD-br/tracks-v1a1/mono.m3u8
 #EXTINF:-1, Discovery Theater
 http://50.7.34.155:2200/BR/Discovery_Theater_HD-br/tracks-v1a1/mono.m3u8
 #EXTINF:-1, Discovery ID
-http://50.7.34.155:2200/BR/ID_-_Investi_Discovery_HD/tracks-v1a1/mono.m3u8#EXTINF:-1, Animal Planet
-http://50.7.34.155:2200/BR/Animal_Planet_HD-br/tracks-v1a1/mono.m3u8#EXTINF:-1, Nat Geo
+http://50.7.34.155:2200/BR/ID_-_Investi_Discovery_HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1, Animal Planet
+http://50.7.34.155:2200/BR/Animal_Planet_HD-br/tracks-v1a1/mono.m3u8
+#EXTINF:-1, Nat Geo
 http://50.7.34.155:2200/BR/Nat_Geo_HD-br/tracks-v1a1/mono.m3u8
 #EXTINF:-1, Nat Geo Wild
 http://50.7.34.155:2200/BR/NatGeo_Wild_HD-br/tracks-v1a1/mono.m3u8
@@ -472,15 +526,18 @@ http://50.7.34.155:2200/BR/The_History_Channel_HD-br/tracks-v1a1/mono.m3u8
 #EXTINF:-1, History 2
 http://50.7.34.155:2200/BR/History_2_HD-br/tracks-v1a1/mono.m3u8
 #EXTINF:-1, Disney XD
-http://50.7.34.155:2200/BR/disneyxd-br/tracks-v1a1/mono.m3u8#EXTINF:-1, Disney Junior
+http://50.7.34.155:2200/BR/disneyxd-br/tracks-v1a1/mono.m3u8
+#EXTINF:-1, Disney Junior
 http://50.7.34.155:2200/BR/disneyjunior-br/tracks-v1a1/mono.m3u8
 #EXTINF:-1, Tooncast
 http://50.7.34.155:2200/BR/Tooncast-br/tracks-v1a1/mono.m3u8
 #EXTINF:-1, Baby TV
-http://50.7.34.155:2200/BR/babytv-br/tracks-v1a1/mono.m3u8#EXTINF:-1, Nick Jr.
+http://50.7.34.155:2200/BR/babytv-br/tracks-v1a1/mono.m3u8
+#EXTINF:-1, Nick Jr.
 http://50.7.34.155:2200/BR/Nick_Jr_HD-br/tracks-v1a1/mono.m3u8
 #EXTINF:-1, Disney Channel
-http://50.7.34.155:2200/BR/Dianey_Channel_HD-br/tracks-v1a1/mono.m3u8#EXTINF:-1, Nickelodeon
+http://50.7.34.155:2200/BR/Dianey_Channel_HD-br/tracks-v1a1/mono.m3u8
+#EXTINF:-1, Nickelodeon
 http://50.7.34.155:2200/BR/Nickelodeon_HD-br/tracks-v1a1/mono.m3u8
 #EXTINF:-1, Gloob
 http://50.7.34.155:2200/BR/Gloob_HD-br/tracks-v1a1/mono.m3u8
@@ -498,7 +555,8 @@ http://50.7.34.155:2200/BR/PlayKids_-br/tracks-v1a1/mono.m3u8
 http://50.7.34.155:2200/BR/NatGeoKidsHD-br/tracks-v1a1/mono.m3u8
 
 
- #EXTINF:-1,GB SP FHD
+ 
+#EXTINF:-1,GB SP FHD
 http://akamaizedx.com:80/davimusse/dmfl21/6283
 #EXTINF:-1,GB SP FHDᴮᴿ
 http://akamaizedx.com:80/davimusse/dmfl21/10047306
