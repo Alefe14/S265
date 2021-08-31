@@ -2452,1795 +2452,849 @@ http://assistirpainel.net:8880/IgorRangel2/IgorRangel3/7227
 http://assistirpainel.net:8880/IgorRangel2/IgorRangel3/9543
 #EXTINF:-1 group-title="Canais| Principais",Zoomoo [Alter]
 http://assistirpainel.net:8880/IgorRangel2/IgorRangel3/30686
-#EXTINF:-1 group-title="Canais| Opção 2",TV Metropolitana
-http://video01.kshost.com.br:1935/tv31966/tv31966/playlist.m3u8?PEDROJUNIORTUTORIAIS
-#EXTINF:-1 group-title="Canais| Opção 2",RBC TV
-http://rbc.directradios.com:1935/rbc/smil:rbc.smil/playlist.m3u8?PEDROJUNIORTUTORIAIS
-#EXTINF:-1 group-title="Canais| Opção 2",Rede Gospel
-https://cdn.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/playlist.m3u8?PEDROJUNIORTUTORIAIS
-#EXTINF:-1 group-title="Canais| Opção 2",TV Pai Eterno
-https://59f1cbe63db89.streamlock.net:1443/teste01/_definst_/teste01/playlist.m3u8?PEDROJUNIORTUTORIAIS
-#EXTINF:-1 group-title="Canais| Opção 2",TV Evangelizar
-https://5f593df7851db.streamlock.net/evangelizar/tv/playlist.m3u8?PEDROJUNIORTUTORIAIS
-#EXTINF:-1 group-title="Canais| Opção 2",TV Aparecida
-https://cdn.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/playlist.m3u8?PEDROJUNIORTUTORIAIS
-#EXTINF:-1 group-title="Canais| Opção 2",TV Aparecida HD
-http://origin-02.nxplay.com.br/TV_APARECIDA/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIAIS
-#EXTINF:-1 group-title="Canais| Opção 2",TV Novo Tempo SP
-http://stream.live.novotempo.com/tv/smil:tvnovotempo.smil/chunklist_b878000_slpor.m3u8?PEDROJUNIORTUTORIAIS
-#EXTINF:-1 group-title="Canais| Opção 2",TV Novo Tempo SP HD
-http://stream.live.novotempo.com/tv/smil:tvnovotempo.smil/chunklist_b3628000_slpor.m3u8?PEDROJUNIORTUTORIAIS
-#EXTINF:-1 group-title="Canais| Opção 2",TV Novo Tempo RS
-http://stream.novotempo.com:1935/tv/smil:TvNovoTempoCom.smil/chunklist_w1370923010_b1628000_slpor.m3u8?PEDROJUNIORTUTORIAIS
-#EXTINF:-1 group-title="Canais| Opção 2",IMPD TV
-https://58a4464faef53.streamlock.net/impd/ngrp:impd_all/chunklist_w839075835_b1096000.m3u8?PEDROJUNIORTUTORIAIS
-#EXTINF:-1 group-title="Canais| Opção 2",IMPD TV HD
-https://58a4464faef53.streamlock.net/impd/ngrp:impd_all/chunklist_w839075835_b4227072.m3u8?PEDROJUNIORTUTORIAIS
-#EXTINF:-1 group-title="Canais| Opção 2",Plenitude TV
-https://meupainel.top:1936/iaptd/iaptd/playlist.m3u8?PEDROJUNIORTUTORIAIS
-#EXTINF:-1 group-title="Canais| Opção 2",Gospel Movies Television
-http://stmv1.srvstm.com:1935/gospelf2/gospelf2/playlist.m3u8?PEDROJUNIORTUTORIAIS
-#EXTINF:-1 group-title="Canais| Opção 2",Gospel Music Television
-http://stmv2.euroti.com.br:1935/gmusic/gmusic/playlist.m3u8?PEDROJUNIORTUTORIAIS
-#EXTINF:-1 group-title="Canais| Opção 2",IURD TV
-https://14398c.ha.azioncdn.net/primary/smil:tv_universal.smil/playlist.m3u8?PEDROJUNIORTUTORIAIS
-#EXTINF:-1 group-title="Canais| Opção 2",TV Verdade
-http://ocatv.mcgi.me:1935/public/247_br/playlist.m3u8?PEDROJUNIORTUTORIAIS
-#EXTINF:-1 group-title="Canais| Opção 2",TV Terceiro Anjo
-http://streamer1.streamhost.org:1935/salive/GMI3anjoh/playlist.m3u8?PEDROJUNIORTUTORIAIS
-#EXTINF:-1 group-title="Canais| Opção 2",CNT SP
-http://dd8umsy8yf96u.cloudfront.net/live/cnt-americana_240p414k/index.m3u8?PEDROJUNIORTUTORIAIS
-#EXTINF:-1 group-title="Canais| Opção 2",CNT RJ
-http://dd8umsy8yf96u.cloudfront.net/live/cnt-rio_240p414k/index.m3u8?PEDROJUNIORTUTORIAIS
-#EXTINF:-1 group-title="Canais| Opção 2",CNT RS
-http://d1s664t39qub1o.cloudfront.net/live/cnt-caxias_240p414k/index.m3u8?PEDROJUNIORTUTORIAIS
-#EXTINF:-1 group-title="Canais| Opção 2",CNT PR
-http://dd8umsy8yf96u.cloudfront.net/live/cnt-curitiba_240p414k/index.m3u8?PEDROJUNIORTUTORIAIS
-#EXTINF:-1 group-title="Canais| Opção 2",CNT DF
-http://d1s664t39qub1o.cloudfront.net/live/cnt-londrina_240p414k/index.m3u8?PEDROJUNIORTUTORIAIS
-#EXTINF:-1 group-title="Canais| Opção 2",CNT BA
-http://dd8umsy8yf96u.cloudfront.net/live/cnt-salvador_240p414k/index.m3u8?PEDROJUNIORTUTORIAIS
-#EXTINF:-1 group-title="Canais| Opção 2",CNT PA
-http://d1s664t39qub1o.cloudfront.net/live/cnt-manaus_240p414k/index.m3u8?PEDROJUNIORTUTORIAIS
-#EXTINF:-1 group-title="Canais| Opção 2",TV Aberta SP
-https://cdn-canalpaulo.ciclano.io:1443/canalpaulo/canalpaulo/playlist.m3u8?PEDROJUNIORTUTORIAIS
-#EXTINF:-1 group-title="Canais| Opção 2",UFG TV
-http://wowza.softhost.com.br:1935/ufg/smil:tvufgweb/chunklist_w1120468120_b694100_sleng.m3u8?PEDROJUNIORTUTORIAIS
-#EXTINF:-1 group-title="Canais| Opção 2",UFG TV HD
-http://wowza.softhost.com.br:1935/ufg/smil:tvufgweb/chunklist_w1120468120_b1544100_sleng.m3u8?PEDROJUNIORTUTORIAIS
-#EXTINF:-1 group-title="Canais| Opção 2",Rede Família
-https://5a1c76baf08c0.streamlock.net/familia/smil:familia.smil/chunklist_b1096000.m3u8
-#EXTINF:-1 group-title="Canais| Opção 2",Rede Família HD
-https://5a1c76baf08c0.streamlock.net/familia/smil:familia.smil/chunklist_b1628000.m3u8
-#EXTINF:-1 group-title="Canais| Opção 2",Canal Rural
-https://5fa18afd2e74c.streamlock.net/live/smil:canalrural.smil/chunklist_w315972441_b1685000_sleng.m3u8
-#EXTINF:-1 group-title="Canais| Opção 2",Canal do Boi
-http://origin-02.nxplay.com.br/CANAL_DO_BOI_NX/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIAIS
-#EXTINF:-1 group-title="Canais| Opção 2",Agro Brasil
-http://45.162.230.234:1935/agrobrasiltv/agrobrasiltv/playlist.m3u8?PEDROJUNIORTUTORIAIS
-#EXTINF:-1 group-title="Canais| Opção 2",TV Gazeta MA
-http://stmv4.srvstm.com:1935/wagner1168/wagner1168/playlist.m3u8?PEDROJUNIORTUTORIAIS
-#EXTINF:-1 group-title="Canais| Opção 2",Globo RJ
-http://live.video.globo.com/h/1402196682759012345678915746027599876543210hM4EA1neMoQoIiUyVn1TNg/k/app/a/A/u/anyone/d/s/hls-globo-rj/hls-globo-rj_1049/playlist.m3u8?PEDROJUNIORTUTORIAIS
-#EXTINF:-1 group-title="Canais| Opção 2",Globo RJ HD
-http://live.video.globo.com/h/1402196682759012345678915746027599876543210hM4EA1neMoQoIiUyVn1TNg/k/app/a/A/u/anyone/d/s/hls-globo-rj/hls-globo-rj_2359/playlist.m3u8?PEDROJUNIORTUTORIAIS
-#EXTINF:-1 group-title="Canais| Opção 2",SBT MT
-http://wz4.dnip.com.br:1935/bemtv/bemtv.sdp/playlist.m3u8?PEDROJUNIORTUTORIAIS
-#EXTINF:-1 group-title="Canais| Opção 2",SBT GO
-https://5a1c76baf08c0.streamlock.net/tvsd2/smil:tvsd2_20042020.smil/playlist.m3u8?PEDROJUNIORTUTORIAIS
-#EXTINF:-1 group-title="Canais| Opção 2",SBT PR
-https://cdn-cdn-iguacu.ciclano.io:1443/cdn-iguacu/cdn-iguacu/playlist.m3u8?PEDROJUNIORTUTORIAIS
-#EXTINF:-1 group-title="Canais| Opção 2",SBT PE
-http://evpp.mm.uol.com.br:1935/ne10/ne10.smil/chunklist_w416898237_b176000_sleng.m3u8
-#EXTINF:-1 group-title="Canais| Opção 2",SBT PE HD
-http://evpp.mm.uol.com.br:1935/ne10/ne10.smil/chunklist_w416898237_b216000_sleng.m3u8
-#EXTINF:-1 group-title="Canais| Opção 2",SBT PE Interior
-http://evpp.mm.uol.com.br:1935/ne10/ne10-tvjornal-caruaru-video-web.sdp/playlist.m3u8?PEDROJUNIORTUTORIAIS
-#EXTINF:-1 group-title="Canais| Opção 2",Band SP
-http://evpp.mm.uol.com.br:1935/geob_band/app/playlist.m3u8?PEDROJUNIORTUTORIAIS
-#EXTINF:-1 group-title="Canais| Opção 2",Band PA
-https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/playlist.m3u8?PEDROJUNIORTUTORIAIS
-#EXTINF:-1 group-title="Canais| Opção 2",TV Brasil
-http://22722d.ha.azioncdn.net/hls/STsEBCLIVE_360/index.m3u8?PEDROJUNIORTUTORIAIS
-#EXTINF:-1 group-title="Canais| Opção 2",TV Brasil HD
-http://22722d.ha.azioncdn.net/hls/STsEBCLIVE_720/index.m3u8?PEDROJUNIORTUTORIAIS
-#EXTINF:-1 group-title="Canais| Opção 2",TV Cultura GO
-http://wz3.dnip.com.br/tvbrasil/tvbrasil.sdp/playlist.m3u8?PEDROJUNIORTUTORIAIS
-#EXTINF:-1 group-title="Canais| Opção 2",TV Cultura PA
-http://str.portalcultura.com.br:80/funtelpa/tv_funtelpa/playlist.m3u8?PEDROJUNIORTUTORIAIS
-#EXTINF:-1 group-title="Canais| Opção 2",TV Cultura PR
-http://wowza4.catve.com.br:1935/live/livestream/playlist.m3u8?PEDROJUNIORTUTORIAIS
-#EXTINF:-1 group-title="Canais| Opção 2",TV Cultura PR HD
-http://200.189.113.201/hls/tve.m3u8?PEDROJUNIORTUTORIAIS
-#EXTINF:-1 group-title="Canais| Opção 2",TV Futura
-http://origin-02.nxplay.com.br/FUTURA_NX/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIAIS
-#EXTINF:-1 group-title="Canais| Opção 2",Record SP
-http://playplusspo-lh.akamaihd.net/i/pp_sp@350176/index_360_av-p.m3u8?PEDROJUNIORTUTORIAIS
-#EXTINF:-1 group-title="Canais| Opção 2",Record SP HD
-http://playplusspo-lh.akamaihd.net/i/pp_sp@350176/index_720_av-p.m3u8?PEDROJUNIORTUTORIAIS
-#EXTINF:-1 group-title="Canais| Opção 2",Record RJ
-http://playplusrjo-lh.akamaihd.net/i/pp_rj@377859/index_360_av-p.m3u8?PEDROJUNIORTUTORIAIS
-#EXTINF:-1 group-title="Canais| Opção 2",Record RJ HD
-http://playplusrjo-lh.akamaihd.net/i/pp_rj@377859/index_720_av-p.m3u8?PEDROJUNIORTUTORIAIS
-#EXTINF:-1 group-title="Canais| Opção 2",Record BA
-http://playplussdr-lh.akamaihd.net/i/pp_sdr@377858/index_360_av-p.m3u8?PEDROJUNIORTUTORIAIS
-#EXTINF:-1 group-title="Canais| Opção 2",Record BA HD
-http://playplussdr-lh.akamaihd.net/i/pp_sdr@377858/index_720_av-p.m3u8?PEDROJUNIORTUTORIAIS
-#EXTINF:-1 group-title="Canais| Opção 2",Record DF
-http://playplusbsa-lh.akamaihd.net/i/pp_bsa@377860/index_360_av-p.m3u8?PEDROJUNIORTUTORIAIS
-#EXTINF:-1 group-title="Canais| Opção 2",Record DF HD
-http://playplusbsa-lh.akamaihd.net/i/pp_bsa@377860/index_720_av-p.m3u8?PEDROJUNIORTUTORIAIS
-#EXTINF:-1 group-title="Canais| Opção 2",Record MG
-http://playplusbh-lh.akamaihd.net/i/pp_bh@377862/index_360_av-p.m3u8?PEDROJUNIORTUTORIAIS
-#EXTINF:-1 group-title="Canais| Opção 2",Record MG HD
-http://playplusbh-lh.akamaihd.net/i/pp_bh@377862/index_720_av-p.m3u8?PEDROJUNIORTUTORIAIS
-#EXTINF:-1 group-title="Canais| Opção 2",Record PA
-http://playpluspa-lh.akamaihd.net/i/pp_pa@377468/index_360_av-p.m3u8?PEDROJUNIORTUTORIAIS
-#EXTINF:-1 group-title="Canais| Opção 2",Record PA HD
-http://playpluspa-lh.akamaihd.net/i/pp_pa@377468/index_720_av-p.m3u8?PEDROJUNIORTUTORIAIS
-#EXTINF:-1 group-title="Canais| Opção 2",Record GO
-http://playplusgoya-lh.akamaihd.net/i/pp_gna@377833/index_360_av-p.m3u8?PEDROJUNIORTUTORIAIS
-#EXTINF:-1 group-title="Canais| Opção 2",Record GO HD
-http://playplusgoya-lh.akamaihd.net/i/pp_gna@377833/index_720_av-p.m3u8?PEDROJUNIORTUTORIAIS
-#EXTINF:-1 group-title="Canais| Opção 2",Record RS
-http://playpluspoa-lh.akamaihd.net/i/pp_poa@377864/index_360_av-p.m3u8?PEDROJUNIORTUTORIAIS
-#EXTINF:-1 group-title="Canais| Opção 2",Record RS HD
-http://playpluspoa-lh.akamaihd.net/i/pp_poa@377864/index_720_av-p.m3u8?PEDROJUNIORTUTORIAIS
-#EXTINF:-1 group-title="Canais| Opção 2",Rede TV ES
-https://hls.brasilstream.com.br/live/redetves/redetves/mono.m3u8?token=6410329353875642000
-#EXTINF:-1 group-title="Canais| Opção 2",Rede TV TO
-https://59f1cbe63db89.streamlock.net:1443/redetvro/_definst_/redetvro/playlist.m3u8?PEDROJUNIORTUTORIAIS
-#EXTINF:-1 group-title="Canais| Opção 2",Rede TV RS
-https://59f1cbe63db89.streamlock.net:1443/tvpampa/_definst_/tvpampa/playlist.m3u8?PEDROJUNIORTUTORIAIS
-#EXTINF:-1 group-title="Canais| Opção 2",TVE RS
-http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8?PEDROJUNIORTUTORIAIS
-#EXTINF:-1 group-title="Canais| Opção 2",TVE BA HD
-http://stream2.ba.gov.br/hls-live/livepkgr/_definst_/irdeb/pgm-1.m3u8?PEDROJUNIORTUTORIAIS
-#EXTINF:-1 group-title="Canais| Opção 2",Agro Mais
-http://evpp.mm.uol.com.br:1935/geob_band/agromais/playlist.m3u8?PEDROJUNIORTUTORIAIS
-#EXTINF:-1 group-title="Canais| Opção 2",Terra Viva
-http://evpp.mm.uol.com.br:1935/band_live/terraviva/playlist.m3u8?PEDROJUNIORTUTORIAIS
-#EXTINF:-1 group-title="Canais| Opção 2",Premiere Clubes
-http://212.224.98.208:2200/BR/Premiere_Clubes_HD-br/index.m3u8?token=RED_QXfhXU9uOWlIgyR_EeVwbw==,1619769186.1625919793
-#EXTINF:-1 group-title="Canais| Opção 2",Premiere 2
-http://212.224.98.208:2200/BR/Premiere_2_HD-br/index.m3u8?token=RED_QXfhXU9uOWlIgyR_EeVwbw==,1619769186.1625919793
-#EXTINF:-1 group-title="Canais| Opção 2",Premiere 3
-http://212.224.98.208:2200/BR/Premiere_3_HD-br/index.m3u8?token=RED_QXfhXU9uOWlIgyR_EeVwbw==,1619769186.1625919793
-#EXTINF:-1 group-title="Canais| Opção 2",Premiere 4
-http://212.224.98.208:2200/BR/Premiere_4_HD-br/index.m3u8?token=RED_QXfhXU9uOWlIgyR_EeVwbw==,1619769186.1625919793
-#EXTINF:-1 group-title="Canais| Opção 2",Premiere 5
-http://212.224.98.208:2200/BR/Premiere_5_HD-br/index.m3u8?token=RED_QXfhXU9uOWlIgyR_EeVwbw==,1619769186.1625919793
-#EXTINF:-1 group-title="Canais| Opção 2",Premiere 6
-http://212.224.98.208:2200/BR/Premiere_6_HD-br/index.m3u8?token=RED_QXfhXU9uOWlIgyR_EeVwbw==,1619769186.1625919793
-#EXTINF:-1 group-title="Canais| Opção 2",Premiere 7
-http://212.224.98.208:2200/BR/Premiere_7_HD-br/index.m3u8?token=RED_QXfhXU9uOWlIgyR_EeVwbw==,1619769186.1625919793
-#EXTINF:-1 group-title="Canais| Opção 2",Premiere 8
-http://212.224.98.208:2200/BR/Premiere_8_HD-br/index.m3u8?token=RED_QXfhXU9uOWlIgyR_EeVwbw==,1619769186.1625919793
-#EXTINF:-1 group-title="Canais| Opção 2",TNT Sports
-http://glxlmn026c.singularcdn.net.br/playout_01/playlist-480p.m3u8?PEDROJUNIORTUTORIAIS
-#EXTINF:-1 group-title="Canais| Opção 2",TNT Sports HD
-http://glxlmn026c.singularcdn.net.br/playout_01/playlist-720p.m3u8?PEDROJUNIORTUTORIAIS
-#EXTINF:-1 group-title="Canais| Opção 2",Band Sports
-http://212.224.98.210:2200/BR/Band_Sports_HD-br/index.m3u8?token=RED_QXfhXU9uOWlIgyR_EeVwbw==,1619769186.1625919793
-#EXTINF:-1 group-title="Canais| Opção 2",Combate
-http://212.224.98.210:2200/BR/Combate_HD-br/index.m3u8?token=RED_QXfhXU9uOWlIgyR_EeVwbw==,1619769186.1625919793
-#EXTINF:-1 group-title="Canais| Opção 2",SporTV
-http://212.224.98.210:2200/BR/Sportv_HD-br/index.m3u8?token=RED_QXfhXU9uOWlIgyR_EeVwbw==,1619769186.1625919793
-#EXTINF:-1 group-title="Canais| Opção 2",SporTV 2
-http://212.224.98.210:2200/BR/Sportv_2_HD-br/index.m3u8?token=RED_QXfhXU9uOWlIgyR_EeVwbw==,1619769186.1625919793
-#EXTINF:-1 group-title="Canais| Opção 2",SporTV 3
-http://212.224.98.210:2200/BR/Sportv_3_HD-br/index.m3u8?token=RED_QXfhXU9uOWlIgyR_EeVwbw==,1619769186.1625919793
-#EXTINF:-1 group-title="Canais| Opção 2",Fox Sports 4K
-http://assistirpainel.net:8880/IgorRangel2/IgorRangel3/26409
-#EXTINF:-1 group-title="Canais| Opção 2",Fox Sports 
-http://212.224.98.210:2200/BR/Fox_Sports_HD-br/index.m3u8?token=RED_QXfhXU9uOWlIgyR_EeVwbw==,1619769186.1625919793
-#EXTINF:-1 group-title="Canais| Opção 2",Fox Sports 2
-http://212.224.98.210:2200/BR/Fox_Sports_2_HD-br/index.m3u8?token=RED_QXfhXU9uOWlIgyR_EeVwbw==,1619769186.1625919793
-#EXTINF:-1 group-title="Canais| Opção 2",All Sports
-https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/playlist.m3u8?PEDROJUNIORTUTORIAIS
-#EXTINF:-1 group-title="Canais| Opção 2",Retrô Cartoon
-http://stmv1.srvstm.com:1935/cartoonr2/cartoonr2/playlist.m3u8?PEDROJUNIORTUTORIAIS
-#EXTINF:-1 group-title="Canais| Opção 2",Gospel Cartoon
-http://stmv1.srvstm.com:1935/gospelcartoon2/gospelcartoon2/playlist.m3u8?PEDROJUNIORTUTORIAIS
-#EXTINF:-1 group-title="Canais| Opção 2",Nat Geo Kids
-http://212.224.98.208:2200/BR/NatGeoKidsHD-br/index.m3u8?token=RED_QXfhXU9uOWlIgyR_EeVwbw==,1619769186.1625919793
-#EXTINF:-1 group-title="Canais| Opção 2",Baby TV
-http://212.224.98.208:2200/BR/babytv-br/index.m3u8?token=RED_QXfhXU9uOWlIgyR_EeVwbw==,1619769186.1625919793
-#EXTINF:-1 group-title="Canais| Opção 2",Boomerang
-http://212.224.98.208:2200/BR/Boomerang_HD-br/index.m3u8?token=RED_QXfhXU9uOWlIgyR_EeVwbw==,1619769186.1625919793
-#EXTINF:-1 group-title="Canais| Opção 2",Tooncast
-http://212.224.98.208:2200/BR/Tooncast-br/index.m3u8?token=RED_QXfhXU9uOWlIgyR_EeVwbw==,1619769186.1625919793
-#EXTINF:-1 group-title="Canais| Opção 2",Nickelodeon
-http://212.224.98.208:2200/BR/Nickelodeon_HD-br/index.m3u8?token=RED_QXfhXU9uOWlIgyR_EeVwbw==,1619769186.1625919793
-#EXTINF:-1 group-title="Canais| Opção 2",Gloob
-http://212.224.98.208:2200/BR/Gloob_HD-br/index.m3u8?token=RED_QXfhXU9uOWlIgyR_EeVwbw==,1619769186.1625919793
-#EXTINF:-1 group-title="Canais| Opção 2",Cartoon Network
-http://212.224.98.208:2200/BR/Cartoon_HD-br/index.m3u8?token=RED_QXfhXU9uOWlIgyR_EeVwbw==,1619769186.1625919793
-#EXTINF:-1 group-title="Canais| Opção 2",Discovery Kids
-http://212.224.98.208:2200/BR/Discovery_Ks_HD-br/index.m3u8?token=RED_QXfhXU9uOWlIgyR_EeVwbw==,1619769186.1625919793
-#EXTINF:-1 group-title="Canais| Opção 2",HBO
-http://212.224.98.208:2200/BR/HBO_HD-br/index.m3u8?token=RED_QXfhXU9uOWlIgyR_EeVwbw==,1619769186.1625919793
-#EXTINF:-1 group-title="Canais| Opção 2",HBO 2
-http://212.224.98.208:2200/BR/HBO_2_HD-br/index.m3u8?token=RED_QXfhXU9uOWlIgyR_EeVwbw==,1619769186.1625919793
-#EXTINF:-1 group-title="Canais| Opção 2",HBO Plus
-http://212.224.98.208:2200/BR/HBO_Plus_HD-br/index.m3u8?token=RED_QXfhXU9uOWlIgyR_EeVwbw==,1619769186.1625919793
-#EXTINF:-1 group-title="Canais| Opção 2",HBO Signature
-http://212.224.98.208:2200/BR/HBO_Signature_HD-br/index.m3u8?token=RED_QXfhXU9uOWlIgyR_EeVwbw==,1619769186.1625919793
-#EXTINF:-1 group-title="Canais| Opção 2",HBO Family
-http://212.224.98.208:2200/BR/HBO_Family_HD-br/index.m3u8?token=RED_QXfhXU9uOWlIgyR_EeVwbw==,1619769186.1625919793
-#EXTINF:-1 group-title="Canais| Opção 2",Cinemax
-http://212.224.98.208:2200/BR/Cinemax_HD-br/index.m3u8?token=RED_QXfhXU9uOWlIgyR_EeVwbw==,1619769186.1625919793
-#EXTINF:-1 group-title="Canais| Opção 2",Telecine Action
-http://212.224.98.208:2200/BR/Telecine_Action_HD-br/index.m3u8?token=RED_QXfhXU9uOWlIgyR_EeVwbw==,1619769186.1625919793
-#EXTINF:-1 group-title="Canais| Opção 2",Telecine Premium
-http://212.224.98.208:2200/BR/Telecine_Premium_HD-br/index.m3u8?token=RED_QXfhXU9uOWlIgyR_EeVwbw==,1619769186.1625919793
-#EXTINF:-1 group-title="Canais| Opção 2",Telecine Touch
-http://212.224.98.208:2200/BR/Telecine_Touch_HD-br/index.m3u8?token=RED_QXfhXU9uOWlIgyR_EeVwbw==,1619769186.1625919793
-#EXTINF:-1 group-title="Canais| Opção 2",Telecine Fun
-http://212.224.98.208:2200/BR/Telecine_Fun_HD-br/index.m3u8?token=RED_QXfhXU9uOWlIgyR_EeVwbw==,1619769186.1625919793
-#EXTINF:-1 group-title="Canais| Opção 2",Telecine Pipoca
-http://212.224.98.208:2200/BR/Telecine_Pipoca_HD-br/index.m3u8?token=RED_QXfhXU9uOWlIgyR_EeVwbw==,1619769186.1625919793
-#EXTINF:-1 group-title="Canais| Opção 2",Telecine Cult
-http://212.224.98.208:2200/BR/Telecine_Touch_HD-br/index.m3u8?token=RED_QXfhXU9uOWlIgyR_EeVwbw==,1619769186.1625919793
-#EXTINF:-1 group-title="Canais| Opção 2",Star Channel
-http://212.224.98.208:2200/BR/Fox_HD-br/index.m3u8?token=RED_QXfhXU9uOWlIgyR_EeVwbw==,1619769186.1625919793
-#EXTINF:-1 group-title="Canais| Opção 2",Star Hits 1
-http://212.224.98.208:2200/BR/Fox_Premium_1_HD-br/index.m3u8?token=RED_QXfhXU9uOWlIgyR_EeVwbw==,1619769186.1625919793
-#EXTINF:-1 group-title="Canais| Opção 2",Star Hits 2
-http://212.224.98.208:2200/BR/Fox_Premium_2_HD-br/index.m3u8?token=RED_QXfhXU9uOWlIgyR_EeVwbw==,1619769186.1625919793
-#EXTINF:-1 group-title="Canais| Opção 2",FX
-http://212.224.98.208:2200/BR/FX_HD-br/index.m3u8?token=RED_QXfhXU9uOWlIgyR_EeVwbw==,1619769186.1625919793
-#EXTINF:-1 group-title="Canais| Opção 2",Megapix
-http://212.224.98.208:2200/BR/Megapix_HD-br/index.m3u8?token=RED_QXfhXU9uOWlIgyR_EeVwbw==,1619769186.1625919793
-#EXTINF:-1 group-title="Canais| Opção 2",Space
-http://212.224.98.208:2200/BR/Space_HD-br/index.m3u8?token=RED_QXfhXU9uOWlIgyR_EeVwbw==,1619769186.1625919793
-#EXTINF:-1 group-title="Canais| Opção 2",Comedy Central
-http://212.224.98.208:2200/BR/Comedy_Central_HD-br/index.m3u8?token=RED_QXfhXU9uOWlIgyR_EeVwbw==,1619769186.1625919793
-#EXTINF:-1 group-title="Canais| Opção 2",Syfy
-http://212.224.98.208:2200/BR/SyFy_HD-br/index.m3u8?token=RED_QXfhXU9uOWlIgyR_EeVwbw==,1619769186.1625919793
-#EXTINF:-1 group-title="Canais| Opção 2",Studio Universal
-http://212.224.98.208:2200/BR/Studio_Universal_HD-br/index.m3u8?token=RED_QXfhXU9uOWlIgyR_EeVwbw==,1619769186.1625919793
-#EXTINF:-1 group-title="Canais| Opção 2",Sony
-http://212.224.98.208:2200/BR/Canal_Sony_HD-br/index.m3u8?token=RED_QXfhXU9uOWlIgyR_EeVwbw==,1619769186.1625919793
-#EXTINF:-1 group-title="Canais| Opção 2",TNT Séries
-http://212.224.98.208:2200/BR/TNT_Series_HD-br/index.m3u8?token=RED_QXfhXU9uOWlIgyR_EeVwbw==,1619769186.1625919793
-#EXTINF:-1 group-title="Canais| Opção 2",TNT
-http://212.224.98.208:2200/BR/TNT_HD-br/index.m3u8?token=RED_QXfhXU9uOWlIgyR_EeVwbw==,1619769186.1625919793
-#EXTINF:-1 group-title="Canais| Opção 2",Universal
-http://212.224.98.208:2200/BR/Universal_TV_HD-br/index.m3u8?token=RED_QXfhXU9uOWlIgyR_EeVwbw==,1619769186.1625919793
-#EXTINF:-1 group-title="Canais| Opção 2",Warner
-http://212.224.98.208:2200/BR/Warner_Channel_HD-br/index.m3u8?token=RED_QXfhXU9uOWlIgyR_EeVwbw==,1619769186.1625919793
-#EXTINF:-1 group-title="Canais| Opção 2",Record News
-http://playplusnews-lh.akamaihd.net/i/pp_nws@377849/index_360_av-p.m3u8?PEDROJUNIORTUTORIAIS
-#EXTINF:-1 group-title="Canais| Opção 2",Record News HD
-http://playplusnews-lh.akamaihd.net/i/pp_nws@377849/index_720_av-p.m3u8?PEDROJUNIORTUTORIAIS
-#EXTINF:-1 group-title="Canais| Opção 2",Globo News
-http://212.224.98.208:2200/BR/Globo_News_HD-br/index.m3u8?token=RED_QXfhXU9uOWlIgyR_EeVwbw==,1619769186.1625919793
-#EXTINF:-1 group-title="Canais| Opção 2",Band News
-http://212.224.98.208:2200/BR/Band_News_HD-br/index.m3u8?token=RED_QXfhXU9uOWlIgyR_EeVwbw==,1619769186.1625919793
-#EXTINF:-1 group-title="Canais| Opção 2",Boston 25 News
-http://svc-lvanvato-cxtv-wfxt.cmgvideo.com/wfxt/2564k/index.m3u8?PEDROJUNIORTUTORIAIS
-#EXTINF:-1 group-title="Canais| Opção 2",Al Jazeera English
-http://live-hls-web-aje.getaj.net/AJE/index.m3u8?PEDROJUNIORTUTORIAIS
-#EXTINF:-1 group-title="Canais| Opção 2",France 24
-http://static.france24.com/live/F24_ES_LO_HLS/live_web.m3u8?PEDROJUNIORTUTORIAIS
-#EXTINF:-1 group-title="Canais| Opção 2",Porto Canal
-http://streamer-a03.videos.sapo.pt/live/portocanal/playlist.m3u8?PEDROJUNIORTUTORIAIS
-#EXTINF:-1 group-title="Canais| Opção 2",RTP1
-http://streaming-live.rtp.pt/liverepeater/smil:rtp1.smil/playlist.m3u8?PEDROJUNIORTUTORIAIS
-#EXTINF:-1 group-title="Canais| Opção 2",RTP2
-http://streaming-live.rtp.pt/liverepeater/smil:rtp2.smil/playlist.m3u8?PEDROJUNIORTUTORIAIS
-#EXTINF:-1 group-title="Canais| Opção 2",CBS News
-http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8?PEDROJUNIORTUTORIAIS
-#EXTINF:-1 group-title="Canais| Opção 2",Sky life TG24
-http://skyianywhere2-i.akamaihd.net/hls/live/200275/tg24/master.m3u8?PEDROJUNIORTUTORIAIS
-#EXTINF:-1 group-title="Canais| Opção 2",Curta!
-http://212.224.98.208:2200/BR/Curta_HD-br/index.m3u8?token=RED_QXfhXU9uOWlIgyR_EeVwbw==,1619769186.1625919793
-#EXTINF:-1 group-title="Canais| Opção 2",Lifetime
-http://212.224.98.208:2200/BR/Lifetime_HD-br/index.m3u8?token=RED_QXfhXU9uOWlIgyR_EeVwbw==,1619769186.1625919793
-#EXTINF:-1 group-title="Canais| Opção 2",Star Life
-http://212.224.98.208:2200/BR/Fox_Life_HD-br/index.m3u8?token=RED_QXfhXU9uOWlIgyR_EeVwbw==,1619769186.1625919793
-#EXTINF:-1 group-title="Canais| Opção 2",A&E
-http://212.224.98.208:2200/BR/AE_HD-br/index.m3u8?token=RED_QXfhXU9uOWlIgyR_EeVwbw==,1619769186.1625919793
-#EXTINF:-1 group-title="Canais| Opção 2",TLC
-http://212.224.98.208:2200/BR/TLC_HD-br/index.m3u8?token=RED_QXfhXU9uOWlIgyR_EeVwbw==,1619769186.1625919793
-#EXTINF:-1 group-title="Canais| Opção 2",E!
-http://212.224.98.208:2200/BR/E_HD-br/index.m3u8?token=RED_QXfhXU9uOWlIgyR_EeVwbw==,1619769186.1625919793
-#EXTINF:-1 group-title="Canais| Opção 2",Animal Planet
-http://212.224.98.208:2200/BR/Animal_Planet_HD-br/index.m3u8?token=RED_QXfhXU9uOWlIgyR_EeVwbw==,1619769186.1625919793
-#EXTINF:-1 group-title="Canais| Opção 2",National Geographic
-http://212.224.98.208:2200/BR/Nat_Geo_HD-br/index.m3u8?token=RED_QXfhXU9uOWlIgyR_EeVwbw==,1619769186.1625919793
-#EXTINF:-1 group-title="Canais| Opção 2",Nat Geo Wild
-http://212.224.98.208:2200/BR/NatGeo_Wild_HD-br/index.m3u8?token=RED_QXfhXU9uOWlIgyR_EeVwbw==,1619769186.1625919793
-#EXTINF:-1 group-title="Canais| Opção 2",History
-http://212.224.98.208:2200/BR/The_History_Channel_HD-br/index.m3u8?token=RED_QXfhXU9uOWlIgyR_EeVwbw==,1619769186.1625919793
-#EXTINF:-1 group-title="Canais| Opção 2",History 2
-http://212.224.98.208:2200/BR/History_2_HD-br/index.m3u8?token=RED_QXfhXU9uOWlIgyR_EeVwbw==,1619769186.1625919793
-#EXTINF:-1 group-title="Canais| Opção 2",Discovery Channel
-http://212.224.98.208:2200/BR/Discovery_Channel_HD-br/index.m3u8?token=RED_QXfhXU9uOWlIgyR_EeVwbw==,1619769186.1625919793
-#EXTINF:-1 group-title="Canais| Opção 2",Discovery Turbo
-http://212.224.98.208:2200/BR/Discovery_Turbo_HD-br/index.m3u8?token=RED_QXfhXU9uOWlIgyR_EeVwbw==,1619769186.1625919793
-#EXTINF:-1 group-title="Canais| Opção 2",Investigação Discovery
-http://212.224.98.208:2200/BR/ID_-_Investi_Discovery_HD/index.m3u8?token=RED_QXfhXU9uOWlIgyR_EeVwbw==,1619769186.1625919793
-#EXTINF:-1 group-title="Canais| Opção 2",Discovery Home & Health
-http://212.224.98.208:2200/BR/Disc-_Home_Health_HD-br/index.m3u8?token=RED_QXfhXU9uOWlIgyR_EeVwbw==,1619769186.1625919793
-#EXTINF:-1 group-title="Canais| Opção 2",Discovery Science
-http://212.224.98.208:2200/BR/Discovery_Science_HD-br/index.m3u8?token=RED_QXfhXU9uOWlIgyR_EeVwbw==,1619769186.1625919793
-#EXTINF:-1 group-title="Canais| Opção 2",Discovery World
-http://212.224.98.208:2200/BR/Discovery_World_HD-br/index.m3u8?token=RED_UudWnQS2T4TinNc09AP86Q==,1591219334.0469580283
-#EXTINF:-1 group-title="Canais| Opção 2",Yeeah!
-http://srv3.zcast.com.br:1935/yeeaah/yeeaah/playlist.m3u8?PEDROJUNIORTUTORIAIS
-#EXTINF:-1 group-title="Canais| Opção 2",TV União
-http://stmv1.srvif.com:1935/admin/admin/playlist.m3u8?PEDROJUNIORTUTORIAIS
-#EXTINF:-1 group-title="Canais| Opção 2",Top TV PA
-http://serv2.videovox.pw:1935/joaorodrigo7309/joaorodrigo7309/playlist.m3u8?PEDROJUNIORTUTORIAIS
-#EXTINF:-1 group-title="Canais| Opção 2",Food Network
-http://212.224.98.208:2200/BR/Food_Network_HD-br/index.m3u8?token=RED_UudWnQS2T4TinNc09AP86Q==,1591219334.0469580283
-#EXTINF:-1 group-title="Canais| Opção 2",Canal Brasil
-http://212.224.98.208:2200/BR/Canal_Brasil_HD-br/index.m3u8?token=RED_UudWnQS2T4TinNc09AP86Q==,1591219334.0469580283
-#EXTINF:-1 group-title="Canais| Opção 2",Viva
-http://212.224.98.208:2200/BR/Viva_HD-br/index.m3u8?token=RED_UudWnQS2T4TinNc09AP86Q==,1591219334.0469580283
-#EXTINF:-1 group-title="Canais| Opção 2",GNT
-http://212.224.98.208:2200/BR/GNT_HD-br/index.m3u8?token=RED_UudWnQS2T4TinNc09AP86Q==,1591219334.0469580283
-#EXTINF:-1 group-title="Canais| Opção 2",Bis
-http://212.224.98.208:2200/BR/BIS_HD-br/index.m3u8?token=RED_UudWnQS2T4TinNc09AP86Q==,1591219334.0469580283
-#EXTINF:-1 group-title="Canais| Opção 2",Mais Globosat
-http://212.224.98.208:2200/BR/Mais_Globosat_HD-br/index.m3u8?token=RED_UudWnQS2T4TinNc09AP86Q==,1591219334.0469580283
-#EXTINF:-1 group-title="Canais| Opção 2",MTV
-http://212.224.98.208:2200/BR/MTV_HD-br/index.m3u8?token=RED_UudWnQS2T4TinNc09AP86Q==,1591219334.0469580283
-#EXTINF:-1 group-title="Canais| Opção 2",VH1
-http://212.224.98.208:2200/BR/VH1_HD-br/index.m3u8?token=RED_UudWnQS2T4TinNc09AP86Q==,1591219334.0469580283
-#EXTINF:-1 group-title="Canais| Opção 3", TV Cultura
-http://50.7.34.155:2200/BR/cultura-br/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Canais| Opção 3",SBT
-http://50.7.34.155:2200/BR/SBT_HD-br/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Canais| Opção 3", Globo SP
-http://50.7.34.155:2200/BR/Globo_HD_SP-br/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Canais| Opção 3", Globo RJ
-http://50.7.34.155:2200/BR/Globo_HD_RJ-br/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Canais| Opção 3", Globo Nordeste
-http://50.7.34.155:2200/BR/Globo_Nordeste_HD-br/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Canais| Opção 3", Globo Nordeste
-http://50.7.34.155:2200/BR/Globo_Nordeste_HD-br/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Canais| Opção 3", RPC Curitiba
-http://50.7.34.155:2200/BR/RPC_TV_Curitiba_HD-br/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Canais| Opção 3", TV Anhanguera Goiania
-http://50.7.34.155:2200/BR/TV_Anhanguera_Gonia_HD-br/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Canais| Opção 3", EPTV Campinas
-http://50.7.34.155:2200/BR/EPTV_HD_Campinas-br/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Canais| Opção 3", TV Verdes Mares Fortaleza
-http://50.7.34.155:2200/BR/TV_Verdes_Mares_HD_Fortaleza-br/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Canais| Opção 3", RPC Cascavel
-http://50.7.34.155:2200/BR/Globo_Rpc_Cascavel_HD_-br/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Canais| Opção 3", Record SP
-http://50.7.34.155:2200/BR/RECORDTV_HD-br/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Canais| Opção 3", RedeTV
-http://50.7.34.155:2200/BR/Rede_TV_HD-br/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Canais| Opção 3", Gazeta
-http://50.7.34.155:2200/BR/Gazeta-br/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Canais| Opção 3", Band
-http://50.7.34.155:2200/BR/Band_HD-br/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Canais| Opção 3", Loading TV
-http://50.7.34.155:2200/BR/Loading_TV_-br/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Canais| Opção 3",TV Novo Tempo
-http://50.7.34.155:2200/BR/tvnovotempo-br/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Canais| Opção 3",Canal Rural
-http://50.7.34.155:2200/BR/canalrural-br/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Canais| Opção 3",TV Aparecida
-http://50.7.34.155:2200/BR/tvaparecida-br/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Canais| Opção 3",TV Escola
-http://50.7.34.155:2200/BR/tvescola-br/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Canais| Opção 3", CNN Brasil
-http://50.7.34.155:2200/BR/CNN_Brasil_HD-br/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Canais| Opção 3", Globo News
-http://50.7.34.155:2200/BR/Globo_News_HD-br/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Canais| Opção 3", Record News
-http://50.7.34.155:2200/BR/recordnews-br/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Canais| Opção 3", Mais Globosat
-http://50.7.34.155:2200/BR/Mais_Globosat_HD-br/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Canais| Opção 3", GNT
-http://50.7.34.155:2200/BR/GNT_HD-br/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Canais| Opção 3", SYFY
-http://50.7.34.155:2200/BR/SyFy_HD-br/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Canais| Opção 3", Multishow
-http://50.7.34.155:2200/BR/Multishow_HD-br/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Canais| Opção 3", Curta
-http://50.7.34.155:2200/BR/Curta_HD-br/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Canais| Opção 3", Food Network
-http://50.7.34.155:2200/BR/Food_Network_HD-br/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Canais| Opção 3", Arte1
-http://50.7.34.155:2200/BR/Arte_1_HD-br/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Canais| Opção 3", TLC
-http://50.7.34.155:2200/BR/TLC_HD-br/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Canais| Opção 3", TCM
-http://50.7.34.155:2200/BR/tcm-br/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Canais| Opção 3", HBO
-http://50.7.34.155:2200/BR/HBO_HD-br/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Canais| Opção 3", HBO 2
-http://50.7.34.155:2200/BR/HBO_2_HD-br/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Canais| Opção 3", HBO Family
-http://50.7.34.155:2200/BR/HBO_Family_HD-br/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Canais| Opção 3", HBO Plus
-http://50.7.34.155:2200/BR/HBO_Plus_HD-br/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Canais| Opção 3", Telecine Action
-http://50.7.34.155:2200/BR/Telecine_Action_HD-br/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Canais| Opção 3", Telecine Fun
-http://50.7.34.155:2200/BR/Telecine_Fun_HD-br/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Canais| Opção 3", Telecine Pipoca
-http://50.7.34.155:2200/BR/Telecine_Pipoca_HD-br/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Canais| Opção 3", Telecine Premium
-http://50.7.34.155:2200/BR/Telecine_Premium_HD-br/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Canais| Opção 3", Telecine Touch
-http://50.7.34.155:2200/BR/Telecine_Touch_HD-br/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Canais| Opção 3", Telecine Cult
-http://50.7.34.155:2200/BR/Telecine_Cult_HD-br/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Canais| Opção 3", Canal Brasil
-http://50.7.34.155:2200/BR/Canal_Brasil_HD-br/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Canais| Opção 3", Universal TV
-http://50.7.34.155:2200/BR/Universal_TV_HD-br/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Canais| Opção 3", Studio Universal
-http://50.7.34.155:2200/BR/Studio_Universal_HD-br/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Canais| Opção 3", Warner Channel
-http://50.7.34.155:2200/BR/Warner_Channel_HD-br/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Canais| Opção 3", Star Channel
-http://50.7.34.155:2200/BR/Fox_HD-br/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Canais| Opção 3", Star Hits 1
-http://50.7.34.155:2200/BR/Fox_Premium_1_HD-br/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Canais| Opção 3", Star Hits 2
-http://50.7.34.155:2200/BR/Fox_Premium_2_HD-br/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Canais| Opção 3", Star Life
-http://50.7.34.155:2200/BR/Fox_Life_HD-br/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Canais| Opção 3", Cinemax
-http://50.7.34.155:2200/BR/Cinemax_HD-br/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Canais| Opção 3", Megapix
-http://50.7.34.155:2200/BR/Megapix_HD-br/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Canais| Opção 3", Space
-http://50.7.34.155:2200/BR/Space_HD-br/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Canais| Opção 3", Film&Arts
-http://50.7.34.155:2200/BR/Film_Arts_HD-br/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Canais| Opção 3", Sony Channel
-http://50.7.34.155:2200/BR/Canal_Sony_HD-br/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Canais| Opção 3", TBS
-http://50.7.34.155:2200/BR/TBS_HD-br/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Canais| Opção 3", Paramount
-http://50.7.34.155:2200/BR/Paramount_HD-br/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Canais| Opção 3", TNT
-http://50.7.34.155:2200/BR/TNT_HD-br/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Canais| Opção 3", TNT Séries
-http://50.7.34.155:2200/BR/TNT_Series_HD-br/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Canais| Opção 3", AMC
-http://50.7.34.155:2200/BR/AMC_HD-br/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Canais| Opção 3", A&E
-http://50.7.34.155:2200/BR/AE_HD-br/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Canais| Opção 3", Sportv 1
-http://50.7.34.155:2200/BR/Sportv_HD-br/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Canais| Opção 3", Sportv 2
-http://50.7.34.155:2200/BR/Sportv_2_HD-br/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Canais| Opção 3", Sportv 3
-http://50.7.34.155:2200/BR/Sportv_3_HD-br/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Canais| Opção 3", Premiere Clubes
-http://50.7.34.155:2200/BR/Premiere_Clubes_HD-br/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Canais| Opção 3", Premiere 2
-http://50.7.34.155:2200/BR/Premiere_2_HD-br/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Canais| Opção 3", Premiere 3
-http://50.7.34.155:2200/BR/Premiere_3_HD-br/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Canais| Opção 3", Premiere 4
-http://50.7.34.155:2200/BR/Premiere_4_HD-br/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Canais| Opção 3", Premiere 5
-http://50.7.34.155:2200/BR/Premiere_5_HD-br/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Canais| Opção 3", Premiere 6
-http://50.7.34.155:2200/BR/Premiere_6_HD-br/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Canais| Opção 3", Premiere 7
-http://50.7.34.155:2200/BR/Premiere_7_HD-br/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Canais| Opção 3", Premiere 8
-http://50.7.34.155:2200/BR/Premiere_8_HD-br/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Canais| Opção 3", ESPN
-http://50.7.34.155:2200/BR/ESPN_HD-br/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Canais| Opção 3", ESPN 2
-http://50.7.34.155:2200/BR/ESPN2_HD-br/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Canais| Opção 3", ESPN Extra
-http://50.7.34.155:2200/BR/espnextra-br/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Canais| Opção 3", Fox Sports
-http://50.7.34.155:2200/BR/Fox_Sports_HD-br/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Canais| Opção 3", Fox Sports 2
-http://50.7.34.155:2200/BR/Fox_Sports_2_HD-br/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Canais| Opção 3", Combate
-http://50.7.34.155:2200/BR/Combate_HD-br/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Canais| Opção 3", Band Sports
-http://50.7.34.155:2200/BR/Band_Sports_HD-br/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Canais| Opção 3", MTV
-http://50.7.34.155:2200/BR/MTV_HD-br/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Canais| Opção 3", BIS
-http://50.7.34.155:2200/BR/BIS_HD-br/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Canais| Opção 3", Fishtv
-http://50.7.34.155:2200/BR/fishtvhd-br/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Canais| Opção 3", Discovery Channel
-http://50.7.34.155:2200/BR/Discovery_Channel_HD-br/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Canais| Opção 3", Discovery Science
-http://50.7.34.155:2200/BR/Discovery_Science_HD-br/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Canais| Opção 3", Discovery World
-http://50.7.34.155:2200/BR/Discovery_World_HD-br/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Canais| Opção 3", Discovery Turbo
-http://50.7.34.155:2200/BR/Discovery_Turbo_HD-br/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Canais| Opção 3", Discovery Home & Health
-http://50.7.34.155:2200/BR/Disc-_Home_Health_HD-br/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Canais| Opção 3", Discovery Theater
-http://50.7.34.155:2200/BR/Discovery_Theater_HD-br/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Canais| Opção 3", Discovery ID
-http://50.7.34.155:2200/BR/ID_-_Investi_Discovery_HD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Canais| Opção 3", Animal Planet
-http://50.7.34.155:2200/BR/Animal_Planet_HD-br/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Canais| Opção 3", Nat Geo
-http://50.7.34.155:2200/BR/Nat_Geo_HD-br/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Canais| Opção 3", Nat Geo Wild
-http://50.7.34.155:2200/BR/NatGeo_Wild_HD-br/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Canais| Opção 3", History
-http://50.7.34.155:2200/BR/The_History_Channel_HD-br/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Canais| Opção 3", History 2
-http://50.7.34.155:2200/BR/History_2_HD-br/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Canais| Opção 3", Disney XD
-http://50.7.34.155:2200/BR/disneyxd-br/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Canais| Opção 3", Disney Junior
-http://50.7.34.155:2200/BR/disneyjunior-br/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Canais| Opção 3", Tooncast
-http://50.7.34.155:2200/BR/Tooncast-br/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Canais| Opção 3", Baby TV
-http://50.7.34.155:2200/BR/babytv-br/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Canais| Opção 3", Nick Jr.
-http://50.7.34.155:2200/BR/Nick_Jr_HD-br/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Canais| Opção 3", Nickelodeon
-http://50.7.34.155:2200/BR/Nickelodeon_HD-br/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Canais| Opção 3", Gloob
-http://50.7.34.155:2200/BR/Gloob_HD-br/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Canais| Opção 3", Boomerang
-http://50.7.34.155:2200/BR/Boomerang_HD-br/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Canais| Opção 3", Discovery Kids
-http://50.7.34.155:2200/BR/Discovery_Ks_HD-br/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Canais| Opção 3", Cartoon Network
-http://50.7.34.155:2200/BR/Cartoon_HD-br/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Canais| Opção 3", ZooMoo
-http://50.7.34.155:2200/BR/ZooMoo_HD-br/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Canais| Opção 3", Play Kids
-http://50.7.34.155:2200/BR/PlayKids_-br/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Canais| Opção 3", Nat Geo Kids
-http://50.7.34.155:2200/BR/NatGeoKidsHD-br/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Canais| Opção 3", TV Cultura
-http://50.7.34.155:2200/BR/cultura-br/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Canais| Opção 3",SBT
-http://50.7.34.155:2200/BR/SBT_HD-br/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Canais| Opção 3", Globo SP
-http://50.7.34.155:2200/BR/Globo_HD_SP-br/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Canais| Opção 3", Globo RJ
-http://50.7.34.155:2200/BR/Globo_HD_RJ-br/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Canais| Opção 3", Globo Nordeste
-http://50.7.34.155:2200/BR/Globo_Nordeste_HD-br/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Canais| Opção 3", Globo Nordeste
-http://50.7.34.155:2200/BR/Globo_Nordeste_HD-br/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Canais| Opção 3", RPC Curitiba
-http://50.7.34.155:2200/BR/RPC_TV_Curitiba_HD-br/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Canais| Opção 3", TV Anhanguera Goiania
-http://50.7.34.155:2200/BR/TV_Anhanguera_Gonia_HD-br/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Canais| Opção 3", EPTV Campinas
-http://50.7.34.155:2200/BR/EPTV_HD_Campinas-br/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Canais| Opção 3", TV Verdes Mares Fortaleza
-http://50.7.34.155:2200/BR/TV_Verdes_Mares_HD_Fortaleza-br/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Canais| Opção 3", RPC Cascavel
-http://50.7.34.155:2200/BR/Globo_Rpc_Cascavel_HD_-br/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Canais| Opção 3", Record SP
-http://50.7.34.155:2200/BR/RECORDTV_HD-br/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Canais| Opção 3", RedeTV
-http://50.7.34.155:2200/BR/Rede_TV_HD-br/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Canais| Opção 3", Gazeta
-http://50.7.34.155:2200/BR/Gazeta-br/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Canais| Opção 3", Band
-http://50.7.34.155:2200/BR/Band_HD-br/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Canais| Opção 3", Loading TV
-http://50.7.34.155:2200/BR/Loading_TV_-br/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Canais| Opção 3",TV Novo Tempo
-http://50.7.34.155:2200/BR/tvnovotempo-br/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Canais| Opção 3",Canal Rural
-http://50.7.34.155:2200/BR/canalrural-br/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Canais| Opção 3",TV Aparecida
-http://50.7.34.155:2200/BR/tvaparecida-br/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Canais| Opção 3",TV Escola
-http://50.7.34.155:2200/BR/tvescola-br/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Canais| Opção 3", CNN Brasil
-http://50.7.34.155:2200/BR/CNN_Brasil_HD-br/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Canais| Opção 3", Globo News
-http://50.7.34.155:2200/BR/Globo_News_HD-br/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Canais| Opção 3", Record News
-http://50.7.34.155:2200/BR/recordnews-br/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Canais| Opção 3", Mais Globosat
-http://50.7.34.155:2200/BR/Mais_Globosat_HD-br/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Canais| Opção 3", GNT
-http://50.7.34.155:2200/BR/GNT_HD-br/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Canais| Opção 3", SYFY
-http://50.7.34.155:2200/BR/SyFy_HD-br/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Canais| Opção 3", Multishow
-http://50.7.34.155:2200/BR/Multishow_HD-br/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Canais| Opção 3", Curta
-http://50.7.34.155:2200/BR/Curta_HD-br/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Canais| Opção 3", Food Network
-http://50.7.34.155:2200/BR/Food_Network_HD-br/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Canais| Opção 3", Arte1
-http://50.7.34.155:2200/BR/Arte_1_HD-br/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Canais| Opção 3", TLC
-http://50.7.34.155:2200/BR/TLC_HD-br/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Canais| Opção 3", TCM
-http://50.7.34.155:2200/BR/tcm-br/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Canais| Opção 3", HBO
-http://50.7.34.155:2200/BR/HBO_HD-br/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Canais| Opção 3", HBO 2
-http://50.7.34.155:2200/BR/HBO_2_HD-br/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Canais| Opção 3", HBO Family
-http://50.7.34.155:2200/BR/HBO_Family_HD-br/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Canais| Opção 3", HBO Plus
-http://50.7.34.155:2200/BR/HBO_Plus_HD-br/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Canais| Opção 3", Telecine Action
-http://50.7.34.155:2200/BR/Telecine_Action_HD-br/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Canais| Opção 3", Telecine Fun
-http://50.7.34.155:2200/BR/Telecine_Fun_HD-br/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Canais| Opção 3", Telecine Pipoca
-http://50.7.34.155:2200/BR/Telecine_Pipoca_HD-br/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Canais| Opção 3", Telecine Premium
-http://50.7.34.155:2200/BR/Telecine_Premium_HD-br/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Canais| Opção 3", Telecine Touch
-http://50.7.34.155:2200/BR/Telecine_Touch_HD-br/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Canais| Opção 3", Telecine Cult
-http://50.7.34.155:2200/BR/Telecine_Cult_HD-br/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Canais| Opção 3", Canal Brasil
-http://50.7.34.155:2200/BR/Canal_Brasil_HD-br/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Canais| Opção 3", Universal TV
-http://50.7.34.155:2200/BR/Universal_TV_HD-br/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Canais| Opção 3", Studio Universal
-http://50.7.34.155:2200/BR/Studio_Universal_HD-br/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Canais| Opção 3", Warner Channel
-http://50.7.34.155:2200/BR/Warner_Channel_HD-br/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Canais| Opção 3", Star Channel
-http://50.7.34.155:2200/BR/Fox_HD-br/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Canais| Opção 3", Star Hits 1
-http://50.7.34.155:2200/BR/Fox_Premium_1_HD-br/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Canais| Opção 3", Star Hits 2
-http://50.7.34.155:2200/BR/Fox_Premium_2_HD-br/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Canais| Opção 3", Star Life
-http://50.7.34.155:2200/BR/Fox_Life_HD-br/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Canais| Opção 3", Cinemax
-http://50.7.34.155:2200/BR/Cinemax_HD-br/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Canais| Opção 3", Megapix
-http://50.7.34.155:2200/BR/Megapix_HD-br/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Canais| Opção 3", Space
-http://50.7.34.155:2200/BR/Space_HD-br/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Canais| Opção 3", Film&Arts
-http://50.7.34.155:2200/BR/Film_Arts_HD-br/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Canais| Opção 3", Sony Channel
-http://50.7.34.155:2200/BR/Canal_Sony_HD-br/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Canais| Opção 3", TBS
-http://50.7.34.155:2200/BR/TBS_HD-br/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Canais| Opção 3", Paramount
-http://50.7.34.155:2200/BR/Paramount_HD-br/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Canais| Opção 3", TNT
-http://50.7.34.155:2200/BR/TNT_HD-br/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Canais| Opção 3", TNT Séries
-http://50.7.34.155:2200/BR/TNT_Series_HD-br/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Canais| Opção 3", AMC
-http://50.7.34.155:2200/BR/AMC_HD-br/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Canais| Opção 3", A&E
-http://50.7.34.155:2200/BR/AE_HD-br/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Canais| Opção 3", Sportv 1
-http://50.7.34.155:2200/BR/Sportv_HD-br/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Canais| Opção 3", Sportv 2
-http://50.7.34.155:2200/BR/Sportv_2_HD-br/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Canais| Opção 3", Sportv 3
-http://50.7.34.155:2200/BR/Sportv_3_HD-br/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Canais| Opção 3", Premiere Clubes
-http://50.7.34.155:2200/BR/Premiere_Clubes_HD-br/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Canais| Opção 3", Premiere 2
-http://50.7.34.155:2200/BR/Premiere_2_HD-br/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Canais| Opção 3", Premiere 3
-http://50.7.34.155:2200/BR/Premiere_3_HD-br/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Canais| Opção 3", Premiere 4
-http://50.7.34.155:2200/BR/Premiere_4_HD-br/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Canais| Opção 3", Premiere 5
-http://50.7.34.155:2200/BR/Premiere_5_HD-br/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Canais| Opção 3", Premiere 6
-http://50.7.34.155:2200/BR/Premiere_6_HD-br/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Canais| Opção 3", Premiere 7
-http://50.7.34.155:2200/BR/Premiere_7_HD-br/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Canais| Opção 3", Premiere 8
-http://50.7.34.155:2200/BR/Premiere_8_HD-br/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Canais| Opção 3", ESPN
-http://50.7.34.155:2200/BR/ESPN_HD-br/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Canais| Opção 3", ESPN 2
-http://50.7.34.155:2200/BR/ESPN2_HD-br/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Canais| Opção 3", ESPN Extra
-http://50.7.34.155:2200/BR/espnextra-br/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Canais| Opção 3", Fox Sports
-http://50.7.34.155:2200/BR/Fox_Sports_HD-br/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Canais| Opção 3", Fox Sports 2
-http://50.7.34.155:2200/BR/Fox_Sports_2_HD-br/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Canais| Opção 3", Combate
-http://50.7.34.155:2200/BR/Combate_HD-br/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Canais| Opção 3", Band Sports
-http://50.7.34.155:2200/BR/Band_Sports_HD-br/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Canais| Opção 3", MTV
-http://50.7.34.155:2200/BR/MTV_HD-br/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Canais| Opção 3", BIS
-http://50.7.34.155:2200/BR/BIS_HD-br/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Canais| Opção 3", Fishtv
-http://50.7.34.155:2200/BR/fishtvhd-br/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Canais| Opção 3", Discovery Channel
-http://50.7.34.155:2200/BR/Discovery_Channel_HD-br/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Canais| Opção 3", Discovery Science
-http://50.7.34.155:2200/BR/Discovery_Science_HD-br/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Canais| Opção 3", Discovery World
-http://50.7.34.155:2200/BR/Discovery_World_HD-br/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Canais| Opção 3", Discovery Turbo
-http://50.7.34.155:2200/BR/Discovery_Turbo_HD-br/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Canais| Opção 3", Discovery Home & Health
-http://50.7.34.155:2200/BR/Disc-_Home_Health_HD-br/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Canais| Opção 3", Discovery Theater
-http://50.7.34.155:2200/BR/Discovery_Theater_HD-br/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Canais| Opção 3", Discovery ID
-http://50.7.34.155:2200/BR/ID_-_Investi_Discovery_HD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Canais| Opção 3", Animal Planet
-http://50.7.34.155:2200/BR/Animal_Planet_HD-br/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Canais| Opção 3", Nat Geo
-http://50.7.34.155:2200/BR/Nat_Geo_HD-br/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Canais| Opção 3", Nat Geo Wild
-http://50.7.34.155:2200/BR/NatGeo_Wild_HD-br/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Canais| Opção 3", History
-http://50.7.34.155:2200/BR/The_History_Channel_HD-br/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Canais| Opção 3", History 2
-http://50.7.34.155:2200/BR/History_2_HD-br/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Canais| Opção 3", Disney XD
-http://50.7.34.155:2200/BR/disneyxd-br/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Canais| Opção 3", Disney Junior
-http://50.7.34.155:2200/BR/disneyjunior-br/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Canais| Opção 3", Tooncast
-http://50.7.34.155:2200/BR/Tooncast-br/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Canais| Opção 3", Baby TV
-http://50.7.34.155:2200/BR/babytv-br/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Canais| Opção 3", Nick Jr.
-http://50.7.34.155:2200/BR/Nick_Jr_HD-br/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Canais| Opção 3", Nickelodeon
-http://50.7.34.155:2200/BR/Nickelodeon_HD-br/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Canais| Opção 3", Gloob
-http://50.7.34.155:2200/BR/Gloob_HD-br/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Canais| Opção 3", Boomerang
-http://50.7.34.155:2200/BR/Boomerang_HD-br/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Canais| Opção 3", Discovery Kids
-http://50.7.34.155:2200/BR/Discovery_Ks_HD-br/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Canais| Opção 3", Cartoon Network
-http://50.7.34.155:2200/BR/Cartoon_HD-br/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Canais| Opção 3", ZooMoo
-http://50.7.34.155:2200/BR/ZooMoo_HD-br/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Canais| Opção 3", Play Kids
-http://50.7.34.155:2200/BR/PlayKids_-br/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Canais| Opção 3", Nat Geo Kids
-http://50.7.34.155:2200/BR/NatGeoKidsHD-br/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title = "Canais| Opção 4",A&E FULL HD
-http://login.iptvcompany.org:8080/Sirlene/123456/46557
-#EXTINF:-1 group-title = "Canais| Opção 4",A&E HD
-http://login.iptvcompany.org:8080/Sirlene/123456/46294
-#EXTINF:-1 group-title = "Canais| Opção 4",AGRO BRASIL HD
-http://login.iptvcompany.org:8080/Sirlene/123456/115456
-#EXTINF:-1 group-title = "Canais| Opção 4",AGRO CANAL FULL HD
-http://login.iptvcompany.org:8080/Sirlene/123456/89947
-#EXTINF:-1 group-title = "Canais| Opção 4",AMC FULL HD
-http://login.iptvcompany.org:8080/Sirlene/123456/46558
-#EXTINF:-1 group-title = "Canais| Opção 4",AMC HD
-http://login.iptvcompany.org:8080/Sirlene/123456/46296
-#EXTINF:-1 group-title = "Canais| Opção 4",ANIMAL PLANET FULL HD
-http://login.iptvcompany.org:8080/Sirlene/123456/46559
-#EXTINF:-1 group-title = "Canais| Opção 4",ANIMAL PLANET HD
-http://login.iptvcompany.org:8080/Sirlene/123456/46337
-#EXTINF:-1 group-title = "Canais| Opção 4",ANIME TV HD
-http://login.iptvcompany.org:8080/Sirlene/123456/109830
-#EXTINF:-1 group-title = "Canais| Opção 4",ARTE 1 FULL HD
-http://login.iptvcompany.org:8080/Sirlene/123456/46560
-#EXTINF:-1 group-title = "Canais| Opção 4",ARTE 1 HD
-http://login.iptvcompany.org:8080/Sirlene/123456/46457
-#EXTINF:-1 group-title = "Canais| Opção 4",AXN FULL HD
-http://login.iptvcompany.org:8080/Sirlene/123456/46561
-#EXTINF:-1 group-title = "Canais| Opção 4",AXN HD
-http://login.iptvcompany.org:8080/Sirlene/123456/46298
-#EXTINF:-1 group-title = "Canais| Opção 4",BABY TV SD
-http://login.iptvcompany.org:8080/Sirlene/123456/115435
-#EXTINF:-1 group-title = "Canais| Opção 4",BAND NEWS FULL HD
-http://login.iptvcompany.org:8080/Sirlene/123456/46562
-#EXTINF:-1 group-title = "Canais| Opção 4",BAND NEWS HD
-http://login.iptvcompany.org:8080/Sirlene/123456/46507
-#EXTINF:-1 group-title = "Canais| Opção 4",BAND SP FULL HD
-http://login.iptvcompany.org:8080/Sirlene/123456/46563
-#EXTINF:-1 group-title = "Canais| Opção 4",BAND SP HD
-http://login.iptvcompany.org:8080/Sirlene/123456/46425
-#EXTINF:-1 group-title = "Canais| Opção 4",BAND SPORTS FULL HD
-http://login.iptvcompany.org:8080/Sirlene/123456/46564
-#EXTINF:-1 group-title = "Canais| Opção 4",BAND SPORTS HD
-http://login.iptvcompany.org:8080/Sirlene/123456/46394
-#EXTINF:-1 group-title = "Canais| Opção 4",BBC NEWS FULL HD
-http://login.iptvcompany.org:8080/Sirlene/123456/116430
-#EXTINF:-1 group-title = "Canais| Opção 4",BIS FULL HD
-http://login.iptvcompany.org:8080/Sirlene/123456/75772
-#EXTINF:-1 group-title = "Canais| Opção 4",BIS HD
-http://login.iptvcompany.org:8080/Sirlene/123456/46459
-#EXTINF:-1 group-title = "Canais| Opção 4",BLOOMBERG TV FULL HD
-http://login.iptvcompany.org:8080/Sirlene/123456/104179
-#EXTINF:-1 group-title = "Canais| Opção 4",BONS TEMPO TV
-http://login.iptvcompany.org:8080/Sirlene/123456/109893
-#EXTINF:-1 group-title = "Canais| Opção 4",BOOMERANG FULL HD
-http://login.iptvcompany.org:8080/Sirlene/123456/46565
-#EXTINF:-1 group-title = "Canais| Opção 4",BOOMERANG HD
-http://login.iptvcompany.org:8080/Sirlene/123456/46365
-#EXTINF:-1 group-title = "Canais| Opção 4",CAMPEONATO CARIOCA 1 HD
-http://login.iptvcompany.org:8080/Sirlene/123456/105658
-#EXTINF:-1 group-title = "Canais| Opção 4",CAMPEONATO CARIOCA 2 HD
-http://login.iptvcompany.org:8080/Sirlene/123456/105659
-#EXTINF:-1 group-title = "Canais| Opção 4",CAMPEONATO CARIOCA 3 HD
-http://login.iptvcompany.org:8080/Sirlene/123456/106102
-#EXTINF:-1 group-title = "Canais| Opção 4",CAMPEONATO CARIOCA 4 HD
-http://login.iptvcompany.org:8080/Sirlene/123456/106103
-#EXTINF:-1 group-title = "Canais| Opção 4",CAMPEONATO CATARINENSE 1
-http://login.iptvcompany.org:8080/Sirlene/123456/106099
-#EXTINF:-1 group-title = "Canais| Opção 4",CAMPEONATO CATARINENSE 2
-http://login.iptvcompany.org:8080/Sirlene/123456/106100
-#EXTINF:-1 group-title = "Canais| Opção 4",CAMPEONATO CATARINENSE 3
-http://login.iptvcompany.org:8080/Sirlene/123456/106101
-#EXTINF:-1 group-title = "Canais| Opção 4",CANAL BRASIL FULL HD
-http://login.iptvcompany.org:8080/Sirlene/123456/47072
-#EXTINF:-1 group-title = "Canais| Opção 4",CANAL BRASIL HD
-http://login.iptvcompany.org:8080/Sirlene/123456/47073
-#EXTINF:-1 group-title = "Canais| Opção 4",CANAL DO BOI FULL HD
-http://login.iptvcompany.org:8080/Sirlene/123456/100714
-#EXTINF:-1 group-title = "Canais| Opção 4",CANAL RURAL SD
-http://login.iptvcompany.org:8080/Sirlene/123456/115436
-#EXTINF:-1 group-title = "Canais| Opção 4",CANAL SONY FULL HD
-http://login.iptvcompany.org:8080/Sirlene/123456/46566
-#EXTINF:-1 group-title = "Canais| Opção 4",CANAL SONY HD
-http://login.iptvcompany.org:8080/Sirlene/123456/46300
-#EXTINF:-1 group-title = "Canais| Opção 4",CANÇÃO NOVA FULL HD
-http://login.iptvcompany.org:8080/Sirlene/123456/46696
-#EXTINF:-1 group-title = "Canais| Opção 4",CARTOON NETWORK FULL HD
-http://login.iptvcompany.org:8080/Sirlene/123456/46567
-#EXTINF:-1 group-title = "Canais| Opção 4",CARTOON NETWORK HD
-http://login.iptvcompany.org:8080/Sirlene/123456/46367
-#EXTINF:-1 group-title = "Canais| Opção 4",CBN NEWS FULL HD
-http://login.iptvcompany.org:8080/Sirlene/123456/104243
-#EXTINF:-1 group-title = "Canais| Opção 4",CHEFE TV FULL HD
-http://login.iptvcompany.org:8080/Sirlene/123456/103609
-#EXTINF:-1 group-title = "Canais| Opção 4",CHEFE TV HD
-http://login.iptvcompany.org:8080/Sirlene/123456/103611
-#EXTINF:-1 group-title = "Canais| Opção 4",CINE BRASIL TV FULL HD
-http://login.iptvcompany.org:8080/Sirlene/123456/115437
-#EXTINF:-1 group-title = "Canais| Opção 4",CINE BRASIL TV HD
-http://login.iptvcompany.org:8080/Sirlene/123456/104161
-#EXTINF:-1 group-title = "Canais| Opção 4",CINE SKY 01 HD - O Desaparecimento
-http://login.iptvcompany.org:8080/Sirlene/123456/106457
-#EXTINF:-1 group-title = "Canais| Opção 4",CINE SKY 02 HD - A Vida em um Ano
-http://login.iptvcompany.org:8080/Sirlene/123456/106458
-#EXTINF:-1 group-title = "Canais| Opção 4",CINE SKY 03 HD - Trolls 2
-http://login.iptvcompany.org:8080/Sirlene/123456/106459
-#EXTINF:-1 group-title = "Canais| Opção 4",CINE SKY 04 HD - Uma Ultima Vez
-http://login.iptvcompany.org:8080/Sirlene/123456/106451
-#EXTINF:-1 group-title = "Canais| Opção 4",CINE SKY 05 HD - Todos os Meus Amigos Estão Mortos
-http://login.iptvcompany.org:8080/Sirlene/123456/106461
-#EXTINF:-1 group-title = "Canais| Opção 4",CINE SKY 06 HD - Mulher Maravilha 1984
-http://login.iptvcompany.org:8080/Sirlene/123456/106462
-#EXTINF:-1 group-title = "Canais| Opção 4",CINE SKY 07 HD - Sombras do Terror
-http://login.iptvcompany.org:8080/Sirlene/123456/106463
-#EXTINF:-1 group-title = "Canais| Opção 4",CINE SKY 08 HD - Liga da Justiça de Zack Snyders
-http://login.iptvcompany.org:8080/Sirlene/123456/106450
-#EXTINF:-1 group-title = "Canais| Opção 4",CINE SKY 09 HD - Justiça Brutal
-http://login.iptvcompany.org:8080/Sirlene/123456/106460
-#EXTINF:-1 group-title = "Canais| Opção 4",CINE SKY 10 HD - O Caçador de Recompensas
-http://login.iptvcompany.org:8080/Sirlene/123456/106464
-#EXTINF:-1 group-title = "Canais| Opção 4",CINE SKY 11 HD - A Sentinela
-http://login.iptvcompany.org:8080/Sirlene/123456/106465
-#EXTINF:-1 group-title = "Canais| Opção 4",CINE SKY 12 HD - Becky
-http://login.iptvcompany.org:8080/Sirlene/123456/106466
-#EXTINF:-1 group-title = "Canais| Opção 4",CINE SKY 13 HD - Freaky - No Corpo de um Assassino
-http://login.iptvcompany.org:8080/Sirlene/123456/106469
-#EXTINF:-1 group-title = "Canais| Opção 4",CINE SKY 14 HD - Querência
-http://login.iptvcompany.org:8080/Sirlene/123456/106467
-#EXTINF:-1 group-title = "Canais| Opção 4",CINE SKY 15 HD - Moxie - Quando as Garotas Vão à Luta
-http://login.iptvcompany.org:8080/Sirlene/123456/106468
-#EXTINF:-1 group-title = "Canais| Opção 4",CINE SKY 16 HD - Raya e o Último Dragão
-http://login.iptvcompany.org:8080/Sirlene/123456/106452
-#EXTINF:-1 group-title = "Canais| Opção 4",CINE SKY 17 HD - Um Príncipe em Nova York 2
-http://login.iptvcompany.org:8080/Sirlene/123456/106454
-#EXTINF:-1 group-title = "Canais| Opção 4",CINE SKY 18 HD - Archive
-http://login.iptvcompany.org:8080/Sirlene/123456/106453
-#EXTINF:-1 group-title = "Canais| Opção 4",CINE SKY 19 HD - Don Oscar
-http://login.iptvcompany.org:8080/Sirlene/123456/106455
-#EXTINF:-1 group-title = "Canais| Opção 4",CINE SKY 20 HD - Feitiço
-http://login.iptvcompany.org:8080/Sirlene/123456/106456
-#EXTINF:-1 group-title = "Canais| Opção 4",CINEMAX FULL HD
-http://login.iptvcompany.org:8080/Sirlene/123456/46568
-#EXTINF:-1 group-title = "Canais| Opção 4",CINEMAX HD
-http://login.iptvcompany.org:8080/Sirlene/123456/46302
-#EXTINF:-1 group-title = "Canais| Opção 4",CLASSIQUE WESTERN TV
-http://login.iptvcompany.org:8080/Sirlene/123456/109810
-#EXTINF:-1 group-title = "Canais| Opção 4",CLIMA TEMPO FULL HD
-http://login.iptvcompany.org:8080/Sirlene/123456/103633
-#EXTINF:-1 group-title = "Canais| Opção 4",CLIMA TEMPO HD
-http://login.iptvcompany.org:8080/Sirlene/123456/103632
-#EXTINF:-1 group-title = "Canais| Opção 4",CNN BRASIL FULL HD
-http://login.iptvcompany.org:8080/Sirlene/123456/104782
-#EXTINF:-1 group-title = "Canais| Opção 4",CNN BRASIL HD
-http://login.iptvcompany.org:8080/Sirlene/123456/46509
-#EXTINF:-1 group-title = "Canais| Opção 4",CNN INTERNACIONAL HD
-http://login.iptvcompany.org:8080/Sirlene/123456/115454
-#EXTINF:-1 group-title = "Canais| Opção 4",CNT HD
-http://login.iptvcompany.org:8080/Sirlene/123456/115455
-#EXTINF:-1 group-title = "Canais| Opção 4",COMBATE FULL HD
-http://login.iptvcompany.org:8080/Sirlene/123456/46569
-#EXTINF:-1 group-title = "Canais| Opção 4",COMBATE HD
-http://login.iptvcompany.org:8080/Sirlene/123456/46396
-#EXTINF:-1 group-title = "Canais| Opção 4",COMEDY CENTRAL FULL HD
-http://login.iptvcompany.org:8080/Sirlene/123456/46570
-#EXTINF:-1 group-title = "Canais| Opção 4",COMEDY CENTRAL HD
-http://login.iptvcompany.org:8080/Sirlene/123456/46369
-#EXTINF:-1 group-title = "Canais| Opção 4",CONMEBOL - LIBERTADORES 1 Full HD
-http://login.iptvcompany.org:8080/Sirlene/123456/75768
-#EXTINF:-1 group-title = "Canais| Opção 4",CONMEBOL - LIBERTADORES 1 HD
-http://login.iptvcompany.org:8080/Sirlene/123456/115355
-#EXTINF:-1 group-title = "Canais| Opção 4",CONMEBOL - LIBERTADORES 2 Full HD
-http://login.iptvcompany.org:8080/Sirlene/123456/75770
-#EXTINF:-1 group-title = "Canais| Opção 4",CONMEBOL - LIBERTADORES 2 HD
-http://login.iptvcompany.org:8080/Sirlene/123456/115352
-#EXTINF:-1 group-title = "Canais| Opção 4",CONMEBOL - LIBERTADORES 3 Full HD
-http://login.iptvcompany.org:8080/Sirlene/123456/110011
-#EXTINF:-1 group-title = "Canais| Opção 4",CONMEBOL - LIBERTADORES 3 HD
-http://login.iptvcompany.org:8080/Sirlene/123456/115353
-#EXTINF:-1 group-title = "Canais| Opção 4",CONMEBOL - LIBERTADORES 4 Full HD
-http://login.iptvcompany.org:8080/Sirlene/123456/110010
-#EXTINF:-1 group-title = "Canais| Opção 4",CONMEBOL - LIBERTADORES 4 HD
-http://login.iptvcompany.org:8080/Sirlene/123456/115354
-#EXTINF:-1 group-title = "Canais| Opção 4",CULTURA FULL HD
-http://login.iptvcompany.org:8080/Sirlene/123456/89980
-#EXTINF:-1 group-title = "Canais| Opção 4",CURTA!  HD
-http://login.iptvcompany.org:8080/Sirlene/123456/103630
-#EXTINF:-1 group-title = "Canais| Opção 4",CURTA! FULL HD
-http://login.iptvcompany.org:8080/Sirlene/123456/103631
-#EXTINF:-1 group-title = "Canais| Opção 4",DAZN 1
-http://login.iptvcompany.org:8080/Sirlene/123456/46402
-#EXTINF:-1 group-title = "Canais| Opção 4",DAZN 2
-http://login.iptvcompany.org:8080/Sirlene/123456/46403
-#EXTINF:-1 group-title = "Canais| Opção 4",DISCOVERY CHANNEL FULL HD
-http://login.iptvcompany.org:8080/Sirlene/123456/46773
-#EXTINF:-1 group-title = "Canais| Opção 4",DISCOVERY CHANNEL HD
-http://login.iptvcompany.org:8080/Sirlene/123456/46339
-#EXTINF:-1 group-title = "Canais| Opção 4",DISCOVERY H&H FULL HD
-http://login.iptvcompany.org:8080/Sirlene/123456/46571
-#EXTINF:-1 group-title = "Canais| Opção 4",DISCOVERY H&H HD
-http://login.iptvcompany.org:8080/Sirlene/123456/46341
-#EXTINF:-1 group-title = "Canais| Opção 4",DISCOVERY KIDS FULL HD
-http://login.iptvcompany.org:8080/Sirlene/123456/46572
-#EXTINF:-1 group-title = "Canais| Opção 4",DISCOVERY KIDS HD
-http://login.iptvcompany.org:8080/Sirlene/123456/46371
-#EXTINF:-1 group-title = "Canais| Opção 4",DISCOVERY SCENCE HD
-http://login.iptvcompany.org:8080/Sirlene/123456/46343
-#EXTINF:-1 group-title = "Canais| Opção 4",DISCOVERY SCIENCE FULL HD
-http://login.iptvcompany.org:8080/Sirlene/123456/46573
-#EXTINF:-1 group-title = "Canais| Opção 4",DISCOVERY THEATER FULL HD
-http://login.iptvcompany.org:8080/Sirlene/123456/46574
-#EXTINF:-1 group-title = "Canais| Opção 4",DISCOVERY THEATER HD
-http://login.iptvcompany.org:8080/Sirlene/123456/46345
-#EXTINF:-1 group-title = "Canais| Opção 4",DISCOVERY TLC FULL HD
-http://login.iptvcompany.org:8080/Sirlene/123456/46575
-#EXTINF:-1 group-title = "Canais| Opção 4",DISCOVERY TLC HD
-http://login.iptvcompany.org:8080/Sirlene/123456/46347
-#EXTINF:-1 group-title = "Canais| Opção 4",DISCOVERY TURBO FULL HD
-http://login.iptvcompany.org:8080/Sirlene/123456/46576
-#EXTINF:-1 group-title = "Canais| Opção 4",DISCOVERY TURBO HD
-http://login.iptvcompany.org:8080/Sirlene/123456/46349
-#EXTINF:-1 group-title = "Canais| Opção 4",DISCOVERY WORLD FULL HD
-http://login.iptvcompany.org:8080/Sirlene/123456/46577
-#EXTINF:-1 group-title = "Canais| Opção 4",DISCOVERY WORLD HD
-http://login.iptvcompany.org:8080/Sirlene/123456/46351
-#EXTINF:-1 group-title = "Canais| Opção 4",DISNEY CHANNEL FULL HD
-http://login.iptvcompany.org:8080/Sirlene/123456/46578
-#EXTINF:-1 group-title = "Canais| Opção 4",DISNEY CHANNEL HD
-http://login.iptvcompany.org:8080/Sirlene/123456/46373
-#EXTINF:-1 group-title = "Canais| Opção 4",DISNEY JUNIOR FULL HD
-http://login.iptvcompany.org:8080/Sirlene/123456/46579
-#EXTINF:-1 group-title = "Canais| Opção 4",DISNEY JUNIOR HD
-http://login.iptvcompany.org:8080/Sirlene/123456/46375
-#EXTINF:-1 group-title = "Canais| Opção 4",DISNEY XD FULL HD
-http://login.iptvcompany.org:8080/Sirlene/123456/90027
-#EXTINF:-1 group-title = "Canais| Opção 4",DISNEY XD HD
-http://login.iptvcompany.org:8080/Sirlene/123456/46377
-#EXTINF:-1 group-title = "Canais| Opção 4",DOG TV FULL HD
-http://login.iptvcompany.org:8080/Sirlene/123456/80700
-#EXTINF:-1 group-title = "Canais| Opção 4",DOG TV HD
-http://login.iptvcompany.org:8080/Sirlene/123456/80701
-#EXTINF:-1 group-title = "Canais| Opção 4",DW DEUTSCH+ FULL HD
-http://login.iptvcompany.org:8080/Sirlene/123456/97525
-#EXTINF:-1 group-title = "Canais| Opção 4",E! FULL HD
-http://login.iptvcompany.org:8080/Sirlene/123456/46468
-#EXTINF:-1 group-title = "Canais| Opção 4",E! HD
-http://login.iptvcompany.org:8080/Sirlene/123456/109840
-#EXTINF:-1 group-title = "Canais| Opção 4",ESPN 2 FULL HD
-http://login.iptvcompany.org:8080/Sirlene/123456/116303
-#EXTINF:-1 group-title = "Canais| Opção 4",ESPN 2 HD
-http://login.iptvcompany.org:8080/Sirlene/123456/116302
-#EXTINF:-1 group-title = "Canais| Opção 4",ESPN BRASIL FULL HD
-http://login.iptvcompany.org:8080/Sirlene/123456/116304
-#EXTINF:-1 group-title = "Canais| Opção 4",ESPN BRASIL HD
-http://login.iptvcompany.org:8080/Sirlene/123456/116301
-#EXTINF:-1 group-title = "Canais| Opção 4",ESPN EXTRA FULL HD
-http://login.iptvcompany.org:8080/Sirlene/123456/47074
-#EXTINF:-1 group-title = "Canais| Opção 4",ESPN EXTRA HD
-http://login.iptvcompany.org:8080/Sirlene/123456/46408
-#EXTINF:-1 group-title = "Canais| Opção 4",ESPN FULL HD
-http://login.iptvcompany.org:8080/Sirlene/123456/116299
-#EXTINF:-1 group-title = "Canais| Opção 4",ESPN HD
-http://login.iptvcompany.org:8080/Sirlene/123456/116298
-#EXTINF:-1 group-title = "Canais| Opção 4",ESR FULL HD
-http://login.iptvcompany.org:8080/Sirlene/123456/115432
-#EXTINF:-1 group-title = "Canais| Opção 4",ESR HD
-http://login.iptvcompany.org:8080/Sirlene/123456/115433
-#EXTINF:-1 group-title = "Canais| Opção 4",EURONEWS ESPANHOL FULL HD
-http://login.iptvcompany.org:8080/Sirlene/123456/97522
-#EXTINF:-1 group-title = "Canais| Opção 4",FASHIONTV BRASIL FULL HD
-http://login.iptvcompany.org:8080/Sirlene/123456/109846
-#EXTINF:-1 group-title = "Canais| Opção 4",FASHIONTV BRASIL HD
-http://login.iptvcompany.org:8080/Sirlene/123456/109847
-#EXTINF:-1 group-title = "Canais| Opção 4",FILM & ARTS FULL HD
-http://login.iptvcompany.org:8080/Sirlene/123456/77307
-#EXTINF:-1 group-title = "Canais| Opção 4",FILM & ARTS HD
-http://login.iptvcompany.org:8080/Sirlene/123456/77308
-#EXTINF:-1 group-title = "Canais| Opção 4",FISH TV FULL HD
-http://login.iptvcompany.org:8080/Sirlene/123456/46774
-#EXTINF:-1 group-title = "Canais| Opção 4",FISH TV HD
-http://login.iptvcompany.org:8080/Sirlene/123456/46473
-#EXTINF:-1 group-title = "Canais| Opção 4",FONTE TV
-http://login.iptvcompany.org:8080/Sirlene/123456/109809
-#EXTINF:-1 group-title = "Canais| Opção 4",FOOD NETWORK FULL HD
-http://login.iptvcompany.org:8080/Sirlene/123456/46584
-#EXTINF:-1 group-title = "Canais| Opção 4",FOOD NETWORK HD
-http://login.iptvcompany.org:8080/Sirlene/123456/46475
-#EXTINF:-1 group-title = "Canais| Opção 4",FOX NEWS SD
-http://login.iptvcompany.org:8080/Sirlene/123456/115447
-#EXTINF:-1 group-title = "Canais| Opção 4",FOX SPORTS 2 FULL HD
-http://login.iptvcompany.org:8080/Sirlene/123456/49086
-#EXTINF:-1 group-title = "Canais| Opção 4",FOX SPORTS 2 HD
-http://login.iptvcompany.org:8080/Sirlene/123456/46413
-#EXTINF:-1 group-title = "Canais| Opção 4",FOX SPORTS FULL HD
-http://login.iptvcompany.org:8080/Sirlene/123456/116305
-#EXTINF:-1 group-title = "Canais| Opção 4",FOX SPORTS HD
-http://login.iptvcompany.org:8080/Sirlene/123456/116300
-#EXTINF:-1 group-title = "Canais| Opção 4",FRANCE 24 FULL HD
-http://login.iptvcompany.org:8080/Sirlene/123456/104177
-#EXTINF:-1 group-title = "Canais| Opção 4",FUTEBOL PELO MUNDO
-http://login.iptvcompany.org:8080/Sirlene/123456/113956
-#EXTINF:-1 group-title = "Canais| Opção 4",FUTURA FULL HD
-http://login.iptvcompany.org:8080/Sirlene/123456/46313
-#EXTINF:-1 group-title = "Canais| Opção 4",FX Full HD
-http://login.iptvcompany.org:8080/Sirlene/123456/46591
-#EXTINF:-1 group-title = "Canais| Opção 4",FX HD
-http://login.iptvcompany.org:8080/Sirlene/123456/46315
-#EXTINF:-1 group-title = "Canais| Opção 4",GLOBO BELO HORIZONTE FULL HD
-http://login.iptvcompany.org:8080/Sirlene/123456/103296
-#EXTINF:-1 group-title = "Canais| Opção 4",GLOBO BELO HORIZONTE HD
-http://login.iptvcompany.org:8080/Sirlene/123456/94614
-#EXTINF:-1 group-title = "Canais| Opção 4",GLOBO BRASILIA Full HD
-http://login.iptvcompany.org:8080/Sirlene/123456/104955
-#EXTINF:-1 group-title = "Canais| Opção 4",GLOBO BRASILIA HD
-http://login.iptvcompany.org:8080/Sirlene/123456/104956
-#EXTINF:-1 group-title = "Canais| Opção 4",GLOBO CENTRO AMÉRICA Full HD
-http://login.iptvcompany.org:8080/Sirlene/123456/104621
-#EXTINF:-1 group-title = "Canais| Opção 4",GLOBO CENTRO AMÉRICA HD
-http://login.iptvcompany.org:8080/Sirlene/123456/104622
-#EXTINF:-1 group-title = "Canais| Opção 4",GLOBO EPTV CAMPINAS Full HD
-http://login.iptvcompany.org:8080/Sirlene/123456/103297
-#EXTINF:-1 group-title = "Canais| Opção 4",GLOBO EPTV CAMPINAS HD
-http://login.iptvcompany.org:8080/Sirlene/123456/103298
-#EXTINF:-1 group-title = "Canais| Opção 4",GLOBO EPTV RIBEIRÃO PRETO Full HD
-http://login.iptvcompany.org:8080/Sirlene/123456/103300
-#EXTINF:-1 group-title = "Canais| Opção 4",GLOBO EPTV RIBEIRÃO PRETO HD
-http://login.iptvcompany.org:8080/Sirlene/123456/103301
-#EXTINF:-1 group-title = "Canais| Opção 4",GLOBO EPTV SUL DE MINAS Full HD
-http://login.iptvcompany.org:8080/Sirlene/123456/94634
-#EXTINF:-1 group-title = "Canais| Opção 4",GLOBO EPTV SUL DE MINAS HD
-http://login.iptvcompany.org:8080/Sirlene/123456/94635
-#EXTINF:-1 group-title = "Canais| Opção 4",GLOBO INTER TV ALTO LITORAL Full HD
-http://login.iptvcompany.org:8080/Sirlene/123456/104967
-#EXTINF:-1 group-title = "Canais| Opção 4",GLOBO INTER TV ALTO LITORAL HD
-http://login.iptvcompany.org:8080/Sirlene/123456/104968
-#EXTINF:-1 group-title = "Canais| Opção 4",GLOBO INTER TV CABUGI Full HD
-http://login.iptvcompany.org:8080/Sirlene/123456/104774
-#EXTINF:-1 group-title = "Canais| Opção 4",GLOBO INTER TV CABUGI HD
-http://login.iptvcompany.org:8080/Sirlene/123456/104775
-#EXTINF:-1 group-title = "Canais| Opção 4",GLOBO INTER TV DOS VALES Full HD
-http://login.iptvcompany.org:8080/Sirlene/123456/94631
-#EXTINF:-1 group-title = "Canais| Opção 4",GLOBO INTER TV DOS VALES HD
-http://login.iptvcompany.org:8080/Sirlene/123456/94632
-#EXTINF:-1 group-title = "Canais| Opção 4",GLOBO INTER TV GRANDE MINAS MG Full HD
-http://login.iptvcompany.org:8080/Sirlene/123456/104262
-#EXTINF:-1 group-title = "Canais| Opção 4",GLOBO INTER TV GRANDE MINAS MG HD
-http://login.iptvcompany.org:8080/Sirlene/123456/104263
-#EXTINF:-1 group-title = "Canais| Opção 4",GLOBO NEWS FULL HD
-http://login.iptvcompany.org:8080/Sirlene/123456/46592
-#EXTINF:-1 group-title = "Canais| Opção 4",GLOBO NEWS HD
-http://login.iptvcompany.org:8080/Sirlene/123456/46511
-#EXTINF:-1 group-title = "Canais| Opção 4",GLOBO NSC BLUMENAU Full HD
-http://login.iptvcompany.org:8080/Sirlene/123456/104270
-#EXTINF:-1 group-title = "Canais| Opção 4",GLOBO NSC BLUMENAU HD
-http://login.iptvcompany.org:8080/Sirlene/123456/104271
-#EXTINF:-1 group-title = "Canais| Opção 4",GLOBO NSC CHAPECO Full HD
-http://login.iptvcompany.org:8080/Sirlene/123456/104264
-#EXTINF:-1 group-title = "Canais| Opção 4",GLOBO NSC CHAPECO HD
-http://login.iptvcompany.org:8080/Sirlene/123456/104265
-#EXTINF:-1 group-title = "Canais| Opção 4",GLOBO NSC CRICIUMA Full HD
-http://login.iptvcompany.org:8080/Sirlene/123456/104268
-#EXTINF:-1 group-title = "Canais| Opção 4",GLOBO NSC CRICIUMA HD
-http://login.iptvcompany.org:8080/Sirlene/123456/104269
-#EXTINF:-1 group-title = "Canais| Opção 4",GLOBO NSC JOINVILLE Full HD
-http://login.iptvcompany.org:8080/Sirlene/123456/104266
-#EXTINF:-1 group-title = "Canais| Opção 4",GLOBO NSC JOINVILLE HD
-http://login.iptvcompany.org:8080/Sirlene/123456/104267
-#EXTINF:-1 group-title = "Canais| Opção 4",GLOBO NSC TV FLORIANÓPOLIS Full HD
-http://login.iptvcompany.org:8080/Sirlene/123456/94625
-#EXTINF:-1 group-title = "Canais| Opção 4",GLOBO NSC TV FLORIANÓPOLIS HD
-http://login.iptvcompany.org:8080/Sirlene/123456/94626
-#EXTINF:-1 group-title = "Canais| Opção 4",GLOBO RBS PORTO ALEGRE Full HD
-http://login.iptvcompany.org:8080/Sirlene/123456/77608
-#EXTINF:-1 group-title = "Canais| Opção 4",GLOBO RBS PORTO ALEGRE HD
-http://login.iptvcompany.org:8080/Sirlene/123456/46665
-#EXTINF:-1 group-title = "Canais| Opção 4",GLOBO RBS TV CAXIAS DO SUL Full HD
-http://login.iptvcompany.org:8080/Sirlene/123456/94629
-#EXTINF:-1 group-title = "Canais| Opção 4",GLOBO RBS TV CAXIAS DO SUL HD
-http://login.iptvcompany.org:8080/Sirlene/123456/94628
-#EXTINF:-1 group-title = "Canais| Opção 4",GLOBO RBS TV PASSO FUNDO Full HD
-http://login.iptvcompany.org:8080/Sirlene/123456/103504
-#EXTINF:-1 group-title = "Canais| Opção 4",GLOBO RBS TV PASSO FUNDO HD
-http://login.iptvcompany.org:8080/Sirlene/123456/103505
-#EXTINF:-1 group-title = "Canais| Opção 4",GLOBO RBS TV PELOTAS Full HD
-http://login.iptvcompany.org:8080/Sirlene/123456/104260
-#EXTINF:-1 group-title = "Canais| Opção 4",GLOBO RBS TV PELOTAS HD
-http://login.iptvcompany.org:8080/Sirlene/123456/104261
-#EXTINF:-1 group-title = "Canais| Opção 4",GLOBO REDE AMAZONICA MANAUS FULL HD
-http://login.iptvcompany.org:8080/Sirlene/123456/116324
-#EXTINF:-1 group-title = "Canais| Opção 4",GLOBO REDE AMAZONICA MANAUS HD
-http://login.iptvcompany.org:8080/Sirlene/123456/116323
-#EXTINF:-1 group-title = "Canais| Opção 4",GLOBO REDE AMAZONICA RONDONIA Full HD
-http://login.iptvcompany.org:8080/Sirlene/123456/104394
-#EXTINF:-1 group-title = "Canais| Opção 4",GLOBO REDE AMAZONICA RONDONIA HD
-http://login.iptvcompany.org:8080/Sirlene/123456/104392
-#EXTINF:-1 group-title = "Canais| Opção 4",GLOBO RIO DE JANEIRO FULL HD
-http://login.iptvcompany.org:8080/Sirlene/123456/46594
-#EXTINF:-1 group-title = "Canais| Opção 4",GLOBO RIO DE JANEIRO HD
-http://login.iptvcompany.org:8080/Sirlene/123456/46670
-#EXTINF:-1 group-title = "Canais| Opção 4",GLOBO RPC CURITIBA FULL HD
-http://login.iptvcompany.org:8080/Sirlene/123456/97878
-#EXTINF:-1 group-title = "Canais| Opção 4",GLOBO RPC CURITIBA HD
-http://login.iptvcompany.org:8080/Sirlene/123456/46672
-#EXTINF:-1 group-title = "Canais| Opção 4",GLOBO RPC FOZ DO IGUAÇU Full HD
-http://login.iptvcompany.org:8080/Sirlene/123456/94622
-#EXTINF:-1 group-title = "Canais| Opção 4",GLOBO RPC FOZ DO IGUAÇU HD
-http://login.iptvcompany.org:8080/Sirlene/123456/94623
-#EXTINF:-1 group-title = "Canais| Opção 4",GLOBO RPC MARINGA Full HD
-http://login.iptvcompany.org:8080/Sirlene/123456/103326
-#EXTINF:-1 group-title = "Canais| Opção 4",GLOBO RPC MARINGA HD
-http://login.iptvcompany.org:8080/Sirlene/123456/103327
-#EXTINF:-1 group-title = "Canais| Opção 4",GLOBO RPC PARANAVAI Full HD
-http://login.iptvcompany.org:8080/Sirlene/123456/103323
-#EXTINF:-1 group-title = "Canais| Opção 4",GLOBO RPC PARANAVAI HD
-http://login.iptvcompany.org:8080/Sirlene/123456/103324
-#EXTINF:-1 group-title = "Canais| Opção 4",GLOBO RPC TV PONTA GROSSA Full HD
-http://login.iptvcompany.org:8080/Sirlene/123456/94616
-#EXTINF:-1 group-title = "Canais| Opção 4",GLOBO RPC TV PONTA GROSSA HD
-http://login.iptvcompany.org:8080/Sirlene/123456/94617
-#EXTINF:-1 group-title = "Canais| Opção 4",GLOBO SAO PAULO FULL HD
-http://login.iptvcompany.org:8080/Sirlene/123456/46595
-#EXTINF:-1 group-title = "Canais| Opção 4",GLOBO SAO PAULO HD
-http://login.iptvcompany.org:8080/Sirlene/123456/46677
-#EXTINF:-1 group-title = "Canais| Opção 4",GLOBO TV ANHANGUERA Full HD
-http://login.iptvcompany.org:8080/Sirlene/123456/104385
-#EXTINF:-1 group-title = "Canais| Opção 4",GLOBO TV ANHANGUERA HD
-http://login.iptvcompany.org:8080/Sirlene/123456/104384
-#EXTINF:-1 group-title = "Canais| Opção 4",Globo TV BAHIA FULL HD
-http://login.iptvcompany.org:8080/Sirlene/123456/46596
-#EXTINF:-1 group-title = "Canais| Opção 4",Globo TV BAHIA HD
-http://login.iptvcompany.org:8080/Sirlene/123456/46679
-#EXTINF:-1 group-title = "Canais| Opção 4",GLOBO TV DIÁRIO FULL HD
-http://login.iptvcompany.org:8080/Sirlene/123456/105253
-#EXTINF:-1 group-title = "Canais| Opção 4",GLOBO TV DIÁRIO HD
-http://login.iptvcompany.org:8080/Sirlene/123456/105254
-#EXTINF:-1 group-title = "Canais| Opção 4",GLOBO TV FRONTEIRA Full HD
-http://login.iptvcompany.org:8080/Sirlene/123456/104776
-#EXTINF:-1 group-title = "Canais| Opção 4",GLOBO TV FRONTEIRA HD
-http://login.iptvcompany.org:8080/Sirlene/123456/104777
-#EXTINF:-1 group-title = "Canais| Opção 4",GLOBO TV GAZETA DE ALAGOAS Full HD
-http://login.iptvcompany.org:8080/Sirlene/123456/104954
-#EXTINF:-1 group-title = "Canais| Opção 4",GLOBO TV GAZETA DE ALAGOAS HD
-http://login.iptvcompany.org:8080/Sirlene/123456/104953
-#EXTINF:-1 group-title = "Canais| Opção 4",GLOBO TV GAZETA SUL Full HD
-http://login.iptvcompany.org:8080/Sirlene/123456/104959
-#EXTINF:-1 group-title = "Canais| Opção 4",GLOBO TV GAZETA SUL HD
-http://login.iptvcompany.org:8080/Sirlene/123456/104960
-#EXTINF:-1 group-title = "Canais| Opção 4",GLOBO TV GAZETA VITORIA Full HD
-http://login.iptvcompany.org:8080/Sirlene/123456/104961
-#EXTINF:-1 group-title = "Canais| Opção 4",GLOBO TV GAZETA VITORIA HD
-http://login.iptvcompany.org:8080/Sirlene/123456/104962
-#EXTINF:-1 group-title = "Canais| Opção 4",GLOBO TV INTEGRAÇAO JUIZ DE FORA - MG Full HD
-http://login.iptvcompany.org:8080/Sirlene/123456/104258
-#EXTINF:-1 group-title = "Canais| Opção 4",GLOBO TV INTEGRAÇAO JUIZ DE FORA - MG HD
-http://login.iptvcompany.org:8080/Sirlene/123456/104259
-#EXTINF:-1 group-title = "Canais| Opção 4",GLOBO TV INTEGRAÇÃO ARAXA Full HD
-http://login.iptvcompany.org:8080/Sirlene/123456/94619
-#EXTINF:-1 group-title = "Canais| Opção 4",GLOBO TV INTEGRAÇÃO ARAXA HD
-http://login.iptvcompany.org:8080/Sirlene/123456/94620
-#EXTINF:-1 group-title = "Canais| Opção 4",GLOBO TV LIBERAL BELEM FULL HD
-http://login.iptvcompany.org:8080/Sirlene/123456/104617
-#EXTINF:-1 group-title = "Canais| Opção 4",GLOBO TV LIBERAL BELEM HD
-http://login.iptvcompany.org:8080/Sirlene/123456/104618
-#EXTINF:-1 group-title = "Canais| Opção 4",GLOBO TV MORENA Full HD
-http://login.iptvcompany.org:8080/Sirlene/123456/104402
-#EXTINF:-1 group-title = "Canais| Opção 4",GLOBO TV MORENA HD
-http://login.iptvcompany.org:8080/Sirlene/123456/46688
-#EXTINF:-1 group-title = "Canais| Opção 4",GLOBO TV NORDESTE  Full HD
-http://login.iptvcompany.org:8080/Sirlene/123456/104619
-#EXTINF:-1 group-title = "Canais| Opção 4",GLOBO TV NORDESTE HD
-http://login.iptvcompany.org:8080/Sirlene/123456/104620
-#EXTINF:-1 group-title = "Canais| Opção 4",GLOBO TV RIO SUL Full HD
-http://login.iptvcompany.org:8080/Sirlene/123456/104778
-#EXTINF:-1 group-title = "Canais| Opção 4",GLOBO TV RIO SUL HD
-http://login.iptvcompany.org:8080/Sirlene/123456/104779
-#EXTINF:-1 group-title = "Canais| Opção 4",GLOBO TV SERRA+MAR Full HD
-http://login.iptvcompany.org:8080/Sirlene/123456/104780
-#EXTINF:-1 group-title = "Canais| Opção 4",GLOBO TV SERRA+MAR HD
-http://login.iptvcompany.org:8080/Sirlene/123456/104781
-#EXTINF:-1 group-title = "Canais| Opção 4",GLOBO TV TEM BAURU Full HD
-http://login.iptvcompany.org:8080/Sirlene/123456/103320
-#EXTINF:-1 group-title = "Canais| Opção 4",GLOBO TV TEM BAURU HD
-http://login.iptvcompany.org:8080/Sirlene/123456/103321
-#EXTINF:-1 group-title = "Canais| Opção 4",GLOBO TV TEM SOROCABA Full HD
-http://login.iptvcompany.org:8080/Sirlene/123456/104957
-#EXTINF:-1 group-title = "Canais| Opção 4",GLOBO TV TEM SOROCABA HD
-http://login.iptvcompany.org:8080/Sirlene/123456/104958
-#EXTINF:-1 group-title = "Canais| Opção 4",GLOBO TV TEM SÃO JOSÉ DO RIO PRETO Full HD
-http://login.iptvcompany.org:8080/Sirlene/123456/104963
-#EXTINF:-1 group-title = "Canais| Opção 4",GLOBO TV TEM SÃO JOSÉ DO RIO PRETO HD
-http://login.iptvcompany.org:8080/Sirlene/123456/104964
-#EXTINF:-1 group-title = "Canais| Opção 4",GLOBO TV TRIBUNA SANTOS Full HD
-http://login.iptvcompany.org:8080/Sirlene/123456/103303
-#EXTINF:-1 group-title = "Canais| Opção 4",GLOBO TV TRIBUNA SANTOS HD
-http://login.iptvcompany.org:8080/Sirlene/123456/103304
-#EXTINF:-1 group-title = "Canais| Opção 4",GLOBO TV VANGUARDA S. J. CAMPOS Full HD
-http://login.iptvcompany.org:8080/Sirlene/123456/103306
-#EXTINF:-1 group-title = "Canais| Opção 4",GLOBO TV VANGUARDA S. J. DOS CAMPOS HD
-http://login.iptvcompany.org:8080/Sirlene/123456/103307
-#EXTINF:-1 group-title = "Canais| Opção 4",GLOBO TV VANGUARDA TAUBATÉ HD
-http://login.iptvcompany.org:8080/Sirlene/123456/104966
-#EXTINF:-1 group-title = "Canais| Opção 4",GLOBO VANGUARDA TAUBATÉ Full HD
-http://login.iptvcompany.org:8080/Sirlene/123456/104965
-#EXTINF:-1 group-title = "Canais| Opção 4",GLOBO VERDES MARES Full HD
-http://login.iptvcompany.org:8080/Sirlene/123456/104184
-#EXTINF:-1 group-title = "Canais| Opção 4",GLOBO VERDES MARES HD
-http://login.iptvcompany.org:8080/Sirlene/123456/104183
-#EXTINF:-1 group-title = "Canais| Opção 4",GLOOB FULL HD
-http://login.iptvcompany.org:8080/Sirlene/123456/46597
-#EXTINF:-1 group-title = "Canais| Opção 4",GLOOB HD
-http://login.iptvcompany.org:8080/Sirlene/123456/46379
-#EXTINF:-1 group-title = "Canais| Opção 4",GLOOBINHO FULL HD
-http://login.iptvcompany.org:8080/Sirlene/123456/49734
-#EXTINF:-1 group-title = "Canais| Opção 4",GLOOBINHO HD
-http://login.iptvcompany.org:8080/Sirlene/123456/49735
-#EXTINF:-1 group-title = "Canais| Opção 4",GNT FULL HD
-http://login.iptvcompany.org:8080/Sirlene/123456/74155
-#EXTINF:-1 group-title = "Canais| Opção 4",GNT HD
-http://login.iptvcompany.org:8080/Sirlene/123456/46477
-#EXTINF:-1 group-title = "Canais| Opção 4",GOLF CHANNEL FULL HD
-http://login.iptvcompany.org:8080/Sirlene/123456/115346
-#EXTINF:-1 group-title = "Canais| Opção 4",GOLF CHANNEL HD
-http://login.iptvcompany.org:8080/Sirlene/123456/115345
-#EXTINF:-1 group-title = "Canais| Opção 4",GOSPEL CARTOON
-http://login.iptvcompany.org:8080/Sirlene/123456/109822
-#EXTINF:-1 group-title = "Canais| Opção 4",GOSPEL MOVIE TV
-http://login.iptvcompany.org:8080/Sirlene/123456/109823
-#EXTINF:-1 group-title = "Canais| Opção 4",GOSPEL MOVIE TV 2
-http://login.iptvcompany.org:8080/Sirlene/123456/109824
-#EXTINF:-1 group-title = "Canais| Opção 4",HBO 2 FULL  HD
-http://login.iptvcompany.org:8080/Sirlene/123456/46599
-#EXTINF:-1 group-title = "Canais| Opção 4",HBO 2 HD
-http://login.iptvcompany.org:8080/Sirlene/123456/46528
-#EXTINF:-1 group-title = "Canais| Opção 4",HBO FAMILY FULL HD
-http://login.iptvcompany.org:8080/Sirlene/123456/46600
-#EXTINF:-1 group-title = "Canais| Opção 4",HBO FAMILY HD
-http://login.iptvcompany.org:8080/Sirlene/123456/46530
-#EXTINF:-1 group-title = "Canais| Opção 4",HBO FULL HD
-http://login.iptvcompany.org:8080/Sirlene/123456/46601
-#EXTINF:-1 group-title = "Canais| Opção 4",HBO HD
-http://login.iptvcompany.org:8080/Sirlene/123456/46532
-#EXTINF:-1 group-title = "Canais| Opção 4",HBO MUNDI FULL HD
-http://login.iptvcompany.org:8080/Sirlene/123456/48237
-#EXTINF:-1 group-title = "Canais| Opção 4",HBO MUNDI HD
-http://login.iptvcompany.org:8080/Sirlene/123456/46533
-#EXTINF:-1 group-title = "Canais| Opção 4",HBO PLUS FULL HD
-http://login.iptvcompany.org:8080/Sirlene/123456/46602
-#EXTINF:-1 group-title = "Canais| Opção 4",HBO PLUS HD
-http://login.iptvcompany.org:8080/Sirlene/123456/46535
-#EXTINF:-1 group-title = "Canais| Opção 4",HBO POP FULL HD
-http://login.iptvcompany.org:8080/Sirlene/123456/48238
-#EXTINF:-1 group-title = "Canais| Opção 4",HBO POP HD
-http://login.iptvcompany.org:8080/Sirlene/123456/46539
-#EXTINF:-1 group-title = "Canais| Opção 4",HBO SIGNATURE FULL HD
-http://login.iptvcompany.org:8080/Sirlene/123456/46603
-#EXTINF:-1 group-title = "Canais| Opção 4",HBO SIGNATURE HD
-http://login.iptvcompany.org:8080/Sirlene/123456/46542
-#EXTINF:-1 group-title = "Canais| Opção 4",HBO XTREME FULL HD
-http://login.iptvcompany.org:8080/Sirlene/123456/46604
-#EXTINF:-1 group-title = "Canais| Opção 4",HBO XTREME HD
-http://login.iptvcompany.org:8080/Sirlene/123456/46544
-#EXTINF:-1 group-title = "Canais| Opção 4",HGTV FULL HD
-http://login.iptvcompany.org:8080/Sirlene/123456/46605
-#EXTINF:-1 group-title = "Canais| Opção 4",HGTV HD
-http://login.iptvcompany.org:8080/Sirlene/123456/46479
-#EXTINF:-1 group-title = "Canais| Opção 4",HISTORY 2 FULL HD
-http://login.iptvcompany.org:8080/Sirlene/123456/90025
-#EXTINF:-1 group-title = "Canais| Opção 4",HISTORY 2 HD
-http://login.iptvcompany.org:8080/Sirlene/123456/90026
-#EXTINF:-1 group-title = "Canais| Opção 4",HISTORY CHANNEL FULL HD
-http://login.iptvcompany.org:8080/Sirlene/123456/46606
-#EXTINF:-1 group-title = "Canais| Opção 4",HISTORY CHANNEL HD
-http://login.iptvcompany.org:8080/Sirlene/123456/46355
-#EXTINF:-1 group-title = "Canais| Opção 4",ID INVESTIGAÇÃO DISCOVERY FULL HD
-http://login.iptvcompany.org:8080/Sirlene/123456/46607
-#EXTINF:-1 group-title = "Canais| Opção 4",ID INVESTIGAÇÃO DISCOVERY HD
-http://login.iptvcompany.org:8080/Sirlene/123456/46357
-#EXTINF:-1 group-title = "Canais| Opção 4",IGREJA MUNDIAL DO PODER DE DEUS
-http://login.iptvcompany.org:8080/Sirlene/123456/109818
-#EXTINF:-1 group-title = "Canais| Opção 4",LIFE TIME FULL HD
-http://login.iptvcompany.org:8080/Sirlene/123456/46608
-#EXTINF:-1 group-title = "Canais| Opção 4",LIFETIME HD
-http://login.iptvcompany.org:8080/Sirlene/123456/46481
-#EXTINF:-1 group-title = "Canais| Opção 4",LOADING FULL HD
-http://login.iptvcompany.org:8080/Sirlene/123456/103628
-#EXTINF:-1 group-title = "Canais| Opção 4",LOADING HD
-http://login.iptvcompany.org:8080/Sirlene/123456/103629
-#EXTINF:-1 group-title = "Canais| Opção 4",LOVE NATURE FULL HD
-http://login.iptvcompany.org:8080/Sirlene/123456/47057
-#EXTINF:-1 group-title = "Canais| Opção 4",LOVE NATURE HD
-http://login.iptvcompany.org:8080/Sirlene/123456/47058
-#EXTINF:-1 group-title = "Canais| Opção 4",MAIS GLOBOSAT FULL HD
-http://login.iptvcompany.org:8080/Sirlene/123456/46609
-#EXTINF:-1 group-title = "Canais| Opção 4",MAIS GLOBOSAT HD
-http://login.iptvcompany.org:8080/Sirlene/123456/46483
-#EXTINF:-1 group-title = "Canais| Opção 4",MEGAPIX FULL HD
-http://login.iptvcompany.org:8080/Sirlene/123456/46610
-#EXTINF:-1 group-title = "Canais| Opção 4",MEGAPIX HD
-http://login.iptvcompany.org:8080/Sirlene/123456/46318
-#EXTINF:-1 group-title = "Canais| Opção 4",MELHORES MOMENTOS TNT ESTADIO
-http://login.iptvcompany.org:8080/Sirlene/123456/106053
-#EXTINF:-1 group-title = "Canais| Opção 4",MTV FULL HD
-http://login.iptvcompany.org:8080/Sirlene/123456/46611
-#EXTINF:-1 group-title = "Canais| Opção 4",MTV HD
-http://login.iptvcompany.org:8080/Sirlene/123456/46485
-#EXTINF:-1 group-title = "Canais| Opção 4",MULTISHOW FULL HD
-http://login.iptvcompany.org:8080/Sirlene/123456/46613
-#EXTINF:-1 group-title = "Canais| Opção 4",MULTISHOW HD
-http://login.iptvcompany.org:8080/Sirlene/123456/46488
-#EXTINF:-1 group-title = "Canais| Opção 4",MUSIC BOX BRASIL FULL HD
-http://login.iptvcompany.org:8080/Sirlene/123456/47055
-#EXTINF:-1 group-title = "Canais| Opção 4",MUSIC BOX BRASIL HD
-http://login.iptvcompany.org:8080/Sirlene/123456/47056
-#EXTINF:-1 group-title = "Canais| Opção 4",NASA TV
-http://login.iptvcompany.org:8080/Sirlene/123456/109820
-#EXTINF:-1 group-title = "Canais| Opção 4",NAT GEO KIDS FULL HD 
-http://login.iptvcompany.org:8080/Sirlene/123456/46614
-#EXTINF:-1 group-title = "Canais| Opção 4",NAT GEO KIDS HD
-http://login.iptvcompany.org:8080/Sirlene/123456/46382
-#EXTINF:-1 group-title = "Canais| Opção 4",NAT GEO WILD FULL HD
-http://login.iptvcompany.org:8080/Sirlene/123456/46615
-#EXTINF:-1 group-title = "Canais| Opção 4",NAT GEO WILD HD
-http://login.iptvcompany.org:8080/Sirlene/123456/46359
-#EXTINF:-1 group-title = "Canais| Opção 4",NATIONAL GEOGRAPHIC FULL HD
-http://login.iptvcompany.org:8080/Sirlene/123456/46616
-#EXTINF:-1 group-title = "Canais| Opção 4",NATIONAL GEOGRAPHIC HD
-http://login.iptvcompany.org:8080/Sirlene/123456/46361
-#EXTINF:-1 group-title = "Canais| Opção 4",NHK HD
-http://login.iptvcompany.org:8080/Sirlene/123456/46491
-#EXTINF:-1 group-title = "Canais| Opção 4",NICK JR FULL HD
-http://login.iptvcompany.org:8080/Sirlene/123456/46617
-#EXTINF:-1 group-title = "Canais| Opção 4",NICK JR HD
-http://login.iptvcompany.org:8080/Sirlene/123456/46384
-#EXTINF:-1 group-title = "Canais| Opção 4",NICKELODEON FULL HD
-http://login.iptvcompany.org:8080/Sirlene/123456/46618
-#EXTINF:-1 group-title = "Canais| Opção 4",NICKELODEON HD
-http://login.iptvcompany.org:8080/Sirlene/123456/46386
-#EXTINF:-1 group-title = "Canais| Opção 4",OFF FULL HD
-http://login.iptvcompany.org:8080/Sirlene/123456/47070
-#EXTINF:-1 group-title = "Canais| Opção 4",OFF HD
-http://login.iptvcompany.org:8080/Sirlene/123456/46493
-#EXTINF:-1 group-title = "Canais| Opção 4",PARAMOUNT CHANNEL FULL HD
-http://login.iptvcompany.org:8080/Sirlene/123456/46619
-#EXTINF:-1 group-title = "Canais| Opção 4",PARAMOUNT CHANNEL HD
-http://login.iptvcompany.org:8080/Sirlene/123456/46320
-#EXTINF:-1 group-title = "Canais| Opção 4",PAULISTAO PLAY
-http://login.iptvcompany.org:8080/Sirlene/123456/113952
-#EXTINF:-1 group-title = "Canais| Opção 4",PAULISTAO PLAY
-http://login.iptvcompany.org:8080/Sirlene/123456/113953
-#EXTINF:-1 group-title = "Canais| Opção 4",PAULISTAO PLAY
-http://login.iptvcompany.org:8080/Sirlene/123456/113954
-#EXTINF:-1 group-title = "Canais| Opção 4",PAULISTAO PLAY
-http://login.iptvcompany.org:8080/Sirlene/123456/113955
-#EXTINF:-1 group-title = "Canais| Opção 4",POLISHOP FULL HD
-http://login.iptvcompany.org:8080/Sirlene/123456/109837
-#EXTINF:-1 group-title = "Canais| Opção 4",POLISHOP HD
-http://login.iptvcompany.org:8080/Sirlene/123456/115438
-#EXTINF:-1 group-title = "Canais| Opção 4",PREMIERE 2  FULL HD
-http://login.iptvcompany.org:8080/Sirlene/123456/46620
-#EXTINF:-1 group-title = "Canais| Opção 4",PREMIERE 2 HD
-http://login.iptvcompany.org:8080/Sirlene/123456/46514
-#EXTINF:-1 group-title = "Canais| Opção 4",PREMIERE 3 FULL HD
-http://login.iptvcompany.org:8080/Sirlene/123456/46621
-#EXTINF:-1 group-title = "Canais| Opção 4",PREMIERE 3 HD
-http://login.iptvcompany.org:8080/Sirlene/123456/46516
-#EXTINF:-1 group-title = "Canais| Opção 4",PREMIERE 4 FULL HD
-http://login.iptvcompany.org:8080/Sirlene/123456/46622
-#EXTINF:-1 group-title = "Canais| Opção 4",PREMIERE 4 HD
-http://login.iptvcompany.org:8080/Sirlene/123456/46518
-#EXTINF:-1 group-title = "Canais| Opção 4",PREMIERE 5 FULL HD
-http://login.iptvcompany.org:8080/Sirlene/123456/46623
-#EXTINF:-1 group-title = "Canais| Opção 4",PREMIERE 5 HD
-http://login.iptvcompany.org:8080/Sirlene/123456/46520
-#EXTINF:-1 group-title = "Canais| Opção 4",PREMIERE 6 HD
-http://login.iptvcompany.org:8080/Sirlene/123456/116287
-#EXTINF:-1 group-title = "Canais| Opção 4",PREMIERE 7 HD
-http://login.iptvcompany.org:8080/Sirlene/123456/116288
-#EXTINF:-1 group-title = "Canais| Opção 4",PREMIERE 8 SD
-http://login.iptvcompany.org:8080/Sirlene/123456/116289
-#EXTINF:-1 group-title = "Canais| Opção 4",PREMIERE CLUBES FULL HD
-http://login.iptvcompany.org:8080/Sirlene/123456/46624
-#EXTINF:-1 group-title = "Canais| Opção 4",PREMIERE CLUBES HD
-http://login.iptvcompany.org:8080/Sirlene/123456/46526
-#EXTINF:-1 group-title = "Canais| Opção 4",PRIME BOX BRASIL FULL HD
-http://login.iptvcompany.org:8080/Sirlene/123456/109844
-#EXTINF:-1 group-title = "Canais| Opção 4",PRIME BOX BRASIL HD
-http://login.iptvcompany.org:8080/Sirlene/123456/109845
-#EXTINF:-1 group-title = "Canais| Opção 4",PROGRAMAÇÃO TNT ESTADIO
-http://login.iptvcompany.org:8080/Sirlene/123456/106051
-#EXTINF:-1 group-title = "Canais| Opção 4",RAI NEWS 24 FULL HD
-http://login.iptvcompany.org:8080/Sirlene/123456/104178
-#EXTINF:-1 group-title = "Canais| Opção 4",RBTV - REDE BRASIL
-http://login.iptvcompany.org:8080/Sirlene/123456/109808
-#EXTINF:-1 group-title = "Canais| Opção 4",RDC TV HD
-http://login.iptvcompany.org:8080/Sirlene/123456/109892
-#EXTINF:-1 group-title = "Canais| Opção 4",RECORD BELEM DO PARÁ FULL HD
-http://login.iptvcompany.org:8080/Sirlene/123456/109695
-#EXTINF:-1 group-title = "Canais| Opção 4",RECORD BELEM DO PARÁ HD
-http://login.iptvcompany.org:8080/Sirlene/123456/109696
-#EXTINF:-1 group-title = "Canais| Opção 4",RECORD CABRALIA FULL HD
-http://login.iptvcompany.org:8080/Sirlene/123456/109699
-#EXTINF:-1 group-title = "Canais| Opção 4",RECORD CABRALIA HD
-http://login.iptvcompany.org:8080/Sirlene/123456/109700
-#EXTINF:-1 group-title = "Canais| Opção 4",RECORD GOIAS FULL HD
-http://login.iptvcompany.org:8080/Sirlene/123456/109701
-#EXTINF:-1 group-title = "Canais| Opção 4",RECORD GOIAS HD
-http://login.iptvcompany.org:8080/Sirlene/123456/109702
-#EXTINF:-1 group-title = "Canais| Opção 4",RECORD INTERIOR SP FULL HD
-http://login.iptvcompany.org:8080/Sirlene/123456/109693
-#EXTINF:-1 group-title = "Canais| Opção 4",RECORD INTERIOR SP HD
-http://login.iptvcompany.org:8080/Sirlene/123456/109694
-#EXTINF:-1 group-title = "Canais| Opção 4",RECORD ITAPOAN FULL HD
-http://login.iptvcompany.org:8080/Sirlene/123456/115442
-#EXTINF:-1 group-title = "Canais| Opção 4",RECORD ITAPOAN HD
-http://login.iptvcompany.org:8080/Sirlene/123456/115443
-#EXTINF:-1 group-title = "Canais| Opção 4",RECORD LITORAL VALE DO PARNAÍBA FULL HD
-http://login.iptvcompany.org:8080/Sirlene/123456/115440
-#EXTINF:-1 group-title = "Canais| Opção 4",RECORD LITORAL VALE DO PARNAÍBA HD
-http://login.iptvcompany.org:8080/Sirlene/123456/115441
-#EXTINF:-1 group-title = "Canais| Opção 4",RECORD NEWS FULL HD
-http://login.iptvcompany.org:8080/Sirlene/123456/46625
-#EXTINF:-1 group-title = "Canais| Opção 4",RECORD NEWS HD
-http://login.iptvcompany.org:8080/Sirlene/123456/46434
-#EXTINF:-1 group-title = "Canais| Opção 4",RECORD PARANAÍBA DE UBERLÂNDIA FULL HD
-http://login.iptvcompany.org:8080/Sirlene/123456/109683
-#EXTINF:-1 group-title = "Canais| Opção 4",RECORD PARANAÍBA DE UBERLÂNDIA HD
-http://login.iptvcompany.org:8080/Sirlene/123456/109684
-#EXTINF:-1 group-title = "Canais| Opção 4",RECORD PAULISTA Full HD
-http://login.iptvcompany.org:8080/Sirlene/123456/109681
-#EXTINF:-1 group-title = "Canais| Opção 4",RECORD PAULISTA HD
-http://login.iptvcompany.org:8080/Sirlene/123456/109682
-#EXTINF:-1 group-title = "Canais| Opção 4",RECORD RIO FULL HD
-http://login.iptvcompany.org:8080/Sirlene/123456/109685
-#EXTINF:-1 group-title = "Canais| Opção 4",RECORD RIO HD
-http://login.iptvcompany.org:8080/Sirlene/123456/109686
-#EXTINF:-1 group-title = "Canais| Opção 4",RECORD RIO PRETO FULL HD
-http://login.iptvcompany.org:8080/Sirlene/123456/109691
-#EXTINF:-1 group-title = "Canais| Opção 4",RECORD RIO PRETO HD
-http://login.iptvcompany.org:8080/Sirlene/123456/109692
-#EXTINF:-1 group-title = "Canais| Opção 4",RECORD RJ INTERIOR FULL HD
-http://login.iptvcompany.org:8080/Sirlene/123456/109697
-#EXTINF:-1 group-title = "Canais| Opção 4",RECORD RJ INTERIOR HD
-http://login.iptvcompany.org:8080/Sirlene/123456/109698
-#EXTINF:-1 group-title = "Canais| Opção 4",RECORD RS FULL HD
-http://login.iptvcompany.org:8080/Sirlene/123456/105425
-#EXTINF:-1 group-title = "Canais| Opção 4",RECORD RS HD
-http://login.iptvcompany.org:8080/Sirlene/123456/46437
-#EXTINF:-1 group-title = "Canais| Opção 4",RECORD SIC TV RONDÔNIA FULL HD
-http://login.iptvcompany.org:8080/Sirlene/123456/109540
-#EXTINF:-1 group-title = "Canais| Opção 4",RECORD SIC TV RONDÔNIA HD
-http://login.iptvcompany.org:8080/Sirlene/123456/109541
-#EXTINF:-1 group-title = "Canais| Opção 4",RECORD SP FULL HD
-http://login.iptvcompany.org:8080/Sirlene/123456/105256
-#EXTINF:-1 group-title = "Canais| Opção 4",RECORD SP HD
-http://login.iptvcompany.org:8080/Sirlene/123456/105257
-#EXTINF:-1 group-title = "Canais| Opção 4",RECORD TV THATHI CAMPINAS FULL HD
-http://login.iptvcompany.org:8080/Sirlene/123456/109689
-#EXTINF:-1 group-title = "Canais| Opção 4",RECORD TV THATHI CAMPINAS HD
-http://login.iptvcompany.org:8080/Sirlene/123456/109690
-#EXTINF:-1 group-title = "Canais| Opção 4",RECORD TV VILA REAL FULL HD
-http://login.iptvcompany.org:8080/Sirlene/123456/109687
-#EXTINF:-1 group-title = "Canais| Opção 4",RECORD TV VILA REAL HD
-http://login.iptvcompany.org:8080/Sirlene/123456/109688
-#EXTINF:-1 group-title = "Canais| Opção 4",RED BULL TV FULL HD
-http://login.iptvcompany.org:8080/Sirlene/123456/104176
-#EXTINF:-1 group-title = "Canais| Opção 4",RED BULL TV HD
-http://login.iptvcompany.org:8080/Sirlene/123456/109816
-#EXTINF:-1 group-title = "Canais| Opção 4",REDE FAMILIA FULL HD
-http://login.iptvcompany.org:8080/Sirlene/123456/90001
-#EXTINF:-1 group-title = "Canais| Opção 4",REDE FAMILIA HD
-http://login.iptvcompany.org:8080/Sirlene/123456/90028
-#EXTINF:-1 group-title = "Canais| Opção 4",REDE GOSPEL Full HD
-http://login.iptvcompany.org:8080/Sirlene/123456/104157
-#EXTINF:-1 group-title = "Canais| Opção 4",REDE MINAS
-http://login.iptvcompany.org:8080/Sirlene/123456/109814
-#EXTINF:-1 group-title = "Canais| Opção 4",REDE PREMIUM TV HD
-http://login.iptvcompany.org:8080/Sirlene/123456/109819
-#EXTINF:-1 group-title = "Canais| Opção 4",REDE SECULO 21 HD
-http://login.iptvcompany.org:8080/Sirlene/123456/89945
-#EXTINF:-1 group-title = "Canais| Opção 4",REDE SUPER Full HD
-http://login.iptvcompany.org:8080/Sirlene/123456/84072
-#EXTINF:-1 group-title = "Canais| Opção 4",REDE SUPER HD
-http://login.iptvcompany.org:8080/Sirlene/123456/90029
-#EXTINF:-1 group-title = "Canais| Opção 4",REDE VIDA FULL HD
-http://login.iptvcompany.org:8080/Sirlene/123456/46698
-#EXTINF:-1 group-title = "Canais| Opção 4",REDETV! FULL HD
-http://login.iptvcompany.org:8080/Sirlene/123456/47071
-#EXTINF:-1 group-title = "Canais| Opção 4",REDETV! HD
-http://login.iptvcompany.org:8080/Sirlene/123456/46443
-#EXTINF:-1 group-title = "Canais| Opção 4",RETRÔ CARTOON
-http://login.iptvcompany.org:8080/Sirlene/123456/109821
-#EXTINF:-1 group-title = "Canais| Opção 4",RT ESPANHOL FULL HD
-http://login.iptvcompany.org:8080/Sirlene/123456/97524
-#EXTINF:-1 group-title = "Canais| Opção 4",SBT ITAPOAN FULL HD
-http://login.iptvcompany.org:8080/Sirlene/123456/116311
-#EXTINF:-1 group-title = "Canais| Opção 4",SBT ITAPOAN HD
-http://login.iptvcompany.org:8080/Sirlene/123456/116310
-#EXTINF:-1 group-title = "Canais| Opção 4",SBT REDE MASSA  HD
-http://login.iptvcompany.org:8080/Sirlene/123456/109826
-#EXTINF:-1 group-title = "Canais| Opção 4",SBT REDE MASSA LONDRINA HD
-http://login.iptvcompany.org:8080/Sirlene/123456/115449
-#EXTINF:-1 group-title = "Canais| Opção 4",SBT REDE MASSA MARINGA HD
-http://login.iptvcompany.org:8080/Sirlene/123456/115448
-#EXTINF:-1 group-title = "Canais| Opção 4",SBT RIO FULL HD
-http://login.iptvcompany.org:8080/Sirlene/123456/115348
-#EXTINF:-1 group-title = "Canais| Opção 4",SBT RIO HD
-http://login.iptvcompany.org:8080/Sirlene/123456/115347
-#EXTINF:-1 group-title = "Canais| Opção 4",SBT RS FULL HD
-http://login.iptvcompany.org:8080/Sirlene/123456/47059
-#EXTINF:-1 group-title = "Canais| Opção 4",SBT RS HD
-http://login.iptvcompany.org:8080/Sirlene/123456/109749
-#EXTINF:-1 group-title = "Canais| Opção 4",SBT SP FULL HD
-http://login.iptvcompany.org:8080/Sirlene/123456/46627
-#EXTINF:-1 group-title = "Canais| Opção 4",SBT SP HD
-http://login.iptvcompany.org:8080/Sirlene/123456/46449
-#EXTINF:-1 group-title = "Canais| Opção 4",SBT TV ALTEROSA Full HD
-http://login.iptvcompany.org:8080/Sirlene/123456/109538
-#EXTINF:-1 group-title = "Canais| Opção 4",SBT TV ALTEROSA HD
-http://login.iptvcompany.org:8080/Sirlene/123456/109539
-#EXTINF:-1 group-title = "Canais| Opção 4",SERIE C (MC)
-http://login.iptvcompany.org:8080/Sirlene/123456/106052
-#EXTINF:-1 group-title = "Canais| Opção 4",SEXYKPOP TV
-http://login.iptvcompany.org:8080/Sirlene/123456/109813
-#EXTINF:-1 group-title = "Canais| Opção 4",SHOPTIME
-http://login.iptvcompany.org:8080/Sirlene/123456/109838
-#EXTINF:-1 group-title = "Canais| Opção 4",SPACE FULL HD
-http://login.iptvcompany.org:8080/Sirlene/123456/46628
-#EXTINF:-1 group-title = "Canais| Opção 4",SPACE HD
-http://login.iptvcompany.org:8080/Sirlene/123456/46322
-#EXTINF:-1 group-title = "Canais| Opção 4",SPORTV 2 FULL HD
-http://login.iptvcompany.org:8080/Sirlene/123456/46629
-#EXTINF:-1 group-title = "Canais| Opção 4",SPORTV 2 HD
-http://login.iptvcompany.org:8080/Sirlene/123456/115467
-#EXTINF:-1 group-title = "Canais| Opção 4",SPORTV 3 FULL HD
-http://login.iptvcompany.org:8080/Sirlene/123456/46630
-#EXTINF:-1 group-title = "Canais| Opção 4",SPORTV 3 HD
-http://login.iptvcompany.org:8080/Sirlene/123456/46419
-#EXTINF:-1 group-title = "Canais| Opção 4",SPORTV 4 FULL HD
-http://login.iptvcompany.org:8080/Sirlene/123456/116509
-#EXTINF:-1 group-title = "Canais| Opção 4",SPORTV 4 HD
-http://login.iptvcompany.org:8080/Sirlene/123456/116508
-#EXTINF:-1 group-title = "Canais| Opção 4",SPORTV FULL HD
-http://login.iptvcompany.org:8080/Sirlene/123456/116296
-#EXTINF:-1 group-title = "Canais| Opção 4",SPORTV HD
-http://login.iptvcompany.org:8080/Sirlene/123456/116297
-#EXTINF:-1 group-title = "Canais| Opção 4",STUDIO UNIVERSAL FULL HD
-http://login.iptvcompany.org:8080/Sirlene/123456/46632
-#EXTINF:-1 group-title = "Canais| Opção 4",STUDIO UNIVERSAL HD
-http://login.iptvcompany.org:8080/Sirlene/123456/46324
-#EXTINF:-1 group-title = "Canais| Opção 4",ST✩R CHANNEL FULL HD
-http://login.iptvcompany.org:8080/Sirlene/123456/46585
-#EXTINF:-1 group-title = "Canais| Opção 4",ST✩R CHANNEL HD
-http://login.iptvcompany.org:8080/Sirlene/123456/46305
-#EXTINF:-1 group-title = "Canais| Opção 4",ST✩R HITS 1 FULL HD
-http://login.iptvcompany.org:8080/Sirlene/123456/46587
-#EXTINF:-1 group-title = "Canais| Opção 4",ST✩R HITS 1 HD
-http://login.iptvcompany.org:8080/Sirlene/123456/46308
-#EXTINF:-1 group-title = "Canais| Opção 4",St✩r Hits 2 Full HD
-http://login.iptvcompany.org:8080/Sirlene/123456/46588
-#EXTINF:-1 group-title = "Canais| Opção 4",ST✩R HITS 2 HD
-http://login.iptvcompany.org:8080/Sirlene/123456/46310
-#EXTINF:-1 group-title = "Canais| Opção 4",ST✩R LIFE FULL HD
-http://login.iptvcompany.org:8080/Sirlene/123456/46586
-#EXTINF:-1 group-title = "Canais| Opção 4",ST✩R LIFE HD
-http://login.iptvcompany.org:8080/Sirlene/123456/46306
-#EXTINF:-1 group-title = "Canais| Opção 4",SYFY FULL HD
-http://login.iptvcompany.org:8080/Sirlene/123456/46633
-#EXTINF:-1 group-title = "Canais| Opção 4",SYFY HD
-http://login.iptvcompany.org:8080/Sirlene/123456/46326
-#EXTINF:-1 group-title = "Canais| Opção 4",TBS FULL HD
-http://login.iptvcompany.org:8080/Sirlene/123456/74153
-#EXTINF:-1 group-title = "Canais| Opção 4",TBS HD
-http://login.iptvcompany.org:8080/Sirlene/123456/74154
-#EXTINF:-1 group-title = "Canais| Opção 4",TCM FULL HD
-http://login.iptvcompany.org:8080/Sirlene/123456/109839
-#EXTINF:-1 group-title = "Canais| Opção 4",TCM HD
-http://login.iptvcompany.org:8080/Sirlene/123456/90024
-#EXTINF:-1 group-title = "Canais| Opção 4",TELECINE ACTION FULL HD
-http://login.iptvcompany.org:8080/Sirlene/123456/46634
-#EXTINF:-1 group-title = "Canais| Opção 4",TELECINE ACTION HD
-http://login.iptvcompany.org:8080/Sirlene/123456/46545
-#EXTINF:-1 group-title = "Canais| Opção 4",TELECINE CULT FULL HD
-http://login.iptvcompany.org:8080/Sirlene/123456/46635
-#EXTINF:-1 group-title = "Canais| Opção 4",TELECINE CULT HD
-http://login.iptvcompany.org:8080/Sirlene/123456/46547
-#EXTINF:-1 group-title = "Canais| Opção 4",TELECINE FUN FULL HD
-http://login.iptvcompany.org:8080/Sirlene/123456/46636
-#EXTINF:-1 group-title = "Canais| Opção 4",TELECINE FUN HD
-http://login.iptvcompany.org:8080/Sirlene/123456/46549
-#EXTINF:-1 group-title = "Canais| Opção 4",TELECINE PIPOCA FULL HD
-http://login.iptvcompany.org:8080/Sirlene/123456/46637
-#EXTINF:-1 group-title = "Canais| Opção 4",TELECINE PIPOCA HD
-http://login.iptvcompany.org:8080/Sirlene/123456/46551
-#EXTINF:-1 group-title = "Canais| Opção 4",TELECINE PREMIUM FULL HD
-http://login.iptvcompany.org:8080/Sirlene/123456/46638
-#EXTINF:-1 group-title = "Canais| Opção 4",TELECINE PREMIUM HD
-http://login.iptvcompany.org:8080/Sirlene/123456/46553
-#EXTINF:-1 group-title = "Canais| Opção 4",TELECINE TOUCH FULL HD
-http://login.iptvcompany.org:8080/Sirlene/123456/46639
-#EXTINF:-1 group-title = "Canais| Opção 4",TELECINE TOUCH HD
-http://login.iptvcompany.org:8080/Sirlene/123456/46555
-#EXTINF:-1 group-title = "Canais| Opção 4",TERRA VIVA FULL HD
-http://login.iptvcompany.org:8080/Sirlene/123456/100713
-#EXTINF:-1 group-title = "Canais| Opção 4",TERRA VIVA HD
-http://login.iptvcompany.org:8080/Sirlene/123456/100712
-#EXTINF:-1 group-title = "Canais| Opção 4",TNT ESTADIO 1
-http://login.iptvcompany.org:8080/Sirlene/123456/106209
-#EXTINF:-1 group-title = "Canais| Opção 4",TNT ESTADIO 2
-http://login.iptvcompany.org:8080/Sirlene/123456/106210
-#EXTINF:-1 group-title = "Canais| Opção 4",TNT ESTADIO 3
-http://login.iptvcompany.org:8080/Sirlene/123456/106211
-#EXTINF:-1 group-title = "Canais| Opção 4",TNT ESTADIO 4
-http://login.iptvcompany.org:8080/Sirlene/123456/106212
-#EXTINF:-1 group-title = "Canais| Opção 4",TNT ESTADIO 5
-http://login.iptvcompany.org:8080/Sirlene/123456/106213
-#EXTINF:-1 group-title = "Canais| Opção 4",TNT FULL HD
-http://login.iptvcompany.org:8080/Sirlene/123456/46640
-#EXTINF:-1 group-title = "Canais| Opção 4",TNT HD
-http://login.iptvcompany.org:8080/Sirlene/123456/46329
-#EXTINF:-1 group-title = "Canais| Opção 4",TNT SERIES FULL HD
-http://login.iptvcompany.org:8080/Sirlene/123456/46641
-#EXTINF:-1 group-title = "Canais| Opção 4",TNT SERIES HD
-http://login.iptvcompany.org:8080/Sirlene/123456/46331
-#EXTINF:-1 group-title = "Canais| Opção 4",TOONCAST FULL HD
-http://login.iptvcompany.org:8080/Sirlene/123456/46389
-#EXTINF:-1 group-title = "Canais| Opção 4",TRAVEL BOX BRASIL FULL HD
-http://login.iptvcompany.org:8080/Sirlene/123456/47054
-#EXTINF:-1 group-title = "Canais| Opção 4",TRAVEL BOX BRASIL HD
-http://login.iptvcompany.org:8080/Sirlene/123456/109848
-#EXTINF:-1 group-title = "Canais| Opção 4",TRU TV FULL HD
-http://login.iptvcompany.org:8080/Sirlene/123456/115221
-#EXTINF:-1 group-title = "Canais| Opção 4",TRU TV HD
-http://login.iptvcompany.org:8080/Sirlene/123456/115220
-#EXTINF:-1 group-title = "Canais| Opção 4",TV ACRITICA FULL HD
-http://login.iptvcompany.org:8080/Sirlene/123456/115445
-#EXTINF:-1 group-title = "Canais| Opção 4",TV ACRITICA HD
-http://login.iptvcompany.org:8080/Sirlene/123456/115446
-#EXTINF:-1 group-title = "Canais| Opção 4",TV APARECIDA FULL HD
-http://login.iptvcompany.org:8080/Sirlene/123456/46700
-#EXTINF:-1 group-title = "Canais| Opção 4",TV ARACATI HD
-http://login.iptvcompany.org:8080/Sirlene/123456/109825
-#EXTINF:-1 group-title = "Canais| Opção 4",TV ASSEMBLEIA
-http://login.iptvcompany.org:8080/Sirlene/123456/109850
-#EXTINF:-1 group-title = "Canais| Opção 4",TV BRASIL FULL HD
-http://login.iptvcompany.org:8080/Sirlene/123456/100717
-#EXTINF:-1 group-title = "Canais| Opção 4",TV CAMARA FULL HD
-http://login.iptvcompany.org:8080/Sirlene/123456/100716
-#EXTINF:-1 group-title = "Canais| Opção 4",TV CANDIDÉS HD
-http://login.iptvcompany.org:8080/Sirlene/123456/109832
-#EXTINF:-1 group-title = "Canais| Opção 4",TV CARIOCA NET
-http://login.iptvcompany.org:8080/Sirlene/123456/106104
-#EXTINF:-1 group-title = "Canais| Opção 4",TV ESCOLA FULL HD
-http://login.iptvcompany.org:8080/Sirlene/123456/47063
-#EXTINF:-1 group-title = "Canais| Opção 4",TV GAZETA FULL HD
-http://login.iptvcompany.org:8080/Sirlene/123456/90022
-#EXTINF:-1 group-title = "Canais| Opção 4",TV GAZETA HD
-http://login.iptvcompany.org:8080/Sirlene/123456/90023
-#EXTINF:-1 group-title = "Canais| Opção 4",TV GIDEÔES HD
-http://login.iptvcompany.org:8080/Sirlene/123456/109835
-#EXTINF:-1 group-title = "Canais| Opção 4",TV IRACEMA HD
-http://login.iptvcompany.org:8080/Sirlene/123456/109833
-#EXTINF:-1 group-title = "Canais| Opção 4",TV JAPI
-http://login.iptvcompany.org:8080/Sirlene/123456/109812
-#EXTINF:-1 group-title = "Canais| Opção 4",TV JOCKEY HD
-http://login.iptvcompany.org:8080/Sirlene/123456/115457
-#EXTINF:-1 group-title = "Canais| Opção 4",TV JORNAL  DO NORDESTE HD
-http://login.iptvcompany.org:8080/Sirlene/123456/109827
-#EXTINF:-1 group-title = "Canais| Opção 4",TV MANCHETE
-http://login.iptvcompany.org:8080/Sirlene/123456/109829
-#EXTINF:-1 group-title = "Canais| Opção 4",TV MAR
-http://login.iptvcompany.org:8080/Sirlene/123456/109811
-#EXTINF:-1 group-title = "Canais| Opção 4",TV NOVO TEMPO HD
-http://login.iptvcompany.org:8080/Sirlene/123456/92634
-#EXTINF:-1 group-title = "Canais| Opção 4",TV PAI ETERNO FULL HD
-http://login.iptvcompany.org:8080/Sirlene/123456/105424
-#EXTINF:-1 group-title = "Canais| Opção 4",TV PAMPA HD
-http://login.iptvcompany.org:8080/Sirlene/123456/97519
-#EXTINF:-1 group-title = "Canais| Opção 4",TV PAMPA HD FULL HD
-http://login.iptvcompany.org:8080/Sirlene/123456/97520
-#EXTINF:-1 group-title = "Canais| Opção 4",TV RA TIM BUM FULL HD
-http://login.iptvcompany.org:8080/Sirlene/123456/46391
-#EXTINF:-1 group-title = "Canais| Opção 4",TV RA TIM BUM HD
-http://login.iptvcompany.org:8080/Sirlene/123456/103214
-#EXTINF:-1 group-title = "Canais| Opção 4",TV SENADO FULL HD
-http://login.iptvcompany.org:8080/Sirlene/123456/91761
-#EXTINF:-1 group-title = "Canais| Opção 4",TV SENADO HD
-http://login.iptvcompany.org:8080/Sirlene/123456/91763
-#EXTINF:-1 group-title = "Canais| Opção 4",TV SERIES
-http://login.iptvcompany.org:8080/Sirlene/123456/109894
-#EXTINF:-1 group-title = "Canais| Opção 4",TV URSO POLAR
-http://login.iptvcompany.org:8080/Sirlene/123456/109828
-#EXTINF:-1 group-title = "Canais| Opção 4",TV WA HD
-http://login.iptvcompany.org:8080/Sirlene/123456/115458
-#EXTINF:-1 group-title = "Canais| Opção 4",TV5 MONDE
-http://login.iptvcompany.org:8080/Sirlene/123456/104238
-#EXTINF:-1 group-title = "Canais| Opção 4",TVE FULL HD
-http://login.iptvcompany.org:8080/Sirlene/123456/105258
-#EXTINF:-1 group-title = "Canais| Opção 4",TVE HD
-http://login.iptvcompany.org:8080/Sirlene/123456/89944
-#EXTINF:-1 group-title = "Canais| Opção 4",UNIVERSAL CHANNEL FULL HD
-http://login.iptvcompany.org:8080/Sirlene/123456/46643
-#EXTINF:-1 group-title = "Canais| Opção 4",UNIVERSAL CHANNEL HD
-http://login.iptvcompany.org:8080/Sirlene/123456/46333
-#EXTINF:-1 group-title = "Canais| Opção 4",URBAN DOCS HD
-http://login.iptvcompany.org:8080/Sirlene/123456/115450
-#EXTINF:-1 group-title = "Canais| Opção 4",URBAN KIDS HD
-http://login.iptvcompany.org:8080/Sirlene/123456/115453
-#EXTINF:-1 group-title = "Canais| Opção 4",URBAN MOVIES HD
-http://login.iptvcompany.org:8080/Sirlene/123456/115452
-#EXTINF:-1 group-title = "Canais| Opção 4",URBAN SERIES HD
-http://login.iptvcompany.org:8080/Sirlene/123456/115451
-#EXTINF:-1 group-title = "Canais| Opção 4",VH1 FULL HD
-http://login.iptvcompany.org:8080/Sirlene/123456/116308
-#EXTINF:-1 group-title = "Canais| Opção 4",VH1 HD
-http://login.iptvcompany.org:8080/Sirlene/123456/116309
-#EXTINF:-1 group-title = "Canais| Opção 4",VIVA FULL HD
-http://login.iptvcompany.org:8080/Sirlene/123456/46644
-#EXTINF:-1 group-title = "Canais| Opção 4",VIVA HD
-http://login.iptvcompany.org:8080/Sirlene/123456/46455
-#EXTINF:-1 group-title = "Canais| Opção 4",WARNER  CHANNEL HD
-http://login.iptvcompany.org:8080/Sirlene/123456/46335
-#EXTINF:-1 group-title = "Canais| Opção 4",WARNER CHANNEL FULL HD
-http://login.iptvcompany.org:8080/Sirlene/123456/46645
-#EXTINF:-1 group-title = "Canais| Opção 4",WOOHOO FULL HD
-http://login.iptvcompany.org:8080/Sirlene/123456/103610
-#EXTINF:-1 group-title = "Canais| Opção 4",WOOHOO HD
-http://login.iptvcompany.org:8080/Sirlene/123456/46505
-#EXTINF:-1 group-title = "Canais| Opção 4",ZOOMO HD
-http://login.iptvcompany.org:8080/Sirlene/123456/115222
+#EXTINF:-1 group-title = "Canais| Opção 2",Warner Channel HD+
+http://xcui.vitvabc.xyz:8880/287994003754/287994003754/16765
+#EXTINF:-1 group-title = "Canais| Opção 2",A&E HD+
+http://xcui.vitvabc.xyz:8880/287994003754/287994003754/16691
+#EXTINF:-1 group-title = "Canais| Opção 2",AMC HD+
+http://xcui.vitvabc.xyz:8880/287994003754/287994003754/16692
+#EXTINF:-1 group-title = "Canais| Opção 2",ANIMAL PLANET HD
+http://xcui.vitvabc.xyz:8880/287994003754/287994003754/16693
+#EXTINF:-1 group-title = "Canais| Opção 2",Arte 1 HD+
+http://xcui.vitvabc.xyz:8880/287994003754/287994003754/16694
+#EXTINF:-1 group-title = "Canais| Opção 2",AXN HD+
+http://xcui.vitvabc.xyz:8880/287994003754/287994003754/16695
+#EXTINF:-1 group-title = "Canais| Opção 2",Band News HD+
+http://xcui.vitvabc.xyz:8880/287994003754/287994003754/16696
+#EXTINF:-1 group-title = "Canais| Opção 2",Band SP HD+
+http://xcui.vitvabc.xyz:8880/287994003754/287994003754/16697
+#EXTINF:-1 group-title = "Canais| Opção 2",Band Sports HD+
+http://xcui.vitvabc.xyz:8880/287994003754/287994003754/16698
+#EXTINF:-1 group-title = "Canais| Opção 2",Boomerang HD+
+http://xcui.vitvabc.xyz:8880/287994003754/287994003754/16699
+#EXTINF:-1 group-title = "Canais| Opção 2",Canal Sony HD+
+http://xcui.vitvabc.xyz:8880/287994003754/287994003754/16700
+#EXTINF:-1 group-title = "Canais| Opção 2",Cartoon Network HD+
+http://xcui.vitvabc.xyz:8880/287994003754/287994003754/16701
+#EXTINF:-1 group-title = "Canais| Opção 2",CINEMAX HD
+http://xcui.vitvabc.xyz:8880/287994003754/287994003754/16702
+#EXTINF:-1 group-title = "Canais| Opção 2",Combate HD+
+http://xcui.vitvabc.xyz:8880/287994003754/287994003754/16703
+#EXTINF:-1 group-title = "Canais| Opção 2",COMEDY CENTRAL HD+
+http://xcui.vitvabc.xyz:8880/287994003754/287994003754/16704
+#EXTINF:-1 group-title = "Canais| Opção 2",DISCOVERY CHANNEL HD
+http://xcui.vitvabc.xyz:8880/287994003754/287994003754/16705
+#EXTINF:-1 group-title = "Canais| Opção 2",Discovery H&H HD+
+http://xcui.vitvabc.xyz:8880/287994003754/287994003754/16706
+#EXTINF:-1 group-title = "Canais| Opção 2",Discovery Kids HD+
+http://xcui.vitvabc.xyz:8880/287994003754/287994003754/16707
+#EXTINF:-1 group-title = "Canais| Opção 2",Discovery Science HD+
+http://xcui.vitvabc.xyz:8880/287994003754/287994003754/16708
+#EXTINF:-1 group-title = "Canais| Opção 2",Discovery Theater HD+
+http://xcui.vitvabc.xyz:8880/287994003754/287994003754/16709
+#EXTINF:-1 group-title = "Canais| Opção 2",Discovery TLC HD+
+http://xcui.vitvabc.xyz:8880/287994003754/287994003754/16710
+#EXTINF:-1 group-title = "Canais| Opção 2",Discovery Turbo HD+
+http://xcui.vitvabc.xyz:8880/287994003754/287994003754/16711
+#EXTINF:-1 group-title = "Canais| Opção 2",Discovery World HD+
+http://xcui.vitvabc.xyz:8880/287994003754/287994003754/16712
+#EXTINF:-1 group-title = "Canais| Opção 2",Disney Channel HD+
+http://xcui.vitvabc.xyz:8880/287994003754/287994003754/16713
+#EXTINF:-1 group-title = "Canais| Opção 2",Disney Junior HD+
+http://xcui.vitvabc.xyz:8880/287994003754/287994003754/16714
+#EXTINF:-1 group-title = "Canais| Opção 2",Disney XD HD+
+http://xcui.vitvabc.xyz:8880/287994003754/287994003754/16715
+#EXTINF:-1 group-title = "Canais| Opção 2",ESPN 2 HD+
+http://xcui.vitvabc.xyz:8880/287994003754/287994003754/16716
+#EXTINF:-1 group-title = "Canais| Opção 2",ESPN Brasil HD+
+http://xcui.vitvabc.xyz:8880/287994003754/287994003754/16717
+#EXTINF:-1 group-title = "Canais| Opção 2",ESPN HD+
+http://xcui.vitvabc.xyz:8880/287994003754/287994003754/16718
+#EXTINF:-1 group-title = "Canais| Opção 2",Food Network HD+
+http://xcui.vitvabc.xyz:8880/287994003754/287994003754/16719
+#EXTINF:-1 group-title = "Canais| Opção 2",STAR CHANNEL HD+
+http://xcui.vitvabc.xyz:8880/287994003754/287994003754/16720
+#EXTINF:-1 group-title = "Canais| Opção 2",Star Life
+http://xcui.vitvabc.xyz:8880/287994003754/287994003754/16721
+#EXTINF:-1 group-title = "Canais| Opção 2",STAR HITS 1 HD+
+http://xcui.vitvabc.xyz:8880/287994003754/287994003754/16722
+#EXTINF:-1 group-title = "Canais| Opção 2",STAR HITS 2 HD+
+http://xcui.vitvabc.xyz:8880/287994003754/287994003754/16723
+#EXTINF:-1 group-title = "Canais| Opção 2",Fox Sports 2 HD+
+http://xcui.vitvabc.xyz:8880/287994003754/287994003754/16724
+#EXTINF:-1 group-title = "Canais| Opção 2",Fox Sports 1 HD+
+http://xcui.vitvabc.xyz:8880/287994003754/287994003754/16725
+#EXTINF:-1 group-title = "Canais| Opção 2",FX HD+
+http://xcui.vitvabc.xyz:8880/287994003754/287994003754/16726
+#EXTINF:-1 group-title = "Canais| Opção 2",Globo News HD+
+http://xcui.vitvabc.xyz:8880/287994003754/287994003754/16727
+#EXTINF:-1 group-title = "Canais| Opção 2",Globo Nordeste HD+
+http://xcui.vitvabc.xyz:8880/287994003754/287994003754/16728
+#EXTINF:-1 group-title = "Canais| Opção 2",Globo RJ HD+
+http://xcui.vitvabc.xyz:8880/287994003754/287994003754/16729
+#EXTINF:-1 group-title = "Canais| Opção 2",Globo SP HD+
+http://xcui.vitvabc.xyz:8880/287994003754/287994003754/16730
+#EXTINF:-1 group-title = "Canais| Opção 2",Globo TV Bahia HD+
+http://xcui.vitvabc.xyz:8880/287994003754/287994003754/16731
+#EXTINF:-1 group-title = "Canais| Opção 2",Gloob HD+
+http://xcui.vitvabc.xyz:8880/287994003754/287994003754/16732
+#EXTINF:-1 group-title = "Canais| Opção 2",H2 HD+
+http://xcui.vitvabc.xyz:8880/287994003754/287994003754/16733
+#EXTINF:-1 group-title = "Canais| Opção 2",HGTV HD+
+http://xcui.vitvabc.xyz:8880/287994003754/287994003754/16734
+#EXTINF:-1 group-title = "Canais| Opção 2",History Channel HD+
+http://xcui.vitvabc.xyz:8880/287994003754/287994003754/16735
+#EXTINF:-1 group-title = "Canais| Opção 2",ID Investigao Discovery HD+
+http://xcui.vitvabc.xyz:8880/287994003754/287994003754/16736
+#EXTINF:-1 group-title = "Canais| Opção 2",Mais Globosat HD+
+http://xcui.vitvabc.xyz:8880/287994003754/287994003754/16737
+#EXTINF:-1 group-title = "Canais| Opção 2",MTV HD+
+http://xcui.vitvabc.xyz:8880/287994003754/287994003754/16738
+#EXTINF:-1 group-title = "Canais| Opção 2",MTV Live HD+
+http://xcui.vitvabc.xyz:8880/287994003754/287994003754/16739
+#EXTINF:-1 group-title = "Canais| Opção 2",Multishow HD+
+http://xcui.vitvabc.xyz:8880/287994003754/287994003754/16740
+#EXTINF:-1 group-title = "Canais| Opção 2",Nat Geo Kids HD+
+http://xcui.vitvabc.xyz:8880/287994003754/287994003754/16741
+#EXTINF:-1 group-title = "Canais| Opção 2",Nat Geo Wild HD+
+http://xcui.vitvabc.xyz:8880/287994003754/287994003754/16742
+#EXTINF:-1 group-title = "Canais| Opção 2",National Geographic HD+
+http://xcui.vitvabc.xyz:8880/287994003754/287994003754/16743
+#EXTINF:-1 group-title = "Canais| Opção 2",Nick Jr HD+
+http://xcui.vitvabc.xyz:8880/287994003754/287994003754/16744
+#EXTINF:-1 group-title = "Canais| Opção 2",Nickelodeon HD+
+http://xcui.vitvabc.xyz:8880/287994003754/287994003754/16745
+#EXTINF:-1 group-title = "Canais| Opção 2",Paramount Channel HD+
+http://xcui.vitvabc.xyz:8880/287994003754/287994003754/16746
+#EXTINF:-1 group-title = "Canais| Opção 2",Record News HD+
+http://xcui.vitvabc.xyz:8880/287994003754/287994003754/16747
+#EXTINF:-1 group-title = "Canais| Opção 2",RECORDTV HD
+http://xcui.vitvabc.xyz:8880/287994003754/287994003754/16748
+#EXTINF:-1 group-title = "Canais| Opção 2",SBT SP HD+
+http://xcui.vitvabc.xyz:8880/287994003754/287994003754/16749
+#EXTINF:-1 group-title = "Canais| Opção 2",Space HD+
+http://xcui.vitvabc.xyz:8880/287994003754/287994003754/16750
+#EXTINF:-1 group-title = "Canais| Opção 2",SporTV 2 HD+
+http://xcui.vitvabc.xyz:8880/287994003754/287994003754/16751
+#EXTINF:-1 group-title = "Canais| Opção 2",SporTV 3 HD+
+http://xcui.vitvabc.xyz:8880/287994003754/287994003754/16752
+#EXTINF:-1 group-title = "Canais| Opção 2",SporTV HD+
+http://xcui.vitvabc.xyz:8880/287994003754/287994003754/16753
+#EXTINF:-1 group-title = "Canais| Opção 2",Studio Universal HD+
+http://xcui.vitvabc.xyz:8880/287994003754/287994003754/16754
+#EXTINF:-1 group-title = "Canais| Opção 2",SyFy HD+
+http://xcui.vitvabc.xyz:8880/287994003754/287994003754/16755
+#EXTINF:-1 group-title = "Canais| Opção 2",Telecine Fun HD+
+http://xcui.vitvabc.xyz:8880/287994003754/287994003754/16756
+#EXTINF:-1 group-title = "Canais| Opção 2",Telecine Pipoca HD+
+http://xcui.vitvabc.xyz:8880/287994003754/287994003754/16757
+#EXTINF:-1 group-title = "Canais| Opção 2",Telecine Premium HD+
+http://xcui.vitvabc.xyz:8880/287994003754/287994003754/16758
+#EXTINF:-1 group-title = "Canais| Opção 2",Telecine Touch HD+
+http://xcui.vitvabc.xyz:8880/287994003754/287994003754/16759
+#EXTINF:-1 group-title = "Canais| Opção 2",TNT HD+
+http://xcui.vitvabc.xyz:8880/287994003754/287994003754/16760
+#EXTINF:-1 group-title = "Canais| Opção 2",TNT Sies HD+
+http://xcui.vitvabc.xyz:8880/287994003754/287994003754/16761
+#EXTINF:-1 group-title = "Canais| Opção 2",Tooncast HD+
+http://xcui.vitvabc.xyz:8880/287994003754/287994003754/16762
+#EXTINF:-1 group-title = "Canais| Opção 2",Universal Channel HD+
+http://xcui.vitvabc.xyz:8880/287994003754/287994003754/16763
+#EXTINF:-1 group-title = "Canais| Opção 2",Viva HD+
+http://xcui.vitvabc.xyz:8880/287994003754/287994003754/16764
+
+#EXTINF:-1 group-title = "Canais| Opção 2",ANIMAL PLANET 4K
+http://xcui.vitvabc.xyz:8880/287994003754/287994003754/31029
+#EXTINF:-1 group-title = "Canais| Opção 2",BAND 4K
+http://xcui.vitvabc.xyz:8880/287994003754/287994003754/31030
+#EXTINF:-1 group-title = "Canais| Opção 2",CARTOON NETWORK 4K
+http://xcui.vitvabc.xyz:8880/287994003754/287994003754/31031
+#EXTINF:-1 group-title = "Canais| Opção 2",COMBATE 4K
+http://xcui.vitvabc.xyz:8880/287994003754/287994003754/31032
+#EXTINF:-1 group-title = "Canais| Opção 2",DISCOVERY CHANNEL 4K
+http://xcui.vitvabc.xyz:8880/287994003754/287994003754/31033
+#EXTINF:-1 group-title = "Canais| Opção 2",ESPN 4K
+http://xcui.vitvabc.xyz:8880/287994003754/287994003754/31034
+#EXTINF:-1 group-title = "Canais| Opção 2",FOX SPORTS 2 4K
+http://xcui.vitvabc.xyz:8880/287994003754/287994003754/31035
+#EXTINF:-1 group-title = "Canais| Opção 2",FOX SPORTS 1 4K
+http://xcui.vitvabc.xyz:8880/287994003754/287994003754/31036
+#EXTINF:-1 group-title = "Canais| Opção 2",GAZETA 4K
+http://xcui.vitvabc.xyz:8880/287994003754/287994003754/31037
+#EXTINF:-1 group-title = "Canais| Opção 2",GLOBO 4K
+http://xcui.vitvabc.xyz:8880/287994003754/287994003754/31038
+#EXTINF:-1 group-title = "Canais| Opção 2",MULTISHOW 4K
+http://xcui.vitvabc.xyz:8880/287994003754/287994003754/31041
+#EXTINF:-1 group-title = "Canais| Opção 2",PREMIERE CLUBES
+http://xcui.vitvabc.xyz:8880/287994003754/287994003754/31042
+#EXTINF:-1 group-title = "Canais| Opção 2",RECORDTV 4K
+http://xcui.vitvabc.xyz:8880/287994003754/287994003754/31043
+#EXTINF:-1 group-title = "Canais| Opção 2",REDE TV 4K
+http://xcui.vitvabc.xyz:8880/287994003754/287994003754/31044
+#EXTINF:-1 group-title = "Canais| Opção 2",SBT 4K
+http://xcui.vitvabc.xyz:8880/287994003754/287994003754/31045
+#EXTINF:-1 group-title = "Canais| Opção 2",SPACE 4K
+http://xcui.vitvabc.xyz:8880/287994003754/287994003754/31046
+#EXTINF:-1 group-title = "Canais| Opção 2",SPORTV 4K
+http://xcui.vitvabc.xyz:8880/287994003754/287994003754/31047
+#EXTINF:-1 group-title = "Canais| Opção 2",STAR CHANNEL
+http://xcui.vitvabc.xyz:8880/287994003754/287994003754/31048
+#EXTINF:-1 group-title = "Canais| Opção 2",TELECINE PIPOCA 4K
+http://xcui.vitvabc.xyz:8880/287994003754/287994003754/31049
+#EXTINF:-1 group-title = "Canais| Opção 2",TELECINE PREMIUM 4K
+http://xcui.vitvabc.xyz:8880/287994003754/287994003754/31050
+#EXTINF:-1 group-title = "Canais| Opção 2",TNT 4K
+http://xcui.vitvabc.xyz:8880/287994003754/287994003754/31051
+#EXTINF:-1 group-title = "Canais| Opção 2",BAND RJ HD²
+http://xcui.vitvabc.xyz:8880/287994003754/287994003754/31053
+#EXTINF:-1 group-title = "Canais| Opção 2",BAND RJ HD³
+http://xcui.vitvabc.xyz:8880/287994003754/287994003754/31055
+#EXTINF:-1 group-title = "Canais| Opção 2",BAND RJ SD
+http://xcui.vitvabc.xyz:8880/287994003754/287994003754/31056
+#EXTINF:-1 group-title = "Canais| Opção 2",ALTIORA TV 
+http://xcui.vitvabc.xyz:8880/287994003754/287994003754/31058
+#EXTINF:-1 group-title = "Canais| Opção 2",BAND CAMPINAS ¹
+http://xcui.vitvabc.xyz:8880/287994003754/287994003754/31059
+#EXTINF:-1 group-title = "Canais| Opção 2",BAND FULLHD
+http://xcui.vitvabc.xyz:8880/287994003754/287994003754/31060
+#EXTINF:-1 group-title = "Canais| Opção 2",BAND HD
+http://xcui.vitvabc.xyz:8880/287994003754/287994003754/31061
+#EXTINF:-1 group-title = "Canais| Opção 2",BAND PA (RBATV)
+http://xcui.vitvabc.xyz:8880/287994003754/287994003754/31062
+#EXTINF:-1 group-title = "Canais| Opção 2",CANAL BRASIL FULLHD
+http://xcui.vitvabc.xyz:8880/287994003754/287994003754/31063
+#EXTINF:-1 group-title = "Canais| Opção 2",CANAL DO BOI
+http://xcui.vitvabc.xyz:8880/287994003754/287994003754/31064
+#EXTINF:-1 group-title = "Canais| Opção 2",CLASSIQUE TV
+http://xcui.vitvabc.xyz:8880/287994003754/287994003754/31066
+#EXTINF:-1 group-title = "Canais| Opção 2",CLASSIQUE TV 2
+http://xcui.vitvabc.xyz:8880/287994003754/287994003754/31067
+#EXTINF:-1 group-title = "Canais| Opção 2",GAZETA ¹ SP
+http://xcui.vitvabc.xyz:8880/287994003754/287994003754/31069
+#EXTINF:-1 group-title = "Canais| Opção 2",GOSPEL CARTOON
+http://xcui.vitvabc.xyz:8880/287994003754/287994003754/31070
+#EXTINF:-1 group-title = "Canais| Opção 2",REDE TV FULLHD
+http://xcui.vitvabc.xyz:8880/287994003754/287994003754/31071
+#EXTINF:-1 group-title = "Canais| Opção 2",REDE TV HD
+http://xcui.vitvabc.xyz:8880/287994003754/287994003754/31072
+#EXTINF:-1 group-title = "Canais| Opção 2",SBT
+http://xcui.vitvabc.xyz:8880/287994003754/287994003754/31075
+#EXTINF:-1 group-title = "Canais| Opção 2",SBT FULLHD
+http://xcui.vitvabc.xyz:8880/287994003754/287994003754/31076
+#EXTINF:-1 group-title = "Canais| Opção 2",SBT RJ ¹
+http://xcui.vitvabc.xyz:8880/287994003754/287994003754/31077
+#EXTINF:-1 group-title = "Canais| Opção 2",SBT TV ALTEROSA HD
+http://xcui.vitvabc.xyz:8880/287994003754/287994003754/31078
+#EXTINF:-1 group-title = "Canais| Opção 2",SBT TV SERRA DOURADA FULLHD
+http://xcui.vitvabc.xyz:8880/287994003754/287994003754/31080
+#EXTINF:-1 group-title = "Canais| Opção 2",TV ARATU HD
+http://xcui.vitvabc.xyz:8880/287994003754/287994003754/31082
+#EXTINF:-1 group-title = "Canais| Opção 2",TV CULTURA
+http://xcui.vitvabc.xyz:8880/287994003754/287994003754/31083
+#EXTINF:-1 group-title = "Canais| Opção 2",TV CULTURA HD
+http://xcui.vitvabc.xyz:8880/287994003754/287994003754/31084
+#EXTINF:-1 group-title = "Canais| Opção 2",TV DIARIO FULLHD
+http://xcui.vitvabc.xyz:8880/287994003754/287994003754/31085
+#EXTINF:-1 group-title = "Canais| Opção 2",TV DIGITAL BIRIGUI
+http://xcui.vitvabc.xyz:8880/287994003754/287994003754/31086
+#EXTINF:-1 group-title = "Canais| Opção 2",TV GAZETA
+http://xcui.vitvabc.xyz:8880/287994003754/287994003754/31087
+#EXTINF:-1 group-title = "Canais| Opção 2",GLOBO TV GAZETA NORTE MINEIRA
+http://xcui.vitvabc.xyz:8880/287994003754/287994003754/31088
+#EXTINF:-1 group-title = "Canais| Opção 2",TV JORNAL DO NORDESTE
+http://xcui.vitvabc.xyz:8880/287994003754/287994003754/31091
+#EXTINF:-1 group-title = "Canais| Opção 2",TV JUSTIÇA
+http://xcui.vitvabc.xyz:8880/287994003754/287994003754/31092
+#EXTINF:-1 group-title = "Canais| Opção 2",TV NOVA ONDA
+http://xcui.vitvabc.xyz:8880/287994003754/287994003754/31097
+#EXTINF:-1 group-title = "Canais| Opção 2",TV SERRA VERDE
+http://xcui.vitvabc.xyz:8880/287994003754/287994003754/31099
+#EXTINF:-1 group-title = "Canais| Opção 2",TV UNIÃO DE NATAL
+http://xcui.vitvabc.xyz:8880/287994003754/287994003754/31101
+#EXTINF:-1 group-title = "Canais| Opção 2",ANIMAL PLANET FULLHD
+http://xcui.vitvabc.xyz:8880/287994003754/287994003754/31104
+#EXTINF:-1 group-title = "Canais| Opção 2",ANIMAL PLANET HD
+http://xcui.vitvabc.xyz:8880/287994003754/287994003754/31105
+#EXTINF:-1 group-title = "Canais| Opção 2",DISCOVERY CHANNEL FULLHD
+http://xcui.vitvabc.xyz:8880/287994003754/287994003754/31106
+#EXTINF:-1 group-title = "Canais| Opção 2",DISCOVERY HOME & HEALTH FULLHD
+http://xcui.vitvabc.xyz:8880/287994003754/287994003754/31107
+#EXTINF:-1 group-title = "Canais| Opção 2",DISCOVERY HOME & HEALTH HD
+http://xcui.vitvabc.xyz:8880/287994003754/287994003754/31108
+#EXTINF:-1 group-title = "Canais| Opção 2",DISCOVERY ID FULLHD
+http://xcui.vitvabc.xyz:8880/287994003754/287994003754/31109
+#EXTINF:-1 group-title = "Canais| Opção 2",DISCOVERY ID HD
+http://xcui.vitvabc.xyz:8880/287994003754/287994003754/31110
+#EXTINF:-1 group-title = "Canais| Opção 2",DISCOVERY SCIENCE FULL HD
+http://xcui.vitvabc.xyz:8880/287994003754/287994003754/31111
+#EXTINF:-1 group-title = "Canais| Opção 2",DISCOVERY SCIENCE HD
+http://xcui.vitvabc.xyz:8880/287994003754/287994003754/31112
+#EXTINF:-1 group-title = "Canais| Opção 2",DISCOVERY THEATHER FULLHD
+http://xcui.vitvabc.xyz:8880/287994003754/287994003754/31113
+#EXTINF:-1 group-title = "Canais| Opção 2",DISCOVERY TURBO FULL HD
+http://xcui.vitvabc.xyz:8880/287994003754/287994003754/31114
+#EXTINF:-1 group-title = "Canais| Opção 2",DISCOVERY TURBO HD
+http://xcui.vitvabc.xyz:8880/287994003754/287994003754/31115
+#EXTINF:-1 group-title = "Canais| Opção 2",DISCOVERY WORLD FULLHD
+http://xcui.vitvabc.xyz:8880/287994003754/287994003754/31116
+#EXTINF:-1 group-title = "Canais| Opção 2",DISCOVERY WORLD HD
+http://xcui.vitvabc.xyz:8880/287994003754/287994003754/31117
+#EXTINF:-1 group-title = "Canais| Opção 2",H2 FULLHD
+http://xcui.vitvabc.xyz:8880/287994003754/287994003754/31118
+#EXTINF:-1 group-title = "Canais| Opção 2",H2 HD
+http://xcui.vitvabc.xyz:8880/287994003754/287994003754/31119
+#EXTINF:-1 group-title = "Canais| Opção 2",HGTV HD
+http://xcui.vitvabc.xyz:8880/287994003754/287994003754/31121
+#EXTINF:-1 group-title = "Canais| Opção 2",HISTORY FULLHD
+http://xcui.vitvabc.xyz:8880/287994003754/287994003754/31122
+#EXTINF:-1 group-title = "Canais| Opção 2",HISTORY HD
+http://xcui.vitvabc.xyz:8880/287994003754/287994003754/31123
+#EXTINF:-1 group-title = "Canais| Opção 2",NATGEO FULL HD
+http://xcui.vitvabc.xyz:8880/287994003754/287994003754/31124
+#EXTINF:-1 group-title = "Canais| Opção 2",NATGEO HD
+http://xcui.vitvabc.xyz:8880/287994003754/287994003754/31125
+#EXTINF:-1 group-title = "Canais| Opção 2",NATGEO WILD FULLHD
+http://xcui.vitvabc.xyz:8880/287994003754/287994003754/31126
+#EXTINF:-1 group-title = "Canais| Opção 2",NATGEO WILD HD
+http://xcui.vitvabc.xyz:8880/287994003754/287994003754/31127
+#EXTINF:-1 group-title = "Canais| Opção 2",SMITHSONIAN HD
+http://xcui.vitvabc.xyz:8880/287994003754/287994003754/31128
+#EXTINF:-1 group-title = "Canais| Opção 2",TLC FULLHD
+http://xcui.vitvabc.xyz:8880/287994003754/287994003754/31129
+#EXTINF:-1 group-title = "Canais| Opção 2",TRAVEL BOX BRAZIL
+http://xcui.vitvabc.xyz:8880/287994003754/287994003754/31130
+#EXTINF:-1 group-title = "Canais| Opção 2",ALL SPORTS TV²
+http://xcui.vitvabc.xyz:8880/287994003754/287994003754/31131
+#EXTINF:-1 group-title = "Canais| Opção 2",ALL SPORTS
+http://xcui.vitvabc.xyz:8880/287994003754/287994003754/31132
+#EXTINF:-1 group-title = "Canais| Opção 2",BAND SPORTS FULLHD
+http://xcui.vitvabc.xyz:8880/287994003754/287994003754/31133
+#EXTINF:-1 group-title = "Canais| Opção 2",BAND SPORTS HD
+http://xcui.vitvabc.xyz:8880/287994003754/287994003754/31134
+#EXTINF:-1 group-title = "Canais| Opção 2",BAND SPORTS HD*
+http://xcui.vitvabc.xyz:8880/287994003754/287994003754/31135
+#EXTINF:-1 group-title = "Canais| Opção 2",COMBATE FULLHD
+http://xcui.vitvabc.xyz:8880/287994003754/287994003754/31136
+#EXTINF:-1 group-title = "Canais| Opção 2",COMBATE HD
+http://xcui.vitvabc.xyz:8880/287994003754/287994003754/31137
+#EXTINF:-1 group-title = "Canais| Opção 2",COMBATE HD*
+http://xcui.vitvabc.xyz:8880/287994003754/287994003754/31138
+#EXTINF:-1 group-title = "Canais| Opção 2",ESPN 2 FULLHD
+http://xcui.vitvabc.xyz:8880/287994003754/287994003754/31139
+#EXTINF:-1 group-title = "Canais| Opção 2",ESPN 2 HD
+http://xcui.vitvabc.xyz:8880/287994003754/287994003754/31140
+#EXTINF:-1 group-title = "Canais| Opção 2",ESPN 2 HD+
+http://xcui.vitvabc.xyz:8880/287994003754/287994003754/31141
+#EXTINF:-1 group-title = "Canais| Opção 2",ESPN BRASIL FULLHD
+http://xcui.vitvabc.xyz:8880/287994003754/287994003754/31142
+#EXTINF:-1 group-title = "Canais| Opção 2",ESPN BRASIL HD
+http://xcui.vitvabc.xyz:8880/287994003754/287994003754/31143
+#EXTINF:-1 group-title = "Canais| Opção 2",ESPN BRASIL HD+
+http://xcui.vitvabc.xyz:8880/287994003754/287994003754/31144
+#EXTINF:-1 group-title = "Canais| Opção 2",ESPN EXTRA FULLHD
+http://xcui.vitvabc.xyz:8880/287994003754/287994003754/31145
+#EXTINF:-1 group-title = "Canais| Opção 2",ESPN EXTRA HD
+http://xcui.vitvabc.xyz:8880/287994003754/287994003754/31146
+#EXTINF:-1 group-title = "Canais| Opção 2",ESPN EXTRA HD+
+http://xcui.vitvabc.xyz:8880/287994003754/287994003754/31147
+#EXTINF:-1 group-title = "Canais| Opção 2",ESPN FULL HD
+http://xcui.vitvabc.xyz:8880/287994003754/287994003754/31148
+#EXTINF:-1 group-title = "Canais| Opção 2",ESPN HD
+http://xcui.vitvabc.xyz:8880/287994003754/287994003754/31149
+#EXTINF:-1 group-title = "Canais| Opção 2",ESPN HD+
+http://xcui.vitvabc.xyz:8880/287994003754/287994003754/31150
+#EXTINF:-1 group-title = "Canais| Opção 2",FISH TV FULLHD
+http://xcui.vitvabc.xyz:8880/287994003754/287994003754/31151
+#EXTINF:-1 group-title = "Canais| Opção 2",FISH TV HD
+http://xcui.vitvabc.xyz:8880/287994003754/287994003754/31152
+#EXTINF:-1 group-title = "Canais| Opção 2",FOX SPORTS 2 FULLHD
+http://xcui.vitvabc.xyz:8880/287994003754/287994003754/31153
+#EXTINF:-1 group-title = "Canais| Opção 2",FOX SPORTS 2 HD
+http://xcui.vitvabc.xyz:8880/287994003754/287994003754/31154
+#EXTINF:-1 group-title = "Canais| Opção 2",FOX SPORTS 1 FULLHD
+http://xcui.vitvabc.xyz:8880/287994003754/287994003754/31155
+#EXTINF:-1 group-title = "Canais| Opção 2",FOX SPORTS 1 HD
+http://xcui.vitvabc.xyz:8880/287994003754/287994003754/31156
+#EXTINF:-1 group-title = "Canais| Opção 2",GOLF CHANNEL HD
+http://xcui.vitvabc.xyz:8880/287994003754/287994003754/31158
+#EXTINF:-1 group-title = "Canais| Opção 2",OFF FULLHD
+http://xcui.vitvabc.xyz:8880/287994003754/287994003754/31159
+#EXTINF:-1 group-title = "Canais| Opção 2",OFF HD
+http://xcui.vitvabc.xyz:8880/287994003754/287994003754/31160
+#EXTINF:-1 group-title = "Canais| Opção 2",SPORTV 2 FULLHD
+http://xcui.vitvabc.xyz:8880/287994003754/287994003754/31162
+#EXTINF:-1 group-title = "Canais| Opção 2",SPORTV 2 HD
+http://xcui.vitvabc.xyz:8880/287994003754/287994003754/31163
+#EXTINF:-1 group-title = "Canais| Opção 2",SPORTV 3 FULL HD
+http://xcui.vitvabc.xyz:8880/287994003754/287994003754/31165
+#EXTINF:-1 group-title = "Canais| Opção 2",SPORTV 3 HD
+http://xcui.vitvabc.xyz:8880/287994003754/287994003754/31166
+#EXTINF:-1 group-title = "Canais| Opção 2",SPORTV FULLHD
+http://xcui.vitvabc.xyz:8880/287994003754/287994003754/31168
+#EXTINF:-1 group-title = "Canais| Opção 2",SPORTV HD
+http://xcui.vitvabc.xyz:8880/287994003754/287994003754/31169
+#EXTINF:-1 group-title = "Canais| Opção 2",SPORTV HD*
+http://xcui.vitvabc.xyz:8880/287994003754/287994003754/31170
+#EXTINF:-1 group-title = "Canais| Opção 2",WOOHOO FULLHD
+http://xcui.vitvabc.xyz:8880/287994003754/287994003754/31171
+#EXTINF:-1 group-title = "Canais| Opção 2",WOOHOO HD
+http://xcui.vitvabc.xyz:8880/287994003754/287994003754/31172
+#EXTINF:-1 group-title = "Canais| Opção 2",CONMEBOL 3
+http://xcui.vitvabc.xyz:8880/287994003754/287994003754/31189
+#EXTINF:-1 group-title = "Canais| Opção 2",CONMEBOL 4
+http://xcui.vitvabc.xyz:8880/287994003754/287994003754/31191
+#EXTINF:-1 group-title = "Canais| Opção 2",A BOLA TV
+http://xcui.vitvabc.xyz:8880/287994003754/287994003754/31203
+#EXTINF:-1 group-title = "Canais| Opção 2",DAZN2 FULL HD
+http://xcui.vitvabc.xyz:8880/287994003754/287994003754/31210
+#EXTINF:-1 group-title = "Canais| Opção 2",DAZN2 HD
+http://xcui.vitvabc.xyz:8880/287994003754/287994003754/31211
+#EXTINF:-1 group-title = "Canais| Opção 2",TNT SPORTS 2
+http://xcui.vitvabc.xyz:8880/287994003754/287994003754/31223
+#EXTINF:-1 group-title = "Canais| Opção 2",TNT SPORTS 2 HD
+http://xcui.vitvabc.xyz:8880/287994003754/287994003754/31224
+#EXTINF:-1 group-title = "Canais| Opção 2",TNT SPORTS 3 HD
+http://xcui.vitvabc.xyz:8880/287994003754/287994003754/31226
+#EXTINF:-1 group-title = "Canais| Opção 2",TNT SPORTS 4 HD
+http://xcui.vitvabc.xyz:8880/287994003754/287994003754/31227
+#EXTINF:-1 group-title = "Canais| Opção 2",TNT SPORTS 4 SD
+http://xcui.vitvabc.xyz:8880/287994003754/287994003754/31228
+#EXTINF:-1 group-title = "Canais| Opção 2",TNT SPORTS 5 HD
+http://xcui.vitvabc.xyz:8880/287994003754/287994003754/31229
+#EXTINF:-1 group-title = "Canais| Opção 2",TNT SPORTS 5 HD
+http://xcui.vitvabc.xyz:8880/287994003754/287994003754/31230
+#EXTINF:-1 group-title = "Canais| Opção 2",TNT SPORTS 6 HD
+http://xcui.vitvabc.xyz:8880/287994003754/287994003754/31231
+#EXTINF:-1 group-title = "Canais| Opção 2",TNT SPORTS 1 HD
+http://xcui.vitvabc.xyz:8880/287994003754/287994003754/31237
+#EXTINF:-1 group-title = "Canais| Opção 2",CBTV
+http://xcui.vitvabc.xyz:8880/287994003754/287994003754/31242
+#EXTINF:-1 group-title = "Canais| Opção 2",ELEVEN SPORTS 1
+http://xcui.vitvabc.xyz:8880/287994003754/287994003754/31243
+#EXTINF:-1 group-title = "Canais| Opção 2",ELEVEN SPORTS 2
+http://xcui.vitvabc.xyz:8880/287994003754/287994003754/31244
+#EXTINF:-1 group-title = "Canais| Opção 2",ELEVEN SPORTS 3
+http://xcui.vitvabc.xyz:8880/287994003754/287994003754/31245
+#EXTINF:-1 group-title = "Canais| Opção 2",GOLF CHANNEL
+http://xcui.vitvabc.xyz:8880/287994003754/287994003754/31246
+#EXTINF:-1 group-title = "Canais| Opção 2",MLB NETWORK
+http://xcui.vitvabc.xyz:8880/287994003754/287994003754/31247
+#EXTINF:-1 group-title = "Canais| Opção 2",NBA TV
+http://xcui.vitvabc.xyz:8880/287994003754/287994003754/31248
+#EXTINF:-1 group-title = "Canais| Opção 2",RED BULL TV
+http://xcui.vitvabc.xyz:8880/287994003754/287994003754/31250
+#EXTINF:-1 group-title = "Canais| Opção 2",SPORT TV +
+http://xcui.vitvabc.xyz:8880/287994003754/287994003754/31251
+#EXTINF:-1 group-title = "Canais| Opção 2",SPORT TV 2
+http://xcui.vitvabc.xyz:8880/287994003754/287994003754/31253
+#EXTINF:-1 group-title = "Canais| Opção 2",SPORTING TV
+http://xcui.vitvabc.xyz:8880/287994003754/287994003754/31258
+#EXTINF:-1 group-title = "Canais| Opção 2",AL KASS SPORTS 04
+http://xcui.vitvabc.xyz:8880/287994003754/287994003754/31266
+#EXTINF:-1 group-title = "Canais| Opção 2",A&E FULLHD
+http://xcui.vitvabc.xyz:8880/287994003754/287994003754/31268
+#EXTINF:-1 group-title = "Canais| Opção 2",AMC HD
+http://xcui.vitvabc.xyz:8880/287994003754/287994003754/31269
+#EXTINF:-1 group-title = "Canais| Opção 2",AXN FULLHD
+http://xcui.vitvabc.xyz:8880/287994003754/287994003754/31270
+#EXTINF:-1 group-title = "Canais| Opção 2",AXN HD
+http://xcui.vitvabc.xyz:8880/287994003754/287994003754/31271
+#EXTINF:-1 group-title = "Canais| Opção 2",CANAL SONY FULLHD
+http://xcui.vitvabc.xyz:8880/287994003754/287994003754/31272
+#EXTINF:-1 group-title = "Canais| Opção 2",CANAL SONY HD
+http://xcui.vitvabc.xyz:8880/287994003754/287994003754/31273
+#EXTINF:-1 group-title = "Canais| Opção 2",CINEMAX FULLHD
+http://xcui.vitvabc.xyz:8880/287994003754/287994003754/31274
+#EXTINF:-1 group-title = "Canais| Opção 2",CINEMAX HD
+http://xcui.vitvabc.xyz:8880/287994003754/287994003754/31275
+#EXTINF:-1 group-title = "Canais| Opção 2",FX FULLHD
+http://xcui.vitvabc.xyz:8880/287994003754/287994003754/31276
+#EXTINF:-1 group-title = "Canais| Opção 2",FX HD
+http://xcui.vitvabc.xyz:8880/287994003754/287994003754/31277
+#EXTINF:-1 group-title = "Canais| Opção 2",MEGAPIX FULLHD
+http://xcui.vitvabc.xyz:8880/287994003754/287994003754/31278
+#EXTINF:-1 group-title = "Canais| Opção 2",MEGAPIX HD
+http://xcui.vitvabc.xyz:8880/287994003754/287994003754/31279
+#EXTINF:-1 group-title = "Canais| Opção 2",PARAMOUNT CHANNEL FULLHD
+http://xcui.vitvabc.xyz:8880/287994003754/287994003754/31280
+#EXTINF:-1 group-title = "Canais| Opção 2",PARAMOUNT CHANNEL HD
+http://xcui.vitvabc.xyz:8880/287994003754/287994003754/31281
+#EXTINF:-1 group-title = "Canais| Opção 2",SPACE FULLHD
+http://xcui.vitvabc.xyz:8880/287994003754/287994003754/31282
+#EXTINF:-1 group-title = "Canais| Opção 2",SPACE HD
+http://xcui.vitvabc.xyz:8880/287994003754/287994003754/31283
+#EXTINF:-1 group-title = "Canais| Opção 2",SPACE HD*
+http://xcui.vitvabc.xyz:8880/287994003754/287994003754/31284
+#EXTINF:-1 group-title = "Canais| Opção 2",STAR CHANNEL FULLHD
+http://xcui.vitvabc.xyz:8880/287994003754/287994003754/31285
+#EXTINF:-1 group-title = "Canais| Opção 2",STAR CHANNEL HD
+http://xcui.vitvabc.xyz:8880/287994003754/287994003754/31286
+#EXTINF:-1 group-title = "Canais| Opção 2",STAR HITS 1 FULLHD
+http://xcui.vitvabc.xyz:8880/287994003754/287994003754/31287
+#EXTINF:-1 group-title = "Canais| Opção 2",STAR HITS 2 FULLHD
+http://xcui.vitvabc.xyz:8880/287994003754/287994003754/31288
+#EXTINF:-1 group-title = "Canais| Opção 2",STAR HITS 2 HD
+http://xcui.vitvabc.xyz:8880/287994003754/287994003754/31289
+#EXTINF:-1 group-title = "Canais| Opção 2",STAR HITS 1 HD
+http://xcui.vitvabc.xyz:8880/287994003754/287994003754/31290
+#EXTINF:-1 group-title = "Canais| Opção 2",STUDIO UNIVERSAL FULLHD
+http://xcui.vitvabc.xyz:8880/287994003754/287994003754/31291
+#EXTINF:-1 group-title = "Canais| Opção 2",STUDIO UNIVERSAL HD
+http://xcui.vitvabc.xyz:8880/287994003754/287994003754/31292
+#EXTINF:-1 group-title = "Canais| Opção 2",SYFY FULL HD
+http://xcui.vitvabc.xyz:8880/287994003754/287994003754/31293
+#EXTINF:-1 group-title = "Canais| Opção 2",SYFY HD
+http://xcui.vitvabc.xyz:8880/287994003754/287994003754/31294
+#EXTINF:-1 group-title = "Canais| Opção 2",TBS FULL HD
+http://xcui.vitvabc.xyz:8880/287994003754/287994003754/31295
+#EXTINF:-1 group-title = "Canais| Opção 2",TBS HD
+http://xcui.vitvabc.xyz:8880/287994003754/287994003754/31296
+#EXTINF:-1 group-title = "Canais| Opção 2",TCM FULLHD
+http://xcui.vitvabc.xyz:8880/287994003754/287994003754/31297
+#EXTINF:-1 group-title = "Canais| Opção 2",TCM HD
+http://xcui.vitvabc.xyz:8880/287994003754/287994003754/31298
+#EXTINF:-1 group-title = "Canais| Opção 2",TNT FULL HD
+http://xcui.vitvabc.xyz:8880/287994003754/287994003754/31299
+#EXTINF:-1 group-title = "Canais| Opção 2",TNT HD
+http://xcui.vitvabc.xyz:8880/287994003754/287994003754/31300
+#EXTINF:-1 group-title = "Canais| Opção 2",TNT SERIES FULLHD
+http://xcui.vitvabc.xyz:8880/287994003754/287994003754/31301
+#EXTINF:-1 group-title = "Canais| Opção 2",TNT SERIES HD
+http://xcui.vitvabc.xyz:8880/287994003754/287994003754/31302
+#EXTINF:-1 group-title = "Canais| Opção 2",UNIVERSAL CHANNEL FULLHD
+http://xcui.vitvabc.xyz:8880/287994003754/287994003754/31303
+#EXTINF:-1 group-title = "Canais| Opção 2",UNIVERSAL TV HD
+http://xcui.vitvabc.xyz:8880/287994003754/287994003754/31304
+#EXTINF:-1 group-title = "Canais| Opção 2",WARNER CHANNEL FULLHD
+http://xcui.vitvabc.xyz:8880/287994003754/287994003754/31305
+#EXTINF:-1 group-title = "Canais| Opção 2",CINEMA 1
+http://xcui.vitvabc.xyz:8880/287994003754/287994003754/31316
+#EXTINF:-1 group-title = "Canais| Opção 2",CINEMA 2
+http://xcui.vitvabc.xyz:8880/287994003754/287994003754/31317
+#EXTINF:-1 group-title = "Canais| Opção 2",CINEMA 3
+http://xcui.vitvabc.xyz:8880/287994003754/287994003754/31318
+#EXTINF:-1 group-title = "Canais| Opção 2",CINEMA 4
+http://xcui.vitvabc.xyz:8880/287994003754/287994003754/31319
+#EXTINF:-1 group-title = "Canais| Opção 2",CINEMA 5
+http://xcui.vitvabc.xyz:8880/287994003754/287994003754/31320
+#EXTINF:-1 group-title = "Canais| Opção 2",CINEMA 6
+http://xcui.vitvabc.xyz:8880/287994003754/287994003754/31321
+#EXTINF:-1 group-title = "Canais| Opção 2",CINEMA 7
+http://xcui.vitvabc.xyz:8880/287994003754/287994003754/31322
+#EXTINF:-1 group-title = "Canais| Opção 2",CINEMA 8
+http://xcui.vitvabc.xyz:8880/287994003754/287994003754/31324
+#EXTINF:-1 group-title = "Canais| Opção 2",CINE SKY 9 HD
+http://xcui.vitvabc.xyz:8880/287994003754/287994003754/31325
+#EXTINF:-1 group-title = "Canais| Opção 2",HBO 2 HD
+http://xcui.vitvabc.xyz:8880/287994003754/287994003754/31460
+#EXTINF:-1 group-title = "Canais| Opção 2",HBO FAMILY FULLHD
+http://xcui.vitvabc.xyz:8880/287994003754/287994003754/31461
+#EXTINF:-1 group-title = "Canais| Opção 2",HBO FAMILY HD
+http://xcui.vitvabc.xyz:8880/287994003754/287994003754/31462
+#EXTINF:-1 group-title = "Canais| Opção 2",HBO FAMILY HD*
+http://xcui.vitvabc.xyz:8880/287994003754/287994003754/31463
+#EXTINF:-1 group-title = "Canais| Opção 2",HBO FULL HD
+http://xcui.vitvabc.xyz:8880/287994003754/287994003754/31464
+#EXTINF:-1 group-title = "Canais| Opção 2",HBO 1 HD
+http://xcui.vitvabc.xyz:8880/287994003754/287994003754/31465
+#EXTINF:-1 group-title = "Canais| Opção 2",HBO MUNDI FULLHD
+http://xcui.vitvabc.xyz:8880/287994003754/287994003754/31466
+#EXTINF:-1 group-title = "Canais| Opção 2",HBO MUNDI HD
+http://xcui.vitvabc.xyz:8880/287994003754/287994003754/31467
+#EXTINF:-1 group-title = "Canais| Opção 2",HBO PLUS FULLHD
+http://xcui.vitvabc.xyz:8880/287994003754/287994003754/31468
+#EXTINF:-1 group-title = "Canais| Opção 2",HBO PLUS HD
+http://xcui.vitvabc.xyz:8880/287994003754/287994003754/31469
+#EXTINF:-1 group-title = "Canais| Opção 2",HBO POP FULLHD
+http://xcui.vitvabc.xyz:8880/287994003754/287994003754/31470
+#EXTINF:-1 group-title = "Canais| Opção 2",HBO POP HD
+http://xcui.vitvabc.xyz:8880/287994003754/287994003754/31471
+#EXTINF:-1 group-title = "Canais| Opção 2",HBO SIGNATURE FULLHD
+http://xcui.vitvabc.xyz:8880/287994003754/287994003754/31472
+#EXTINF:-1 group-title = "Canais| Opção 2",HBO SIGNATURE HD
+http://xcui.vitvabc.xyz:8880/287994003754/287994003754/31473
+#EXTINF:-1 group-title = "Canais| Opção 2",HBO XTREAME HD
+http://xcui.vitvabc.xyz:8880/287994003754/287994003754/31474
+#EXTINF:-1 group-title = "Canais| Opção 2",HBO XTREME FULLHD
+http://xcui.vitvabc.xyz:8880/287994003754/287994003754/31475
+#EXTINF:-1 group-title = "Canais| Opção 2",BABY TV FULLHD
+http://xcui.vitvabc.xyz:8880/287994003754/287994003754/31476
+#EXTINF:-1 group-title = "Canais| Opção 2",BABY TV HD
+http://xcui.vitvabc.xyz:8880/287994003754/287994003754/31477
+#EXTINF:-1 group-title = "Canais| Opção 2",BOOMERANG FULLHD
+http://xcui.vitvabc.xyz:8880/287994003754/287994003754/31478
+#EXTINF:-1 group-title = "Canais| Opção 2",CARTOON NETWORK FULLHD
+http://xcui.vitvabc.xyz:8880/287994003754/287994003754/31479
+#EXTINF:-1 group-title = "Canais| Opção 2",CARTOON NETWORK HD
+http://xcui.vitvabc.xyz:8880/287994003754/287994003754/31480
+#EXTINF:-1 group-title = "Canais| Opção 2",DISCOVERY KIDS FULLHD
+http://xcui.vitvabc.xyz:8880/287994003754/287994003754/31481
+#EXTINF:-1 group-title = "Canais| Opção 2",DISCOVERY KIDS HD
+http://xcui.vitvabc.xyz:8880/287994003754/287994003754/31482
+#EXTINF:-1 group-title = "Canais| Opção 2",DISNEY CHANNEL FULLHD
+http://xcui.vitvabc.xyz:8880/287994003754/287994003754/31483
+#EXTINF:-1 group-title = "Canais| Opção 2",DISNEY CHANNEL HD
+http://xcui.vitvabc.xyz:8880/287994003754/287994003754/31484
+#EXTINF:-1 group-title = "Canais| Opção 2",DISNEY JUNIOR FULLHD
+http://xcui.vitvabc.xyz:8880/287994003754/287994003754/31485
+#EXTINF:-1 group-title = "Canais| Opção 2",DISNEY JUNIOR HD
+http://xcui.vitvabc.xyz:8880/287994003754/287994003754/31486
+#EXTINF:-1 group-title = "Canais| Opção 2",DISNEY XD FULLHD
+http://xcui.vitvabc.xyz:8880/287994003754/287994003754/31487
+#EXTINF:-1 group-title = "Canais| Opção 2",DISNEY XD HD
+http://xcui.vitvabc.xyz:8880/287994003754/287994003754/31488
+#EXTINF:-1 group-title = "Canais| Opção 2",GLOOB FULLHD
+http://xcui.vitvabc.xyz:8880/287994003754/287994003754/31491
+#EXTINF:-1 group-title = "Canais| Opção 2",GLOOB HD
+http://xcui.vitvabc.xyz:8880/287994003754/287994003754/31492
+#EXTINF:-1 group-title = "Canais| Opção 2",LOADING TV
+http://xcui.vitvabc.xyz:8880/287994003754/287994003754/31494
+#EXTINF:-1 group-title = "Canais| Opção 2",NATGEO KIDS FULLHD
+http://xcui.vitvabc.xyz:8880/287994003754/287994003754/31495
+#EXTINF:-1 group-title = "Canais| Opção 2",NATGEO KIDS HD
+http://xcui.vitvabc.xyz:8880/287994003754/287994003754/31496
+#EXTINF:-1 group-title = "Canais| Opção 2",NICK JR FULLHD
+http://xcui.vitvabc.xyz:8880/287994003754/287994003754/31497
+#EXTINF:-1 group-title = "Canais| Opção 2",NICK JR HD
+http://xcui.vitvabc.xyz:8880/287994003754/287994003754/31498
+#EXTINF:-1 group-title = "Canais| Opção 2",NICKELODEON FULLHD
+http://xcui.vitvabc.xyz:8880/287994003754/287994003754/31499
+#EXTINF:-1 group-title = "Canais| Opção 2",NICKELODEON HD
+http://xcui.vitvabc.xyz:8880/287994003754/287994003754/31500
+#EXTINF:-1 group-title = "Canais| Opção 2",TOONCAST FULLHD
+http://xcui.vitvabc.xyz:8880/287994003754/287994003754/31501
+#EXTINF:-1 group-title = "Canais| Opção 2",TV RA TIM BUM FULLHD
+http://xcui.vitvabc.xyz:8880/287994003754/287994003754/31502
+#EXTINF:-1 group-title = "Canais| Opção 2",TV RA TIM BUM HD
+http://xcui.vitvabc.xyz:8880/287994003754/287994003754/31503
+#EXTINF:-1 group-title = "Canais| Opção 2",ZOOMOO HD
+http://xcui.vitvabc.xyz:8880/287994003754/287994003754/31504
+#EXTINF:-1 group-title = "Canais| Opção 2",BAND NEWS FULLHD
+http://xcui.vitvabc.xyz:8880/287994003754/287994003754/31506
+#EXTINF:-1 group-title = "Canais| Opção 2",CNN BRASIL FULLHD
+http://xcui.vitvabc.xyz:8880/287994003754/287994003754/31508
+#EXTINF:-1 group-title = "Canais| Opção 2",CNN BRASIL HD
+http://xcui.vitvabc.xyz:8880/287994003754/287994003754/31509
+#EXTINF:-1 group-title = "Canais| Opção 2",CNN ESPANHOL FULLHD
+http://xcui.vitvabc.xyz:8880/287994003754/287994003754/31510
+#EXTINF:-1 group-title = "Canais| Opção 2",CNN INTERNACIONAL FULLHD
+http://xcui.vitvabc.xyz:8880/287994003754/287994003754/31511
+#EXTINF:-1 group-title = "Canais| Opção 2",DW DEUTSCHE
+http://xcui.vitvabc.xyz:8880/287994003754/287994003754/31512
+#EXTINF:-1 group-title = "Canais| Opção 2",DW ESPANHOL
+http://xcui.vitvabc.xyz:8880/287994003754/287994003754/31513
+#EXTINF:-1 group-title = "Canais| Opção 2",FOX NEWS FULLHD
+http://xcui.vitvabc.xyz:8880/287994003754/287994003754/31514
+#EXTINF:-1 group-title = "Canais| Opção 2",FOX NEWS HD
+http://xcui.vitvabc.xyz:8880/287994003754/287994003754/31515
+#EXTINF:-1 group-title = "Canais| Opção 2",GLOBO NEWS HD
+http://xcui.vitvabc.xyz:8880/287994003754/287994003754/31518
+#EXTINF:-1 group-title = "Canais| Opção 2",GLOBO NEWS HD
+http://xcui.vitvabc.xyz:8880/287994003754/287994003754/31519
+#EXTINF:-1 group-title = "Canais| Opção 2",NHK JAPÃO  HD
+http://xcui.vitvabc.xyz:8880/287994003754/287994003754/31520
+#EXTINF:-1 group-title = "Canais| Opção 2",RECORD NEWS FULLHD
+http://xcui.vitvabc.xyz:8880/287994003754/287994003754/31522
+#EXTINF:-1 group-title = "Canais| Opção 2",RECORD NEWS HD
+http://xcui.vitvabc.xyz:8880/287994003754/287994003754/31523
+#EXTINF:-1 group-title = "Canais| Opção 2",SIC INTERNACIONAL²
+http://xcui.vitvabc.xyz:8880/287994003754/287994003754/31524
+#EXTINF:-1 group-title = "Canais| Opção 2",PREMIERE CLUBES FULL HD
+http://xcui.vitvabc.xyz:8880/287994003754/287994003754/31525
+#EXTINF:-1 group-title = "Canais| Opção 2",PREMIERE CLUBES HD
+http://xcui.vitvabc.xyz:8880/287994003754/287994003754/31526
+#EXTINF:-1 group-title = "Canais| Opção 2",PREMIERE CLUBES HD²
+http://xcui.vitvabc.xyz:8880/287994003754/287994003754/31527
+#EXTINF:-1 group-title = "Canais| Opção 2",PREMIERE 2 FULL HD
+http://xcui.vitvabc.xyz:8880/287994003754/287994003754/31528
+#EXTINF:-1 group-title = "Canais| Opção 2",PREMIERE 2 HD
+http://xcui.vitvabc.xyz:8880/287994003754/287994003754/31529
+#EXTINF:-1 group-title = "Canais| Opção 2",PREMIERE 2 UHD
+http://xcui.vitvabc.xyz:8880/287994003754/287994003754/31531
+#EXTINF:-1 group-title = "Canais| Opção 2",PREMIERE 3 FULL HD
+http://xcui.vitvabc.xyz:8880/287994003754/287994003754/31532
+#EXTINF:-1 group-title = "Canais| Opção 2",PREMIERE 3 HD
+http://xcui.vitvabc.xyz:8880/287994003754/287994003754/31533
+#EXTINF:-1 group-title = "Canais| Opção 2",PREMIERE 3 UHD
+http://xcui.vitvabc.xyz:8880/287994003754/287994003754/31535
+#EXTINF:-1 group-title = "Canais| Opção 2",PREMIERE 4 FULL HD
+http://xcui.vitvabc.xyz:8880/287994003754/287994003754/31536
+#EXTINF:-1 group-title = "Canais| Opção 2",PREMIERE 4 HD
+http://xcui.vitvabc.xyz:8880/287994003754/287994003754/31537
+#EXTINF:-1 group-title = "Canais| Opção 2",PREMIERE 5 FULL HD
+http://xcui.vitvabc.xyz:8880/287994003754/287994003754/31539
+#EXTINF:-1 group-title = "Canais| Opção 2",PREMIERE 5 HD
+http://xcui.vitvabc.xyz:8880/287994003754/287994003754/31540
+#EXTINF:-1 group-title = "Canais| Opção 2",PREMIERE 6 FULL HD
+http://xcui.vitvabc.xyz:8880/287994003754/287994003754/31542
+#EXTINF:-1 group-title = "Canais| Opção 2",PREMIERE 6 HD
+http://xcui.vitvabc.xyz:8880/287994003754/287994003754/31543
+#EXTINF:-1 group-title = "Canais| Opção 2",PREMIERE 7 FULL HD
+http://xcui.vitvabc.xyz:8880/287994003754/287994003754/31544
+#EXTINF:-1 group-title = "Canais| Opção 2",PREMIERE 7 HD
+http://xcui.vitvabc.xyz:8880/287994003754/287994003754/31545
+#EXTINF:-1 group-title = "Canais| Opção 2",BR: RECORD CAMPINAS HD²
+http://xcui.vitvabc.xyz:8880/287994003754/287994003754/31553
+#EXTINF:-1 group-title = "Canais| Opção 2",BR: RECORD RJ HD²
+http://xcui.vitvabc.xyz:8880/287994003754/287994003754/31555
+#EXTINF:-1 group-title = "Canais| Opção 2",BR: RECORD SP HD²
+http://xcui.vitvabc.xyz:8880/287994003754/287994003754/31556
+#EXTINF:-1 group-title = "Canais| Opção 2",RECORD RS
+http://xcui.vitvabc.xyz:8880/287994003754/287994003754/31557
+#EXTINF:-1 group-title = "Canais| Opção 2",RECORD BAHIA HD
+http://xcui.vitvabc.xyz:8880/287994003754/287994003754/31558
+#EXTINF:-1 group-title = "Canais| Opção 2",RECORD BRASILIA
+http://xcui.vitvabc.xyz:8880/287994003754/287994003754/31560
+#EXTINF:-1 group-title = "Canais| Opção 2",RECORD BRASILIA HD¹
+http://xcui.vitvabc.xyz:8880/287994003754/287994003754/31561
+#EXTINF:-1 group-title = "Canais| Opção 2",RECORD FULLHD
+http://xcui.vitvabc.xyz:8880/287994003754/287994003754/31562
+#EXTINF:-1 group-title = "Canais| Opção 2",RECORD GOIAS
+http://xcui.vitvabc.xyz:8880/287994003754/287994003754/31563
+#EXTINF:-1 group-title = "Canais| Opção 2",RECORD MINAS HD
+http://xcui.vitvabc.xyz:8880/287994003754/287994003754/31565
+#EXTINF:-1 group-title = "Canais| Opção 2",RECORD RJ HD
+http://xcui.vitvabc.xyz:8880/287994003754/287994003754/31566
+#EXTINF:-1 group-title = "Canais| Opção 2",RECORD RS HD
+http://xcui.vitvabc.xyz:8880/287994003754/287994003754/31567
+#EXTINF:-1 group-title = "Canais| Opção 2",RECORD SP HD
+http://xcui.vitvabc.xyz:8880/287994003754/287994003754/31568
+#EXTINF:-1 group-title = "Canais| Opção 2",RECORD¹
+http://xcui.vitvabc.xyz:8880/287994003754/287994003754/31569
+#EXTINF:-1 group-title = "Canais| Opção 2",TV EVANGELIZAR
+http://xcui.vitvabc.xyz:8880/287994003754/287994003754/31570
+#EXTINF:-1 group-title = "Canais| Opção 2",CANCAO NOVA
+http://xcui.vitvabc.xyz:8880/287994003754/287994003754/31571
+#EXTINF:-1 group-title = "Canais| Opção 2",NOVO TEMPO
+http://xcui.vitvabc.xyz:8880/287994003754/287994003754/31573
+#EXTINF:-1 group-title = "Canais| Opção 2",REDE GOSPEL FULLHD
+http://xcui.vitvabc.xyz:8880/287994003754/287994003754/31575
+#EXTINF:-1 group-title = "Canais| Opção 2",REDE VIDA
+http://xcui.vitvabc.xyz:8880/287994003754/287994003754/31577
+#EXTINF:-1 group-title = "Canais| Opção 2",RIT FULLHD
+http://xcui.vitvabc.xyz:8880/287994003754/287994003754/31578
+#EXTINF:-1 group-title = "Canais| Opção 2",TV APARECIDA LIVRE
+http://xcui.vitvabc.xyz:8880/287994003754/287994003754/31579
+#EXTINF:-1 group-title = "Canais| Opção 2",TV GOSPEL CEARÁ
+http://xcui.vitvabc.xyz:8880/287994003754/287994003754/31580
+#EXTINF:-1 group-title = "Canais| Opção 2",CBTV Now
+http://xcui.vitvabc.xyz:8880/287994003754/287994003754/31581
+#EXTINF:-1 group-title = "Canais| Opção 2",TELECINE ACTION FULL HD
+http://xcui.vitvabc.xyz:8880/287994003754/287994003754/31582
+#EXTINF:-1 group-title = "Canais| Opção 2",TELECINE ACTION HD
+http://xcui.vitvabc.xyz:8880/287994003754/287994003754/31583
+#EXTINF:-1 group-title = "Canais| Opção 2",TELECINE CULT FULL HD
+http://xcui.vitvabc.xyz:8880/287994003754/287994003754/31584
+#EXTINF:-1 group-title = "Canais| Opção 2",TELECINE CULT HD
+http://xcui.vitvabc.xyz:8880/287994003754/287994003754/31585
+#EXTINF:-1 group-title = "Canais| Opção 2",TELECINE FUN FULLHD
+http://xcui.vitvabc.xyz:8880/287994003754/287994003754/31587
+#EXTINF:-1 group-title = "Canais| Opção 2",TELECINE FUN HD
+http://xcui.vitvabc.xyz:8880/287994003754/287994003754/31588
+#EXTINF:-1 group-title = "Canais| Opção 2",TELECINE PIPOCA FULLHD
+http://xcui.vitvabc.xyz:8880/287994003754/287994003754/31589
+#EXTINF:-1 group-title = "Canais| Opção 2",TELECINE PIPOCA HD
+http://xcui.vitvabc.xyz:8880/287994003754/287994003754/31590
+#EXTINF:-1 group-title = "Canais| Opção 2",TELECINE PREMIUM FULL HD
+http://xcui.vitvabc.xyz:8880/287994003754/287994003754/31591
+#EXTINF:-1 group-title = "Canais| Opção 2",TELECINE PREMIUM HD
+http://xcui.vitvabc.xyz:8880/287994003754/287994003754/31592
+#EXTINF:-1 group-title = "Canais| Opção 2",TELECINE TOUCH FULL HD
+http://xcui.vitvabc.xyz:8880/287994003754/287994003754/31593
+#EXTINF:-1 group-title = "Canais| Opção 2",TELECINE TOUCH HD
+http://xcui.vitvabc.xyz:8880/287994003754/287994003754/31594
+#EXTINF:-1 group-title = "Canais| Opção 2",Arte 1 FULLHD
+http://xcui.vitvabc.xyz:8880/287994003754/287994003754/31595
+#EXTINF:-1 group-title = "Canais| Opção 2",BIS FULLHD
+http://xcui.vitvabc.xyz:8880/287994003754/287994003754/31596
+#EXTINF:-1 group-title = "Canais| Opção 2",BIS HD
+http://xcui.vitvabc.xyz:8880/287994003754/287994003754/31597
+#EXTINF:-1 group-title = "Canais| Opção 2",CHEF TV FULLHD
+http://xcui.vitvabc.xyz:8880/287994003754/287994003754/31598
+#EXTINF:-1 group-title = "Canais| Opção 2",COMEDY CENTRAL FULLHD
+http://xcui.vitvabc.xyz:8880/287994003754/287994003754/31599
+#EXTINF:-1 group-title = "Canais| Opção 2",COMEDY CENTRAL HD
+http://xcui.vitvabc.xyz:8880/287994003754/287994003754/31600
+#EXTINF:-1 group-title = "Canais| Opção 2",CURTA! FULLHD
+http://xcui.vitvabc.xyz:8880/287994003754/287994003754/31601
+#EXTINF:-1 group-title = "Canais| Opção 2",CURTA! HD*
+http://xcui.vitvabc.xyz:8880/287994003754/287994003754/31602
+#EXTINF:-1 group-title = "Canais| Opção 2",E! FULLHD
+http://xcui.vitvabc.xyz:8880/287994003754/287994003754/31604
+#EXTINF:-1 group-title = "Canais| Opção 2",E! HD
+http://xcui.vitvabc.xyz:8880/287994003754/287994003754/31605
+#EXTINF:-1 group-title = "Canais| Opção 2",FOOD NETWORK FULLHD
+http://xcui.vitvabc.xyz:8880/287994003754/287994003754/31606
+#EXTINF:-1 group-title = "Canais| Opção 2",FOOD NETWORK HD
+http://xcui.vitvabc.xyz:8880/287994003754/287994003754/31607
+#EXTINF:-1 group-title = "Canais| Opção 2",GNT FULLHD
+http://xcui.vitvabc.xyz:8880/287994003754/287994003754/31608
+#EXTINF:-1 group-title = "Canais| Opção 2",GNT HD
+http://xcui.vitvabc.xyz:8880/287994003754/287994003754/31609
+#EXTINF:-1 group-title = "Canais| Opção 2",ISAT FULLHD
+http://xcui.vitvabc.xyz:8880/287994003754/287994003754/31610
+#EXTINF:-1 group-title = "Canais| Opção 2",LIFETIME FULLHD
+http://xcui.vitvabc.xyz:8880/287994003754/287994003754/31611
+#EXTINF:-1 group-title = "Canais| Opção 2",LIFETIME HD
+http://xcui.vitvabc.xyz:8880/287994003754/287994003754/31612
+#EXTINF:-1 group-title = "Canais| Opção 2",MAIS GLOBOSAT
+http://xcui.vitvabc.xyz:8880/287994003754/287994003754/31613
+#EXTINF:-1 group-title = "Canais| Opção 2",MAIS GLOBOSAT FULLHD
+http://xcui.vitvabc.xyz:8880/287994003754/287994003754/31614
+#EXTINF:-1 group-title = "Canais| Opção 2",MTV FULLHD
+http://xcui.vitvabc.xyz:8880/287994003754/287994003754/31615
+#EXTINF:-1 group-title = "Canais| Opção 2",MTV HD
+http://xcui.vitvabc.xyz:8880/287994003754/287994003754/31616
+#EXTINF:-1 group-title = "Canais| Opção 2",MULTISHOW FULLHD
+http://xcui.vitvabc.xyz:8880/287994003754/287994003754/31617
+#EXTINF:-1 group-title = "Canais| Opção 2",MULTSHOW HD
+http://xcui.vitvabc.xyz:8880/287994003754/287994003754/31618
+#EXTINF:-1 group-title = "Canais| Opção 2",MUSIC BOX BRASIL FULLHD
+http://xcui.vitvabc.xyz:8880/287994003754/287994003754/31619
+#EXTINF:-1 group-title = "Canais| Opção 2",PLAY TV FULLHD
+http://xcui.vitvabc.xyz:8880/287994003754/287994003754/31620
+#EXTINF:-1 group-title = "Canais| Opção 2",PRIME BOX BRASIL FULL HD
+http://xcui.vitvabc.xyz:8880/287994003754/287994003754/31621
+#EXTINF:-1 group-title = "Canais| Opção 2",SHOPTIME HD
+http://xcui.vitvabc.xyz:8880/287994003754/287994003754/31622
+#EXTINF:-1 group-title = "Canais| Opção 2",STAR LIFE FULLHD
+http://xcui.vitvabc.xyz:8880/287994003754/287994003754/31623
+#EXTINF:-1 group-title = "Canais| Opção 2",STAR LIFE HD
+http://xcui.vitvabc.xyz:8880/287994003754/287994003754/31624
+#EXTINF:-1 group-title = "Canais| Opção 2",TRU TV FULLHD
+http://xcui.vitvabc.xyz:8880/287994003754/287994003754/31626
+#EXTINF:-1 group-title = "Canais| Opção 2",TRUTV HD
+http://xcui.vitvabc.xyz:8880/287994003754/287994003754/31627
+#EXTINF:-1 group-title = "Canais| Opção 2",VH1 HD
+http://xcui.vitvabc.xyz:8880/287994003754/287994003754/31628
+#EXTINF:-1 group-title = "Canais| Opção 2",VH1 MEGA HITS FULLHD
+http://xcui.vitvabc.xyz:8880/287994003754/287994003754/31629
+#EXTINF:-1 group-title = "Canais| Opção 2",VIVA FULLHD
+http://xcui.vitvabc.xyz:8880/287994003754/287994003754/31630
+#EXTINF:-1 group-title = "Canais| Opção 2",VIVA HD
+http://xcui.vitvabc.xyz:8880/287994003754/287994003754/31631
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
