@@ -192,6 +192,318 @@ http://195.22.11.11:1935/ktv/ktv2/chunklist_w1387388582.m3u8
 https://cdn.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/playlist.m3u8
 #EXTINF:-1,TERRA VIVA
 http://evpp.mm.uol.com.br:1935/band_live/terraviva/playlist.m3u8
+
+
+#EXTINF:-1 group-title="Canais| Emergência",Agro Brasil TV
+http://45.162.230.234:1935/agrobrasiltv/agrobrasiltv/playlist.m3u8
+#EXTINF:-1 group-title="Canais| Emergência",Band
+http://evpp.mm.uol.com.br:1935/geob_band/app/chunklist_w210441685.m3u8
+#EXTINF:-1 group-title="Canais| Emergência",Band
+http://evpp.mm.uol.com.br:1935/geob_band/app/chunklist_w1727390252.m3u8
+#EXTINF:-1 group-title="Canais| Emergência",Com Brasil
+https://596639ebdd89b.streamlock.net/8032/8032/index.m3u8
+#EXTINF:-1 group-title="Canais| Emergência",ESPN Brasil
+http://rec2.distv.net:80/damaris/123456/144
+#EXTINF:-1 group-title="Canais| Emergência",FOX Sports
+http://rec2.distv.net:80/damaris/123456/152
+#EXTINF:-1 group-title="Canais| Emergência",Globo RJ
+http://live.video.globo.com/h/1402196682759012345678915746027599876543210hM4EA1neMoQoIiUyVn1TNg/k/app/a/A/u/anyone/d/s/hls-globo-rj/hls-globo-rj_2359/playlist.m3u8
+#EXTINF:-1 group-title="Canais| Emergência",Premiere 2
+http://rec2.distv.net:80/damaris/123456/179
+#EXTINF:-1 group-title="Canais| Emergência",Premiere 3
+http://rec2.distv.net:80/damaris/123456/180
+#EXTINF:-1 group-title="Canais| Emergência",Premiere 4
+http://rec2.distv.net:80/damaris/123456/181
+#EXTINF:-1 group-title="Canais| Emergência",Premiere 5
+http://rec2.distv.net:80/damaris/123456/182
+#EXTINF:-1 group-title="Canais| Emergência",Premiere 7
+http://rec2.distv.net:80/damaris/123456/237
+#EXTINF:-1 group-title="Canais| Emergência",Premiere Clubes
+http://rec2.distv.net:80/damaris/123456/184
+#EXTINF:-1 group-title="Canais| Emergência",RecordTV
+https://playplusspo-lh.akamaihd.net/i/pp_sp@350176/master.m3u8
+#EXTINF:-1 group-title="Canais| Emergência",RecordTV
+http://playplusspo-lh.akamaihd.net/i/pp_sp@350176/index_720_av-p.m3u8
+#EXTINF:-1 group-title="Canais| Emergência",RecordTV
+https://playplusspo-lh.akamaihd.net/i/pp_sp@350176/index_720_av-p.m3u8
+#EXTINF:-1 group-title="Canais| Emergência",RecordTV
+https://playplusrjo-lh.akamaihd.net/i/pp_rj@377859/index_720_av-b.m3u8
+#EXTINF:-1 group-title="Canais| Emergência",RecordTV
+https://playplusgoya-lh.akamaihd.net/i/pp_gna@377833/index_720_av-p.m3u8
+#EXTINF:-1 group-title="Canais| Emergência",Record News
+https://playplusnews-lh.akamaihd.net/i/pp_nws@377849/master.m3u8
+#EXTINF:-1 group-title="Canais| Emergência",Rede Minas
+https://v4-slbps-sambavideos.akamaized.net/live/3282%2C8114%2Cec4b5a296d97fa99bf990662f5b4f8e1%3Bbase64np%3BMc8VDxqNjXKCAf8%21/amlst%3AMc_tFgfGiHOdQXPB/chunklist_.m3u8
+#EXTINF:-1 group-title="Canais| Emergência",RedeTV
+https://hls.brasilstream.com.br/live/redetves/redetves/mono.m3u8
+#EXTINF:-1 group-title="Canais| Emergência",RedeTV
+https://59f1cbe63db89.streamlock.net:1443/redetvro/_definst_/redetvro/playlist.m3u8
+#EXTINF:-1 group-title="Canais| Emergência",RedBull TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
+#EXTINF:-1 group-title="Canais| Emergência",Retro Cartoon
+https://stmv1.srvif.com/retrotv/retrotv/playlist-480p.m3u8
+#EXTINF:-1 group-title="Canais| Emergência",TV Novo Tempo
+https://stream.live.novotempo.com/tv/smil:tvnovotempo.smil/playlist.m3u8
+#EXTINF:-1 group-title="Canais| Emergência",Zoomoo
+http://177.20.208.58:8000/play/a022/index.m3u8
+#EXTINF:-1 group-title="Canais| Emergência",Fashion
+http://177.20.208.58:8000/play/a04h/index.m3u8
+#EXTINF:-1 group-title="Canais| Emergência",Love Nature
+http://177.20.208.58:8000/play/a03r/index.m3u8
+#EXTINF:-1 group-title="Canais| Emergência",Music
+http://177.20.208.58:8000/play/a04g/index.m3u8
+
+#EXTINF:-1 group-title="Canais| Emergência",Estúdio 96.5 FM Rio de Janeiro - RJ
+http://cdn.rj.assocrj.com.br/live//tupi-estudio-video06/playlist.m3u8?LISTABYPEDROJUNIORTUTORIAIS
+#EXTINF:-1 group-title="Canais| Emergência",RBC TV
+http://rbc.directradios.com:1935/rbc/smil:rbc.smil/playlist.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1 group-title="Canais| Emergência",Rede Gospel
+https://cdn.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/playlist.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1 group-title="Canais| Emergência",TV Pai Eterno
+https://59f1cbe63db89.streamlock.net:1443/teste01/_definst_/teste01/playlist.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1 group-title="Canais| Emergência",TV Evangelizar
+https://5f593df7851db.streamlock.net/evangelizar/tv/playlist.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1 group-title="Canais| Emergência",TV Aparecida
+https://cdn.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/playlist.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1 group-title="Canais| Emergência",TV Novo Tempo SP
+http://stream.live.novotempo.com/tv/smil:tvnovotempo.smil/playlist.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1 group-title="Canais| Emergência",TV Novo Tempo RS
+http://stream.novotempo.com:1935/tv/smil:TvNovoTempoCom.smil/playlist.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1 group-title="Canais| Emergência",IMPD TV
+https://58a4464faef53.streamlock.net/impd/ngrp:impd_all/playlist.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1 group-title="Canais| Emergência",Plenitude TV
+https://meupainel.top:1936/iaptd/iaptd/playlist.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1 group-title="Canais| Emergência",Gospel Movies Television
+http://stmv1.srvstm.com:1935/gospelf2/gospelf2/playlist.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1 group-title="Canais| Emergência",Gospel Music Television
+http://stmv2.euroti.com.br:1935/gmusic/gmusic/playlist.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1 group-title="Canais| Emergência",TV Terceiro Anjo
+http://streamer1.streamhost.org:1935/salive/GMI3anjoh/playlist.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1 group-title="Canais| Emergência",Canal Saúde
+http://arkyvbre1g.zoeweb.tv/fiocruz/fiocruz/playlist.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1 group-title="Canais| Emergência",CNT SP
+http://dd8umsy8yf96u.cloudfront.net/live/cnt-americana_240p414k/index.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1 group-title="Canais| Emergência",CNT RJ
+http://dd8umsy8yf96u.cloudfront.net/live/cnt-rio_240p414k/index.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1 group-title="Canais| Emergência",CNT RS
+http://d1s664t39qub1o.cloudfront.net/live/cnt-caxias_240p414k/index.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1 group-title="Canais| Emergência",CNT PR
+http://dd8umsy8yf96u.cloudfront.net/live/cnt-curitiba_240p414k/index.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1 group-title="Canais| Emergência",CNT DF
+http://d1s664t39qub1o.cloudfront.net/live/cnt-londrina_240p414k/index.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1 group-title="Canais| Emergência",CNT BA
+http://dd8umsy8yf96u.cloudfront.net/live/cnt-salvador_240p414k/index.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1 group-title="Canais| Emergência",CNT PA
+http://d1s664t39qub1o.cloudfront.net/live/cnt-manaus_240p414k/index.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1 group-title="Canais| Emergência",TV Aberta SP
+https://cdn-canalpaulo.ciclano.io:1443/canalpaulo/canalpaulo/playlist.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1 group-title="Canais| Emergência",UFG TV
+http://wowza.softhost.com.br:1935/ufg/smil:tvufgweb/playlist.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1 group-title="Canais| Emergência",Rede Família
+https://5a1c76baf08c0.streamlock.net/familia/smil:familia.smil/chunklist_b1096000.m3u8
+#EXTINF:-1 group-title="Canais| Emergência",Rede Família HD
+https://5a1c76baf08c0.streamlock.net/familia/smil:familia.smil/chunklist_b1628000.m3u8
+#EXTINF:-1 group-title="Canais| Emergência",Canal Rural
+https://5f984b2feeeb4.streamlock.net/crur/smil:canalrural.smil/playlist.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1 group-title="Canais| Emergência",Agro Brasil
+http://origin-02.nxplay.com.br/AGROBRASIL_TV/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1 group-title="Canais| Emergência",TV Gazeta MA
+http://stmv4.srvstm.com:1935/wagner1168/wagner1168/playlist.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1 group-title="Canais| Emergência",Globo RJ
+http://live.video.globo.com/h/1402196682759012345678915746027599876543210hM4EA1neMoQoIiUyVn1TNg/k/app/a/A/u/anyone/d/s/hls-globo-rj/hls-globo-rj_1049/playlist.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1 group-title="Canais| Emergência",Globo RJ HD
+http://live.video.globo.com/h/1402196682759012345678915746027599876543210hM4EA1neMoQoIiUyVn1TNg/k/app/a/A/u/anyone/d/s/hls-globo-rj/hls-globo-rj_2359/playlist.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1 group-title="Canais| Emergência",SBT SP Interior
+https://5a1c76baf08c0.streamlock.net/sbtinterior/5zh9uodi13msma1k88k05qz9nrc2bg1q/playlist.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1 group-title="Canais| Emergência",SBT MA
+https://stream.amsolution.net.br:8443/live/60eef66583c80/index.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1 group-title="Canais| Emergência",SBT PI
+http://stmv1.transmissaodigital.com:1935/cidadeverdenovo/cidadeverdenovo/playlist.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1 group-title="Canais| Emergência",SBT AM
+https://livefocamundo.com:8081/tvguajaraonline2/playlist.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1 group-title="Canais| Emergência",SBT PE
+http://evpp.mm.uol.com.br:1935/ne10/ne10.smil/chunklist_w416898237_b176000_sleng.m3u8
+#EXTINF:-1 group-title="Canais| Emergência",SBT PE HD
+http://evpp.mm.uol.com.br:1935/ne10/ne10.smil/chunklist_w416898237_b216000_sleng.m3u8
+#EXTINF:-1 group-title="Canais| Emergência",SBT PE Interior
+http://evpp.mm.uol.com.br:1935/ne10/ne10-tvjornal-caruaru-video-web.sdp/playlist.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1 group-title="Canais| Emergência",Band SP
+http://evpp.mm.uol.com.br:1935/geob_band/app/playlist.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1 group-title="Canais| Emergência",Band RJ
+http://200.71.72.50/BAND_HD/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1 group-title="Canais| Emergência",Band PA
+https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/playlist.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1 group-title="Canais| Emergência",RBTV SP
+https://59f2354c05961.streamlock.net:1443/rbtv/_definst_/rbtv/playlist.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1 group-title="Canais| Emergência",RBTV PA
+http://video01.kshost.com.br:1935/tv31966/tv31966/playlist.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1 group-title="Canais| Emergência",TV Brasil 2
+http://origin-02.nxplay.com.br/TV_BRASIL_2/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1 group-title="Canais| Emergência",TV Cultura SP
+http://origin-02.nxplay.com.br/TV_CULTURA_HD_PFZ1/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1 group-title="Canais| Emergência",TV Cultura GO
+http://wz3.dnip.com.br/tvbrasil/tvbrasil.sdp/playlist.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1 group-title="Canais| Emergência",TV Cultura PR
+https://5b33b873179a2.streamlock.net:1443/live/livestream/playlist.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1 group-title="Canais| Emergência",Record SP
+http://playplusspo-lh.akamaihd.net/i/pp_sp@350176/index_360_av-p.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1 group-title="Canais| Emergência",Record SP HD
+http://playplusspo-lh.akamaihd.net/i/pp_sp@350176/index_720_av-p.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1 group-title="Canais| Emergência",Record RJ
+http://playplusrjo-lh.akamaihd.net/i/pp_rj@377859/index_360_av-p.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1 group-title="Canais| Emergência",Record RJ HD
+http://playplusrjo-lh.akamaihd.net/i/pp_rj@377859/index_720_av-p.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1 group-title="Canais| Emergência",Record DF
+http://playplusbsa-lh.akamaihd.net/i/pp_bsa@377860/index_360_av-p.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1 group-title="Canais| Emergência",Record DF HD
+http://playplusbsa-lh.akamaihd.net/i/pp_bsa@377860/index_720_av-p.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1 group-title="Canais| Emergência",Record MG
+http://playplusbh-lh.akamaihd.net/i/pp_bh@377862/index_360_av-p.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1 group-title="Canais| Emergência",Record MG HD
+http://playplusbh-lh.akamaihd.net/i/pp_bh@377862/index_720_av-p.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1 group-title="Canais| Emergência",Record PA
+http://playpluspa-lh.akamaihd.net/i/pp_pa@377468/index_360_av-p.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1 group-title="Canais| Emergência",Record PA HD
+http://playpluspa-lh.akamaihd.net/i/pp_pa@377468/index_720_av-p.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1 group-title="Canais| Emergência",Record GO
+http://playplusgoya-lh.akamaihd.net/i/pp_gna@377833/index_360_av-p.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1 group-title="Canais| Emergência",Record GO HD
+http://playplusgoya-lh.akamaihd.net/i/pp_gna@377833/index_720_av-p.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1 group-title="Canais| Emergência",Record RS
+http://playpluspoa-lh.akamaihd.net/i/pp_poa@377864/index_360_av-p.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1 group-title="Canais| Emergência",Record RS HD
+http://playpluspoa-lh.akamaihd.net/i/pp_poa@377864/index_720_av-p.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1 group-title="Canais| Emergência",Rede TV ES
+https://hls.brasilstream.com.br/live/redetves/redetves/mono.m3u8?token=6410329353875642000
+#EXTINF:-1 group-title="Canais| Emergência",Rede TV RS
+https://59f1cbe63db89.streamlock.net:1443/tvpampa/_definst_/tvpampa/playlist.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1 group-title="Canais| Emergência",Rede TV PB
+https://5b7f3c45ab7c2.streamlock.net/tvarapuan/tvarapuan/playlist.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1 group-title="Canais| Emergência",TVE RS
+http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1 group-title="Canais| Emergência",TVE BA HD
+http://stream2.ba.gov.br/hls-live/livepkgr/_definst_/irdeb/pgm-1.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1 group-title="Canais| Emergência",Agro Mais
+http://evpp.mm.uol.com.br:1935/geob_band/agromais/playlist.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1 group-title="Canais| Emergência",Terra Viva
+http://evpp.mm.uol.com.br:1935/band_live/terraviva/playlist.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1 group-title="Canais| Emergência",TNT Sports
+http://glxlmn026c.singularcdn.net.br/playout_01/playlist-480p.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1 group-title="Canais| Emergência",TNT Sports HD
+http://glxlmn026c.singularcdn.net.br/playout_01/playlist-720p.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1 group-title="Canais| Emergência",Woohoo
+http://origin-02.nxplay.com.br/WOOHOO_NXPLAY/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1 group-title="Canais| Emergência",All Sports
+https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/playlist.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1 group-title="Canais| Emergência",Retrô Cartoon
+http://stmv1.srvstm.com:1935/cartoonr2/cartoonr2/playlist.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1 group-title="Canais| Emergência",Gospel Cartoon
+http://stmv1.srvstm.com:1935/gospelcartoon2/gospelcartoon2/playlist.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1 group-title="Canais| Emergência",Nickelodeon
+http://d1wwtskvr1r98k.cloudfront.net/dedf178260b54137904feebc16e3ac47/index_2.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1 group-title="Canais| Emergência",Nickelodeon HD
+http://d1wwtskvr1r98k.cloudfront.net/dedf178260b54137904feebc16e3ac47/index_1.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1 group-title="Canais| Emergência",Nick Jr.
+http://d1wwtskvr1r98k.cloudfront.net/629363a30ff040d5adaafc49ee84f17c/index_1.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1 group-title="Canais| Emergência",Nick Jr. HD
+http://d1wwtskvr1r98k.cloudfront.net/629363a30ff040d5adaafc49ee84f17c/index_3.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1 group-title="Canais| Emergência",A&E
+http://d1wwtskvr1r98k.cloudfront.net/3c9cf3a801dd4728a868f96f1ed032d2/index_2.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1 group-title="Canais| Emergência",A&E HD
+http://d1wwtskvr1r98k.cloudfront.net/3c9cf3a801dd4728a868f96f1ed032d2/index_1.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1 group-title="Canais| Emergência",Film&Arts
+http://origin-02.nxplay.com.br/Film_Arts_Brasil/tracks-v2a1/mono.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1 group-title="Canais| Emergência",Film&Arts HD
+http://origin-02.nxplay.com.br/Film_Arts_Brasil/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1 group-title="Canais| Emergência",AXN
+http://d31ii3fk8fd7mh.cloudfront.net/3b3c200d68af40e6aeac65f4d8782516/index_1.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1 group-title="Canais| Emergência",AXN HD
+http://d31ii3fk8fd7mh.cloudfront.net/3b3c200d68af40e6aeac65f4d8782516/index_3.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1 group-title="Canais| Emergência",Comedy Central
+http://d1wwtskvr1r98k.cloudfront.net/e957ddc8e14c4fe1a45bb76ead75006f/index_2.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1 group-title="Canais| Emergência",Comedy Central HD
+http://d1wwtskvr1r98k.cloudfront.net/e957ddc8e14c4fe1a45bb76ead75006f/index_1.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1 group-title="Canais| Emergência",Sony
+http://d31ii3fk8fd7mh.cloudfront.net/9fdb3c3ec36c48a1847cbd25e8e763c6/index_2.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1 group-title="Canais| Emergência",Sony HD
+http://d31ii3fk8fd7mh.cloudfront.net/9fdb3c3ec36c48a1847cbd25e8e763c6/index_1.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1 group-title="Canais| Emergência",Paramount
+http://d31ii3fk8fd7mh.cloudfront.net/89192ec7abc24480bac975aa4ab2dffe/index_2.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1 group-title="Canais| Emergência",Paramount
+http://d31ii3fk8fd7mh.cloudfront.net/89192ec7abc24480bac975aa4ab2dffe/index_1.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1 group-title="Canais| Emergência",Warner
+http://d1wwtskvr1r98k.cloudfront.net/2725d7761f9b462997b6ab804a13ee19/index_1.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1 group-title="Canais| Emergência",Warner HD
+http://d1wwtskvr1r98k.cloudfront.net/2725d7761f9b462997b6ab804a13ee19/index_3.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1 group-title="Canais| Emergência",Record News
+http://playplusnews-lh.akamaihd.net/i/pp_nws@377849/index_360_av-p.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1 group-title="Canais| Emergência",Record News HD
+http://playplusnews-lh.akamaihd.net/i/pp_nws@377849/index_720_av-p.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1 group-title="Canais| Emergência",Boston 25 News
+http://svc-lvanvato-cxtv-wfxt.cmgvideo.com/wfxt/2564k/index.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1 group-title="Canais| Emergência",Al Jazeera English
+http://live-hls-web-aje.getaj.net/AJE/index.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1 group-title="Canais| Emergência",France 24
+http://static.france24.com/live/F24_ES_LO_HLS/live_web.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1 group-title="Canais| Emergência",Porto Canal
+http://streamer-a03.videos.sapo.pt/live/portocanal/playlist.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1 group-title="Canais| Emergência",RTP1
+http://streaming-live.rtp.pt/liverepeater/smil:rtp1.smil/playlist.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1 group-title="Canais| Emergência",RTP2
+http://streaming-live.rtp.pt/liverepeater/smil:rtp2.smil/playlist.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1 group-title="Canais| Emergência",CBS News
+http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1 group-title="Canais| Emergência",Sky life TG24
+http://skyianywhere2-i.akamaihd.net/hls/live/200275/tg24/master.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1 group-title="Canais| Emergência",Arte 1
+http://d1wwtskvr1r98k.cloudfront.net/522752a704da4d93b18eeb077042ccff/index_2.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1 group-title="Canais| Emergência",Arte 1 HD
+http://d1wwtskvr1r98k.cloudfront.net/522752a704da4d93b18eeb077042ccff/index_1.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1 group-title="Canais| Emergência",Lifetime
+http://d31ii3fk8fd7mh.cloudfront.net/e99907efe2284822af0f0953d29a88a3/index_1.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1 group-title="Canais| Emergência",Lifetime HD
+http://d31ii3fk8fd7mh.cloudfront.net/e99907efe2284822af0f0953d29a88a3/index_3.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1 group-title="Canais| Emergência",E!
+http://d1wwtskvr1r98k.cloudfront.net/637de7ec0ab74fdc95ce3382677e2eb1/index_2.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1 group-title="Canais| Emergência",E! HD
+http://d1wwtskvr1r98k.cloudfront.net/637de7ec0ab74fdc95ce3382677e2eb1/index_1.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1 group-title="Canais| Emergência",History
+http://d31ii3fk8fd7mh.cloudfront.net/b8d778839c0f4b88948bd24b1ec81ac9/index_1.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1 group-title="Canais| Emergência",History HD
+http://d31ii3fk8fd7mh.cloudfront.net/b8d778839c0f4b88948bd24b1ec81ac9/index_3.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1 group-title="Canais| Emergência",History 2
+http://d1wwtskvr1r98k.cloudfront.net/a3f915286ca6481d9a63ca0b0da41c79/index_2.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1 group-title="Canais| Emergência",History 2 HD
+http://d1wwtskvr1r98k.cloudfront.net/a3f915286ca6481d9a63ca0b0da41c79/index_1.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1 group-title="Canais| Emergência",Classic Hits
+http://origin-02.nxplay.com.br/classichit/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1 group-title="Canais| Emergência",Mega
+http://origin-02.nxplay.com.br/MEGA/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1 group-title="Canais| Emergência",Hitts
+http://origin-02.nxplay.com.br/HITTS/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1 group-title="Canais| Emergência",América Latino
+http://origin-02.nxplay.com.br/AMERICOLATINO/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1 group-title="Canais| Emergência",Yeeah!
+http://srv3.zcast.com.br:1935/yeeaah/yeeaah/playlist.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1 group-title="Canais| Emergência",TV União
+http://stmv1.srvif.com:1935/admin/admin/playlist.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1 group-title="Canais| Emergência",Top TV PA
+http://serv2.videovox.pw:1935/joaorodrigo7309/joaorodrigo7309/playlist.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1 group-title="Canais| Emergência",MTV
+http://d31ii3fk8fd7mh.cloudfront.net/645d9a8a67e84aa88d4fa264e1a8cfd7/index_2.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1 group-title="Canais| Emergência",MTV HD
+http://d31ii3fk8fd7mh.cloudfront.net/645d9a8a67e84aa88d4fa264e1a8cfd7/index_1.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1 group-title="Canais| Emergência",Music Box Brazil
+http://origin-02.nxplay.com.br/MUSIC_HD/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIAIS
+
+
+
+
+
+
+
+
+
 #EXTINF:-1,A&E
 http://assistirpainel.net:8880/IgorRangel2/IgorRangel3/2346
 #EXTINF:-1,A&E FHD
